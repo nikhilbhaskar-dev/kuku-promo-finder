@@ -1,0 +1,3471 @@
+[
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 21.2,
+        "end": 45.6,
+        "duration": 24.4,
+        "start_time_fmt": "00:21.20",
+        "end_time_fmt": "00:45.60"
+      }
+    ],
+    "total_duration": 24.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.9,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I saved Toby. I can save her.\"",
+    "cliffhanger": "Cuts sharply on HOUSEKEEPER's unresolved words: \"Who is this?\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 21.2,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Lady Juliana and Prudence standing beneath the looming stone facade of the manor."
+      },
+      {
+        "start": 22.0,
+        "end": 25.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved Toby. I can save her."
+      },
+      {
+        "start": 25.8,
+        "end": 28.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Prudence, her eyes wide with dread."
+      },
+      {
+        "start": 26.0,
+        "end": 28.1,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "And if they discover who you are?"
+      },
+      {
+        "start": 28.1,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana holding her gaze steadily."
+      },
+      {
+        "start": 28.2,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I will face that when she is breathing again."
+      },
+      {
+        "start": 31.5,
+        "end": 36.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot outside the heavy wooden servant entrance door."
+      },
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Then forget you were ever a lady."
+      },
+      {
+        "start": 36.2,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana swallowing her pride and accepting her perilous disguise."
+      },
+      {
+        "start": 37.0,
+        "end": 39.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Today, I am only a maid."
+      },
+      {
+        "start": 39.8,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence opens the heavy wooden service door, and both women step inside into the dark servants' corridor as the door shuts firmly behind them."
+      },
+      {
+        "start": 41.5,
+        "end": 42.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden latch clicks shut with a thud."
+      },
+      {
+        "start": 43.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Prudence."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the formidable Housekeeper standing in the dim stone hallway with arms folded, ring of keys dangling from her waist."
+      },
+      {
+        "start": 44.3,
+        "end": 45.6,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Who is this?"
+      }
+    ],
+    "final_score": 7.9,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 194
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 94.5,
+        "end": 128.8,
+        "duration": 34.3,
+        "start_time_fmt": "01:34.50",
+        "end_time_fmt": "02:08.80"
+      }
+    ],
+    "total_duration": 34.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.75,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"This house...\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Who has been treating you?\", leaving the outcome hanging.",
+    "why_it_works": "At 34s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 94.5,
+        "end": 96.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This house..."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence rushes into frame, grabbing Juliana's arm to keep her moving."
+      },
+      {
+        "start": 96.0,
+        "end": 98.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence whispering frantically into Juliana's ear."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Do not stare. Keep walking."
+      },
+      {
+        "start": 98.8,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Lady Juliana as she hastens down the long marble gallery toward the secluded West Wing wing."
+      },
+      {
+        "start": 102.0,
+        "end": 105.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing outside a massive carved mahogany door, glancing around the empty hallway to ensure she is unobserved."
+      },
+      {
+        "start": 105.5,
+        "end": 108.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana reaches out with a trembling hand and quietly turns the ornate brass and glass door knob."
+      },
+      {
+        "start": 105.5,
+        "end": 108.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana's hand twisting the latch handle."
+      },
+      {
+        "start": 106.5,
+        "end": 108.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Faint, muffled click of the heavy door lock turning."
+      },
+      {
+        "start": 108.5,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow tracking shot into the cavernous, shadowy bedchamber. In the center stands an ornate four-poster canopy bed draped in pale silk where a frail, silver-haired figure lies motionless."
+      },
+      {
+        "start": 109.0,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Labored, raspy, shallow breathing echoing in the quiet room."
+      },
+      {
+        "start": 113.8,
+        "end": 116.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside."
+      },
+      {
+        "start": 114.0,
+        "end": 115.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace?"
+      },
+      {
+        "start": 115.5,
+        "end": 118.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess lying propped on pillows, her face gaunt, ashen, and drenched in cold sweat, her eyes half-fluttering."
+      },
+      {
+        "start": 118.2,
+        "end": 120.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Lady Juliana taking the Duchess's fragile, cold hands into her own."
+      },
+      {
+        "start": 118.2,
+        "end": 119.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do not speak."
+      },
+      {
+        "start": 120.8,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana checking the Duchess's pulse and gently pressing her fingertips against the Duchess's chest and neck, her herbalist instincts taking over."
+      },
+      {
+        "start": 123.0,
+        "end": 125.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana's eyes widen with sudden, horrifying realization."
+      },
+      {
+        "start": 123.5,
+        "end": 125.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This isn't ordinary fever."
+      },
+      {
+        "start": 125.8,
+        "end": 127.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Dowager Duchess suddenly gasps violently for breath, convulsing weakly as her eyes snap open in agony."
+      },
+      {
+        "start": 125.8,
+        "end": 127.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess gasping in sudden spasms."
+      },
+      {
+        "start": 127.0,
+        "end": 128.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense two-shot as Lady Juliana leans in close, gripping the Duchess's shoulder with urgent desperation."
+      },
+      {
+        "start": 127.2,
+        "end": 128.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Who has been treating you?"
+      }
+    ],
+    "final_score": 7.75,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 248
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 49.2,
+        "end": 96.0,
+        "duration": 46.8,
+        "start_time_fmt": "00:49.20",
+        "end_time_fmt": "01:36.00"
+      }
+    ],
+    "total_duration": 46.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.63,
+    "hook": "HOUSEKEEPER shocks the viewer with an immediate confrontation: \"She looks soft.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"This house...\", leaving the outcome hanging.",
+    "why_it_works": "At 47s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 49.2,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Housekeeper sizing up Juliana critically."
+      },
+      {
+        "start": 49.5,
+        "end": 51.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "She looks soft."
+      },
+      {
+        "start": 51.8,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly."
+      },
+      {
+        "start": 52.8,
+        "end": 55.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana keeping her eyes dutifully lowered."
+      },
+      {
+        "start": 52.8,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can work, ma'am."
+      },
+      {
+        "start": 55.2,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Housekeeper staring down coldly."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Can you scrub stone?"
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana nodding slightly."
+      },
+      {
+        "start": 58.5,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 60.2,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Carry coal?"
+      },
+      {
+        "start": 60.2,
+        "end": 62.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Housekeeper's stern face."
+      },
+      {
+        "start": 62.3,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Cut back to Lady Juliana maintaining her meek posture."
+      },
+      {
+        "start": 62.5,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 64.2,
+        "end": 69.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes."
+      },
+      {
+        "start": 66.0,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "And can you keep your eyes and ears where they belong?"
+      },
+      {
+        "start": 69.8,
+        "end": 73.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Lady Juliana's composed, lowered face."
+      },
+      {
+        "start": 71.2,
+        "end": 72.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 73.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Housekeeper turning and pointing a bony finger toward the servant corridor stairs."
+      },
+      {
+        "start": 73.2,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Then prove it. The manor has no use for useless girls."
+      },
+      {
+        "start": 77.5,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Housekeeper turns and stalks away down the corridor. Prudence exhales a trembling breath of relief."
+      },
+      {
+        "start": 78.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the dimly lit hallway showing the Housekeeper walking away into the distance."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "That was close."
+      },
+      {
+        "start": 81.8,
+        "end": 84.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana clutching the wash bucket, her eyes scanning ahead urgently."
+      },
+      {
+        "start": 82.5,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Where is the West Wing?"
+      },
+      {
+        "start": 84.6,
+        "end": 88.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence pointing toward the archway leading toward the grand staircase."
+      },
+      {
+        "start": 84.8,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Beyond the grand staircase. Few servants go there."
+      },
+      {
+        "start": 88.5,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot from behind Lady Juliana as she walks out into the vast, opulent marble hall of Ashbury Manor carrying her bucket."
+      },
+      {
+        "start": 91.5,
+        "end": 96.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest."
+      },
+      {
+        "start": 92.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle push-in on Lady Juliana looking up at the enormous portrait of the late Duke and Duchess hanging above the gallery."
+      },
+      {
+        "start": 94.5,
+        "end": 96.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This house..."
+      }
+    ],
+    "final_score": 7.63,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 300
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 71.2,
+        "end": 128.8,
+        "duration": 57.6,
+        "start_time_fmt": "01:11.20",
+        "end_time_fmt": "02:08.80"
+      }
+    ],
+    "total_duration": 57.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.6,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Yes, ma'am.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Who has been treating you?\", leaving the outcome hanging.",
+    "why_it_works": "At 58s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 71.2,
+        "end": 72.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 73.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Housekeeper turning and pointing a bony finger toward the servant corridor stairs."
+      },
+      {
+        "start": 73.2,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Then prove it. The manor has no use for useless girls."
+      },
+      {
+        "start": 77.5,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Housekeeper turns and stalks away down the corridor. Prudence exhales a trembling breath of relief."
+      },
+      {
+        "start": 78.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the dimly lit hallway showing the Housekeeper walking away into the distance."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "That was close."
+      },
+      {
+        "start": 81.8,
+        "end": 84.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana clutching the wash bucket, her eyes scanning ahead urgently."
+      },
+      {
+        "start": 82.5,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Where is the West Wing?"
+      },
+      {
+        "start": 84.6,
+        "end": 88.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence pointing toward the archway leading toward the grand staircase."
+      },
+      {
+        "start": 84.8,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Beyond the grand staircase. Few servants go there."
+      },
+      {
+        "start": 88.5,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot from behind Lady Juliana as she walks out into the vast, opulent marble hall of Ashbury Manor carrying her bucket."
+      },
+      {
+        "start": 91.5,
+        "end": 96.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest."
+      },
+      {
+        "start": 92.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle push-in on Lady Juliana looking up at the enormous portrait of the late Duke and Duchess hanging above the gallery."
+      },
+      {
+        "start": 94.5,
+        "end": 96.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This house..."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence rushes into frame, grabbing Juliana's arm to keep her moving."
+      },
+      {
+        "start": 96.0,
+        "end": 98.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence whispering frantically into Juliana's ear."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Do not stare. Keep walking."
+      },
+      {
+        "start": 98.8,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Lady Juliana as she hastens down the long marble gallery toward the secluded West Wing wing."
+      },
+      {
+        "start": 102.0,
+        "end": 105.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing outside a massive carved mahogany door, glancing around the empty hallway to ensure she is unobserved."
+      },
+      {
+        "start": 105.5,
+        "end": 108.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana reaches out with a trembling hand and quietly turns the ornate brass and glass door knob."
+      },
+      {
+        "start": 105.5,
+        "end": 108.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana's hand twisting the latch handle."
+      },
+      {
+        "start": 106.5,
+        "end": 108.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Faint, muffled click of the heavy door lock turning."
+      },
+      {
+        "start": 108.5,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow tracking shot into the cavernous, shadowy bedchamber. In the center stands an ornate four-poster canopy bed draped in pale silk where a frail, silver-haired figure lies motionless."
+      },
+      {
+        "start": 109.0,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Labored, raspy, shallow breathing echoing in the quiet room."
+      },
+      {
+        "start": 113.8,
+        "end": 116.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside."
+      },
+      {
+        "start": 114.0,
+        "end": 115.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace?"
+      },
+      {
+        "start": 115.5,
+        "end": 118.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess lying propped on pillows, her face gaunt, ashen, and drenched in cold sweat, her eyes half-fluttering."
+      },
+      {
+        "start": 118.2,
+        "end": 120.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Lady Juliana taking the Duchess's fragile, cold hands into her own."
+      },
+      {
+        "start": 118.2,
+        "end": 119.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do not speak."
+      },
+      {
+        "start": 120.8,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana checking the Duchess's pulse and gently pressing her fingertips against the Duchess's chest and neck, her herbalist instincts taking over."
+      },
+      {
+        "start": 123.0,
+        "end": 125.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana's eyes widen with sudden, horrifying realization."
+      },
+      {
+        "start": 123.5,
+        "end": 125.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This isn't ordinary fever."
+      },
+      {
+        "start": 125.8,
+        "end": 127.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Dowager Duchess suddenly gasps violently for breath, convulsing weakly as her eyes snap open in agony."
+      },
+      {
+        "start": 125.8,
+        "end": 127.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess gasping in sudden spasms."
+      },
+      {
+        "start": 127.0,
+        "end": 128.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense two-shot as Lady Juliana leans in close, gripping the Duchess's shoulder with urgent desperation."
+      },
+      {
+        "start": 127.2,
+        "end": 128.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Who has been treating you?"
+      }
+    ],
+    "final_score": 7.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 323
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 21.2,
+        "end": 69.5,
+        "duration": 48.3,
+        "start_time_fmt": "00:21.20",
+        "end_time_fmt": "01:09.50"
+      }
+    ],
+    "total_duration": 48.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.4,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I saved Toby. I can save her.\"",
+    "cliffhanger": "Cuts sharply on HOUSEKEEPER's unresolved words: \"And can you keep your eyes and ears where they belong?\", leaving the outcome hanging.",
+    "why_it_works": "At 48s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 21.2,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Lady Juliana and Prudence standing beneath the looming stone facade of the manor."
+      },
+      {
+        "start": 22.0,
+        "end": 25.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved Toby. I can save her."
+      },
+      {
+        "start": 25.8,
+        "end": 28.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Prudence, her eyes wide with dread."
+      },
+      {
+        "start": 26.0,
+        "end": 28.1,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "And if they discover who you are?"
+      },
+      {
+        "start": 28.1,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana holding her gaze steadily."
+      },
+      {
+        "start": 28.2,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I will face that when she is breathing again."
+      },
+      {
+        "start": 31.5,
+        "end": 36.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot outside the heavy wooden servant entrance door."
+      },
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Then forget you were ever a lady."
+      },
+      {
+        "start": 36.2,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana swallowing her pride and accepting her perilous disguise."
+      },
+      {
+        "start": 37.0,
+        "end": 39.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Today, I am only a maid."
+      },
+      {
+        "start": 39.8,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence opens the heavy wooden service door, and both women step inside into the dark servants' corridor as the door shuts firmly behind them."
+      },
+      {
+        "start": 41.5,
+        "end": 42.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden latch clicks shut with a thud."
+      },
+      {
+        "start": 43.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Prudence."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the formidable Housekeeper standing in the dim stone hallway with arms folded, ring of keys dangling from her waist."
+      },
+      {
+        "start": 44.3,
+        "end": 45.6,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Who is this?"
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence curtsying low with downcast eyes while Lady Juliana stands behind her carrying a heavy wooden water bucket."
+      },
+      {
+        "start": 46.0,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Julian, ma'am. New help for the winter cleaning."
+      },
+      {
+        "start": 49.2,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Housekeeper sizing up Juliana critically."
+      },
+      {
+        "start": 49.5,
+        "end": 51.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "She looks soft."
+      },
+      {
+        "start": 51.8,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly."
+      },
+      {
+        "start": 52.8,
+        "end": 55.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana keeping her eyes dutifully lowered."
+      },
+      {
+        "start": 52.8,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can work, ma'am."
+      },
+      {
+        "start": 55.2,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Housekeeper staring down coldly."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Can you scrub stone?"
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana nodding slightly."
+      },
+      {
+        "start": 58.5,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 60.2,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Carry coal?"
+      },
+      {
+        "start": 60.2,
+        "end": 62.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Housekeeper's stern face."
+      },
+      {
+        "start": 62.3,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Cut back to Lady Juliana maintaining her meek posture."
+      },
+      {
+        "start": 62.5,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 64.2,
+        "end": 69.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes."
+      },
+      {
+        "start": 66.0,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "And can you keep your eyes and ears where they belong?"
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 405
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 49.2,
+        "end": 69.5,
+        "duration": 20.3,
+        "start_time_fmt": "00:49.20",
+        "end_time_fmt": "01:09.50"
+      }
+    ],
+    "total_duration": 20.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.4,
+    "hook": "HOUSEKEEPER shocks the viewer with an immediate confrontation: \"She looks soft.\"",
+    "cliffhanger": "Cuts sharply on HOUSEKEEPER's unresolved words: \"And can you keep your eyes and ears where they belong?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 49.2,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Housekeeper sizing up Juliana critically."
+      },
+      {
+        "start": 49.5,
+        "end": 51.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "She looks soft."
+      },
+      {
+        "start": 51.8,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly."
+      },
+      {
+        "start": 52.8,
+        "end": 55.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana keeping her eyes dutifully lowered."
+      },
+      {
+        "start": 52.8,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can work, ma'am."
+      },
+      {
+        "start": 55.2,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Housekeeper staring down coldly."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Can you scrub stone?"
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana nodding slightly."
+      },
+      {
+        "start": 58.5,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 60.2,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Carry coal?"
+      },
+      {
+        "start": 60.2,
+        "end": 62.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Housekeeper's stern face."
+      },
+      {
+        "start": 62.3,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Cut back to Lady Juliana maintaining her meek posture."
+      },
+      {
+        "start": 62.5,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 64.2,
+        "end": 69.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes."
+      },
+      {
+        "start": 66.0,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "And can you keep your eyes and ears where they belong?"
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 406
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 6.5,
+        "end": 28.1,
+        "duration": 21.6,
+        "start_time_fmt": "00:06.50",
+        "end_time_fmt": "00:28.10"
+      }
+    ],
+    "total_duration": 21.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.3,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Keep your head down. If anyone recognizes you, everything is over.\"",
+    "cliffhanger": "Cuts sharply on PRUDENCE's unresolved words: \"And if they discover who you are?\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 6.5,
+        "end": 8.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence rushes up behind Lady Juliana, pulling her into the shelter of the stone archway."
+      },
+      {
+        "start": 7.0,
+        "end": 11.1,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Keep your head down. If anyone recognizes you, everything is over."
+      },
+      {
+        "start": 11.1,
+        "end": 14.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana leaning back against the rough stone wall, whispering back firmly."
+      },
+      {
+        "start": 11.2,
+        "end": 14.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No one will recognize me dressed like this."
+      },
+      {
+        "start": 14.2,
+        "end": 19.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence glancing nervously toward the courtyard before fixing her gaze on Juliana."
+      },
+      {
+        "start": 14.2,
+        "end": 19.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "This is Ashburton Manor. The housekeeper watches everyone. Lady Catherine watches everyone, and Lord Rupert..."
+      },
+      {
+        "start": 19.0,
+        "end": 21.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana cutting in with fierce, unyielding conviction."
+      },
+      {
+        "start": 19.1,
+        "end": 21.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The Duchess is dying."
+      },
+      {
+        "start": 21.2,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Lady Juliana and Prudence standing beneath the looming stone facade of the manor."
+      },
+      {
+        "start": 22.0,
+        "end": 25.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved Toby. I can save her."
+      },
+      {
+        "start": 25.8,
+        "end": 28.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Prudence, her eyes wide with dread."
+      },
+      {
+        "start": 26.0,
+        "end": 28.1,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "And if they discover who you are?"
+      }
+    ],
+    "final_score": 7.3,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 466
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 81.8,
+        "end": 115.5,
+        "duration": 33.7,
+        "start_time_fmt": "01:21.80",
+        "end_time_fmt": "01:55.50"
+      }
+    ],
+    "total_duration": 33.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.25,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Where is the West Wing?\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Your Grace?\", leaving the outcome hanging.",
+    "why_it_works": "At 34s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 81.8,
+        "end": 84.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana clutching the wash bucket, her eyes scanning ahead urgently."
+      },
+      {
+        "start": 82.5,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Where is the West Wing?"
+      },
+      {
+        "start": 84.6,
+        "end": 88.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence pointing toward the archway leading toward the grand staircase."
+      },
+      {
+        "start": 84.8,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Beyond the grand staircase. Few servants go there."
+      },
+      {
+        "start": 88.5,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot from behind Lady Juliana as she walks out into the vast, opulent marble hall of Ashbury Manor carrying her bucket."
+      },
+      {
+        "start": 91.5,
+        "end": 96.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest."
+      },
+      {
+        "start": 92.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle push-in on Lady Juliana looking up at the enormous portrait of the late Duke and Duchess hanging above the gallery."
+      },
+      {
+        "start": 94.5,
+        "end": 96.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This house..."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence rushes into frame, grabbing Juliana's arm to keep her moving."
+      },
+      {
+        "start": 96.0,
+        "end": 98.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence whispering frantically into Juliana's ear."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Do not stare. Keep walking."
+      },
+      {
+        "start": 98.8,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Lady Juliana as she hastens down the long marble gallery toward the secluded West Wing wing."
+      },
+      {
+        "start": 102.0,
+        "end": 105.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing outside a massive carved mahogany door, glancing around the empty hallway to ensure she is unobserved."
+      },
+      {
+        "start": 105.5,
+        "end": 108.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana reaches out with a trembling hand and quietly turns the ornate brass and glass door knob."
+      },
+      {
+        "start": 105.5,
+        "end": 108.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana's hand twisting the latch handle."
+      },
+      {
+        "start": 106.5,
+        "end": 108.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Faint, muffled click of the heavy door lock turning."
+      },
+      {
+        "start": 108.5,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow tracking shot into the cavernous, shadowy bedchamber. In the center stands an ornate four-poster canopy bed draped in pale silk where a frail, silver-haired figure lies motionless."
+      },
+      {
+        "start": 109.0,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Labored, raspy, shallow breathing echoing in the quiet room."
+      },
+      {
+        "start": 113.8,
+        "end": 116.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside."
+      },
+      {
+        "start": 114.0,
+        "end": 115.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace?"
+      }
+    ],
+    "final_score": 7.25,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 497
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 28.1,
+        "end": 51.8,
+        "duration": 23.7,
+        "start_time_fmt": "00:28.10",
+        "end_time_fmt": "00:51.80"
+      }
+    ],
+    "total_duration": 23.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.2,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Then I will face that when she is breathing again.\"",
+    "cliffhanger": "Cuts sharply on HOUSEKEEPER's unresolved words: \"She looks soft.\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 28.1,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana holding her gaze steadily."
+      },
+      {
+        "start": 28.2,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I will face that when she is breathing again."
+      },
+      {
+        "start": 31.5,
+        "end": 36.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot outside the heavy wooden servant entrance door."
+      },
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Then forget you were ever a lady."
+      },
+      {
+        "start": 36.2,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana swallowing her pride and accepting her perilous disguise."
+      },
+      {
+        "start": 37.0,
+        "end": 39.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Today, I am only a maid."
+      },
+      {
+        "start": 39.8,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence opens the heavy wooden service door, and both women step inside into the dark servants' corridor as the door shuts firmly behind them."
+      },
+      {
+        "start": 41.5,
+        "end": 42.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden latch clicks shut with a thud."
+      },
+      {
+        "start": 43.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Prudence."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the formidable Housekeeper standing in the dim stone hallway with arms folded, ring of keys dangling from her waist."
+      },
+      {
+        "start": 44.3,
+        "end": 45.6,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Who is this?"
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence curtsying low with downcast eyes while Lady Juliana stands behind her carrying a heavy wooden water bucket."
+      },
+      {
+        "start": 46.0,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Julian, ma'am. New help for the winter cleaning."
+      },
+      {
+        "start": 49.2,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Housekeeper sizing up Juliana critically."
+      },
+      {
+        "start": 49.5,
+        "end": 51.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "She looks soft."
+      }
+    ],
+    "final_score": 7.2,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 516
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 71.2,
+        "end": 96.0,
+        "duration": 24.8,
+        "start_time_fmt": "01:11.20",
+        "end_time_fmt": "01:36.00"
+      }
+    ],
+    "total_duration": 24.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.18,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Yes, ma'am.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"This house...\", leaving the outcome hanging.",
+    "why_it_works": "At 25s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 71.2,
+        "end": 72.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 73.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Housekeeper turning and pointing a bony finger toward the servant corridor stairs."
+      },
+      {
+        "start": 73.2,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Then prove it. The manor has no use for useless girls."
+      },
+      {
+        "start": 77.5,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Housekeeper turns and stalks away down the corridor. Prudence exhales a trembling breath of relief."
+      },
+      {
+        "start": 78.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the dimly lit hallway showing the Housekeeper walking away into the distance."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "That was close."
+      },
+      {
+        "start": 81.8,
+        "end": 84.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana clutching the wash bucket, her eyes scanning ahead urgently."
+      },
+      {
+        "start": 82.5,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Where is the West Wing?"
+      },
+      {
+        "start": 84.6,
+        "end": 88.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence pointing toward the archway leading toward the grand staircase."
+      },
+      {
+        "start": 84.8,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Beyond the grand staircase. Few servants go there."
+      },
+      {
+        "start": 88.5,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot from behind Lady Juliana as she walks out into the vast, opulent marble hall of Ashbury Manor carrying her bucket."
+      },
+      {
+        "start": 91.5,
+        "end": 96.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest."
+      },
+      {
+        "start": 92.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle push-in on Lady Juliana looking up at the enormous portrait of the late Duke and Duchess hanging above the gallery."
+      },
+      {
+        "start": 94.5,
+        "end": 96.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This house..."
+      }
+    ],
+    "final_score": 7.18,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 527
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 6.5,
+        "end": 58.0,
+        "duration": 51.5,
+        "start_time_fmt": "00:06.50",
+        "end_time_fmt": "00:58.00"
+      }
+    ],
+    "total_duration": 51.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.95,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Keep your head down. If anyone recognizes you, everything is over.\"",
+    "cliffhanger": "Cuts sharply on HOUSEKEEPER's unresolved words: \"Can you scrub stone?\", leaving the outcome hanging.",
+    "why_it_works": "At 52s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 6.5,
+        "end": 8.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence rushes up behind Lady Juliana, pulling her into the shelter of the stone archway."
+      },
+      {
+        "start": 7.0,
+        "end": 11.1,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Keep your head down. If anyone recognizes you, everything is over."
+      },
+      {
+        "start": 11.1,
+        "end": 14.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana leaning back against the rough stone wall, whispering back firmly."
+      },
+      {
+        "start": 11.2,
+        "end": 14.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No one will recognize me dressed like this."
+      },
+      {
+        "start": 14.2,
+        "end": 19.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence glancing nervously toward the courtyard before fixing her gaze on Juliana."
+      },
+      {
+        "start": 14.2,
+        "end": 19.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "This is Ashburton Manor. The housekeeper watches everyone. Lady Catherine watches everyone, and Lord Rupert..."
+      },
+      {
+        "start": 19.0,
+        "end": 21.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana cutting in with fierce, unyielding conviction."
+      },
+      {
+        "start": 19.1,
+        "end": 21.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The Duchess is dying."
+      },
+      {
+        "start": 21.2,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Lady Juliana and Prudence standing beneath the looming stone facade of the manor."
+      },
+      {
+        "start": 22.0,
+        "end": 25.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved Toby. I can save her."
+      },
+      {
+        "start": 25.8,
+        "end": 28.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Prudence, her eyes wide with dread."
+      },
+      {
+        "start": 26.0,
+        "end": 28.1,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "And if they discover who you are?"
+      },
+      {
+        "start": 28.1,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana holding her gaze steadily."
+      },
+      {
+        "start": 28.2,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I will face that when she is breathing again."
+      },
+      {
+        "start": 31.5,
+        "end": 36.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot outside the heavy wooden servant entrance door."
+      },
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Then forget you were ever a lady."
+      },
+      {
+        "start": 36.2,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana swallowing her pride and accepting her perilous disguise."
+      },
+      {
+        "start": 37.0,
+        "end": 39.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Today, I am only a maid."
+      },
+      {
+        "start": 39.8,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence opens the heavy wooden service door, and both women step inside into the dark servants' corridor as the door shuts firmly behind them."
+      },
+      {
+        "start": 41.5,
+        "end": 42.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden latch clicks shut with a thud."
+      },
+      {
+        "start": 43.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Prudence."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the formidable Housekeeper standing in the dim stone hallway with arms folded, ring of keys dangling from her waist."
+      },
+      {
+        "start": 44.3,
+        "end": 45.6,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Who is this?"
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence curtsying low with downcast eyes while Lady Juliana stands behind her carrying a heavy wooden water bucket."
+      },
+      {
+        "start": 46.0,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Julian, ma'am. New help for the winter cleaning."
+      },
+      {
+        "start": 49.2,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Housekeeper sizing up Juliana critically."
+      },
+      {
+        "start": 49.5,
+        "end": 51.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "She looks soft."
+      },
+      {
+        "start": 51.8,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly."
+      },
+      {
+        "start": 52.8,
+        "end": 55.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana keeping her eyes dutifully lowered."
+      },
+      {
+        "start": 52.8,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can work, ma'am."
+      },
+      {
+        "start": 55.2,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Housekeeper staring down coldly."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Can you scrub stone?"
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 641
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 33.8,
+        "end": 61.8,
+        "duration": 28.0,
+        "start_time_fmt": "00:33.80",
+        "end_time_fmt": "01:01.80"
+      }
+    ],
+    "total_duration": 28.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.95,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Then forget you were ever a lady.\"",
+    "cliffhanger": "Cuts sharply on HOUSEKEEPER's unresolved words: \"Carry coal?\", leaving the outcome hanging.",
+    "why_it_works": "At 28s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Then forget you were ever a lady."
+      },
+      {
+        "start": 36.2,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana swallowing her pride and accepting her perilous disguise."
+      },
+      {
+        "start": 37.0,
+        "end": 39.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Today, I am only a maid."
+      },
+      {
+        "start": 39.8,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence opens the heavy wooden service door, and both women step inside into the dark servants' corridor as the door shuts firmly behind them."
+      },
+      {
+        "start": 41.5,
+        "end": 42.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden latch clicks shut with a thud."
+      },
+      {
+        "start": 43.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Prudence."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the formidable Housekeeper standing in the dim stone hallway with arms folded, ring of keys dangling from her waist."
+      },
+      {
+        "start": 44.3,
+        "end": 45.6,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Who is this?"
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence curtsying low with downcast eyes while Lady Juliana stands behind her carrying a heavy wooden water bucket."
+      },
+      {
+        "start": 46.0,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Julian, ma'am. New help for the winter cleaning."
+      },
+      {
+        "start": 49.2,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Housekeeper sizing up Juliana critically."
+      },
+      {
+        "start": 49.5,
+        "end": 51.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "She looks soft."
+      },
+      {
+        "start": 51.8,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly."
+      },
+      {
+        "start": 52.8,
+        "end": 55.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana keeping her eyes dutifully lowered."
+      },
+      {
+        "start": 52.8,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can work, ma'am."
+      },
+      {
+        "start": 55.2,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Housekeeper staring down coldly."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Can you scrub stone?"
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana nodding slightly."
+      },
+      {
+        "start": 58.5,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 60.2,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Carry coal?"
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 642
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 33.8,
+        "end": 84.5,
+        "duration": 50.7,
+        "start_time_fmt": "00:33.80",
+        "end_time_fmt": "01:24.50"
+      }
+    ],
+    "total_duration": 50.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.95,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Then forget you were ever a lady.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Where is the West Wing?\", leaving the outcome hanging.",
+    "why_it_works": "At 51s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Then forget you were ever a lady."
+      },
+      {
+        "start": 36.2,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana swallowing her pride and accepting her perilous disguise."
+      },
+      {
+        "start": 37.0,
+        "end": 39.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Today, I am only a maid."
+      },
+      {
+        "start": 39.8,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence opens the heavy wooden service door, and both women step inside into the dark servants' corridor as the door shuts firmly behind them."
+      },
+      {
+        "start": 41.5,
+        "end": 42.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden latch clicks shut with a thud."
+      },
+      {
+        "start": 43.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Prudence."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the formidable Housekeeper standing in the dim stone hallway with arms folded, ring of keys dangling from her waist."
+      },
+      {
+        "start": 44.3,
+        "end": 45.6,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Who is this?"
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence curtsying low with downcast eyes while Lady Juliana stands behind her carrying a heavy wooden water bucket."
+      },
+      {
+        "start": 46.0,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Julian, ma'am. New help for the winter cleaning."
+      },
+      {
+        "start": 49.2,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Housekeeper sizing up Juliana critically."
+      },
+      {
+        "start": 49.5,
+        "end": 51.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "She looks soft."
+      },
+      {
+        "start": 51.8,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly."
+      },
+      {
+        "start": 52.8,
+        "end": 55.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana keeping her eyes dutifully lowered."
+      },
+      {
+        "start": 52.8,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can work, ma'am."
+      },
+      {
+        "start": 55.2,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Housekeeper staring down coldly."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Can you scrub stone?"
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana nodding slightly."
+      },
+      {
+        "start": 58.5,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 60.2,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Carry coal?"
+      },
+      {
+        "start": 60.2,
+        "end": 62.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Housekeeper's stern face."
+      },
+      {
+        "start": 62.3,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Cut back to Lady Juliana maintaining her meek posture."
+      },
+      {
+        "start": 62.5,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 64.2,
+        "end": 69.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes."
+      },
+      {
+        "start": 66.0,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "And can you keep your eyes and ears where they belong?"
+      },
+      {
+        "start": 69.8,
+        "end": 73.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Lady Juliana's composed, lowered face."
+      },
+      {
+        "start": 71.2,
+        "end": 72.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 73.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Housekeeper turning and pointing a bony finger toward the servant corridor stairs."
+      },
+      {
+        "start": 73.2,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Then prove it. The manor has no use for useless girls."
+      },
+      {
+        "start": 77.5,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Housekeeper turns and stalks away down the corridor. Prudence exhales a trembling breath of relief."
+      },
+      {
+        "start": 78.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the dimly lit hallway showing the Housekeeper walking away into the distance."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "That was close."
+      },
+      {
+        "start": 81.8,
+        "end": 84.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana clutching the wash bucket, her eyes scanning ahead urgently."
+      },
+      {
+        "start": 82.5,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Where is the West Wing?"
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 643
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 58.5,
+        "end": 84.5,
+        "duration": 26.0,
+        "start_time_fmt": "00:58.50",
+        "end_time_fmt": "01:24.50"
+      }
+    ],
+    "total_duration": 26.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.95,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Yes, ma'am.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Where is the West Wing?\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana nodding slightly."
+      },
+      {
+        "start": 58.5,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 60.2,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Carry coal?"
+      },
+      {
+        "start": 60.2,
+        "end": 62.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Housekeeper's stern face."
+      },
+      {
+        "start": 62.3,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Cut back to Lady Juliana maintaining her meek posture."
+      },
+      {
+        "start": 62.5,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 64.2,
+        "end": 69.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes."
+      },
+      {
+        "start": 66.0,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "And can you keep your eyes and ears where they belong?"
+      },
+      {
+        "start": 69.8,
+        "end": 73.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Lady Juliana's composed, lowered face."
+      },
+      {
+        "start": 71.2,
+        "end": 72.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 73.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Housekeeper turning and pointing a bony finger toward the servant corridor stairs."
+      },
+      {
+        "start": 73.2,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Then prove it. The manor has no use for useless girls."
+      },
+      {
+        "start": 77.5,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Housekeeper turns and stalks away down the corridor. Prudence exhales a trembling breath of relief."
+      },
+      {
+        "start": 78.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the dimly lit hallway showing the Housekeeper walking away into the distance."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "That was close."
+      },
+      {
+        "start": 81.8,
+        "end": 84.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana clutching the wash bucket, her eyes scanning ahead urgently."
+      },
+      {
+        "start": 82.5,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Where is the West Wing?"
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 644
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 62.3,
+        "end": 105.5,
+        "duration": 43.2,
+        "start_time_fmt": "01:02.30",
+        "end_time_fmt": "01:45.50"
+      }
+    ],
+    "total_duration": 43.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Yes, ma'am.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot of Lady Juliana standing outside a massive carved mahogany door, glancing around the empty hallway to ensure she is unobserved.",
+    "why_it_works": "At 43s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 62.3,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Cut back to Lady Juliana maintaining her meek posture."
+      },
+      {
+        "start": 62.5,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 64.2,
+        "end": 69.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes."
+      },
+      {
+        "start": 66.0,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "And can you keep your eyes and ears where they belong?"
+      },
+      {
+        "start": 69.8,
+        "end": 73.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Lady Juliana's composed, lowered face."
+      },
+      {
+        "start": 71.2,
+        "end": 72.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 73.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Housekeeper turning and pointing a bony finger toward the servant corridor stairs."
+      },
+      {
+        "start": 73.2,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Then prove it. The manor has no use for useless girls."
+      },
+      {
+        "start": 77.5,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Housekeeper turns and stalks away down the corridor. Prudence exhales a trembling breath of relief."
+      },
+      {
+        "start": 78.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the dimly lit hallway showing the Housekeeper walking away into the distance."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "That was close."
+      },
+      {
+        "start": 81.8,
+        "end": 84.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana clutching the wash bucket, her eyes scanning ahead urgently."
+      },
+      {
+        "start": 82.5,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Where is the West Wing?"
+      },
+      {
+        "start": 84.6,
+        "end": 88.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence pointing toward the archway leading toward the grand staircase."
+      },
+      {
+        "start": 84.8,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Beyond the grand staircase. Few servants go there."
+      },
+      {
+        "start": 88.5,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot from behind Lady Juliana as she walks out into the vast, opulent marble hall of Ashbury Manor carrying her bucket."
+      },
+      {
+        "start": 91.5,
+        "end": 96.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest."
+      },
+      {
+        "start": 92.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle push-in on Lady Juliana looking up at the enormous portrait of the late Duke and Duchess hanging above the gallery."
+      },
+      {
+        "start": 94.5,
+        "end": 96.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This house..."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence rushes into frame, grabbing Juliana's arm to keep her moving."
+      },
+      {
+        "start": 96.0,
+        "end": 98.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence whispering frantically into Juliana's ear."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Do not stare. Keep walking."
+      },
+      {
+        "start": 98.8,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Lady Juliana as she hastens down the long marble gallery toward the secluded West Wing wing."
+      },
+      {
+        "start": 102.0,
+        "end": 105.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing outside a massive carved mahogany door, glancing around the empty hallway to ensure she is unobserved."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 742
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 78.5,
+        "end": 102.0,
+        "duration": 23.5,
+        "start_time_fmt": "01:18.50",
+        "end_time_fmt": "01:42.00"
+      }
+    ],
+    "total_duration": 23.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"That was close.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Wide tracking shot behind Lady Juliana as she hastens down the long marble gallery toward the secluded West Wing wing.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 78.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the dimly lit hallway showing the Housekeeper walking away into the distance."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "That was close."
+      },
+      {
+        "start": 81.8,
+        "end": 84.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana clutching the wash bucket, her eyes scanning ahead urgently."
+      },
+      {
+        "start": 82.5,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Where is the West Wing?"
+      },
+      {
+        "start": 84.6,
+        "end": 88.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence pointing toward the archway leading toward the grand staircase."
+      },
+      {
+        "start": 84.8,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Beyond the grand staircase. Few servants go there."
+      },
+      {
+        "start": 88.5,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot from behind Lady Juliana as she walks out into the vast, opulent marble hall of Ashbury Manor carrying her bucket."
+      },
+      {
+        "start": 91.5,
+        "end": 96.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest."
+      },
+      {
+        "start": 92.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle push-in on Lady Juliana looking up at the enormous portrait of the late Duke and Duchess hanging above the gallery."
+      },
+      {
+        "start": 94.5,
+        "end": 96.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This house..."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence rushes into frame, grabbing Juliana's arm to keep her moving."
+      },
+      {
+        "start": 96.0,
+        "end": 98.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence whispering frantically into Juliana's ear."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Do not stare. Keep walking."
+      },
+      {
+        "start": 98.8,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Lady Juliana as she hastens down the long marble gallery toward the secluded West Wing wing."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 743
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 11.1,
+        "end": 36.2,
+        "duration": 25.1,
+        "start_time_fmt": "00:11.10",
+        "end_time_fmt": "00:36.20"
+      }
+    ],
+    "total_duration": 25.1,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 6.58,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"No one will recognize me dressed like this.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium two-shot outside the heavy wooden servant entrance door.",
+    "why_it_works": "At 25s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 11.1,
+        "end": 14.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana leaning back against the rough stone wall, whispering back firmly."
+      },
+      {
+        "start": 11.2,
+        "end": 14.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No one will recognize me dressed like this."
+      },
+      {
+        "start": 14.2,
+        "end": 19.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence glancing nervously toward the courtyard before fixing her gaze on Juliana."
+      },
+      {
+        "start": 14.2,
+        "end": 19.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "This is Ashburton Manor. The housekeeper watches everyone. Lady Catherine watches everyone, and Lord Rupert..."
+      },
+      {
+        "start": 19.0,
+        "end": 21.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana cutting in with fierce, unyielding conviction."
+      },
+      {
+        "start": 19.1,
+        "end": 21.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The Duchess is dying."
+      },
+      {
+        "start": 21.2,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Lady Juliana and Prudence standing beneath the looming stone facade of the manor."
+      },
+      {
+        "start": 22.0,
+        "end": 25.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved Toby. I can save her."
+      },
+      {
+        "start": 25.8,
+        "end": 28.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Prudence, her eyes wide with dread."
+      },
+      {
+        "start": 26.0,
+        "end": 28.1,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "And if they discover who you are?"
+      },
+      {
+        "start": 28.1,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana holding her gaze steadily."
+      },
+      {
+        "start": 28.2,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I will face that when she is breathing again."
+      },
+      {
+        "start": 31.5,
+        "end": 36.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot outside the heavy wooden servant entrance door."
+      }
+    ],
+    "final_score": 6.58,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 784
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 52.8,
+        "end": 77.5,
+        "duration": 24.7,
+        "start_time_fmt": "00:52.80",
+        "end_time_fmt": "01:17.50"
+      }
+    ],
+    "total_duration": 24.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.25,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I can work, ma'am.\"",
+    "cliffhanger": "Cuts sharply on HOUSEKEEPER's unresolved words: \"Then prove it. The manor has no use for useless girls.\", leaving the outcome hanging.",
+    "why_it_works": "At 25s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 52.8,
+        "end": 55.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana keeping her eyes dutifully lowered."
+      },
+      {
+        "start": 52.8,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can work, ma'am."
+      },
+      {
+        "start": 55.2,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Housekeeper staring down coldly."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Can you scrub stone?"
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana nodding slightly."
+      },
+      {
+        "start": 58.5,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 60.2,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Carry coal?"
+      },
+      {
+        "start": 60.2,
+        "end": 62.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Housekeeper's stern face."
+      },
+      {
+        "start": 62.3,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Cut back to Lady Juliana maintaining her meek posture."
+      },
+      {
+        "start": 62.5,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 64.2,
+        "end": 69.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes."
+      },
+      {
+        "start": 66.0,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "And can you keep your eyes and ears where they belong?"
+      },
+      {
+        "start": 69.8,
+        "end": 73.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Lady Juliana's composed, lowered face."
+      },
+      {
+        "start": 71.2,
+        "end": 72.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, ma'am."
+      },
+      {
+        "start": 73.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Housekeeper turning and pointing a bony finger toward the servant corridor stairs."
+      },
+      {
+        "start": 73.2,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "HOUSEKEEPER",
+        "content": "Then prove it. The manor has no use for useless girls."
+      }
+    ],
+    "final_score": 6.25,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 859
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 96.0,
+        "end": 116.0,
+        "duration": 20.0,
+        "start_time_fmt": "01:36.00",
+        "end_time_fmt": "01:56.00"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 6.0,
+    "emotional_impact": 5.5,
+    "composite_score": 6.18,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Do not stare. Keep walking.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Assumes some prior familiarity with character relationships or off-screen backstory.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence rushes into frame, grabbing Juliana's arm to keep her moving."
+      },
+      {
+        "start": 96.0,
+        "end": 98.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence whispering frantically into Juliana's ear."
+      },
+      {
+        "start": 96.0,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Do not stare. Keep walking."
+      },
+      {
+        "start": 98.8,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Lady Juliana as she hastens down the long marble gallery toward the secluded West Wing wing."
+      },
+      {
+        "start": 102.0,
+        "end": 105.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing outside a massive carved mahogany door, glancing around the empty hallway to ensure she is unobserved."
+      },
+      {
+        "start": 105.5,
+        "end": 108.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana reaches out with a trembling hand and quietly turns the ornate brass and glass door knob."
+      },
+      {
+        "start": 105.5,
+        "end": 108.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana's hand twisting the latch handle."
+      },
+      {
+        "start": 106.5,
+        "end": 108.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Faint, muffled click of the heavy door lock turning."
+      },
+      {
+        "start": 108.5,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow tracking shot into the cavernous, shadowy bedchamber. In the center stands an ornate four-poster canopy bed draped in pale silk where a frail, silver-haired figure lies motionless."
+      },
+      {
+        "start": 109.0,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Labored, raspy, shallow breathing echoing in the quiet room."
+      },
+      {
+        "start": 113.8,
+        "end": 116.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside."
+      }
+    ],
+    "final_score": 6.18,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 867
+  },
+  {
+    "episode": 22,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 22,
+        "start": 108.5,
+        "end": 128.8,
+        "duration": 20.3,
+        "start_time_fmt": "01:48.50",
+        "end_time_fmt": "02:08.80"
+      }
+    ],
+    "total_duration": 20.3,
+    "hook_strength": 3.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 6.8,
+    "emotional_impact": 7.5,
+    "composite_score": 6.18,
+    "hook": "Visual opening hook: Slow tracking shot into the cavernous, shadowy bedchamber. In the center stands an ornate four-poster canopy bed draped in pale silk where a frail, silver-haired figure lies motionless.",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Who has been treating you?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Assumes some prior familiarity with character relationships or off-screen backstory. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 108.5,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow tracking shot into the cavernous, shadowy bedchamber. In the center stands an ornate four-poster canopy bed draped in pale silk where a frail, silver-haired figure lies motionless."
+      },
+      {
+        "start": 109.0,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Labored, raspy, shallow breathing echoing in the quiet room."
+      },
+      {
+        "start": 113.8,
+        "end": 116.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside."
+      },
+      {
+        "start": 114.0,
+        "end": 115.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace?"
+      },
+      {
+        "start": 115.5,
+        "end": 118.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess lying propped on pillows, her face gaunt, ashen, and drenched in cold sweat, her eyes half-fluttering."
+      },
+      {
+        "start": 118.2,
+        "end": 120.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Lady Juliana taking the Duchess's fragile, cold hands into her own."
+      },
+      {
+        "start": 118.2,
+        "end": 119.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do not speak."
+      },
+      {
+        "start": 120.8,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Lady Juliana checking the Duchess's pulse and gently pressing her fingertips against the Duchess's chest and neck, her herbalist instincts taking over."
+      },
+      {
+        "start": 123.0,
+        "end": 125.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Lady Juliana's eyes widen with sudden, horrifying realization."
+      },
+      {
+        "start": 123.5,
+        "end": 125.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This isn't ordinary fever."
+      },
+      {
+        "start": 125.8,
+        "end": 127.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Dowager Duchess suddenly gasps violently for breath, convulsing weakly as her eyes snap open in agony."
+      },
+      {
+        "start": 125.8,
+        "end": 127.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess gasping in sudden spasms."
+      },
+      {
+        "start": 127.0,
+        "end": 128.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense two-shot as Lady Juliana leans in close, gripping the Duchess's shoulder with urgent desperation."
+      },
+      {
+        "start": 127.2,
+        "end": 128.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Who has been treating you?"
+      }
+    ],
+    "final_score": 6.18,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 868
+  }
+]

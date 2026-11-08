@@ -1,0 +1,2644 @@
+[
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 45.8,
+        "end": 73.8,
+        "duration": 28.0,
+        "start_time_fmt": "00:45.80",
+        "end_time_fmt": "01:13.80"
+      }
+    ],
+    "total_duration": 28.0,
+    "hook_strength": 10.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 8.37,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Juliana, stop!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Please... enough!\", leaving the outcome hanging.",
+    "why_it_works": "At 28s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the frozen soil at the edge of the briars."
+      },
+      {
+        "start": 47.0,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him."
+      },
+      {
+        "start": 47.2,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana, stop!"
+      },
+      {
+        "start": 47.8,
+        "end": 49.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rattling of heavy iron chains."
+      },
+      {
+        "start": 50.0,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns."
+      },
+      {
+        "start": 50.0,
+        "end": 52.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars."
+      },
+      {
+        "start": 51.5,
+        "end": 52.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please..."
+      },
+      {
+        "start": 52.0,
+        "end": 53.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground."
+      },
+      {
+        "start": 54.0,
+        "end": 56.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin."
+      },
+      {
+        "start": 54.5,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No..."
+      },
+      {
+        "start": 56.0,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds."
+      },
+      {
+        "start": 57.2,
+        "end": 58.6,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Look at her hands."
+      },
+      {
+        "start": 58.2,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her."
+      },
+      {
+        "start": 58.8,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "The lady has finally found something worthy of her."
+      },
+      {
+        "start": 62.0,
+        "end": 64.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald leans his hands on the terrace railing, sneering callously."
+      },
+      {
+        "start": 62.0,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium close-up of Gerald shouting down into the garden."
+      },
+      {
+        "start": 62.2,
+        "end": 67.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden."
+      },
+      {
+        "start": 67.5,
+        "end": 71.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand."
+      },
+      {
+        "start": 68.5,
+        "end": 70.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sickening crunch and scrape of thorns slicing through flesh."
+      },
+      {
+        "start": 71.2,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander struggling in agony, tears forming in his eyes."
+      },
+      {
+        "start": 71.4,
+        "end": 73.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please... enough!"
+      }
+    ],
+    "final_score": 8.37,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 57
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 45.8,
+        "end": 96.4,
+        "duration": 50.6,
+        "start_time_fmt": "00:45.80",
+        "end_time_fmt": "01:36.40"
+      }
+    ],
+    "total_duration": 50.6,
+    "hook_strength": 10.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 8.37,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Juliana, stop!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Juliana!\", leaving the outcome hanging.",
+    "why_it_works": "At 51s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the frozen soil at the edge of the briars."
+      },
+      {
+        "start": 47.0,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him."
+      },
+      {
+        "start": 47.2,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana, stop!"
+      },
+      {
+        "start": 47.8,
+        "end": 49.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rattling of heavy iron chains."
+      },
+      {
+        "start": 50.0,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns."
+      },
+      {
+        "start": 50.0,
+        "end": 52.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars."
+      },
+      {
+        "start": 51.5,
+        "end": 52.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please..."
+      },
+      {
+        "start": 52.0,
+        "end": 53.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground."
+      },
+      {
+        "start": 54.0,
+        "end": 56.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin."
+      },
+      {
+        "start": 54.5,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No..."
+      },
+      {
+        "start": 56.0,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds."
+      },
+      {
+        "start": 57.2,
+        "end": 58.6,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Look at her hands."
+      },
+      {
+        "start": 58.2,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her."
+      },
+      {
+        "start": 58.8,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "The lady has finally found something worthy of her."
+      },
+      {
+        "start": 62.0,
+        "end": 64.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald leans his hands on the terrace railing, sneering callously."
+      },
+      {
+        "start": 62.0,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium close-up of Gerald shouting down into the garden."
+      },
+      {
+        "start": 62.2,
+        "end": 67.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden."
+      },
+      {
+        "start": 67.5,
+        "end": 71.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand."
+      },
+      {
+        "start": 68.5,
+        "end": 70.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sickening crunch and scrape of thorns slicing through flesh."
+      },
+      {
+        "start": 71.2,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander struggling in agony, tears forming in his eyes."
+      },
+      {
+        "start": 71.4,
+        "end": 73.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please... enough!"
+      },
+      {
+        "start": 74.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tunnel shot through the briars as Juliana crawls deeper into the dark, frozen tangle."
+      },
+      {
+        "start": 74.5,
+        "end": 78.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars."
+      },
+      {
+        "start": 78.0,
+        "end": 80.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand getting snagged between two vicious thorns, tearing her sleeve and flesh."
+      },
+      {
+        "start": 78.5,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Ah!"
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander loses control, violently lunging past the Constable toward the briars."
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Alexander breaking into a desperate charge."
+      },
+      {
+        "start": 80.8,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Stop!"
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana continues clawing forward, branches lacerating her arm and cheek."
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana wincing in agony and screaming through clenched teeth."
+      },
+      {
+        "start": 83.8,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Ahhh!"
+      },
+      {
+        "start": 86.0,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable forcefully grappling Alexander by his coat collar, slamming him back against the gate."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 89.0,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana frantically digging and scraping at the frozen dirt and dried bramble pods with both bloody hands."
+      },
+      {
+        "start": 89.2,
+        "end": 94.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation."
+      },
+      {
+        "start": 94.0,
+        "end": 97.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage."
+      },
+      {
+        "start": 94.8,
+        "end": 96.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      }
+    ],
+    "final_score": 8.37,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 58
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 24.2,
+        "end": 48.8,
+        "duration": 24.6,
+        "start_time_fmt": "00:24.20",
+        "end_time_fmt": "00:48.80"
+      }
+    ],
+    "total_duration": 24.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"I would rather face the gallows than watch you hurt yourself for me.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Juliana, stop!\", leaving the outcome hanging.",
+    "why_it_works": "At 25s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 24.2,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would rather face the gallows than watch you hurt yourself for me."
+      },
+      {
+        "start": 24.2,
+        "end": 28.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing Alexander leaning down toward Juliana, fighting against his bonds."
+      },
+      {
+        "start": 28.5,
+        "end": 29.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald chuckling smugly on the terrace above, crossing his arms."
+      },
+      {
+        "start": 29.9,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana gently clasping Alexander's handcuffed hands, gazing up at him with unyielding love."
+      },
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You stood beside me when everyone else abandoned me. I will not abandon you now."
+      },
+      {
+        "start": 36.2,
+        "end": 39.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot behind Juliana as she walks toward the vast expanse of frozen briars."
+      },
+      {
+        "start": 37.0,
+        "end": 38.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Careful, sister."
+      },
+      {
+        "start": 39.8,
+        "end": 41.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Clarissa smirking down over the carved stone balustrade."
+      },
+      {
+        "start": 39.9,
+        "end": 41.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "That garden has swallowed better women than you."
+      },
+      {
+        "start": 41.6,
+        "end": 45.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald leaning against the balcony beside Clarissa, wearing an arrogant smirk."
+      },
+      {
+        "start": 41.8,
+        "end": 45.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Perhaps the beggar's wife will finally learn what her new life is worth."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the frozen soil at the edge of the briars."
+      },
+      {
+        "start": 47.0,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him."
+      },
+      {
+        "start": 47.2,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana, stop!"
+      }
+    ],
+    "final_score": 8.07,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 114
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 24.2,
+        "end": 73.8,
+        "duration": 49.6,
+        "start_time_fmt": "00:24.20",
+        "end_time_fmt": "01:13.80"
+      }
+    ],
+    "total_duration": 49.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"I would rather face the gallows than watch you hurt yourself for me.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Please... enough!\", leaving the outcome hanging.",
+    "why_it_works": "At 50s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 24.2,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would rather face the gallows than watch you hurt yourself for me."
+      },
+      {
+        "start": 24.2,
+        "end": 28.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing Alexander leaning down toward Juliana, fighting against his bonds."
+      },
+      {
+        "start": 28.5,
+        "end": 29.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald chuckling smugly on the terrace above, crossing his arms."
+      },
+      {
+        "start": 29.9,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana gently clasping Alexander's handcuffed hands, gazing up at him with unyielding love."
+      },
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You stood beside me when everyone else abandoned me. I will not abandon you now."
+      },
+      {
+        "start": 36.2,
+        "end": 39.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot behind Juliana as she walks toward the vast expanse of frozen briars."
+      },
+      {
+        "start": 37.0,
+        "end": 38.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Careful, sister."
+      },
+      {
+        "start": 39.8,
+        "end": 41.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Clarissa smirking down over the carved stone balustrade."
+      },
+      {
+        "start": 39.9,
+        "end": 41.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "That garden has swallowed better women than you."
+      },
+      {
+        "start": 41.6,
+        "end": 45.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald leaning against the balcony beside Clarissa, wearing an arrogant smirk."
+      },
+      {
+        "start": 41.8,
+        "end": 45.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Perhaps the beggar's wife will finally learn what her new life is worth."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the frozen soil at the edge of the briars."
+      },
+      {
+        "start": 47.0,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him."
+      },
+      {
+        "start": 47.2,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana, stop!"
+      },
+      {
+        "start": 47.8,
+        "end": 49.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rattling of heavy iron chains."
+      },
+      {
+        "start": 50.0,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns."
+      },
+      {
+        "start": 50.0,
+        "end": 52.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars."
+      },
+      {
+        "start": 51.5,
+        "end": 52.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please..."
+      },
+      {
+        "start": 52.0,
+        "end": 53.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground."
+      },
+      {
+        "start": 54.0,
+        "end": 56.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin."
+      },
+      {
+        "start": 54.5,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No..."
+      },
+      {
+        "start": 56.0,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds."
+      },
+      {
+        "start": 57.2,
+        "end": 58.6,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Look at her hands."
+      },
+      {
+        "start": 58.2,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her."
+      },
+      {
+        "start": 58.8,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "The lady has finally found something worthy of her."
+      },
+      {
+        "start": 62.0,
+        "end": 64.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald leans his hands on the terrace railing, sneering callously."
+      },
+      {
+        "start": 62.0,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium close-up of Gerald shouting down into the garden."
+      },
+      {
+        "start": 62.2,
+        "end": 67.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden."
+      },
+      {
+        "start": 67.5,
+        "end": 71.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand."
+      },
+      {
+        "start": 68.5,
+        "end": 70.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sickening crunch and scrape of thorns slicing through flesh."
+      },
+      {
+        "start": 71.2,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander struggling in agony, tears forming in his eyes."
+      },
+      {
+        "start": 71.4,
+        "end": 73.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please... enough!"
+      }
+    ],
+    "final_score": 8.07,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 115
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 58.2,
+        "end": 82.2,
+        "duration": 24.0,
+        "start_time_fmt": "00:58.20",
+        "end_time_fmt": "01:22.20"
+      }
+    ],
+    "total_duration": 24.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.77,
+    "hook": "CLARISSA shocks the viewer with an immediate confrontation: \"The lady has finally found something worthy of her.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Stop!\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 58.2,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her."
+      },
+      {
+        "start": 58.8,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "The lady has finally found something worthy of her."
+      },
+      {
+        "start": 62.0,
+        "end": 64.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald leans his hands on the terrace railing, sneering callously."
+      },
+      {
+        "start": 62.0,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium close-up of Gerald shouting down into the garden."
+      },
+      {
+        "start": 62.2,
+        "end": 67.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden."
+      },
+      {
+        "start": 67.5,
+        "end": 71.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand."
+      },
+      {
+        "start": 68.5,
+        "end": 70.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sickening crunch and scrape of thorns slicing through flesh."
+      },
+      {
+        "start": 71.2,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander struggling in agony, tears forming in his eyes."
+      },
+      {
+        "start": 71.4,
+        "end": 73.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please... enough!"
+      },
+      {
+        "start": 74.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tunnel shot through the briars as Juliana crawls deeper into the dark, frozen tangle."
+      },
+      {
+        "start": 74.5,
+        "end": 78.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars."
+      },
+      {
+        "start": 78.0,
+        "end": 80.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand getting snagged between two vicious thorns, tearing her sleeve and flesh."
+      },
+      {
+        "start": 78.5,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Ah!"
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander loses control, violently lunging past the Constable toward the briars."
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Alexander breaking into a desperate charge."
+      },
+      {
+        "start": 80.8,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Stop!"
+      }
+    ],
+    "final_score": 7.77,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 238
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 71.2,
+        "end": 96.4,
+        "duration": 25.2,
+        "start_time_fmt": "01:11.20",
+        "end_time_fmt": "01:36.40"
+      }
+    ],
+    "total_duration": 25.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.77,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Please... enough!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Juliana!\", leaving the outcome hanging.",
+    "why_it_works": "At 25s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 71.2,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander struggling in agony, tears forming in his eyes."
+      },
+      {
+        "start": 71.4,
+        "end": 73.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please... enough!"
+      },
+      {
+        "start": 74.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tunnel shot through the briars as Juliana crawls deeper into the dark, frozen tangle."
+      },
+      {
+        "start": 74.5,
+        "end": 78.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars."
+      },
+      {
+        "start": 78.0,
+        "end": 80.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand getting snagged between two vicious thorns, tearing her sleeve and flesh."
+      },
+      {
+        "start": 78.5,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Ah!"
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander loses control, violently lunging past the Constable toward the briars."
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Alexander breaking into a desperate charge."
+      },
+      {
+        "start": 80.8,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Stop!"
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana continues clawing forward, branches lacerating her arm and cheek."
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana wincing in agony and screaming through clenched teeth."
+      },
+      {
+        "start": 83.8,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Ahhh!"
+      },
+      {
+        "start": 86.0,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable forcefully grappling Alexander by his coat collar, slamming him back against the gate."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 89.0,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana frantically digging and scraping at the frozen dirt and dried bramble pods with both bloody hands."
+      },
+      {
+        "start": 89.2,
+        "end": 94.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation."
+      },
+      {
+        "start": 94.0,
+        "end": 97.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage."
+      },
+      {
+        "start": 94.8,
+        "end": 96.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      }
+    ],
+    "final_score": 7.77,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 239
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 36.2,
+        "end": 61.8,
+        "duration": 25.6,
+        "start_time_fmt": "00:36.20",
+        "end_time_fmt": "01:01.80"
+      }
+    ],
+    "total_duration": 25.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.65,
+    "hook": "CLARISSA shocks the viewer with an immediate confrontation: \"Careful, sister.\"",
+    "cliffhanger": "Cuts sharply on CLARISSA's unresolved words: \"The lady has finally found something worthy of her.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 36.2,
+        "end": 39.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot behind Juliana as she walks toward the vast expanse of frozen briars."
+      },
+      {
+        "start": 37.0,
+        "end": 38.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Careful, sister."
+      },
+      {
+        "start": 39.8,
+        "end": 41.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Clarissa smirking down over the carved stone balustrade."
+      },
+      {
+        "start": 39.9,
+        "end": 41.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "That garden has swallowed better women than you."
+      },
+      {
+        "start": 41.6,
+        "end": 45.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald leaning against the balcony beside Clarissa, wearing an arrogant smirk."
+      },
+      {
+        "start": 41.8,
+        "end": 45.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Perhaps the beggar's wife will finally learn what her new life is worth."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the frozen soil at the edge of the briars."
+      },
+      {
+        "start": 47.0,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him."
+      },
+      {
+        "start": 47.2,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana, stop!"
+      },
+      {
+        "start": 47.8,
+        "end": 49.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rattling of heavy iron chains."
+      },
+      {
+        "start": 50.0,
+        "end": 53.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns."
+      },
+      {
+        "start": 50.0,
+        "end": 52.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars."
+      },
+      {
+        "start": 51.5,
+        "end": 52.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please..."
+      },
+      {
+        "start": 52.0,
+        "end": 53.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground."
+      },
+      {
+        "start": 54.0,
+        "end": 56.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin."
+      },
+      {
+        "start": 54.5,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No..."
+      },
+      {
+        "start": 56.0,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds."
+      },
+      {
+        "start": 57.2,
+        "end": 58.6,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Look at her hands."
+      },
+      {
+        "start": 58.2,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her."
+      },
+      {
+        "start": 58.8,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "The lady has finally found something worthy of her."
+      }
+    ],
+    "final_score": 7.65,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 291
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 5.1,
+        "end": 48.8,
+        "duration": 43.7,
+        "start_time_fmt": "00:05.10",
+        "end_time_fmt": "00:48.80"
+      }
+    ],
+    "total_duration": 43.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.62,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Juliana, look at those thorns. You cannot do this.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Juliana, stop!\", leaving the outcome hanging.",
+    "why_it_works": "At 44s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 5.1,
+        "end": 7.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander turns toward Juliana, his manacled hands trembling as he grips her arm."
+      },
+      {
+        "start": 5.4,
+        "end": 10.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana, look at those thorns. You cannot do this."
+      },
+      {
+        "start": 7.0,
+        "end": 10.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander and Juliana facing each other, his chained wrists held between them."
+      },
+      {
+        "start": 10.8,
+        "end": 14.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hooded face, her eyes filled with resolute sorrow."
+      },
+      {
+        "start": 12.4,
+        "end": 13.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I must."
+      },
+      {
+        "start": 14.2,
+        "end": 18.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his combat scar stark against his pained expression."
+      },
+      {
+        "start": 14.4,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They will tear your hands apart."
+      },
+      {
+        "start": 18.8,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Gerald and Clarissa leaning over the stone balustrade, smirking down with cruel amusement."
+      },
+      {
+        "start": 21.0,
+        "end": 24.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into Alexander's eyes with tender courage."
+      },
+      {
+        "start": 22.0,
+        "end": 23.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will be fine."
+      },
+      {
+        "start": 24.2,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would rather face the gallows than watch you hurt yourself for me."
+      },
+      {
+        "start": 24.2,
+        "end": 28.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing Alexander leaning down toward Juliana, fighting against his bonds."
+      },
+      {
+        "start": 28.5,
+        "end": 29.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald chuckling smugly on the terrace above, crossing his arms."
+      },
+      {
+        "start": 29.9,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana gently clasping Alexander's handcuffed hands, gazing up at him with unyielding love."
+      },
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You stood beside me when everyone else abandoned me. I will not abandon you now."
+      },
+      {
+        "start": 36.2,
+        "end": 39.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot behind Juliana as she walks toward the vast expanse of frozen briars."
+      },
+      {
+        "start": 37.0,
+        "end": 38.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Careful, sister."
+      },
+      {
+        "start": 39.8,
+        "end": 41.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Clarissa smirking down over the carved stone balustrade."
+      },
+      {
+        "start": 39.9,
+        "end": 41.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "That garden has swallowed better women than you."
+      },
+      {
+        "start": 41.6,
+        "end": 45.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald leaning against the balcony beside Clarissa, wearing an arrogant smirk."
+      },
+      {
+        "start": 41.8,
+        "end": 45.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Perhaps the beggar's wife will finally learn what her new life is worth."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath."
+      },
+      {
+        "start": 45.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the frozen soil at the edge of the briars."
+      },
+      {
+        "start": 47.0,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him."
+      },
+      {
+        "start": 47.2,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana, stop!"
+      }
+    ],
+    "final_score": 7.62,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 307
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 80.5,
+        "end": 103.0,
+        "duration": 22.5,
+        "start_time_fmt": "01:20.50",
+        "end_time_fmt": "01:43.00"
+      }
+    ],
+    "total_duration": 22.5,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.5,
+    "composite_score": 7.46,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Stop!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander loses control, violently lunging past the Constable toward the briars."
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Alexander breaking into a desperate charge."
+      },
+      {
+        "start": 80.8,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Stop!"
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana continues clawing forward, branches lacerating her arm and cheek."
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana wincing in agony and screaming through clenched teeth."
+      },
+      {
+        "start": 83.8,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Ahhh!"
+      },
+      {
+        "start": 86.0,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable forcefully grappling Alexander by his coat collar, slamming him back against the gate."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 89.0,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana frantically digging and scraping at the frozen dirt and dried bramble pods with both bloody hands."
+      },
+      {
+        "start": 89.2,
+        "end": 94.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation."
+      },
+      {
+        "start": 94.0,
+        "end": 97.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage."
+      },
+      {
+        "start": 94.8,
+        "end": 96.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 97.0,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms."
+      }
+    ],
+    "final_score": 7.46,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 386
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 80.5,
+        "end": 118.88,
+        "duration": 38.38,
+        "start_time_fmt": "01:20.50",
+        "end_time_fmt": "01:58.88"
+      }
+    ],
+    "total_duration": 38.38,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.38,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Stop!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 38s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander loses control, violently lunging past the Constable toward the briars."
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Alexander breaking into a desperate charge."
+      },
+      {
+        "start": 80.8,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Stop!"
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana continues clawing forward, branches lacerating her arm and cheek."
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana wincing in agony and screaming through clenched teeth."
+      },
+      {
+        "start": 83.8,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Ahhh!"
+      },
+      {
+        "start": 86.0,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable forcefully grappling Alexander by his coat collar, slamming him back against the gate."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 89.0,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana frantically digging and scraping at the frozen dirt and dried bramble pods with both bloody hands."
+      },
+      {
+        "start": 89.2,
+        "end": 94.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation."
+      },
+      {
+        "start": 94.0,
+        "end": 97.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage."
+      },
+      {
+        "start": 94.8,
+        "end": 96.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 97.0,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms."
+      },
+      {
+        "start": 98.2,
+        "end": 102.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please, ring... you have to be here."
+      },
+      {
+        "start": 103.0,
+        "end": 106.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch."
+      },
+      {
+        "start": 103.0,
+        "end": 107.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up macro shot of an ornate antique gold ring set with a massive, radiant emerald resting in the frosted soil."
+      },
+      {
+        "start": 107.0,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat."
+      },
+      {
+        "start": 109.0,
+        "end": 112.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring."
+      },
+      {
+        "start": 109.0,
+        "end": 112.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of her bloody hand closing around the emerald signet ring."
+      },
+      {
+        "start": 112.0,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana grimacing in fierce triumph and intense pain as thorns catch her knuckles."
+      },
+      {
+        "start": 113.0,
+        "end": 114.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Brief cut to Alexander staring into the briar patch in suspended terror."
+      },
+      {
+        "start": 114.0,
+        "end": 117.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's sweat- and frost-streaked face as she grinds her teeth, tears pooling in her eyes, fighting through the blinding pain."
+      },
+      {
+        "start": 117.2,
+        "end": 118.88,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 7.38,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 422
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 58.2,
+        "end": 112.0,
+        "duration": 53.8,
+        "start_time_fmt": "00:58.20",
+        "end_time_fmt": "01:52.00"
+      }
+    ],
+    "total_duration": 53.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.17,
+    "hook": "CLARISSA shocks the viewer with an immediate confrontation: \"The lady has finally found something worthy of her.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Extreme close-up of her bloody hand closing around the emerald signet ring.",
+    "why_it_works": "At 54s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 58.2,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her."
+      },
+      {
+        "start": 58.8,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "The lady has finally found something worthy of her."
+      },
+      {
+        "start": 62.0,
+        "end": 64.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald leans his hands on the terrace railing, sneering callously."
+      },
+      {
+        "start": 62.0,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium close-up of Gerald shouting down into the garden."
+      },
+      {
+        "start": 62.2,
+        "end": 67.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden."
+      },
+      {
+        "start": 67.5,
+        "end": 71.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand."
+      },
+      {
+        "start": 68.5,
+        "end": 70.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sickening crunch and scrape of thorns slicing through flesh."
+      },
+      {
+        "start": 71.2,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander struggling in agony, tears forming in his eyes."
+      },
+      {
+        "start": 71.4,
+        "end": 73.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Please... enough!"
+      },
+      {
+        "start": 74.0,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tunnel shot through the briars as Juliana crawls deeper into the dark, frozen tangle."
+      },
+      {
+        "start": 74.5,
+        "end": 78.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars."
+      },
+      {
+        "start": 78.0,
+        "end": 80.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand getting snagged between two vicious thorns, tearing her sleeve and flesh."
+      },
+      {
+        "start": 78.5,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Ah!"
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander loses control, violently lunging past the Constable toward the briars."
+      },
+      {
+        "start": 80.5,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Alexander breaking into a desperate charge."
+      },
+      {
+        "start": 80.8,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Stop!"
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana continues clawing forward, branches lacerating her arm and cheek."
+      },
+      {
+        "start": 83.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana wincing in agony and screaming through clenched teeth."
+      },
+      {
+        "start": 83.8,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Ahhh!"
+      },
+      {
+        "start": 86.0,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable forcefully grappling Alexander by his coat collar, slamming him back against the gate."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 89.0,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana frantically digging and scraping at the frozen dirt and dried bramble pods with both bloody hands."
+      },
+      {
+        "start": 89.2,
+        "end": 94.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation."
+      },
+      {
+        "start": 94.0,
+        "end": 97.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage."
+      },
+      {
+        "start": 94.8,
+        "end": 96.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 97.0,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms."
+      },
+      {
+        "start": 98.2,
+        "end": 102.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please, ring... you have to be here."
+      },
+      {
+        "start": 103.0,
+        "end": 106.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch."
+      },
+      {
+        "start": 103.0,
+        "end": 107.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up macro shot of an ornate antique gold ring set with a massive, radiant emerald resting in the frosted soil."
+      },
+      {
+        "start": 107.0,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat."
+      },
+      {
+        "start": 109.0,
+        "end": 112.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring."
+      },
+      {
+        "start": 109.0,
+        "end": 112.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of her bloody hand closing around the emerald signet ring."
+      }
+    ],
+    "final_score": 7.17,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 536
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 12.4,
+        "end": 38.2,
+        "duration": 25.8,
+        "start_time_fmt": "00:12.40",
+        "end_time_fmt": "00:38.20"
+      }
+    ],
+    "total_duration": 25.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.05,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I must.\"",
+    "cliffhanger": "Cuts sharply on CLARISSA's unresolved words: \"Careful, sister.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 12.4,
+        "end": 13.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I must."
+      },
+      {
+        "start": 14.2,
+        "end": 18.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his combat scar stark against his pained expression."
+      },
+      {
+        "start": 14.4,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They will tear your hands apart."
+      },
+      {
+        "start": 18.8,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Gerald and Clarissa leaning over the stone balustrade, smirking down with cruel amusement."
+      },
+      {
+        "start": 21.0,
+        "end": 24.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into Alexander's eyes with tender courage."
+      },
+      {
+        "start": 22.0,
+        "end": 23.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will be fine."
+      },
+      {
+        "start": 24.2,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would rather face the gallows than watch you hurt yourself for me."
+      },
+      {
+        "start": 24.2,
+        "end": 28.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing Alexander leaning down toward Juliana, fighting against his bonds."
+      },
+      {
+        "start": 28.5,
+        "end": 29.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald chuckling smugly on the terrace above, crossing his arms."
+      },
+      {
+        "start": 29.9,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana gently clasping Alexander's handcuffed hands, gazing up at him with unyielding love."
+      },
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You stood beside me when everyone else abandoned me. I will not abandon you now."
+      },
+      {
+        "start": 36.2,
+        "end": 39.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot behind Juliana as she walks toward the vast expanse of frozen briars."
+      },
+      {
+        "start": 37.0,
+        "end": 38.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Careful, sister."
+      }
+    ],
+    "final_score": 7.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 581
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 5.1,
+        "end": 28.4,
+        "duration": 23.3,
+        "start_time_fmt": "00:05.10",
+        "end_time_fmt": "00:28.40"
+      }
+    ],
+    "total_duration": 23.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.95,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Juliana, look at those thorns. You cannot do this.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"I would rather face the gallows than watch you hurt yourself for me.\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 5.1,
+        "end": 7.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander turns toward Juliana, his manacled hands trembling as he grips her arm."
+      },
+      {
+        "start": 5.4,
+        "end": 10.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana, look at those thorns. You cannot do this."
+      },
+      {
+        "start": 7.0,
+        "end": 10.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander and Juliana facing each other, his chained wrists held between them."
+      },
+      {
+        "start": 10.8,
+        "end": 14.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hooded face, her eyes filled with resolute sorrow."
+      },
+      {
+        "start": 12.4,
+        "end": 13.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I must."
+      },
+      {
+        "start": 14.2,
+        "end": 18.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his combat scar stark against his pained expression."
+      },
+      {
+        "start": 14.4,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They will tear your hands apart."
+      },
+      {
+        "start": 18.8,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Gerald and Clarissa leaning over the stone balustrade, smirking down with cruel amusement."
+      },
+      {
+        "start": 21.0,
+        "end": 24.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into Alexander's eyes with tender courage."
+      },
+      {
+        "start": 22.0,
+        "end": 23.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will be fine."
+      },
+      {
+        "start": 24.2,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would rather face the gallows than watch you hurt yourself for me."
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 635
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 94.0,
+        "end": 114.0,
+        "duration": 20.0,
+        "start_time_fmt": "01:34.00",
+        "end_time_fmt": "01:54.00"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.95,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Juliana!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Brief cut to Alexander staring into the briar patch in suspended terror.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 94.0,
+        "end": 97.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage."
+      },
+      {
+        "start": 94.8,
+        "end": 96.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 97.0,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms."
+      },
+      {
+        "start": 98.2,
+        "end": 102.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please, ring... you have to be here."
+      },
+      {
+        "start": 103.0,
+        "end": 106.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch."
+      },
+      {
+        "start": 103.0,
+        "end": 107.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up macro shot of an ornate antique gold ring set with a massive, radiant emerald resting in the frosted soil."
+      },
+      {
+        "start": 107.0,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat."
+      },
+      {
+        "start": 109.0,
+        "end": 112.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring."
+      },
+      {
+        "start": 109.0,
+        "end": 112.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of her bloody hand closing around the emerald signet ring."
+      },
+      {
+        "start": 112.0,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana grimacing in fierce triumph and intense pain as thorns catch her knuckles."
+      },
+      {
+        "start": 113.0,
+        "end": 114.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Brief cut to Alexander staring into the briar patch in suspended terror."
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 636
+  },
+  {
+    "episode": 13,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 13,
+        "start": 86.0,
+        "end": 109.0,
+        "duration": 23.0,
+        "start_time_fmt": "01:26.00",
+        "end_time_fmt": "01:49.00"
+      }
+    ],
+    "total_duration": 23.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.5,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Juliana!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 86.0,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable forcefully grappling Alexander by his coat collar, slamming him back against the gate."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 89.0,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Ground-level shot of Juliana frantically digging and scraping at the frozen dirt and dried bramble pods with both bloody hands."
+      },
+      {
+        "start": 89.2,
+        "end": 94.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation."
+      },
+      {
+        "start": 94.0,
+        "end": 97.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage."
+      },
+      {
+        "start": 94.8,
+        "end": 96.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana!"
+      },
+      {
+        "start": 97.0,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms."
+      },
+      {
+        "start": 98.2,
+        "end": 102.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please, ring... you have to be here."
+      },
+      {
+        "start": 103.0,
+        "end": 106.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch."
+      },
+      {
+        "start": 103.0,
+        "end": 107.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up macro shot of an ornate antique gold ring set with a massive, radiant emerald resting in the frosted soil."
+      },
+      {
+        "start": 107.0,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat."
+      }
+    ],
+    "final_score": 6.5,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 797
+  }
+]

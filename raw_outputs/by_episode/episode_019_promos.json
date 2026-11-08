@@ -1,0 +1,2626 @@
+[
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 28.2,
+        "end": 85.5,
+        "duration": 57.3,
+        "start_time_fmt": "00:28.20",
+        "end_time_fmt": "01:25.50"
+      }
+    ],
+    "total_duration": 57.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.7,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Thank you.\"",
+    "cliffhanger": "Cuts sharply on INFORMANT's unresolved words: \"And when we have the proof?\", leaving the outcome hanging.",
+    "why_it_works": "At 57s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 28.2,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+      },
+      {
+        "start": 28.5,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 30.8,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager."
+      },
+      {
+        "start": 31.2,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We will not forget this kindness."
+      },
+      {
+        "start": 33.3,
+        "end": 34.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Neither will the village."
+      },
+      {
+        "start": 34.8,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly."
+      },
+      {
+        "start": 35.5,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Goodbye, Blackwood."
+      },
+      {
+        "start": 38.0,
+        "end": 41.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black."
+      },
+      {
+        "start": 41.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference."
+      },
+      {
+        "start": 44.3,
+        "end": 45.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Your Grace."
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority."
+      },
+      {
+        "start": 47.1,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tell me what is happening in Ashburg."
+      },
+      {
+        "start": 49.5,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff."
+      },
+      {
+        "start": 55.3,
+        "end": 61.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens."
+      },
+      {
+        "start": 55.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him."
+      },
+      {
+        "start": 61.4,
+        "end": 64.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the bald informant standing among the towering trees, reporting solemnly."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And Lady Catherine, she behaves as though she is already the future duchess."
+      },
+      {
+        "start": 64.8,
+        "end": 70.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant, his voice dropping into urgent, discreet concern."
+      },
+      {
+        "start": 65.1,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned."
+      },
+      {
+        "start": 70.6,
+        "end": 73.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence."
+      },
+      {
+        "start": 70.9,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "There are almost no loyal servants left around her."
+      },
+      {
+        "start": 73.3,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot past Alexander toward the informant."
+      },
+      {
+        "start": 73.5,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "The people who served your family for years have been dismissed, frightened away, or replaced."
+      },
+      {
+        "start": 76.2,
+        "end": 78.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish."
+      },
+      {
+        "start": 76.5,
+        "end": 78.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My mother is a prisoner in her own house."
+      },
+      {
+        "start": 78.8,
+        "end": 81.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant looking steadily at Alexander."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And everyone believes you are dead."
+      },
+      {
+        "start": 81.2,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's scarred eye and grimly set mouth."
+      },
+      {
+        "start": 81.5,
+        "end": 83.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let them believe it a little longer."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And when we have the proof?"
+      }
+    ],
+    "final_score": 7.7,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 271
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 76.2,
+        "end": 102.6,
+        "duration": 26.4,
+        "start_time_fmt": "01:16.20",
+        "end_time_fmt": "01:42.60"
+      }
+    ],
+    "total_duration": 26.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.35,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"My mother is a prisoner in her own house.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I don't know what we will do tomorrow.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 76.2,
+        "end": 78.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish."
+      },
+      {
+        "start": 76.5,
+        "end": 78.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My mother is a prisoner in her own house."
+      },
+      {
+        "start": 78.8,
+        "end": 81.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant looking steadily at Alexander."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And everyone believes you are dead."
+      },
+      {
+        "start": 81.2,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's scarred eye and grimly set mouth."
+      },
+      {
+        "start": 81.5,
+        "end": 83.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let them believe it a little longer."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And when we have the proof?"
+      },
+      {
+        "start": 85.5,
+        "end": 89.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog."
+      },
+      {
+        "start": 85.9,
+        "end": 88.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then Ashburg will remember who it belongs to."
+      },
+      {
+        "start": 89.5,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern."
+      },
+      {
+        "start": 94.0,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal."
+      },
+      {
+        "start": 96.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers."
+      },
+      {
+        "start": 97.2,
+        "end": 100.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm."
+      },
+      {
+        "start": 97.4,
+        "end": 99.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We have lost everything."
+      },
+      {
+        "start": 99.9,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping."
+      },
+      {
+        "start": 100.4,
+        "end": 102.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what we will do tomorrow."
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 431
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 55.3,
+        "end": 85.5,
+        "duration": 30.2,
+        "start_time_fmt": "00:55.30",
+        "end_time_fmt": "01:25.50"
+      }
+    ],
+    "total_duration": 30.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.25,
+    "hook": "INFORMANT shocks the viewer with an immediate confrontation: \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\"",
+    "cliffhanger": "Cuts sharply on INFORMANT's unresolved words: \"And when we have the proof?\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 55.3,
+        "end": 61.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens."
+      },
+      {
+        "start": 55.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him."
+      },
+      {
+        "start": 61.4,
+        "end": 64.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the bald informant standing among the towering trees, reporting solemnly."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And Lady Catherine, she behaves as though she is already the future duchess."
+      },
+      {
+        "start": 64.8,
+        "end": 70.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant, his voice dropping into urgent, discreet concern."
+      },
+      {
+        "start": 65.1,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned."
+      },
+      {
+        "start": 70.6,
+        "end": 73.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence."
+      },
+      {
+        "start": 70.9,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "There are almost no loyal servants left around her."
+      },
+      {
+        "start": 73.3,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot past Alexander toward the informant."
+      },
+      {
+        "start": 73.5,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "The people who served your family for years have been dismissed, frightened away, or replaced."
+      },
+      {
+        "start": 76.2,
+        "end": 78.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish."
+      },
+      {
+        "start": 76.5,
+        "end": 78.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My mother is a prisoner in her own house."
+      },
+      {
+        "start": 78.8,
+        "end": 81.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant looking steadily at Alexander."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And everyone believes you are dead."
+      },
+      {
+        "start": 81.2,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's scarred eye and grimly set mouth."
+      },
+      {
+        "start": 81.5,
+        "end": 83.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let them believe it a little longer."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And when we have the proof?"
+      }
+    ],
+    "final_score": 7.25,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 496
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 28.2,
+        "end": 49.2,
+        "duration": 21.0,
+        "start_time_fmt": "00:28.20",
+        "end_time_fmt": "00:49.20"
+      }
+    ],
+    "total_duration": 21.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.05,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Thank you.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Tell me what is happening in Ashburg.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 28.2,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+      },
+      {
+        "start": 28.5,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 30.8,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager."
+      },
+      {
+        "start": 31.2,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We will not forget this kindness."
+      },
+      {
+        "start": 33.3,
+        "end": 34.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Neither will the village."
+      },
+      {
+        "start": 34.8,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly."
+      },
+      {
+        "start": 35.5,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Goodbye, Blackwood."
+      },
+      {
+        "start": 38.0,
+        "end": 41.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black."
+      },
+      {
+        "start": 41.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference."
+      },
+      {
+        "start": 44.3,
+        "end": 45.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Your Grace."
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority."
+      },
+      {
+        "start": 47.1,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tell me what is happening in Ashburg."
+      }
+    ],
+    "final_score": 7.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 583
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 1.8,
+        "end": 27.8,
+        "duration": 26.0,
+        "start_time_fmt": "00:01.80",
+        "end_time_fmt": "00:27.80"
+      }
+    ],
+    "total_duration": 26.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"This was our home.\"",
+    "cliffhanger": "Cuts sharply on ELDER VILLAGER's unresolved words: \"You saved mine, too.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 1.8,
+        "end": 3.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This was our home."
+      },
+      {
+        "start": 4.5,
+        "end": 9.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the blackened, heat-damaged leather ledger held in Juliana's linen-bandaged hands."
+      },
+      {
+        "start": 5.1,
+        "end": 8.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My mother's book almost burned with it."
+      },
+      {
+        "start": 6.5,
+        "end": 9.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana tenderly lifts a scorched corner of parchment, revealing the surviving botanical drawing of medicinal herbs inside."
+      },
+      {
+        "start": 9.5,
+        "end": 11.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander looking down at Juliana with quiet, stoic concern."
+      },
+      {
+        "start": 11.8,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread."
+      },
+      {
+        "start": 12.1,
+        "end": 15.2,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "My lady. You cannot stay here."
+      },
+      {
+        "start": 15.5,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's tearful, soot-stained face as she listens."
+      },
+      {
+        "start": 16.1,
+        "end": 19.0,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "There is an old barn near the village. It is empty."
+      },
+      {
+        "start": 18.5,
+        "end": 20.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder."
+      },
+      {
+        "start": 19.4,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Take it."
+      },
+      {
+        "start": 20.6,
+        "end": 22.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We cannot ask the village to feed us."
+      },
+      {
+        "start": 23.2,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved my son's life."
+      },
+      {
+        "start": 25.8,
+        "end": 28.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the elder villager's rough, weathered hands offering a fresh loaf of artisan bread wrapped in cloth against the smoking timber ruins."
+      },
+      {
+        "start": 26.4,
+        "end": 27.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved mine, too."
+      }
+    ],
+    "final_score": 6.9,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 662
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 1.8,
+        "end": 49.2,
+        "duration": 47.4,
+        "start_time_fmt": "00:01.80",
+        "end_time_fmt": "00:49.20"
+      }
+    ],
+    "total_duration": 47.4,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"This was our home.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Tell me what is happening in Ashburg.\", leaving the outcome hanging.",
+    "why_it_works": "At 47s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 1.8,
+        "end": 3.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This was our home."
+      },
+      {
+        "start": 4.5,
+        "end": 9.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the blackened, heat-damaged leather ledger held in Juliana's linen-bandaged hands."
+      },
+      {
+        "start": 5.1,
+        "end": 8.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My mother's book almost burned with it."
+      },
+      {
+        "start": 6.5,
+        "end": 9.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana tenderly lifts a scorched corner of parchment, revealing the surviving botanical drawing of medicinal herbs inside."
+      },
+      {
+        "start": 9.5,
+        "end": 11.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander looking down at Juliana with quiet, stoic concern."
+      },
+      {
+        "start": 11.8,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread."
+      },
+      {
+        "start": 12.1,
+        "end": 15.2,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "My lady. You cannot stay here."
+      },
+      {
+        "start": 15.5,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's tearful, soot-stained face as she listens."
+      },
+      {
+        "start": 16.1,
+        "end": 19.0,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "There is an old barn near the village. It is empty."
+      },
+      {
+        "start": 18.5,
+        "end": 20.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder."
+      },
+      {
+        "start": 19.4,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Take it."
+      },
+      {
+        "start": 20.6,
+        "end": 22.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We cannot ask the village to feed us."
+      },
+      {
+        "start": 23.2,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved my son's life."
+      },
+      {
+        "start": 25.8,
+        "end": 28.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the elder villager's rough, weathered hands offering a fresh loaf of artisan bread wrapped in cloth against the smoking timber ruins."
+      },
+      {
+        "start": 26.4,
+        "end": 27.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved mine, too."
+      },
+      {
+        "start": 28.2,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+      },
+      {
+        "start": 28.5,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 30.8,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager."
+      },
+      {
+        "start": 31.2,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We will not forget this kindness."
+      },
+      {
+        "start": 33.3,
+        "end": 34.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Neither will the village."
+      },
+      {
+        "start": 34.8,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly."
+      },
+      {
+        "start": 35.5,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Goodbye, Blackwood."
+      },
+      {
+        "start": 38.0,
+        "end": 41.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black."
+      },
+      {
+        "start": 41.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference."
+      },
+      {
+        "start": 44.3,
+        "end": 45.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Your Grace."
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority."
+      },
+      {
+        "start": 47.1,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tell me what is happening in Ashburg."
+      }
+    ],
+    "final_score": 6.9,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 663
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 44.3,
+        "end": 76.4,
+        "duration": 32.1,
+        "start_time_fmt": "00:44.30",
+        "end_time_fmt": "01:16.40"
+      }
+    ],
+    "total_duration": 32.1,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "INFORMANT shocks the viewer with an immediate confrontation: \"Your Grace.\"",
+    "cliffhanger": "Cuts sharply on INFORMANT's unresolved words: \"The people who served your family for years have been dismissed, frightened away, or replaced.\", leaving the outcome hanging.",
+    "why_it_works": "At 32s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 44.3,
+        "end": 45.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Your Grace."
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority."
+      },
+      {
+        "start": 47.1,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tell me what is happening in Ashburg."
+      },
+      {
+        "start": 49.5,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff."
+      },
+      {
+        "start": 55.3,
+        "end": 61.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens."
+      },
+      {
+        "start": 55.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him."
+      },
+      {
+        "start": 61.4,
+        "end": 64.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the bald informant standing among the towering trees, reporting solemnly."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And Lady Catherine, she behaves as though she is already the future duchess."
+      },
+      {
+        "start": 64.8,
+        "end": 70.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant, his voice dropping into urgent, discreet concern."
+      },
+      {
+        "start": 65.1,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned."
+      },
+      {
+        "start": 70.6,
+        "end": 73.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence."
+      },
+      {
+        "start": 70.9,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "There are almost no loyal servants left around her."
+      },
+      {
+        "start": 73.3,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot past Alexander toward the informant."
+      },
+      {
+        "start": 73.5,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "The people who served your family for years have been dismissed, frightened away, or replaced."
+      }
+    ],
+    "final_score": 6.9,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 664
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 44.3,
+        "end": 102.6,
+        "duration": 58.3,
+        "start_time_fmt": "00:44.30",
+        "end_time_fmt": "01:42.60"
+      }
+    ],
+    "total_duration": 58.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "INFORMANT shocks the viewer with an immediate confrontation: \"Your Grace.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I don't know what we will do tomorrow.\", leaving the outcome hanging.",
+    "why_it_works": "At 58s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 44.3,
+        "end": 45.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Your Grace."
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority."
+      },
+      {
+        "start": 47.1,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tell me what is happening in Ashburg."
+      },
+      {
+        "start": 49.5,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff."
+      },
+      {
+        "start": 55.3,
+        "end": 61.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens."
+      },
+      {
+        "start": 55.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him."
+      },
+      {
+        "start": 61.4,
+        "end": 64.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the bald informant standing among the towering trees, reporting solemnly."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And Lady Catherine, she behaves as though she is already the future duchess."
+      },
+      {
+        "start": 64.8,
+        "end": 70.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant, his voice dropping into urgent, discreet concern."
+      },
+      {
+        "start": 65.1,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned."
+      },
+      {
+        "start": 70.6,
+        "end": 73.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence."
+      },
+      {
+        "start": 70.9,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "There are almost no loyal servants left around her."
+      },
+      {
+        "start": 73.3,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot past Alexander toward the informant."
+      },
+      {
+        "start": 73.5,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "The people who served your family for years have been dismissed, frightened away, or replaced."
+      },
+      {
+        "start": 76.2,
+        "end": 78.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish."
+      },
+      {
+        "start": 76.5,
+        "end": 78.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My mother is a prisoner in her own house."
+      },
+      {
+        "start": 78.8,
+        "end": 81.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant looking steadily at Alexander."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And everyone believes you are dead."
+      },
+      {
+        "start": 81.2,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's scarred eye and grimly set mouth."
+      },
+      {
+        "start": 81.5,
+        "end": 83.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let them believe it a little longer."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And when we have the proof?"
+      },
+      {
+        "start": 85.5,
+        "end": 89.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog."
+      },
+      {
+        "start": 85.9,
+        "end": 88.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then Ashburg will remember who it belongs to."
+      },
+      {
+        "start": 89.5,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern."
+      },
+      {
+        "start": 94.0,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal."
+      },
+      {
+        "start": 96.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers."
+      },
+      {
+        "start": 97.2,
+        "end": 100.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm."
+      },
+      {
+        "start": 97.4,
+        "end": 99.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We have lost everything."
+      },
+      {
+        "start": 99.9,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping."
+      },
+      {
+        "start": 100.4,
+        "end": 102.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what we will do tomorrow."
+      }
+    ],
+    "final_score": 6.9,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 665
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 11.8,
+        "end": 64.8,
+        "duration": 53.0,
+        "start_time_fmt": "00:11.80",
+        "end_time_fmt": "01:04.80"
+      }
+    ],
+    "total_duration": 53.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "ELDER VILLAGER shocks the viewer with an immediate confrontation: \"My lady. You cannot stay here.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot of the bald informant standing among the towering trees, reporting solemnly.",
+    "why_it_works": "At 53s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 11.8,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread."
+      },
+      {
+        "start": 12.1,
+        "end": 15.2,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "My lady. You cannot stay here."
+      },
+      {
+        "start": 15.5,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's tearful, soot-stained face as she listens."
+      },
+      {
+        "start": 16.1,
+        "end": 19.0,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "There is an old barn near the village. It is empty."
+      },
+      {
+        "start": 18.5,
+        "end": 20.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder."
+      },
+      {
+        "start": 19.4,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Take it."
+      },
+      {
+        "start": 20.6,
+        "end": 22.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We cannot ask the village to feed us."
+      },
+      {
+        "start": 23.2,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved my son's life."
+      },
+      {
+        "start": 25.8,
+        "end": 28.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the elder villager's rough, weathered hands offering a fresh loaf of artisan bread wrapped in cloth against the smoking timber ruins."
+      },
+      {
+        "start": 26.4,
+        "end": 27.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved mine, too."
+      },
+      {
+        "start": 28.2,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+      },
+      {
+        "start": 28.5,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 30.8,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager."
+      },
+      {
+        "start": 31.2,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We will not forget this kindness."
+      },
+      {
+        "start": 33.3,
+        "end": 34.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Neither will the village."
+      },
+      {
+        "start": 34.8,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly."
+      },
+      {
+        "start": 35.5,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Goodbye, Blackwood."
+      },
+      {
+        "start": 38.0,
+        "end": 41.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black."
+      },
+      {
+        "start": 41.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference."
+      },
+      {
+        "start": 44.3,
+        "end": 45.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Your Grace."
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority."
+      },
+      {
+        "start": 47.1,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tell me what is happening in Ashburg."
+      },
+      {
+        "start": 49.5,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff."
+      },
+      {
+        "start": 55.3,
+        "end": 61.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens."
+      },
+      {
+        "start": 55.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him."
+      },
+      {
+        "start": 61.4,
+        "end": 64.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the bald informant standing among the towering trees, reporting solemnly."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 736
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 33.3,
+        "end": 64.8,
+        "duration": 31.5,
+        "start_time_fmt": "00:33.30",
+        "end_time_fmt": "01:04.80"
+      }
+    ],
+    "total_duration": 31.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "ELDER VILLAGER shocks the viewer with an immediate confrontation: \"Neither will the village.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot of the bald informant standing among the towering trees, reporting solemnly.",
+    "why_it_works": "At 32s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 33.3,
+        "end": 34.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Neither will the village."
+      },
+      {
+        "start": 34.8,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly."
+      },
+      {
+        "start": 35.5,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Goodbye, Blackwood."
+      },
+      {
+        "start": 38.0,
+        "end": 41.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black."
+      },
+      {
+        "start": 41.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest."
+      },
+      {
+        "start": 43.0,
+        "end": 46.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference."
+      },
+      {
+        "start": 44.3,
+        "end": 45.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Your Grace."
+      },
+      {
+        "start": 46.0,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority."
+      },
+      {
+        "start": 47.1,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tell me what is happening in Ashburg."
+      },
+      {
+        "start": 49.5,
+        "end": 54.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff."
+      },
+      {
+        "start": 55.3,
+        "end": 61.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens."
+      },
+      {
+        "start": 55.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him."
+      },
+      {
+        "start": 61.4,
+        "end": 64.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the bald informant standing among the towering trees, reporting solemnly."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 737
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 61.4,
+        "end": 119.63,
+        "duration": 58.23,
+        "start_time_fmt": "01:01.40",
+        "end_time_fmt": "01:59.63"
+      }
+    ],
+    "total_duration": 58.23,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "INFORMANT shocks the viewer with an immediate confrontation: \"And Lady Catherine, she behaves as though she is already the future duchess.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 58s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 61.4,
+        "end": 64.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the bald informant standing among the towering trees, reporting solemnly."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And Lady Catherine, she behaves as though she is already the future duchess."
+      },
+      {
+        "start": 64.8,
+        "end": 70.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant, his voice dropping into urgent, discreet concern."
+      },
+      {
+        "start": 65.1,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned."
+      },
+      {
+        "start": 70.6,
+        "end": 73.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence."
+      },
+      {
+        "start": 70.9,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "There are almost no loyal servants left around her."
+      },
+      {
+        "start": 73.3,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot past Alexander toward the informant."
+      },
+      {
+        "start": 73.5,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "The people who served your family for years have been dismissed, frightened away, or replaced."
+      },
+      {
+        "start": 76.2,
+        "end": 78.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish."
+      },
+      {
+        "start": 76.5,
+        "end": 78.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My mother is a prisoner in her own house."
+      },
+      {
+        "start": 78.8,
+        "end": 81.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant looking steadily at Alexander."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And everyone believes you are dead."
+      },
+      {
+        "start": 81.2,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's scarred eye and grimly set mouth."
+      },
+      {
+        "start": 81.5,
+        "end": 83.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let them believe it a little longer."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And when we have the proof?"
+      },
+      {
+        "start": 85.5,
+        "end": 89.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog."
+      },
+      {
+        "start": 85.9,
+        "end": 88.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then Ashburg will remember who it belongs to."
+      },
+      {
+        "start": 89.5,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern."
+      },
+      {
+        "start": 94.0,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal."
+      },
+      {
+        "start": 96.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers."
+      },
+      {
+        "start": 97.2,
+        "end": 100.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm."
+      },
+      {
+        "start": 97.4,
+        "end": 99.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We have lost everything."
+      },
+      {
+        "start": 99.9,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping."
+      },
+      {
+        "start": 100.4,
+        "end": 102.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what we will do tomorrow."
+      },
+      {
+        "start": 103.0,
+        "end": 106.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her."
+      },
+      {
+        "start": 104.2,
+        "end": 106.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tomorrow, we begin again."
+      },
+      {
+        "start": 106.0,
+        "end": 109.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana turning her tear-drenched eyes up toward Alexander, her face filled with longing and newfound hope."
+      },
+      {
+        "start": 107.3,
+        "end": 109.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You make it sound so simple."
+      },
+      {
+        "start": 109.8,
+        "end": 112.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest."
+      },
+      {
+        "start": 112.5,
+        "end": 119.63,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 738
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 64.8,
+        "end": 94.0,
+        "duration": 29.2,
+        "start_time_fmt": "01:04.80",
+        "end_time_fmt": "01:34.00"
+      }
+    ],
+    "total_duration": 29.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "INFORMANT shocks the viewer with an immediate confrontation: \"But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern.",
+    "why_it_works": "At 29s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 64.8,
+        "end": 70.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant, his voice dropping into urgent, discreet concern."
+      },
+      {
+        "start": 65.1,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned."
+      },
+      {
+        "start": 70.6,
+        "end": 73.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence."
+      },
+      {
+        "start": 70.9,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "There are almost no loyal servants left around her."
+      },
+      {
+        "start": 73.3,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot past Alexander toward the informant."
+      },
+      {
+        "start": 73.5,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "The people who served your family for years have been dismissed, frightened away, or replaced."
+      },
+      {
+        "start": 76.2,
+        "end": 78.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish."
+      },
+      {
+        "start": 76.5,
+        "end": 78.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My mother is a prisoner in her own house."
+      },
+      {
+        "start": 78.8,
+        "end": 81.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the informant looking steadily at Alexander."
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And everyone believes you are dead."
+      },
+      {
+        "start": 81.2,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's scarred eye and grimly set mouth."
+      },
+      {
+        "start": 81.5,
+        "end": 83.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let them believe it a little longer."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And when we have the proof?"
+      },
+      {
+        "start": 85.5,
+        "end": 89.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog."
+      },
+      {
+        "start": 85.9,
+        "end": 88.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then Ashburg will remember who it belongs to."
+      },
+      {
+        "start": 89.5,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 739
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 84.0,
+        "end": 109.8,
+        "duration": 25.8,
+        "start_time_fmt": "01:24.00",
+        "end_time_fmt": "01:49.80"
+      }
+    ],
+    "total_duration": 25.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "INFORMANT shocks the viewer with an immediate confrontation: \"And when we have the proof?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana turning her tear-drenched eyes up toward Alexander, her face filled with longing and newfound hope.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "INFORMANT",
+        "content": "And when we have the proof?"
+      },
+      {
+        "start": 85.5,
+        "end": 89.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog."
+      },
+      {
+        "start": 85.9,
+        "end": 88.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then Ashburg will remember who it belongs to."
+      },
+      {
+        "start": 89.5,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern."
+      },
+      {
+        "start": 94.0,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal."
+      },
+      {
+        "start": 96.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers."
+      },
+      {
+        "start": 97.2,
+        "end": 100.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm."
+      },
+      {
+        "start": 97.4,
+        "end": 99.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We have lost everything."
+      },
+      {
+        "start": 99.9,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping."
+      },
+      {
+        "start": 100.4,
+        "end": 102.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what we will do tomorrow."
+      },
+      {
+        "start": 103.0,
+        "end": 106.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her."
+      },
+      {
+        "start": 104.2,
+        "end": 106.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tomorrow, we begin again."
+      },
+      {
+        "start": 106.0,
+        "end": 109.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana turning her tear-drenched eyes up toward Alexander, her face filled with longing and newfound hope."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 740
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 11.8,
+        "end": 38.2,
+        "duration": 26.4,
+        "start_time_fmt": "00:11.80",
+        "end_time_fmt": "00:38.20"
+      }
+    ],
+    "total_duration": 26.4,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "ELDER VILLAGER shocks the viewer with an immediate confrontation: \"My lady. You cannot stay here.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 11.8,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread."
+      },
+      {
+        "start": 12.1,
+        "end": 15.2,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "My lady. You cannot stay here."
+      },
+      {
+        "start": 15.5,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's tearful, soot-stained face as she listens."
+      },
+      {
+        "start": 16.1,
+        "end": 19.0,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "There is an old barn near the village. It is empty."
+      },
+      {
+        "start": 18.5,
+        "end": 20.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder."
+      },
+      {
+        "start": 19.4,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Take it."
+      },
+      {
+        "start": 20.6,
+        "end": 22.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We cannot ask the village to feed us."
+      },
+      {
+        "start": 23.2,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved my son's life."
+      },
+      {
+        "start": 25.8,
+        "end": 28.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the elder villager's rough, weathered hands offering a fresh loaf of artisan bread wrapped in cloth against the smoking timber ruins."
+      },
+      {
+        "start": 26.4,
+        "end": 27.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved mine, too."
+      },
+      {
+        "start": 28.2,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+      },
+      {
+        "start": 28.5,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 30.8,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager."
+      },
+      {
+        "start": 31.2,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We will not forget this kindness."
+      },
+      {
+        "start": 33.3,
+        "end": 34.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Neither will the village."
+      },
+      {
+        "start": 34.8,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 830
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 19.4,
+        "end": 44.2,
+        "duration": 24.8,
+        "start_time_fmt": "00:19.40",
+        "end_time_fmt": "00:44.20"
+      }
+    ],
+    "total_duration": 24.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "ELDER VILLAGER shocks the viewer with an immediate confrontation: \"Take it.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest.",
+    "why_it_works": "At 25s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 19.4,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Take it."
+      },
+      {
+        "start": 20.6,
+        "end": 22.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We cannot ask the village to feed us."
+      },
+      {
+        "start": 23.2,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved my son's life."
+      },
+      {
+        "start": 25.8,
+        "end": 28.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the elder villager's rough, weathered hands offering a fresh loaf of artisan bread wrapped in cloth against the smoking timber ruins."
+      },
+      {
+        "start": 26.4,
+        "end": 27.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "You saved mine, too."
+      },
+      {
+        "start": 28.2,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+      },
+      {
+        "start": 28.5,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 30.8,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager."
+      },
+      {
+        "start": 31.2,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We will not forget this kindness."
+      },
+      {
+        "start": 33.3,
+        "end": 34.8,
+        "type": "DIALOGUE",
+        "speaker": "ELDER VILLAGER",
+        "content": "Neither will the village."
+      },
+      {
+        "start": 34.8,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly."
+      },
+      {
+        "start": 35.5,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Goodbye, Blackwood."
+      },
+      {
+        "start": 38.0,
+        "end": 41.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black."
+      },
+      {
+        "start": 41.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 831
+  },
+  {
+    "episode": 19,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 19,
+        "start": 96.8,
+        "end": 119.63,
+        "duration": 22.83,
+        "start_time_fmt": "01:36.80",
+        "end_time_fmt": "01:59.63"
+      }
+    ],
+    "total_duration": 22.83,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.35,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"We have lost everything.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 96.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers."
+      },
+      {
+        "start": 97.2,
+        "end": 100.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm."
+      },
+      {
+        "start": 97.4,
+        "end": 99.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "We have lost everything."
+      },
+      {
+        "start": 99.9,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping."
+      },
+      {
+        "start": 100.4,
+        "end": 102.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what we will do tomorrow."
+      },
+      {
+        "start": 103.0,
+        "end": 106.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her."
+      },
+      {
+        "start": 104.2,
+        "end": 106.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Tomorrow, we begin again."
+      },
+      {
+        "start": 106.0,
+        "end": 109.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana turning her tear-drenched eyes up toward Alexander, her face filled with longing and newfound hope."
+      },
+      {
+        "start": 107.3,
+        "end": 109.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You make it sound so simple."
+      },
+      {
+        "start": 109.8,
+        "end": 112.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest."
+      },
+      {
+        "start": 112.5,
+        "end": 119.63,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 6.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 846
+  }
+]

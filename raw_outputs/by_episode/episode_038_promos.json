@@ -1,0 +1,2071 @@
+[
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 26.0,
+        "end": 47.5,
+        "duration": 21.5,
+        "start_time_fmt": "00:26.00",
+        "end_time_fmt": "00:47.50"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 9.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 6.8,
+    "emotional_impact": 8.0,
+    "composite_score": 8.21,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Thank you.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"What if I die here?\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Assumes some prior familiarity with character relationships or off-screen backstory.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 26.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 27.8,
+        "end": 31.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite."
+      },
+      {
+        "start": 30.5,
+        "end": 35.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek."
+      },
+      {
+        "start": 31.0,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      },
+      {
+        "start": 35.0,
+        "end": 39.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap."
+      },
+      {
+        "start": 36.8,
+        "end": 39.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...are you safe?"
+      },
+      {
+        "start": 39.5,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+      },
+      {
+        "start": 40.0,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you even know what happened to me?"
+      },
+      {
+        "start": 43.2,
+        "end": 45.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you know they condemned me?"
+      },
+      {
+        "start": 45.5,
+        "end": 51.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+      },
+      {
+        "start": 45.5,
+        "end": 47.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I die here?"
+      }
+    ],
+    "final_score": 8.21,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 80
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 17.5,
+        "end": 43.0,
+        "duration": 25.5,
+        "start_time_fmt": "00:17.50",
+        "end_time_fmt": "00:43.00"
+      }
+    ],
+    "total_duration": 25.5,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 9.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 8.16,
+    "hook": "GUARD shocks the viewer with an immediate confrontation: \"Because no one should die hungry.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Do you even know what happened to me?\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and cuts at peak unresolved tension to drive instant next-episode clicks, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 17.5,
+        "end": 21.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Guard looking through the vertical bars with quiet compassion."
+      },
+      {
+        "start": 17.5,
+        "end": 20.3,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Because no one should die hungry."
+      },
+      {
+        "start": 20.5,
+        "end": 22.0,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Eat it before they see."
+      },
+      {
+        "start": 21.5,
+        "end": 23.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot through the cell bars as the Guard turns and walks swiftly away into the dark corridor."
+      },
+      {
+        "start": 21.8,
+        "end": 23.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Guard's silhouette retreats into the shadows."
+      },
+      {
+        "start": 23.2,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf toward her chest."
+      },
+      {
+        "start": 23.5,
+        "end": 27.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana clutches the bread tightly with both hands, tears welling in her eyes."
+      },
+      {
+        "start": 26.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 27.8,
+        "end": 31.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite."
+      },
+      {
+        "start": 30.5,
+        "end": 35.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek."
+      },
+      {
+        "start": 31.0,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      },
+      {
+        "start": 35.0,
+        "end": 39.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap."
+      },
+      {
+        "start": 36.8,
+        "end": 39.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...are you safe?"
+      },
+      {
+        "start": 39.5,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+      },
+      {
+        "start": 40.0,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you even know what happened to me?"
+      }
+    ],
+    "final_score": 8.16,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 98
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 47.8,
+        "end": 84.0,
+        "duration": 36.2,
+        "start_time_fmt": "00:47.80",
+        "end_time_fmt": "01:24.00"
+      }
+    ],
+    "total_duration": 36.2,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 8.3,
+    "emotional_impact": 8.0,
+    "composite_score": 8.0,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"What if I never see you again?\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Alexander...\", leaving the outcome hanging.",
+    "why_it_works": "At 36s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 47.8,
+        "end": 50.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I never see you again?"
+      },
+      {
+        "start": 48.5,
+        "end": 51.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+      },
+      {
+        "start": 51.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Keep him safe."
+      },
+      {
+        "start": 53.8,
+        "end": 55.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Wherever he is."
+      },
+      {
+        "start": 55.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity."
+      },
+      {
+        "start": 55.5,
+        "end": 57.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let him live."
+      },
+      {
+        "start": 57.5,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And if I have only one thing left to give..."
+      },
+      {
+        "start": 60.5,
+        "end": 64.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty."
+      },
+      {
+        "start": 60.8,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not give them my husband."
+      },
+      {
+        "start": 62.8,
+        "end": 64.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not betray him."
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above."
+      },
+      {
+        "start": 64.8,
+        "end": 87.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon."
+      },
+      {
+        "start": 67.0,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell."
+      },
+      {
+        "start": 69.0,
+        "end": 70.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Bells."
+      },
+      {
+        "start": 70.5,
+        "end": 72.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts."
+      },
+      {
+        "start": 71.0,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands."
+      },
+      {
+        "start": 72.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound."
+      },
+      {
+        "start": 72.8,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The wedding."
+      },
+      {
+        "start": 74.5,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It's beginning."
+      },
+      {
+        "start": 76.0,
+        "end": 78.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I suppose I'm next."
+      },
+      {
+        "start": 78.5,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up between the vertical iron bars framed directly on Juliana's face. The terror in her eyes softens into an unexpected, brave smile of enduring faith."
+      },
+      {
+        "start": 81.0,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name."
+      },
+      {
+        "start": 82.5,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      }
+    ],
+    "final_score": 8.0,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 154
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 23.5,
+        "end": 60.5,
+        "duration": 37.0,
+        "start_time_fmt": "00:23.50",
+        "end_time_fmt": "01:00.50"
+      }
+    ],
+    "total_duration": 37.0,
+    "hook_strength": 8.8,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 6.8,
+    "emotional_impact": 8.0,
+    "composite_score": 7.93,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Thank you.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"And if I have only one thing left to give...\", leaving the outcome hanging.",
+    "why_it_works": "At 37s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Assumes some prior familiarity with character relationships or off-screen backstory.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 23.5,
+        "end": 27.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana clutches the bread tightly with both hands, tears welling in her eyes."
+      },
+      {
+        "start": 26.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 27.8,
+        "end": 31.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite."
+      },
+      {
+        "start": 30.5,
+        "end": 35.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek."
+      },
+      {
+        "start": 31.0,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      },
+      {
+        "start": 35.0,
+        "end": 39.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap."
+      },
+      {
+        "start": 36.8,
+        "end": 39.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...are you safe?"
+      },
+      {
+        "start": 39.5,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+      },
+      {
+        "start": 40.0,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you even know what happened to me?"
+      },
+      {
+        "start": 43.2,
+        "end": 45.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you know they condemned me?"
+      },
+      {
+        "start": 45.5,
+        "end": 51.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+      },
+      {
+        "start": 45.5,
+        "end": 47.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I die here?"
+      },
+      {
+        "start": 47.8,
+        "end": 50.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I never see you again?"
+      },
+      {
+        "start": 48.5,
+        "end": 51.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+      },
+      {
+        "start": 51.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Keep him safe."
+      },
+      {
+        "start": 53.8,
+        "end": 55.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Wherever he is."
+      },
+      {
+        "start": 55.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity."
+      },
+      {
+        "start": 55.5,
+        "end": 57.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let him live."
+      },
+      {
+        "start": 57.5,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And if I have only one thing left to give..."
+      }
+    ],
+    "final_score": 7.93,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 175
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 39.5,
+        "end": 60.5,
+        "duration": 21.0,
+        "start_time_fmt": "00:39.50",
+        "end_time_fmt": "01:00.50"
+      }
+    ],
+    "total_duration": 21.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 6.8,
+    "emotional_impact": 8.0,
+    "composite_score": 7.69,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Do you even know what happened to me?\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"And if I have only one thing left to give...\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Assumes some prior familiarity with character relationships or off-screen backstory. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 39.5,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+      },
+      {
+        "start": 40.0,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you even know what happened to me?"
+      },
+      {
+        "start": 43.2,
+        "end": 45.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you know they condemned me?"
+      },
+      {
+        "start": 45.5,
+        "end": 51.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+      },
+      {
+        "start": 45.5,
+        "end": 47.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I die here?"
+      },
+      {
+        "start": 47.8,
+        "end": 50.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I never see you again?"
+      },
+      {
+        "start": 48.5,
+        "end": 51.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+      },
+      {
+        "start": 51.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Keep him safe."
+      },
+      {
+        "start": 53.8,
+        "end": 55.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Wherever he is."
+      },
+      {
+        "start": 55.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity."
+      },
+      {
+        "start": 55.5,
+        "end": 57.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let him live."
+      },
+      {
+        "start": 57.5,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And if I have only one thing left to give..."
+      }
+    ],
+    "final_score": 7.69,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 278
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 62.8,
+        "end": 84.0,
+        "duration": 21.2,
+        "start_time_fmt": "01:02.80",
+        "end_time_fmt": "01:24.00"
+      }
+    ],
+    "total_duration": 21.2,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 8.3,
+    "emotional_impact": 7.0,
+    "composite_score": 7.4,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I will not betray him.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Alexander...\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 62.8,
+        "end": 64.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not betray him."
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above."
+      },
+      {
+        "start": 64.8,
+        "end": 87.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon."
+      },
+      {
+        "start": 67.0,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell."
+      },
+      {
+        "start": 69.0,
+        "end": 70.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Bells."
+      },
+      {
+        "start": 70.5,
+        "end": 72.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts."
+      },
+      {
+        "start": 71.0,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands."
+      },
+      {
+        "start": 72.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound."
+      },
+      {
+        "start": 72.8,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The wedding."
+      },
+      {
+        "start": 74.5,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It's beginning."
+      },
+      {
+        "start": 76.0,
+        "end": 78.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I suppose I'm next."
+      },
+      {
+        "start": 78.5,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up between the vertical iron bars framed directly on Juliana's face. The terror in her eyes softens into an unexpected, brave smile of enduring faith."
+      },
+      {
+        "start": 81.0,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name."
+      },
+      {
+        "start": 82.5,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 418
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 57.5,
+        "end": 78.5,
+        "duration": 21.0,
+        "start_time_fmt": "00:57.50",
+        "end_time_fmt": "01:18.50"
+      }
+    ],
+    "total_duration": 21.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 8.3,
+    "emotional_impact": 8.0,
+    "composite_score": 7.36,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"And if I have only one thing left to give...\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Then I suppose I'm next.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 57.5,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And if I have only one thing left to give..."
+      },
+      {
+        "start": 60.5,
+        "end": 64.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty."
+      },
+      {
+        "start": 60.8,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not give them my husband."
+      },
+      {
+        "start": 62.8,
+        "end": 64.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not betray him."
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above."
+      },
+      {
+        "start": 64.8,
+        "end": 87.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon."
+      },
+      {
+        "start": 67.0,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell."
+      },
+      {
+        "start": 69.0,
+        "end": 70.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Bells."
+      },
+      {
+        "start": 70.5,
+        "end": 72.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts."
+      },
+      {
+        "start": 71.0,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands."
+      },
+      {
+        "start": 72.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound."
+      },
+      {
+        "start": 72.8,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The wedding."
+      },
+      {
+        "start": 74.5,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It's beginning."
+      },
+      {
+        "start": 76.0,
+        "end": 78.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I suppose I'm next."
+      }
+    ],
+    "final_score": 7.36,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 425
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 0.0,
+        "end": 43.0,
+        "duration": 43.0,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:43.00"
+      }
+    ],
+    "total_duration": 43.0,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 9.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.35,
+    "hook": "Opens with immediate physical drama: Juliana sits motionless against the cold masonry, weak and visibly drained from starvation, her eyes cast downward.",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Do you even know what happened to me?\", leaving the outcome hanging.",
+    "why_it_works": "At 43s, this promo draws viewer into a clear character dilemma and cuts at peak unresolved tension to drive instant next-episode clicks, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Juliana slumped on the damp stone floor of her dark dungeon cell, her wrists bound in heavy iron shackles and chains draped over her lap."
+      },
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana sits motionless against the cold masonry, weak and visibly drained from starvation, her eyes cast downward."
+      },
+      {
+        "start": 3.2,
+        "end": 6.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Echoing, heavy bootsteps approach down the corridor outside the cell."
+      },
+      {
+        "start": 4.0,
+        "end": 7.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's profile as her head turns toward the corridor, her blue eyes widening with cautious alarm."
+      },
+      {
+        "start": 5.0,
+        "end": 7.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana blinks, lifting her gaze toward the heavy iron bars."
+      },
+      {
+        "start": 7.5,
+        "end": 11.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot through the cell bars as a Guard in a black collared uniform with silver buttons halts outside."
+      },
+      {
+        "start": 8.5,
+        "end": 11.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Guard pauses, glancing over his shoulder into the gloomy corridor to ensure he is unobserved."
+      },
+      {
+        "start": 11.0,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot focusing on the wet flagstones at the base of the cell door."
+      },
+      {
+        "start": 11.0,
+        "end": 15.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling forward across the stone floor toward the bread, her gaze fixed on the offering in disbelief."
+      },
+      {
+        "start": 16.0,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why?"
+      },
+      {
+        "start": 17.5,
+        "end": 21.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Guard looking through the vertical bars with quiet compassion."
+      },
+      {
+        "start": 17.5,
+        "end": 20.3,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Because no one should die hungry."
+      },
+      {
+        "start": 20.5,
+        "end": 22.0,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Eat it before they see."
+      },
+      {
+        "start": 21.5,
+        "end": 23.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot through the cell bars as the Guard turns and walks swiftly away into the dark corridor."
+      },
+      {
+        "start": 21.8,
+        "end": 23.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Guard's silhouette retreats into the shadows."
+      },
+      {
+        "start": 23.2,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf toward her chest."
+      },
+      {
+        "start": 23.5,
+        "end": 27.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana clutches the bread tightly with both hands, tears welling in her eyes."
+      },
+      {
+        "start": 26.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 27.8,
+        "end": 31.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite."
+      },
+      {
+        "start": 30.5,
+        "end": 35.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek."
+      },
+      {
+        "start": 31.0,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      },
+      {
+        "start": 35.0,
+        "end": 39.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap."
+      },
+      {
+        "start": 36.8,
+        "end": 39.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...are you safe?"
+      },
+      {
+        "start": 39.5,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+      },
+      {
+        "start": 40.0,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you even know what happened to me?"
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 440
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 45.5,
+        "end": 67.0,
+        "duration": 21.5,
+        "start_time_fmt": "00:45.50",
+        "end_time_fmt": "01:07.00"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 6.8,
+    "emotional_impact": 8.0,
+    "composite_score": 7.25,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"What if I die here?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Assumes some prior familiarity with character relationships or off-screen backstory. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 45.5,
+        "end": 51.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+      },
+      {
+        "start": 45.5,
+        "end": 47.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I die here?"
+      },
+      {
+        "start": 47.8,
+        "end": 50.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I never see you again?"
+      },
+      {
+        "start": 48.5,
+        "end": 51.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+      },
+      {
+        "start": 51.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Keep him safe."
+      },
+      {
+        "start": 53.8,
+        "end": 55.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Wherever he is."
+      },
+      {
+        "start": 55.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity."
+      },
+      {
+        "start": 55.5,
+        "end": 57.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let him live."
+      },
+      {
+        "start": 57.5,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And if I have only one thing left to give..."
+      },
+      {
+        "start": 60.5,
+        "end": 64.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty."
+      },
+      {
+        "start": 60.8,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not give them my husband."
+      },
+      {
+        "start": 62.8,
+        "end": 64.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not betray him."
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+      }
+    ],
+    "final_score": 7.25,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 504
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 27.8,
+        "end": 78.5,
+        "duration": 50.7,
+        "start_time_fmt": "00:27.80",
+        "end_time_fmt": "01:18.50"
+      }
+    ],
+    "total_duration": 50.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 8.3,
+    "emotional_impact": 8.0,
+    "composite_score": 6.91,
+    "hook": "Opens with immediate physical drama: Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Then I suppose I'm next.\", leaving the outcome hanging.",
+    "why_it_works": "At 51s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 27.8,
+        "end": 31.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite."
+      },
+      {
+        "start": 30.5,
+        "end": 35.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek."
+      },
+      {
+        "start": 31.0,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      },
+      {
+        "start": 35.0,
+        "end": 39.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap."
+      },
+      {
+        "start": 36.8,
+        "end": 39.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...are you safe?"
+      },
+      {
+        "start": 39.5,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+      },
+      {
+        "start": 40.0,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you even know what happened to me?"
+      },
+      {
+        "start": 43.2,
+        "end": 45.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do you know they condemned me?"
+      },
+      {
+        "start": 45.5,
+        "end": 51.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+      },
+      {
+        "start": 45.5,
+        "end": 47.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I die here?"
+      },
+      {
+        "start": 47.8,
+        "end": 50.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What if I never see you again?"
+      },
+      {
+        "start": 48.5,
+        "end": 51.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+      },
+      {
+        "start": 51.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Keep him safe."
+      },
+      {
+        "start": 53.8,
+        "end": 55.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Wherever he is."
+      },
+      {
+        "start": 55.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity."
+      },
+      {
+        "start": 55.5,
+        "end": 57.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let him live."
+      },
+      {
+        "start": 57.5,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And if I have only one thing left to give..."
+      },
+      {
+        "start": 60.5,
+        "end": 64.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty."
+      },
+      {
+        "start": 60.8,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not give them my husband."
+      },
+      {
+        "start": 62.8,
+        "end": 64.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not betray him."
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above."
+      },
+      {
+        "start": 64.8,
+        "end": 87.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon."
+      },
+      {
+        "start": 67.0,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell."
+      },
+      {
+        "start": 69.0,
+        "end": 70.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Bells."
+      },
+      {
+        "start": 70.5,
+        "end": 72.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts."
+      },
+      {
+        "start": 71.0,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands."
+      },
+      {
+        "start": 72.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound."
+      },
+      {
+        "start": 72.8,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The wedding."
+      },
+      {
+        "start": 74.5,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It's beginning."
+      },
+      {
+        "start": 76.0,
+        "end": 78.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I suppose I'm next."
+      }
+    ],
+    "final_score": 6.91,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 659
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 11.0,
+        "end": 36.5,
+        "duration": 25.5,
+        "start_time_fmt": "00:11.00",
+        "end_time_fmt": "00:36.50"
+      }
+    ],
+    "total_duration": 25.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.88,
+    "hook": "Opens with immediate physical drama: The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand.",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Alexander...\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 11.0,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot focusing on the wet flagstones at the base of the cell door."
+      },
+      {
+        "start": 11.0,
+        "end": 15.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling forward across the stone floor toward the bread, her gaze fixed on the offering in disbelief."
+      },
+      {
+        "start": 16.0,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why?"
+      },
+      {
+        "start": 17.5,
+        "end": 21.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Guard looking through the vertical bars with quiet compassion."
+      },
+      {
+        "start": 17.5,
+        "end": 20.3,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Because no one should die hungry."
+      },
+      {
+        "start": 20.5,
+        "end": 22.0,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Eat it before they see."
+      },
+      {
+        "start": 21.5,
+        "end": 23.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot through the cell bars as the Guard turns and walks swiftly away into the dark corridor."
+      },
+      {
+        "start": 21.8,
+        "end": 23.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Guard's silhouette retreats into the shadows."
+      },
+      {
+        "start": 23.2,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf toward her chest."
+      },
+      {
+        "start": 23.5,
+        "end": 27.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana clutches the bread tightly with both hands, tears welling in her eyes."
+      },
+      {
+        "start": 26.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 27.8,
+        "end": 31.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite."
+      },
+      {
+        "start": 30.5,
+        "end": 35.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek."
+      },
+      {
+        "start": 31.0,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 682
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 51.0,
+        "end": 72.5,
+        "duration": 21.5,
+        "start_time_fmt": "00:51.00",
+        "end_time_fmt": "01:12.50"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 6.8,
+    "emotional_impact": 8.0,
+    "composite_score": 6.44,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Keep him safe.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Assumes some prior familiarity with character relationships or off-screen backstory. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 51.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Keep him safe."
+      },
+      {
+        "start": 53.8,
+        "end": 55.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Wherever he is."
+      },
+      {
+        "start": 55.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity."
+      },
+      {
+        "start": 55.5,
+        "end": 57.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let him live."
+      },
+      {
+        "start": 57.5,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And if I have only one thing left to give..."
+      },
+      {
+        "start": 60.5,
+        "end": 64.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty."
+      },
+      {
+        "start": 60.8,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not give them my husband."
+      },
+      {
+        "start": 62.8,
+        "end": 64.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not betray him."
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above."
+      },
+      {
+        "start": 64.8,
+        "end": 87.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon."
+      },
+      {
+        "start": 67.0,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell."
+      },
+      {
+        "start": 69.0,
+        "end": 70.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Bells."
+      },
+      {
+        "start": 70.5,
+        "end": 72.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts."
+      }
+    ],
+    "final_score": 6.44,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 811
+  },
+  {
+    "episode": 38,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 38,
+        "start": 3.2,
+        "end": 27.5,
+        "duration": 24.3,
+        "start_time_fmt": "00:03.20",
+        "end_time_fmt": "00:27.50"
+      }
+    ],
+    "total_duration": 24.3,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.25,
+    "hook": "Opens with immediate physical drama: Juliana blinks, lifting her gaze toward the heavy iron bars.",
+    "cliffhanger": "Freezes at the climax of physical escalation: Juliana clutches the bread tightly with both hands, tears welling in her eyes.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 3.2,
+        "end": 6.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Echoing, heavy bootsteps approach down the corridor outside the cell."
+      },
+      {
+        "start": 4.0,
+        "end": 7.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's profile as her head turns toward the corridor, her blue eyes widening with cautious alarm."
+      },
+      {
+        "start": 5.0,
+        "end": 7.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana blinks, lifting her gaze toward the heavy iron bars."
+      },
+      {
+        "start": 7.5,
+        "end": 11.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot through the cell bars as a Guard in a black collared uniform with silver buttons halts outside."
+      },
+      {
+        "start": 8.5,
+        "end": 11.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Guard pauses, glancing over his shoulder into the gloomy corridor to ensure he is unobserved."
+      },
+      {
+        "start": 11.0,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot focusing on the wet flagstones at the base of the cell door."
+      },
+      {
+        "start": 11.0,
+        "end": 15.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling forward across the stone floor toward the bread, her gaze fixed on the offering in disbelief."
+      },
+      {
+        "start": 16.0,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why?"
+      },
+      {
+        "start": 17.5,
+        "end": 21.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Guard looking through the vertical bars with quiet compassion."
+      },
+      {
+        "start": 17.5,
+        "end": 20.3,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Because no one should die hungry."
+      },
+      {
+        "start": 20.5,
+        "end": 22.0,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Eat it before they see."
+      },
+      {
+        "start": 21.5,
+        "end": 23.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot through the cell bars as the Guard turns and walks swiftly away into the dark corridor."
+      },
+      {
+        "start": 21.8,
+        "end": 23.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Guard's silhouette retreats into the shadows."
+      },
+      {
+        "start": 23.2,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf toward her chest."
+      },
+      {
+        "start": 23.5,
+        "end": 27.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana clutches the bread tightly with both hands, tears welling in her eyes."
+      }
+    ],
+    "final_score": 6.25,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 860
+  }
+]

@@ -1,0 +1,2806 @@
+[
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 16.8,
+        "end": 62.0,
+        "duration": 45.2,
+        "start_time_fmt": "00:16.80",
+        "end_time_fmt": "01:02.00"
+      }
+    ],
+    "total_duration": 45.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 8.05,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Weeks.\"",
+    "cliffhanger": "Cuts sharply on PRUDENCE's unresolved words: \"What is it?\", leaving the outcome hanging.",
+    "why_it_works": "At 45s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 16.8,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes."
+      },
+      {
+        "start": 16.8,
+        "end": 19.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Weeks."
+      },
+      {
+        "start": 20.0,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parched lips."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's concerned face as she withdraws her finger from the Duchess's mouth."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her mouth is terribly dry."
+      },
+      {
+        "start": 27.5,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Lady Juliana presses her fingertips gently against the Duchess's wrist, feeling for a pulse."
+      },
+      {
+        "start": 29.0,
+        "end": 31.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her pulse is weak."
+      },
+      {
+        "start": 31.5,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence holding the flickering candle, crying openly in distress."
+      },
+      {
+        "start": 32.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "The physician said her heart is failing."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Duchess's raspy, labored inhalation."
+      },
+      {
+        "start": 38.5,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism."
+      },
+      {
+        "start": 40.8,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No."
+      },
+      {
+        "start": 43.0,
+        "end": 46.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook."
+      },
+      {
+        "start": 43.8,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is not simply old age."
+      },
+      {
+        "start": 46.5,
+        "end": 48.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick reaction shot of Prudence staring with wide, bewildered eyes."
+      },
+      {
+        "start": 48.0,
+        "end": 53.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages."
+      },
+      {
+        "start": 53.5,
+        "end": 57.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead of the yellowed parchment, showing botanical sketches of toxic herbs and handwritten diagnostic notes as Juliana's finger traces along the script."
+      },
+      {
+        "start": 57.5,
+        "end": 58.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana draws in a sharp, startled breath, her eyes widening in horror."
+      },
+      {
+        "start": 58.5,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from the page, stunned by her mother's written words."
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning in, candle trembling."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What is it?"
+      }
+    ],
+    "final_score": 8.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 135
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 62.0,
+        "end": 97.0,
+        "duration": 35.0,
+        "start_time_fmt": "01:02.00",
+        "end_time_fmt": "01:37.00"
+      }
+    ],
+    "total_duration": 35.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 8.05,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.\"",
+    "cliffhanger": "Cuts sharply on PRUDENCE's unresolved words: \"Can you save her?\", leaving the outcome hanging.",
+    "why_it_works": "At 35s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 62.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background."
+      },
+      {
+        "start": 62.0,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting."
+      },
+      {
+        "start": 69.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence staring back in stunned disbelief."
+      },
+      {
+        "start": 70.5,
+        "end": 73.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana speaking with absolute certainty."
+      },
+      {
+        "start": 70.5,
+        "end": 73.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have seen these symptoms before."
+      },
+      {
+        "start": 73.8,
+        "end": 76.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's terrified face."
+      },
+      {
+        "start": 73.8,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What are you saying?"
+      },
+      {
+        "start": 76.0,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+      },
+      {
+        "start": 78.5,
+        "end": 81.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "start": 79.0,
+        "end": 81.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Someone is poisoning her."
+      },
+      {
+        "start": 81.5,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+      },
+      {
+        "start": 81.5,
+        "end": 82.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp intake of breath from Prudence."
+      },
+      {
+        "start": 82.0,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Poison?"
+      },
+      {
+        "start": 84.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust."
+      },
+      {
+        "start": 86.0,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Arsenic."
+      },
+      {
+        "start": 88.0,
+        "end": 90.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden violent coughing and sputtering from the Duchess."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+      },
+      {
+        "start": 91.0,
+        "end": 94.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+      },
+      {
+        "start": 94.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Can you save her?"
+      }
+    ],
+    "final_score": 8.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 136
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 29.0,
+        "end": 75.8,
+        "duration": 46.8,
+        "start_time_fmt": "00:29.00",
+        "end_time_fmt": "01:15.80"
+      }
+    ],
+    "total_duration": 46.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.6,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Her pulse is weak.\"",
+    "cliffhanger": "Cuts sharply on PRUDENCE's unresolved words: \"What are you saying?\", leaving the outcome hanging.",
+    "why_it_works": "At 47s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 29.0,
+        "end": 31.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her pulse is weak."
+      },
+      {
+        "start": 31.5,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence holding the flickering candle, crying openly in distress."
+      },
+      {
+        "start": 32.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "The physician said her heart is failing."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Duchess's raspy, labored inhalation."
+      },
+      {
+        "start": 38.5,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism."
+      },
+      {
+        "start": 40.8,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No."
+      },
+      {
+        "start": 43.0,
+        "end": 46.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook."
+      },
+      {
+        "start": 43.8,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is not simply old age."
+      },
+      {
+        "start": 46.5,
+        "end": 48.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick reaction shot of Prudence staring with wide, bewildered eyes."
+      },
+      {
+        "start": 48.0,
+        "end": 53.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages."
+      },
+      {
+        "start": 53.5,
+        "end": 57.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead of the yellowed parchment, showing botanical sketches of toxic herbs and handwritten diagnostic notes as Juliana's finger traces along the script."
+      },
+      {
+        "start": 57.5,
+        "end": 58.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana draws in a sharp, startled breath, her eyes widening in horror."
+      },
+      {
+        "start": 58.5,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from the page, stunned by her mother's written words."
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning in, candle trembling."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What is it?"
+      },
+      {
+        "start": 62.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background."
+      },
+      {
+        "start": 62.0,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting."
+      },
+      {
+        "start": 69.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence staring back in stunned disbelief."
+      },
+      {
+        "start": 70.5,
+        "end": 73.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana speaking with absolute certainty."
+      },
+      {
+        "start": 70.5,
+        "end": 73.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have seen these symptoms before."
+      },
+      {
+        "start": 73.8,
+        "end": 76.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's terrified face."
+      },
+      {
+        "start": 73.8,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What are you saying?"
+      }
+    ],
+    "final_score": 7.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 324
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 40.8,
+        "end": 62.0,
+        "duration": 21.2,
+        "start_time_fmt": "00:40.80",
+        "end_time_fmt": "01:02.00"
+      }
+    ],
+    "total_duration": 21.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 7.52,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"No.\"",
+    "cliffhanger": "Cuts sharply on PRUDENCE's unresolved words: \"What is it?\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 40.8,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No."
+      },
+      {
+        "start": 43.0,
+        "end": 46.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook."
+      },
+      {
+        "start": 43.8,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is not simply old age."
+      },
+      {
+        "start": 46.5,
+        "end": 48.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick reaction shot of Prudence staring with wide, bewildered eyes."
+      },
+      {
+        "start": 48.0,
+        "end": 53.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages."
+      },
+      {
+        "start": 53.5,
+        "end": 57.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead of the yellowed parchment, showing botanical sketches of toxic herbs and handwritten diagnostic notes as Juliana's finger traces along the script."
+      },
+      {
+        "start": 57.5,
+        "end": 58.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana draws in a sharp, startled breath, her eyes widening in horror."
+      },
+      {
+        "start": 58.5,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from the page, stunned by her mother's written words."
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning in, candle trembling."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What is it?"
+      }
+    ],
+    "final_score": 7.52,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 360
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 43.0,
+        "end": 84.0,
+        "duration": 41.0,
+        "start_time_fmt": "00:43.00",
+        "end_time_fmt": "01:24.00"
+      }
+    ],
+    "total_duration": 41.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.4,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"This is not simply old age.\"",
+    "cliffhanger": "Cuts sharply on PRUDENCE's unresolved words: \"Poison?\", leaving the outcome hanging.",
+    "why_it_works": "At 41s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 43.0,
+        "end": 46.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook."
+      },
+      {
+        "start": 43.8,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is not simply old age."
+      },
+      {
+        "start": 46.5,
+        "end": 48.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick reaction shot of Prudence staring with wide, bewildered eyes."
+      },
+      {
+        "start": 48.0,
+        "end": 53.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages."
+      },
+      {
+        "start": 53.5,
+        "end": 57.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead of the yellowed parchment, showing botanical sketches of toxic herbs and handwritten diagnostic notes as Juliana's finger traces along the script."
+      },
+      {
+        "start": 57.5,
+        "end": 58.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana draws in a sharp, startled breath, her eyes widening in horror."
+      },
+      {
+        "start": 58.5,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from the page, stunned by her mother's written words."
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning in, candle trembling."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What is it?"
+      },
+      {
+        "start": 62.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background."
+      },
+      {
+        "start": 62.0,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting."
+      },
+      {
+        "start": 69.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence staring back in stunned disbelief."
+      },
+      {
+        "start": 70.5,
+        "end": 73.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana speaking with absolute certainty."
+      },
+      {
+        "start": 70.5,
+        "end": 73.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have seen these symptoms before."
+      },
+      {
+        "start": 73.8,
+        "end": 76.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's terrified face."
+      },
+      {
+        "start": 73.8,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What are you saying?"
+      },
+      {
+        "start": 76.0,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+      },
+      {
+        "start": 78.5,
+        "end": 81.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "start": 79.0,
+        "end": 81.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Someone is poisoning her."
+      },
+      {
+        "start": 81.5,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+      },
+      {
+        "start": 81.5,
+        "end": 82.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp intake of breath from Prudence."
+      },
+      {
+        "start": 82.0,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Poison?"
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 407
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 78.5,
+        "end": 112.0,
+        "duration": 33.5,
+        "start_time_fmt": "01:18.50",
+        "end_time_fmt": "01:52.00"
+      }
+    ],
+    "total_duration": 33.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.35,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Someone is poisoning her.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"The charcoal may help remove what is still inside her. We must act quickly.\", leaving the outcome hanging.",
+    "why_it_works": "At 34s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 78.5,
+        "end": 81.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "start": 79.0,
+        "end": 81.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Someone is poisoning her."
+      },
+      {
+        "start": 81.5,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+      },
+      {
+        "start": 81.5,
+        "end": 82.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp intake of breath from Prudence."
+      },
+      {
+        "start": 82.0,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Poison?"
+      },
+      {
+        "start": 84.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust."
+      },
+      {
+        "start": 86.0,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Arsenic."
+      },
+      {
+        "start": 88.0,
+        "end": 90.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden violent coughing and sputtering from the Duchess."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+      },
+      {
+        "start": 91.0,
+        "end": 94.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+      },
+      {
+        "start": 94.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Can you save her?"
+      },
+      {
+        "start": 97.5,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+      },
+      {
+        "start": 97.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can try."
+      },
+      {
+        "start": 100.5,
+        "end": 104.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves."
+      },
+      {
+        "start": 104.5,
+        "end": 107.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar."
+      },
+      {
+        "start": 104.5,
+        "end": 112.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs."
+      },
+      {
+        "start": 107.0,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority."
+      },
+      {
+        "start": 107.5,
+        "end": 112.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The charcoal may help remove what is still inside her. We must act quickly."
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 434
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 62.0,
+        "end": 82.5,
+        "duration": 20.5,
+        "start_time_fmt": "01:02.00",
+        "end_time_fmt": "01:22.50"
+      }
+    ],
+    "total_duration": 20.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.5,
+    "composite_score": 7.1,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Sharp intake of breath from Prudence.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 62.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background."
+      },
+      {
+        "start": 62.0,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting."
+      },
+      {
+        "start": 69.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence staring back in stunned disbelief."
+      },
+      {
+        "start": 70.5,
+        "end": 73.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana speaking with absolute certainty."
+      },
+      {
+        "start": 70.5,
+        "end": 73.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have seen these symptoms before."
+      },
+      {
+        "start": 73.8,
+        "end": 76.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's terrified face."
+      },
+      {
+        "start": 73.8,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What are you saying?"
+      },
+      {
+        "start": 76.0,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+      },
+      {
+        "start": 78.5,
+        "end": 81.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "start": 79.0,
+        "end": 81.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Someone is poisoning her."
+      },
+      {
+        "start": 81.5,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+      },
+      {
+        "start": 81.5,
+        "end": 82.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp intake of breath from Prudence."
+      }
+    ],
+    "final_score": 7.1,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 566
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 86.0,
+        "end": 124.5,
+        "duration": 38.5,
+        "start_time_fmt": "01:26.00",
+        "end_time_fmt": "02:04.50"
+      }
+    ],
+    "total_duration": 38.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.5,
+    "composite_score": 7.1,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Arsenic.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Prudence staring at the door in utter terror, her face drained of all color.",
+    "why_it_works": "At 38s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 86.0,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Arsenic."
+      },
+      {
+        "start": 88.0,
+        "end": 90.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden violent coughing and sputtering from the Duchess."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+      },
+      {
+        "start": 91.0,
+        "end": 94.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+      },
+      {
+        "start": 94.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Can you save her?"
+      },
+      {
+        "start": 97.5,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+      },
+      {
+        "start": 97.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can try."
+      },
+      {
+        "start": 100.5,
+        "end": 104.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves."
+      },
+      {
+        "start": 104.5,
+        "end": 107.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar."
+      },
+      {
+        "start": 104.5,
+        "end": 112.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs."
+      },
+      {
+        "start": 107.0,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority."
+      },
+      {
+        "start": 107.5,
+        "end": 112.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The charcoal may help remove what is still inside her. We must act quickly."
+      },
+      {
+        "start": 112.2,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!"
+      },
+      {
+        "start": 112.5,
+        "end": 115.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed."
+      },
+      {
+        "start": 115.0,
+        "end": 116.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing mid-motion, turning her head sharply toward the chamber door."
+      },
+      {
+        "start": 116.5,
+        "end": 118.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the ornate brass door handle on the dark carved wooden door."
+      },
+      {
+        "start": 118.5,
+        "end": 124.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence staring at the door in utter terror, her face drained of all color."
+      }
+    ],
+    "final_score": 7.1,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 567
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 16.8,
+        "end": 38.5,
+        "duration": 21.7,
+        "start_time_fmt": "00:16.80",
+        "end_time_fmt": "00:38.50"
+      }
+    ],
+    "total_duration": 21.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.95,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Weeks.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 16.8,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes."
+      },
+      {
+        "start": 16.8,
+        "end": 19.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Weeks."
+      },
+      {
+        "start": 20.0,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parched lips."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's concerned face as she withdraws her finger from the Duchess's mouth."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her mouth is terribly dry."
+      },
+      {
+        "start": 27.5,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Lady Juliana presses her fingertips gently against the Duchess's wrist, feeling for a pulse."
+      },
+      {
+        "start": 29.0,
+        "end": 31.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her pulse is weak."
+      },
+      {
+        "start": 31.5,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence holding the flickering candle, crying openly in distress."
+      },
+      {
+        "start": 32.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "The physician said her heart is failing."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe."
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 645
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 94.5,
+        "end": 115.0,
+        "duration": 20.5,
+        "start_time_fmt": "01:34.50",
+        "end_time_fmt": "01:55.00"
+      }
+    ],
+    "total_duration": 20.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.95,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Can you save her?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 94.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Can you save her?"
+      },
+      {
+        "start": 97.5,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+      },
+      {
+        "start": 97.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can try."
+      },
+      {
+        "start": 100.5,
+        "end": 104.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves."
+      },
+      {
+        "start": 104.5,
+        "end": 107.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar."
+      },
+      {
+        "start": 104.5,
+        "end": 112.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs."
+      },
+      {
+        "start": 107.0,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority."
+      },
+      {
+        "start": 107.5,
+        "end": 112.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The charcoal may help remove what is still inside her. We must act quickly."
+      },
+      {
+        "start": 112.2,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!"
+      },
+      {
+        "start": 112.5,
+        "end": 115.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed."
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 646
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 84.5,
+        "end": 104.5,
+        "duration": 20.0,
+        "start_time_fmt": "01:24.50",
+        "end_time_fmt": "01:44.50"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 7.3,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.5,
+    "composite_score": 6.89,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Arsenic.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 84.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust."
+      },
+      {
+        "start": 86.0,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Arsenic."
+      },
+      {
+        "start": 88.0,
+        "end": 90.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden violent coughing and sputtering from the Duchess."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+      },
+      {
+        "start": 91.0,
+        "end": 94.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+      },
+      {
+        "start": 94.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Can you save her?"
+      },
+      {
+        "start": 97.5,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+      },
+      {
+        "start": 97.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can try."
+      },
+      {
+        "start": 100.5,
+        "end": 104.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves."
+      }
+    ],
+    "final_score": 6.89,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 670
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 57.5,
+        "end": 116.5,
+        "duration": 59.0,
+        "start_time_fmt": "00:57.50",
+        "end_time_fmt": "01:56.50"
+      }
+    ],
+    "total_duration": 59.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.88,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Mother.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot of Juliana freezing mid-motion, turning her head sharply toward the chamber door.",
+    "why_it_works": "At 59s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 57.5,
+        "end": 58.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana draws in a sharp, startled breath, her eyes widening in horror."
+      },
+      {
+        "start": 58.5,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from the page, stunned by her mother's written words."
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning in, candle trembling."
+      },
+      {
+        "start": 60.8,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What is it?"
+      },
+      {
+        "start": 62.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background."
+      },
+      {
+        "start": 62.0,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting."
+      },
+      {
+        "start": 69.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence staring back in stunned disbelief."
+      },
+      {
+        "start": 70.5,
+        "end": 73.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana speaking with absolute certainty."
+      },
+      {
+        "start": 70.5,
+        "end": 73.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have seen these symptoms before."
+      },
+      {
+        "start": 73.8,
+        "end": 76.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's terrified face."
+      },
+      {
+        "start": 73.8,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What are you saying?"
+      },
+      {
+        "start": 76.0,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+      },
+      {
+        "start": 78.5,
+        "end": 81.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "start": 79.0,
+        "end": 81.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Someone is poisoning her."
+      },
+      {
+        "start": 81.5,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+      },
+      {
+        "start": 81.5,
+        "end": 82.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp intake of breath from Prudence."
+      },
+      {
+        "start": 82.0,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Poison?"
+      },
+      {
+        "start": 84.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust."
+      },
+      {
+        "start": 86.0,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Arsenic."
+      },
+      {
+        "start": 88.0,
+        "end": 90.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden violent coughing and sputtering from the Duchess."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+      },
+      {
+        "start": 91.0,
+        "end": 94.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+      },
+      {
+        "start": 94.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Can you save her?"
+      },
+      {
+        "start": 97.5,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+      },
+      {
+        "start": 97.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can try."
+      },
+      {
+        "start": 100.5,
+        "end": 104.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves."
+      },
+      {
+        "start": 104.5,
+        "end": 107.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar."
+      },
+      {
+        "start": 104.5,
+        "end": 112.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs."
+      },
+      {
+        "start": 107.0,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority."
+      },
+      {
+        "start": 107.5,
+        "end": 112.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The charcoal may help remove what is still inside her. We must act quickly."
+      },
+      {
+        "start": 112.2,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!"
+      },
+      {
+        "start": 112.5,
+        "end": 115.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed."
+      },
+      {
+        "start": 115.0,
+        "end": 116.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing mid-motion, turning her head sharply toward the chamber door."
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 674
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 73.8,
+        "end": 94.5,
+        "duration": 20.7,
+        "start_time_fmt": "01:13.80",
+        "end_time_fmt": "01:34.50"
+      }
+    ],
+    "total_duration": 20.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.5,
+    "composite_score": 6.65,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"What are you saying?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 73.8,
+        "end": 76.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's terrified face."
+      },
+      {
+        "start": 73.8,
+        "end": 75.8,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "What are you saying?"
+      },
+      {
+        "start": 76.0,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+      },
+      {
+        "start": 78.5,
+        "end": 81.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "start": 79.0,
+        "end": 81.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Someone is poisoning her."
+      },
+      {
+        "start": 81.5,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+      },
+      {
+        "start": 81.5,
+        "end": 82.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp intake of breath from Prudence."
+      },
+      {
+        "start": 82.0,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Poison?"
+      },
+      {
+        "start": 84.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust."
+      },
+      {
+        "start": 86.0,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Arsenic."
+      },
+      {
+        "start": 88.0,
+        "end": 90.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden violent coughing and sputtering from the Duchess."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+      },
+      {
+        "start": 91.0,
+        "end": 94.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+      }
+    ],
+    "final_score": 6.65,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 768
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 1.8,
+        "end": 24.0,
+        "duration": 22.2,
+        "start_time_fmt": "00:01.80",
+        "end_time_fmt": "00:24.00"
+      }
+    ],
+    "total_duration": 22.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.5,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Juliana, we cannot stay for long. Someone will come.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parched lips.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 1.8,
+        "end": 6.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence holding a brass candlestick with trembling hands, glancing nervously toward the doorway."
+      },
+      {
+        "start": 1.8,
+        "end": 6.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Juliana, we cannot stay for long. Someone will come."
+      },
+      {
+        "start": 6.5,
+        "end": 11.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana gently lifting the frail, trembling hands of the Dowager Duchess resting atop the linen covers."
+      },
+      {
+        "start": 7.5,
+        "end": 11.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana cradles the Duchess's frail hands in hers, inspecting her fingers with furrowed brows."
+      },
+      {
+        "start": 11.8,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess's fingertips, revealing pronounced dark, purplish-black discoloration beneath the nails."
+      },
+      {
+        "start": 13.5,
+        "end": 16.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "How long has she been like this?"
+      },
+      {
+        "start": 16.8,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes."
+      },
+      {
+        "start": 16.8,
+        "end": 19.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Weeks."
+      },
+      {
+        "start": 20.0,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parched lips."
+      }
+    ],
+    "final_score": 6.5,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 800
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 1.8,
+        "end": 43.0,
+        "duration": 41.2,
+        "start_time_fmt": "00:01.80",
+        "end_time_fmt": "00:43.00"
+      }
+    ],
+    "total_duration": 41.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"Juliana, we cannot stay for long. Someone will come.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism.",
+    "why_it_works": "At 41s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 1.8,
+        "end": 6.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Prudence holding a brass candlestick with trembling hands, glancing nervously toward the doorway."
+      },
+      {
+        "start": 1.8,
+        "end": 6.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Juliana, we cannot stay for long. Someone will come."
+      },
+      {
+        "start": 6.5,
+        "end": 11.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana gently lifting the frail, trembling hands of the Dowager Duchess resting atop the linen covers."
+      },
+      {
+        "start": 7.5,
+        "end": 11.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana cradles the Duchess's frail hands in hers, inspecting her fingers with furrowed brows."
+      },
+      {
+        "start": 11.8,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess's fingertips, revealing pronounced dark, purplish-black discoloration beneath the nails."
+      },
+      {
+        "start": 13.5,
+        "end": 16.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "How long has she been like this?"
+      },
+      {
+        "start": 16.8,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes."
+      },
+      {
+        "start": 16.8,
+        "end": 19.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Weeks."
+      },
+      {
+        "start": 20.0,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parched lips."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's concerned face as she withdraws her finger from the Duchess's mouth."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her mouth is terribly dry."
+      },
+      {
+        "start": 27.5,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Lady Juliana presses her fingertips gently against the Duchess's wrist, feeling for a pulse."
+      },
+      {
+        "start": 29.0,
+        "end": 31.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her pulse is weak."
+      },
+      {
+        "start": 31.5,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence holding the flickering candle, crying openly in distress."
+      },
+      {
+        "start": 32.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "The physician said her heart is failing."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Duchess's raspy, labored inhalation."
+      },
+      {
+        "start": 38.5,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 833
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 24.0,
+        "end": 48.0,
+        "duration": 24.0,
+        "start_time_fmt": "00:24.00",
+        "end_time_fmt": "00:48.00"
+      }
+    ],
+    "total_duration": 24.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Her mouth is terribly dry.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Quick reaction shot of Prudence staring with wide, bewildered eyes.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's concerned face as she withdraws her finger from the Duchess's mouth."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her mouth is terribly dry."
+      },
+      {
+        "start": 27.5,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Lady Juliana presses her fingertips gently against the Duchess's wrist, feeling for a pulse."
+      },
+      {
+        "start": 29.0,
+        "end": 31.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her pulse is weak."
+      },
+      {
+        "start": 31.5,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence holding the flickering candle, crying openly in distress."
+      },
+      {
+        "start": 32.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "The physician said her heart is failing."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Duchess's raspy, labored inhalation."
+      },
+      {
+        "start": 38.5,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism."
+      },
+      {
+        "start": 40.8,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No."
+      },
+      {
+        "start": 43.0,
+        "end": 46.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook."
+      },
+      {
+        "start": 43.8,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is not simply old age."
+      },
+      {
+        "start": 46.5,
+        "end": 48.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick reaction shot of Prudence staring with wide, bewildered eyes."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 834
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 31.5,
+        "end": 53.5,
+        "duration": 22.0,
+        "start_time_fmt": "00:31.50",
+        "end_time_fmt": "00:53.50"
+      }
+    ],
+    "total_duration": 22.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.35,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"The physician said her heart is failing.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 31.5,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence holding the flickering candle, crying openly in distress."
+      },
+      {
+        "start": 32.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "The physician said her heart is failing."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe."
+      },
+      {
+        "start": 36.0,
+        "end": 38.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Duchess's raspy, labored inhalation."
+      },
+      {
+        "start": 38.5,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism."
+      },
+      {
+        "start": 40.8,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No."
+      },
+      {
+        "start": 43.0,
+        "end": 46.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook."
+      },
+      {
+        "start": 43.8,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is not simply old age."
+      },
+      {
+        "start": 46.5,
+        "end": 48.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick reaction shot of Prudence staring with wide, bewildered eyes."
+      },
+      {
+        "start": 48.0,
+        "end": 53.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages."
+      }
+    ],
+    "final_score": 6.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 847
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 97.5,
+        "end": 131.2,
+        "duration": 33.7,
+        "start_time_fmt": "01:37.50",
+        "end_time_fmt": "02:11.20"
+      }
+    ],
+    "total_duration": 33.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.35,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I can try.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Loud, metallic clack of the door latch turning, followed by the slow creak of wood hinges.",
+    "why_it_works": "At 34s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 97.5,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+      },
+      {
+        "start": 97.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I can try."
+      },
+      {
+        "start": 100.5,
+        "end": 104.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves."
+      },
+      {
+        "start": 104.5,
+        "end": 107.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar."
+      },
+      {
+        "start": 104.5,
+        "end": 112.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs."
+      },
+      {
+        "start": 107.0,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority."
+      },
+      {
+        "start": 107.5,
+        "end": 112.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The charcoal may help remove what is still inside her. We must act quickly."
+      },
+      {
+        "start": 112.2,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!"
+      },
+      {
+        "start": 112.5,
+        "end": 115.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed."
+      },
+      {
+        "start": 115.0,
+        "end": 116.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing mid-motion, turning her head sharply toward the chamber door."
+      },
+      {
+        "start": 116.5,
+        "end": 118.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the ornate brass door handle on the dark carved wooden door."
+      },
+      {
+        "start": 118.5,
+        "end": 124.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence staring at the door in utter terror, her face drained of all color."
+      },
+      {
+        "start": 118.8,
+        "end": 124.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Juliana... someone is coming."
+      },
+      {
+        "start": 124.5,
+        "end": 127.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick cut to Juliana looking back toward the bed and then toward the door, trapped with an unfinished cure."
+      },
+      {
+        "start": 127.5,
+        "end": 129.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's charcoal-blackened hand clutching the glass medicine vial firmly."
+      },
+      {
+        "start": 129.2,
+        "end": 131.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Loud, metallic clack of the door latch turning, followed by the slow creak of wood hinges."
+      }
+    ],
+    "final_score": 6.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 848
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 107.5,
+        "end": 127.5,
+        "duration": 20.0,
+        "start_time_fmt": "01:47.50",
+        "end_time_fmt": "02:07.50"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 5.5,
+    "composite_score": 6.2,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"The charcoal may help remove what is still inside her. We must act quickly.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Quick cut to Juliana looking back toward the bed and then toward the door, trapped with an unfinished cure.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 107.5,
+        "end": 112.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The charcoal may help remove what is still inside her. We must act quickly."
+      },
+      {
+        "start": 112.2,
+        "end": 114.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!"
+      },
+      {
+        "start": 112.5,
+        "end": 115.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed."
+      },
+      {
+        "start": 115.0,
+        "end": 116.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing mid-motion, turning her head sharply toward the chamber door."
+      },
+      {
+        "start": 116.5,
+        "end": 118.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the ornate brass door handle on the dark carved wooden door."
+      },
+      {
+        "start": 118.5,
+        "end": 124.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence staring at the door in utter terror, her face drained of all color."
+      },
+      {
+        "start": 118.8,
+        "end": 124.0,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Juliana... someone is coming."
+      },
+      {
+        "start": 124.5,
+        "end": 127.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick cut to Juliana looking back toward the bed and then toward the door, trapped with an unfinished cure."
+      }
+    ],
+    "final_score": 6.2,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 866
+  },
+  {
+    "episode": 23,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 23,
+        "start": 7.5,
+        "end": 31.5,
+        "duration": 24.0,
+        "start_time_fmt": "00:07.50",
+        "end_time_fmt": "00:31.50"
+      }
+    ],
+    "total_duration": 24.0,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.05,
+    "hook": "Opens with immediate physical drama: Juliana cradles the Duchess's frail hands in hers, inspecting her fingers with furrowed brows.",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot as Lady Juliana presses her fingertips gently against the Duchess's wrist, feeling for a pulse.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 7.5,
+        "end": 11.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana cradles the Duchess's frail hands in hers, inspecting her fingers with furrowed brows."
+      },
+      {
+        "start": 11.8,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess's fingertips, revealing pronounced dark, purplish-black discoloration beneath the nails."
+      },
+      {
+        "start": 13.5,
+        "end": 16.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "How long has she been like this?"
+      },
+      {
+        "start": 16.8,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes."
+      },
+      {
+        "start": 16.8,
+        "end": 19.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "Weeks."
+      },
+      {
+        "start": 20.0,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parched lips."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Lady Juliana's concerned face as she withdraws her finger from the Duchess's mouth."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Her mouth is terribly dry."
+      },
+      {
+        "start": 27.5,
+        "end": 31.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Lady Juliana presses her fingertips gently against the Duchess's wrist, feeling for a pulse."
+      }
+    ],
+    "final_score": 6.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 876
+  }
+]

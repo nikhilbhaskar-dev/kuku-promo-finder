@@ -1,0 +1,1324 @@
+[
+  {
+    "episode": 42,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 42,
+        "start": 17.9,
+        "end": 77.5,
+        "duration": 59.6,
+        "start_time_fmt": "00:17.90",
+        "end_time_fmt": "01:17.50"
+      }
+    ],
+    "total_duration": 59.6,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.49,
+    "hook": "BLOND NOBLEMAN shocks the viewer with an immediate confrontation: \"Guards! Arrest this imposter!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"And now, Rupert... we settle what you stole.\"\n\n--- SCRIPT END ---\", leaving the outcome hanging.",
+    "why_it_works": "At 60s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 17.9,
+        "end": 21.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander."
+      },
+      {
+        "start": 18.0,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Guards! Arrest this imposter!"
+      },
+      {
+        "start": 21.5,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre."
+      },
+      {
+        "start": 22.0,
+        "end": 23.4,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "We will not."
+      },
+      {
+        "start": 23.4,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Rupert, veins bulging in his neck as his composure shatters."
+      },
+      {
+        "start": 23.5,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "I said arrest him!"
+      },
+      {
+        "start": 25.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Why?!"
+      },
+      {
+        "start": 26.5,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Royal Guard holding his upright blade with unwavering conviction."
+      },
+      {
+        "start": 26.7,
+        "end": 28.8,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "Because we know who he is."
+      },
+      {
+        "start": 28.8,
+        "end": 30.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face."
+      },
+      {
+        "start": 29.0,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Rupert..."
+      },
+      {
+        "start": 30.4,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror."
+      },
+      {
+        "start": 30.5,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You cannot be him. Alexander died!"
+      },
+      {
+        "start": 33.8,
+        "end": 39.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave."
+      },
+      {
+        "start": 34.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "And yet, here I stand. That is the lie you built your life upon."
+      },
+      {
+        "start": 39.9,
+        "end": 44.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe."
+      },
+      {
+        "start": 40.2,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander..."
+      },
+      {
+        "start": 44.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest."
+      },
+      {
+        "start": 48.0,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother."
+      },
+      {
+        "start": 49.0,
+        "end": 54.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence."
+      },
+      {
+        "start": 49.2,
+        "end": 53.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Look at you... my beautiful boy."
+      },
+      {
+        "start": 54.0,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framed down the ruined nave between Alexander and his mother."
+      },
+      {
+        "start": 54.0,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I saw you again... but seeing you like this... I see my son as he was always meant to be."
+      },
+      {
+        "start": 62.0,
+        "end": 64.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I have come home, Mother."
+      },
+      {
+        "start": 64.0,
+        "end": 72.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander."
+      },
+      {
+        "start": 64.2,
+        "end": 72.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!"
+      },
+      {
+        "start": 72.5,
+        "end": 73.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated."
+      },
+      {
+        "start": 73.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution."
+      },
+      {
+        "start": 73.8,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "And now, Rupert... we settle what you stole.\"\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 8.49,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 34
+  },
+  {
+    "episode": 42,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 42,
+        "start": 17.9,
+        "end": 42.5,
+        "duration": 24.6,
+        "start_time_fmt": "00:17.90",
+        "end_time_fmt": "00:42.50"
+      }
+    ],
+    "total_duration": 24.6,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.29,
+    "hook": "BLOND NOBLEMAN shocks the viewer with an immediate confrontation: \"Guards! Arrest this imposter!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Alexander...\", leaving the outcome hanging.",
+    "why_it_works": "At 25s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 17.9,
+        "end": 21.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander."
+      },
+      {
+        "start": 18.0,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Guards! Arrest this imposter!"
+      },
+      {
+        "start": 21.5,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre."
+      },
+      {
+        "start": 22.0,
+        "end": 23.4,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "We will not."
+      },
+      {
+        "start": 23.4,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Rupert, veins bulging in his neck as his composure shatters."
+      },
+      {
+        "start": 23.5,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "I said arrest him!"
+      },
+      {
+        "start": 25.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Why?!"
+      },
+      {
+        "start": 26.5,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Royal Guard holding his upright blade with unwavering conviction."
+      },
+      {
+        "start": 26.7,
+        "end": 28.8,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "Because we know who he is."
+      },
+      {
+        "start": 28.8,
+        "end": 30.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face."
+      },
+      {
+        "start": 29.0,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Rupert..."
+      },
+      {
+        "start": 30.4,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror."
+      },
+      {
+        "start": 30.5,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You cannot be him. Alexander died!"
+      },
+      {
+        "start": 33.8,
+        "end": 39.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave."
+      },
+      {
+        "start": 34.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "And yet, here I stand. That is the lie you built your life upon."
+      },
+      {
+        "start": 39.9,
+        "end": 44.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe."
+      },
+      {
+        "start": 40.2,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander..."
+      }
+    ],
+    "final_score": 8.29,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 73
+  },
+  {
+    "episode": 42,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 42,
+        "start": 33.8,
+        "end": 61.8,
+        "duration": 28.0,
+        "start_time_fmt": "00:33.80",
+        "end_time_fmt": "01:01.80"
+      }
+    ],
+    "total_duration": 28.0,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.21,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"And yet, here I stand. That is the lie you built your life upon.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"I saw you again... but seeing you like this... I see my son as he was always meant to be.\", leaving the outcome hanging.",
+    "why_it_works": "At 28s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 33.8,
+        "end": 39.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave."
+      },
+      {
+        "start": 34.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "And yet, here I stand. That is the lie you built your life upon."
+      },
+      {
+        "start": 39.9,
+        "end": 44.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe."
+      },
+      {
+        "start": 40.2,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander..."
+      },
+      {
+        "start": 44.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest."
+      },
+      {
+        "start": 48.0,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother."
+      },
+      {
+        "start": 49.0,
+        "end": 54.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence."
+      },
+      {
+        "start": 49.2,
+        "end": 53.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Look at you... my beautiful boy."
+      },
+      {
+        "start": 54.0,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framed down the ruined nave between Alexander and his mother."
+      },
+      {
+        "start": 54.0,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I saw you again... but seeing you like this... I see my son as he was always meant to be."
+      }
+    ],
+    "final_score": 8.21,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 81
+  },
+  {
+    "episode": 42,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 42,
+        "start": 54.0,
+        "end": 77.5,
+        "duration": 23.5,
+        "start_time_fmt": "00:54.00",
+        "end_time_fmt": "01:17.50"
+      }
+    ],
+    "total_duration": 23.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.5,
+    "composite_score": 8.05,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"I saw you again... but seeing you like this... I see my son as he was always meant to be.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"And now, Rupert... we settle what you stole.\"\n\n--- SCRIPT END ---\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 54.0,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framed down the ruined nave between Alexander and his mother."
+      },
+      {
+        "start": 54.0,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I saw you again... but seeing you like this... I see my son as he was always meant to be."
+      },
+      {
+        "start": 62.0,
+        "end": 64.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I have come home, Mother."
+      },
+      {
+        "start": 64.0,
+        "end": 72.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander."
+      },
+      {
+        "start": 64.2,
+        "end": 72.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!"
+      },
+      {
+        "start": 72.5,
+        "end": 73.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated."
+      },
+      {
+        "start": 73.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution."
+      },
+      {
+        "start": 73.8,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "And now, Rupert... we settle what you stole.\"\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 8.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 142
+  },
+  {
+    "episode": 42,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 42,
+        "start": 23.4,
+        "end": 54.0,
+        "duration": 30.6,
+        "start_time_fmt": "00:23.40",
+        "end_time_fmt": "00:54.00"
+      }
+    ],
+    "total_duration": 30.6,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.04,
+    "hook": "BLOND NOBLEMAN shocks the viewer with an immediate confrontation: \"I said arrest him!\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.",
+    "why_it_works": "At 31s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 23.4,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Rupert, veins bulging in his neck as his composure shatters."
+      },
+      {
+        "start": 23.5,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "I said arrest him!"
+      },
+      {
+        "start": 25.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Why?!"
+      },
+      {
+        "start": 26.5,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Royal Guard holding his upright blade with unwavering conviction."
+      },
+      {
+        "start": 26.7,
+        "end": 28.8,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "Because we know who he is."
+      },
+      {
+        "start": 28.8,
+        "end": 30.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face."
+      },
+      {
+        "start": 29.0,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Rupert..."
+      },
+      {
+        "start": 30.4,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror."
+      },
+      {
+        "start": 30.5,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You cannot be him. Alexander died!"
+      },
+      {
+        "start": 33.8,
+        "end": 39.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave."
+      },
+      {
+        "start": 34.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "And yet, here I stand. That is the lie you built your life upon."
+      },
+      {
+        "start": 39.9,
+        "end": 44.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe."
+      },
+      {
+        "start": 40.2,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander..."
+      },
+      {
+        "start": 44.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest."
+      },
+      {
+        "start": 48.0,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother."
+      },
+      {
+        "start": 49.0,
+        "end": 54.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence."
+      }
+    ],
+    "final_score": 8.04,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 145
+  },
+  {
+    "episode": 42,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 42,
+        "start": 11.2,
+        "end": 33.8,
+        "duration": 22.6,
+        "start_time_fmt": "00:11.20",
+        "end_time_fmt": "00:33.80"
+      }
+    ],
+    "total_duration": 22.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.72,
+    "hook": "BLOND NOBLEMAN shocks the viewer with an immediate confrontation: \"Who are you?\"",
+    "cliffhanger": "Cuts sharply on BLOND NOBLEMAN's unresolved words: \"You cannot be him. Alexander died!\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 11.2,
+        "end": 12.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Who are you?"
+      },
+      {
+        "start": 12.8,
+        "end": 14.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "You already know."
+      },
+      {
+        "start": 14.6,
+        "end": 16.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her manacled hands clutching at her smock as tears well in her eyes."
+      },
+      {
+        "start": 15.0,
+        "end": 16.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      },
+      {
+        "start": 16.6,
+        "end": 17.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his gaze softening momentarily toward her."
+      },
+      {
+        "start": 16.8,
+        "end": 17.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana."
+      },
+      {
+        "start": 17.9,
+        "end": 21.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander."
+      },
+      {
+        "start": 18.0,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Guards! Arrest this imposter!"
+      },
+      {
+        "start": 21.5,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre."
+      },
+      {
+        "start": 22.0,
+        "end": 23.4,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "We will not."
+      },
+      {
+        "start": 23.4,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Rupert, veins bulging in his neck as his composure shatters."
+      },
+      {
+        "start": 23.5,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "I said arrest him!"
+      },
+      {
+        "start": 25.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Why?!"
+      },
+      {
+        "start": 26.5,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Royal Guard holding his upright blade with unwavering conviction."
+      },
+      {
+        "start": 26.7,
+        "end": 28.8,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "Because we know who he is."
+      },
+      {
+        "start": 28.8,
+        "end": 30.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face."
+      },
+      {
+        "start": 29.0,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Rupert..."
+      },
+      {
+        "start": 30.4,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror."
+      },
+      {
+        "start": 30.5,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You cannot be him. Alexander died!"
+      }
+    ],
+    "final_score": 7.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 264
+  },
+  {
+    "episode": 42,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 42,
+        "start": 39.9,
+        "end": 72.4,
+        "duration": 32.5,
+        "start_time_fmt": "00:39.90",
+        "end_time_fmt": "01:12.40"
+      }
+    ],
+    "total_duration": 32.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.32,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"Alexander...\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!\", leaving the outcome hanging.",
+    "why_it_works": "At 32s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 39.9,
+        "end": 44.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe."
+      },
+      {
+        "start": 40.2,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander..."
+      },
+      {
+        "start": 44.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest."
+      },
+      {
+        "start": 48.0,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother."
+      },
+      {
+        "start": 49.0,
+        "end": 54.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence."
+      },
+      {
+        "start": 49.2,
+        "end": 53.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Look at you... my beautiful boy."
+      },
+      {
+        "start": 54.0,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framed down the ruined nave between Alexander and his mother."
+      },
+      {
+        "start": 54.0,
+        "end": 61.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I saw you again... but seeing you like this... I see my son as he was always meant to be."
+      },
+      {
+        "start": 62.0,
+        "end": 64.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I have come home, Mother."
+      },
+      {
+        "start": 64.0,
+        "end": 72.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander."
+      },
+      {
+        "start": 64.2,
+        "end": 72.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!"
+      }
+    ],
+    "final_score": 7.32,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 460
+  },
+  {
+    "episode": 42,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 42,
+        "start": 0.0,
+        "end": 26.5,
+        "duration": 26.5,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:26.50"
+      }
+    ],
+    "total_duration": 26.5,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 8.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.22,
+    "hook": "Opens with immediate physical drama: Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority.",
+    "cliffhanger": "Cuts sharply on BLOND NOBLEMAN's unresolved words: \"Why?!\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 10.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidered navy coat."
+      },
+      {
+        "start": 1.0,
+        "end": 10.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority."
+      },
+      {
+        "start": 11.2,
+        "end": 12.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Who are you?"
+      },
+      {
+        "start": 12.8,
+        "end": 14.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "You already know."
+      },
+      {
+        "start": 14.6,
+        "end": 16.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her manacled hands clutching at her smock as tears well in her eyes."
+      },
+      {
+        "start": 15.0,
+        "end": 16.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      },
+      {
+        "start": 16.6,
+        "end": 17.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his gaze softening momentarily toward her."
+      },
+      {
+        "start": 16.8,
+        "end": 17.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana."
+      },
+      {
+        "start": 17.9,
+        "end": 21.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander."
+      },
+      {
+        "start": 18.0,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Guards! Arrest this imposter!"
+      },
+      {
+        "start": 21.5,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre."
+      },
+      {
+        "start": 22.0,
+        "end": 23.4,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "We will not."
+      },
+      {
+        "start": 23.4,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Rupert, veins bulging in his neck as his composure shatters."
+      },
+      {
+        "start": 23.5,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "I said arrest him!"
+      },
+      {
+        "start": 25.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Why?!"
+      }
+    ],
+    "final_score": 7.22,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 514
+  },
+  {
+    "episode": 42,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 42,
+        "start": 1.0,
+        "end": 42.5,
+        "duration": 41.5,
+        "start_time_fmt": "00:01.00",
+        "end_time_fmt": "00:42.50"
+      }
+    ],
+    "total_duration": 41.5,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.03,
+    "hook": "Opens with immediate physical drama: Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority.",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Alexander...\", leaving the outcome hanging.",
+    "why_it_works": "At 42s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 1.0,
+        "end": 10.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority."
+      },
+      {
+        "start": 11.2,
+        "end": 12.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Who are you?"
+      },
+      {
+        "start": 12.8,
+        "end": 14.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "You already know."
+      },
+      {
+        "start": 14.6,
+        "end": 16.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her manacled hands clutching at her smock as tears well in her eyes."
+      },
+      {
+        "start": 15.0,
+        "end": 16.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander..."
+      },
+      {
+        "start": 16.6,
+        "end": 17.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his gaze softening momentarily toward her."
+      },
+      {
+        "start": 16.8,
+        "end": 17.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Juliana."
+      },
+      {
+        "start": 17.9,
+        "end": 21.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander."
+      },
+      {
+        "start": 18.0,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Guards! Arrest this imposter!"
+      },
+      {
+        "start": 21.5,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre."
+      },
+      {
+        "start": 22.0,
+        "end": 23.4,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "We will not."
+      },
+      {
+        "start": 23.4,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Rupert, veins bulging in his neck as his composure shatters."
+      },
+      {
+        "start": 23.5,
+        "end": 25.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "I said arrest him!"
+      },
+      {
+        "start": 25.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Why?!"
+      },
+      {
+        "start": 26.5,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Royal Guard holding his upright blade with unwavering conviction."
+      },
+      {
+        "start": 26.7,
+        "end": 28.8,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "Because we know who he is."
+      },
+      {
+        "start": 28.8,
+        "end": 30.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face."
+      },
+      {
+        "start": 29.0,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Rupert..."
+      },
+      {
+        "start": 30.4,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror."
+      },
+      {
+        "start": 30.5,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You cannot be him. Alexander died!"
+      },
+      {
+        "start": 33.8,
+        "end": 39.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave."
+      },
+      {
+        "start": 34.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "And yet, here I stand. That is the lie you built your life upon."
+      },
+      {
+        "start": 39.9,
+        "end": 44.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe."
+      },
+      {
+        "start": 40.2,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander..."
+      }
+    ],
+    "final_score": 7.03,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 596
+  }
+]

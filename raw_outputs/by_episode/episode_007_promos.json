@@ -1,0 +1,2493 @@
+[
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 24.5,
+        "end": 69.5,
+        "duration": 45.0,
+        "start_time_fmt": "00:24.50",
+        "end_time_fmt": "01:09.50"
+      }
+    ],
+    "total_duration": 45.0,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 9.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 9.06,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"A fitting home for a woman who threw away everything for a penniless soldier.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"And your husband?\", leaving the outcome hanging.",
+    "why_it_works": "At 45s, this promo stops feed scroll with immediate high-status conflict and cuts at peak unresolved tension to drive instant next-episode clicks, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 24.5,
+        "end": 29.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully."
+      },
+      {
+        "start": 25.0,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "A fitting home for a woman who threw away everything for a penniless soldier."
+      },
+      {
+        "start": 29.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair."
+      },
+      {
+        "start": 30.0,
+        "end": 32.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You came all this way just to insult my home?"
+      },
+      {
+        "start": 32.8,
+        "end": 37.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol."
+      },
+      {
+        "start": 33.2,
+        "end": 37.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Home? Look at your hands, Juliana."
+      },
+      {
+        "start": 37.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's mud-stained palms held open against her apron."
+      },
+      {
+        "start": 38.2,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "You look like a servant."
+      },
+      {
+        "start": 39.8,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald's smug expression watching Juliana."
+      },
+      {
+        "start": 41.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana lifting her chin with unwavering dignity."
+      },
+      {
+        "start": 41.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I work with my hands. There is no shame in that."
+      },
+      {
+        "start": 45.0,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Gerald's tightening jaw."
+      },
+      {
+        "start": 45.2,
+        "end": 46.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You were born a lady."
+      },
+      {
+        "start": 47.0,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+      },
+      {
+        "start": 48.8,
+        "end": 50.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I remain one."
+      },
+      {
+        "start": 50.8,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "start": 51.5,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You chose that scarred beggar over a life of comfort."
+      },
+      {
+        "start": 54.8,
+        "end": 61.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+      },
+      {
+        "start": 57.8,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I chose a man who stood beside me when you walked away."
+      },
+      {
+        "start": 61.5,
+        "end": 65.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana dismissing him with utter contempt."
+      },
+      {
+        "start": 61.8,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have no authority here. Leave."
+      },
+      {
+        "start": 65.2,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face."
+      },
+      {
+        "start": 65.6,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I have enough influence to make a beggar disappear."
+      },
+      {
+        "start": 68.6,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "And your husband?"
+      }
+    ],
+    "final_score": 9.06,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 3
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 32.8,
+        "end": 90.0,
+        "duration": 57.2,
+        "start_time_fmt": "00:32.80",
+        "end_time_fmt": "01:30.00"
+      }
+    ],
+    "total_duration": 57.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 8.05,
+    "hook": "ARISTOCRATIC WOMAN shocks the viewer with an immediate confrontation: \"Home? Look at your hands, Juliana.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"What are you staring at?\", leaving the outcome hanging.",
+    "why_it_works": "At 57s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 32.8,
+        "end": 37.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol."
+      },
+      {
+        "start": 33.2,
+        "end": 37.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Home? Look at your hands, Juliana."
+      },
+      {
+        "start": 37.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's mud-stained palms held open against her apron."
+      },
+      {
+        "start": 38.2,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "You look like a servant."
+      },
+      {
+        "start": 39.8,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald's smug expression watching Juliana."
+      },
+      {
+        "start": 41.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana lifting her chin with unwavering dignity."
+      },
+      {
+        "start": 41.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I work with my hands. There is no shame in that."
+      },
+      {
+        "start": 45.0,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Gerald's tightening jaw."
+      },
+      {
+        "start": 45.2,
+        "end": 46.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You were born a lady."
+      },
+      {
+        "start": 47.0,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+      },
+      {
+        "start": 48.8,
+        "end": 50.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I remain one."
+      },
+      {
+        "start": 50.8,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "start": 51.5,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You chose that scarred beggar over a life of comfort."
+      },
+      {
+        "start": 54.8,
+        "end": 61.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+      },
+      {
+        "start": 57.8,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I chose a man who stood beside me when you walked away."
+      },
+      {
+        "start": 61.5,
+        "end": 65.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana dismissing him with utter contempt."
+      },
+      {
+        "start": 61.8,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have no authority here. Leave."
+      },
+      {
+        "start": 65.2,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face."
+      },
+      {
+        "start": 65.6,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I have enough influence to make a beggar disappear."
+      },
+      {
+        "start": 68.6,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "And your husband?"
+      },
+      {
+        "start": 69.5,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist."
+      },
+      {
+        "start": 69.5,
+        "end": 71.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Where is that beggar husband?"
+      },
+      {
+        "start": 70.0,
+        "end": 75.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+      },
+      {
+        "start": 74.0,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate."
+      },
+      {
+        "start": 75.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall."
+      },
+      {
+        "start": 76.2,
+        "end": 77.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A dull, heavy thud of timber striking the mud."
+      },
+      {
+        "start": 78.5,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald."
+      },
+      {
+        "start": 81.0,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity."
+      },
+      {
+        "start": 81.5,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face."
+      },
+      {
+        "start": 83.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously."
+      },
+      {
+        "start": 86.5,
+        "end": 88.5,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Gerald, don't let him frighten you."
+      },
+      {
+        "start": 88.6,
+        "end": 90.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you staring at?"
+      }
+    ],
+    "final_score": 8.05,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 130
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 50.8,
+        "end": 71.2,
+        "duration": 20.4,
+        "start_time_fmt": "00:50.80",
+        "end_time_fmt": "01:11.20"
+      }
+    ],
+    "total_duration": 20.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 8.05,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"You chose that scarred beggar over a life of comfort.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"Where is that beggar husband?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 50.8,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "start": 51.5,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You chose that scarred beggar over a life of comfort."
+      },
+      {
+        "start": 54.8,
+        "end": 61.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+      },
+      {
+        "start": 57.8,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I chose a man who stood beside me when you walked away."
+      },
+      {
+        "start": 61.5,
+        "end": 65.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana dismissing him with utter contempt."
+      },
+      {
+        "start": 61.8,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have no authority here. Leave."
+      },
+      {
+        "start": 65.2,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face."
+      },
+      {
+        "start": 65.6,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I have enough influence to make a beggar disappear."
+      },
+      {
+        "start": 68.6,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "And your husband?"
+      },
+      {
+        "start": 69.5,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist."
+      },
+      {
+        "start": 69.5,
+        "end": 71.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Where is that beggar husband?"
+      }
+    ],
+    "final_score": 8.05,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 131
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 57.8,
+        "end": 90.0,
+        "duration": 32.2,
+        "start_time_fmt": "00:57.80",
+        "end_time_fmt": "01:30.00"
+      }
+    ],
+    "total_duration": 32.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 8.05,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I chose a man who stood beside me when you walked away.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"What are you staring at?\", leaving the outcome hanging.",
+    "why_it_works": "At 32s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 57.8,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I chose a man who stood beside me when you walked away."
+      },
+      {
+        "start": 61.5,
+        "end": 65.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana dismissing him with utter contempt."
+      },
+      {
+        "start": 61.8,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have no authority here. Leave."
+      },
+      {
+        "start": 65.2,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face."
+      },
+      {
+        "start": 65.6,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I have enough influence to make a beggar disappear."
+      },
+      {
+        "start": 68.6,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "And your husband?"
+      },
+      {
+        "start": 69.5,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist."
+      },
+      {
+        "start": 69.5,
+        "end": 71.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Where is that beggar husband?"
+      },
+      {
+        "start": 70.0,
+        "end": 75.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+      },
+      {
+        "start": 74.0,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate."
+      },
+      {
+        "start": 75.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall."
+      },
+      {
+        "start": 76.2,
+        "end": 77.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A dull, heavy thud of timber striking the mud."
+      },
+      {
+        "start": 78.5,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald."
+      },
+      {
+        "start": 81.0,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity."
+      },
+      {
+        "start": 81.5,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face."
+      },
+      {
+        "start": 83.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously."
+      },
+      {
+        "start": 86.5,
+        "end": 88.5,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Gerald, don't let him frighten you."
+      },
+      {
+        "start": 88.6,
+        "end": 90.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you staring at?"
+      }
+    ],
+    "final_score": 8.05,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 132
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 24.5,
+        "end": 47.0,
+        "duration": 22.5,
+        "start_time_fmt": "00:24.50",
+        "end_time_fmt": "00:47.00"
+      }
+    ],
+    "total_duration": 22.5,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.83,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"A fitting home for a woman who threw away everything for a penniless soldier.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on Gerald's tightening jaw.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 24.5,
+        "end": 29.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully."
+      },
+      {
+        "start": 25.0,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "A fitting home for a woman who threw away everything for a penniless soldier."
+      },
+      {
+        "start": 29.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair."
+      },
+      {
+        "start": 30.0,
+        "end": 32.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You came all this way just to insult my home?"
+      },
+      {
+        "start": 32.8,
+        "end": 37.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol."
+      },
+      {
+        "start": 33.2,
+        "end": 37.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Home? Look at your hands, Juliana."
+      },
+      {
+        "start": 37.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's mud-stained palms held open against her apron."
+      },
+      {
+        "start": 38.2,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "You look like a servant."
+      },
+      {
+        "start": 39.8,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald's smug expression watching Juliana."
+      },
+      {
+        "start": 41.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana lifting her chin with unwavering dignity."
+      },
+      {
+        "start": 41.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I work with my hands. There is no shame in that."
+      },
+      {
+        "start": 45.0,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Gerald's tightening jaw."
+      }
+    ],
+    "final_score": 7.83,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 218
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 37.8,
+        "end": 61.0,
+        "duration": 23.2,
+        "start_time_fmt": "00:37.80",
+        "end_time_fmt": "01:01.00"
+      }
+    ],
+    "total_duration": 23.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.7,
+    "hook": "ARISTOCRATIC WOMAN shocks the viewer with an immediate confrontation: \"You look like a servant.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I chose a man who stood beside me when you walked away.\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 37.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's mud-stained palms held open against her apron."
+      },
+      {
+        "start": 38.2,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "You look like a servant."
+      },
+      {
+        "start": 39.8,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald's smug expression watching Juliana."
+      },
+      {
+        "start": 41.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana lifting her chin with unwavering dignity."
+      },
+      {
+        "start": 41.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I work with my hands. There is no shame in that."
+      },
+      {
+        "start": 45.0,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Gerald's tightening jaw."
+      },
+      {
+        "start": 45.2,
+        "end": 46.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You were born a lady."
+      },
+      {
+        "start": 47.0,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+      },
+      {
+        "start": 48.8,
+        "end": 50.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I remain one."
+      },
+      {
+        "start": 50.8,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "start": 51.5,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You chose that scarred beggar over a life of comfort."
+      },
+      {
+        "start": 54.8,
+        "end": 61.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+      },
+      {
+        "start": 57.8,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I chose a man who stood beside me when you walked away."
+      }
+    ],
+    "final_score": 7.7,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 267
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 19.5,
+        "end": 39.8,
+        "duration": 20.3,
+        "start_time_fmt": "00:19.50",
+        "end_time_fmt": "00:39.80"
+      }
+    ],
+    "total_duration": 20.3,
+    "hook_strength": 7.3,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.44,
+    "hook": "ARISTOCRATIC WOMAN shocks the viewer with an immediate confrontation: \"This is where you live now?\"",
+    "cliffhanger": "Cuts sharply on ARISTOCRATIC WOMAN's unresolved words: \"You look like a servant.\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 19.5,
+        "end": 21.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Aristocratic Woman smirks cruelly as she surveys the humble stone cottage."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high."
+      },
+      {
+        "start": 22.0,
+        "end": 24.5,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "This is where you live now?"
+      },
+      {
+        "start": 24.5,
+        "end": 29.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully."
+      },
+      {
+        "start": 25.0,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "A fitting home for a woman who threw away everything for a penniless soldier."
+      },
+      {
+        "start": 29.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair."
+      },
+      {
+        "start": 30.0,
+        "end": 32.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You came all this way just to insult my home?"
+      },
+      {
+        "start": 32.8,
+        "end": 37.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol."
+      },
+      {
+        "start": 33.2,
+        "end": 37.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Home? Look at your hands, Juliana."
+      },
+      {
+        "start": 37.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's mud-stained palms held open against her apron."
+      },
+      {
+        "start": 38.2,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "You look like a servant."
+      }
+    ],
+    "final_score": 7.44,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 392
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 32.8,
+        "end": 54.6,
+        "duration": 21.8,
+        "start_time_fmt": "00:32.80",
+        "end_time_fmt": "00:54.60"
+      }
+    ],
+    "total_duration": 21.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.35,
+    "hook": "ARISTOCRATIC WOMAN shocks the viewer with an immediate confrontation: \"Home? Look at your hands, Juliana.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"You chose that scarred beggar over a life of comfort.\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 32.8,
+        "end": 37.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol."
+      },
+      {
+        "start": 33.2,
+        "end": 37.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Home? Look at your hands, Juliana."
+      },
+      {
+        "start": 37.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's mud-stained palms held open against her apron."
+      },
+      {
+        "start": 38.2,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "You look like a servant."
+      },
+      {
+        "start": 39.8,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald's smug expression watching Juliana."
+      },
+      {
+        "start": 41.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana lifting her chin with unwavering dignity."
+      },
+      {
+        "start": 41.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I work with my hands. There is no shame in that."
+      },
+      {
+        "start": 45.0,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Gerald's tightening jaw."
+      },
+      {
+        "start": 45.2,
+        "end": 46.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You were born a lady."
+      },
+      {
+        "start": 47.0,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+      },
+      {
+        "start": 48.8,
+        "end": 50.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I remain one."
+      },
+      {
+        "start": 50.8,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "start": 51.5,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You chose that scarred beggar over a life of comfort."
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 427
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 68.6,
+        "end": 96.5,
+        "duration": 27.9,
+        "start_time_fmt": "01:08.60",
+        "end_time_fmt": "01:36.50"
+      }
+    ],
+    "total_duration": 27.9,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.22,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"And your husband?\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut.",
+    "why_it_works": "At 28s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 68.6,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "And your husband?"
+      },
+      {
+        "start": 69.5,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist."
+      },
+      {
+        "start": 69.5,
+        "end": 71.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Where is that beggar husband?"
+      },
+      {
+        "start": 70.0,
+        "end": 75.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+      },
+      {
+        "start": 74.0,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate."
+      },
+      {
+        "start": 75.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall."
+      },
+      {
+        "start": 76.2,
+        "end": 77.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A dull, heavy thud of timber striking the mud."
+      },
+      {
+        "start": 78.5,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald."
+      },
+      {
+        "start": 81.0,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity."
+      },
+      {
+        "start": 81.5,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face."
+      },
+      {
+        "start": 83.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously."
+      },
+      {
+        "start": 86.5,
+        "end": 88.5,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Gerald, don't let him frighten you."
+      },
+      {
+        "start": 88.6,
+        "end": 90.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you staring at?"
+      },
+      {
+        "start": 90.0,
+        "end": 91.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare."
+      },
+      {
+        "start": 90.1,
+        "end": 91.4,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "We are leaving."
+      },
+      {
+        "start": 91.5,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her."
+      },
+      {
+        "start": 92.0,
+        "end": 93.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Leaving? Gerald!"
+      },
+      {
+        "start": 93.8,
+        "end": 96.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut."
+      }
+    ],
+    "final_score": 7.22,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 510
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 41.2,
+        "end": 75.5,
+        "duration": 34.3,
+        "start_time_fmt": "00:41.20",
+        "end_time_fmt": "01:15.50"
+      }
+    ],
+    "total_duration": 34.3,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.08,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I work with my hands. There is no shame in that.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate.",
+    "why_it_works": "At 34s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 41.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I work with my hands. There is no shame in that."
+      },
+      {
+        "start": 45.0,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Gerald's tightening jaw."
+      },
+      {
+        "start": 45.2,
+        "end": 46.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You were born a lady."
+      },
+      {
+        "start": 47.0,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+      },
+      {
+        "start": 48.8,
+        "end": 50.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I remain one."
+      },
+      {
+        "start": 50.8,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "start": 51.5,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You chose that scarred beggar over a life of comfort."
+      },
+      {
+        "start": 54.8,
+        "end": 61.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+      },
+      {
+        "start": 57.8,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I chose a man who stood beside me when you walked away."
+      },
+      {
+        "start": 61.5,
+        "end": 65.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana dismissing him with utter contempt."
+      },
+      {
+        "start": 61.8,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have no authority here. Leave."
+      },
+      {
+        "start": 65.2,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face."
+      },
+      {
+        "start": 65.6,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I have enough influence to make a beggar disappear."
+      },
+      {
+        "start": 68.6,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "And your husband?"
+      },
+      {
+        "start": 69.5,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist."
+      },
+      {
+        "start": 69.5,
+        "end": 71.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Where is that beggar husband?"
+      },
+      {
+        "start": 70.0,
+        "end": 75.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+      },
+      {
+        "start": 74.0,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate."
+      }
+    ],
+    "final_score": 7.08,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 571
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 0.0,
+        "end": 32.6,
+        "duration": 32.6,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:32.60"
+      }
+    ],
+    "total_duration": 32.6,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.5,
+    "composite_score": 7.03,
+    "hook": "Opens with immediate physical drama: Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails.",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"You came all this way just to insult my home?\", leaving the outcome hanging.",
+    "why_it_works": "At 33s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 4.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the cold, damp ground outside the stone cottage, pulling weeds from the dirt with her bare hands."
+      },
+      {
+        "start": 0.0,
+        "end": 4.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails."
+      },
+      {
+        "start": 4.8,
+        "end": 11.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle tracking shot as an ornate black-and-gold carriage with crest emblazoned on the door rolls to a stop on the muddy path outside the gate."
+      },
+      {
+        "start": 5.0,
+        "end": 11.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy carriage wheels grinding in mud, horse snorts, and rhythmic hoofbeats halting."
+      },
+      {
+        "start": 11.8,
+        "end": 15.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Aristocratic Woman steps out of the carriage into the misty air, shielding herself under an intricate lace parasol in an elegant lavender gown."
+      },
+      {
+        "start": 15.0,
+        "end": 19.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Gerald steps down from the carriage behind her, looking immaculate in a high-collared navy frock coat, white waistcoat, and dark cravat."
+      },
+      {
+        "start": 19.5,
+        "end": 21.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Aristocratic Woman smirks cruelly as she surveys the humble stone cottage."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high."
+      },
+      {
+        "start": 22.0,
+        "end": 24.5,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "This is where you live now?"
+      },
+      {
+        "start": 24.5,
+        "end": 29.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully."
+      },
+      {
+        "start": 25.0,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "A fitting home for a woman who threw away everything for a penniless soldier."
+      },
+      {
+        "start": 29.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair."
+      },
+      {
+        "start": 30.0,
+        "end": 32.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You came all this way just to insult my home?"
+      }
+    ],
+    "final_score": 7.03,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 594
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 50.8,
+        "end": 107.5,
+        "duration": 56.7,
+        "start_time_fmt": "00:50.80",
+        "end_time_fmt": "01:47.50"
+      }
+    ],
+    "total_duration": 56.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.02,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"You chose that scarred beggar over a life of comfort.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on the Scarred Bearded Man looking down at her, his rugged features softening with quiet affection.",
+    "why_it_works": "At 57s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 50.8,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "start": 51.5,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You chose that scarred beggar over a life of comfort."
+      },
+      {
+        "start": 54.8,
+        "end": 61.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+      },
+      {
+        "start": 57.8,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I chose a man who stood beside me when you walked away."
+      },
+      {
+        "start": 61.5,
+        "end": 65.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana dismissing him with utter contempt."
+      },
+      {
+        "start": 61.8,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have no authority here. Leave."
+      },
+      {
+        "start": 65.2,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face."
+      },
+      {
+        "start": 65.6,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I have enough influence to make a beggar disappear."
+      },
+      {
+        "start": 68.6,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "And your husband?"
+      },
+      {
+        "start": 69.5,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist."
+      },
+      {
+        "start": 69.5,
+        "end": 71.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Where is that beggar husband?"
+      },
+      {
+        "start": 70.0,
+        "end": 75.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+      },
+      {
+        "start": 74.0,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate."
+      },
+      {
+        "start": 75.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall."
+      },
+      {
+        "start": 76.2,
+        "end": 77.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A dull, heavy thud of timber striking the mud."
+      },
+      {
+        "start": 78.5,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald."
+      },
+      {
+        "start": 81.0,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity."
+      },
+      {
+        "start": 81.5,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face."
+      },
+      {
+        "start": 83.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously."
+      },
+      {
+        "start": 86.5,
+        "end": 88.5,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Gerald, don't let him frighten you."
+      },
+      {
+        "start": 88.6,
+        "end": 90.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you staring at?"
+      },
+      {
+        "start": 90.0,
+        "end": 91.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare."
+      },
+      {
+        "start": 90.1,
+        "end": 91.4,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "We are leaving."
+      },
+      {
+        "start": 91.5,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her."
+      },
+      {
+        "start": 92.0,
+        "end": 93.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Leaving? Gerald!"
+      },
+      {
+        "start": 93.8,
+        "end": 96.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut."
+      },
+      {
+        "start": 95.0,
+        "end": 96.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Carriage door slamming shut."
+      },
+      {
+        "start": 96.0,
+        "end": 99.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage."
+      },
+      {
+        "start": 99.0,
+        "end": 103.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile two-shot of Juliana turning toward the Scarred Bearded Man, her eyes gleaming with genuine admiration."
+      },
+      {
+        "start": 100.8,
+        "end": 103.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You didn't say a word."
+      },
+      {
+        "start": 103.5,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Scarred Bearded Man looking down at her, his rugged features softening with quiet affection."
+      }
+    ],
+    "final_score": 7.02,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 597
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 68.6,
+        "end": 116.0,
+        "duration": 47.4,
+        "start_time_fmt": "01:08.60",
+        "end_time_fmt": "01:56.00"
+      }
+    ],
+    "total_duration": 47.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.87,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"And your husband?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana looking after him, a radiant and grateful smile blooming across her face as the scene fades out.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 47s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 68.6,
+        "end": 69.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "And your husband?"
+      },
+      {
+        "start": 69.5,
+        "end": 74.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist."
+      },
+      {
+        "start": 69.5,
+        "end": 71.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Where is that beggar husband?"
+      },
+      {
+        "start": 70.0,
+        "end": 75.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+      },
+      {
+        "start": 74.0,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate."
+      },
+      {
+        "start": 75.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall."
+      },
+      {
+        "start": 76.2,
+        "end": 77.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A dull, heavy thud of timber striking the mud."
+      },
+      {
+        "start": 78.5,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald."
+      },
+      {
+        "start": 81.0,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity."
+      },
+      {
+        "start": 81.5,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face."
+      },
+      {
+        "start": 83.5,
+        "end": 88.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously."
+      },
+      {
+        "start": 86.5,
+        "end": 88.5,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Gerald, don't let him frighten you."
+      },
+      {
+        "start": 88.6,
+        "end": 90.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you staring at?"
+      },
+      {
+        "start": 90.0,
+        "end": 91.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare."
+      },
+      {
+        "start": 90.1,
+        "end": 91.4,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "We are leaving."
+      },
+      {
+        "start": 91.5,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her."
+      },
+      {
+        "start": 92.0,
+        "end": 93.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Leaving? Gerald!"
+      },
+      {
+        "start": 93.8,
+        "end": 96.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut."
+      },
+      {
+        "start": 95.0,
+        "end": 96.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Carriage door slamming shut."
+      },
+      {
+        "start": 96.0,
+        "end": 99.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage."
+      },
+      {
+        "start": 99.0,
+        "end": 103.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile two-shot of Juliana turning toward the Scarred Bearded Man, her eyes gleaming with genuine admiration."
+      },
+      {
+        "start": 100.8,
+        "end": 103.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You didn't say a word."
+      },
+      {
+        "start": 103.5,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Scarred Bearded Man looking down at her, his rugged features softening with quiet affection."
+      },
+      {
+        "start": 106.0,
+        "end": 107.8,
+        "type": "DIALOGUE",
+        "speaker": "SCARRED BEARDED MAN",
+        "content": "I didn't need to."
+      },
+      {
+        "start": 107.5,
+        "end": 111.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Scarred Bearded Man stoops down, scoops up the heavy bundle of firewood in one arm, and walks calmly past Juliana toward their door."
+      },
+      {
+        "start": 111.5,
+        "end": 116.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking after him, a radiant and grateful smile blooming across her face as the scene fades out.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 6.87,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 686
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 91.5,
+        "end": 111.5,
+        "duration": 20.0,
+        "start_time_fmt": "01:31.50",
+        "end_time_fmt": "01:51.50"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.8,
+    "hook": "ARISTOCRATIC WOMAN shocks the viewer with an immediate confrontation: \"Leaving? Gerald!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot as the Scarred Bearded Man stoops down, scoops up the heavy bundle of firewood in one arm, and walks calmly past Juliana toward their door.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 91.5,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her."
+      },
+      {
+        "start": 92.0,
+        "end": 93.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Leaving? Gerald!"
+      },
+      {
+        "start": 93.8,
+        "end": 96.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut."
+      },
+      {
+        "start": 95.0,
+        "end": 96.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Carriage door slamming shut."
+      },
+      {
+        "start": 96.0,
+        "end": 99.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage."
+      },
+      {
+        "start": 99.0,
+        "end": 103.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile two-shot of Juliana turning toward the Scarred Bearded Man, her eyes gleaming with genuine admiration."
+      },
+      {
+        "start": 100.8,
+        "end": 103.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You didn't say a word."
+      },
+      {
+        "start": 103.5,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Scarred Bearded Man looking down at her, his rugged features softening with quiet affection."
+      },
+      {
+        "start": 106.0,
+        "end": 107.8,
+        "type": "DIALOGUE",
+        "speaker": "SCARRED BEARDED MAN",
+        "content": "I didn't need to."
+      },
+      {
+        "start": 107.5,
+        "end": 111.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Scarred Bearded Man stoops down, scoops up the heavy bundle of firewood in one arm, and walks calmly past Juliana toward their door."
+      }
+    ],
+    "final_score": 6.8,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 703
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 0.0,
+        "end": 54.6,
+        "duration": 54.6,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:54.60"
+      }
+    ],
+    "total_duration": 54.6,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 6.75,
+    "hook": "Opens with immediate physical drama: Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails.",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"You chose that scarred beggar over a life of comfort.\", leaving the outcome hanging.",
+    "why_it_works": "At 55s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 4.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the cold, damp ground outside the stone cottage, pulling weeds from the dirt with her bare hands."
+      },
+      {
+        "start": 0.0,
+        "end": 4.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails."
+      },
+      {
+        "start": 4.8,
+        "end": 11.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle tracking shot as an ornate black-and-gold carriage with crest emblazoned on the door rolls to a stop on the muddy path outside the gate."
+      },
+      {
+        "start": 5.0,
+        "end": 11.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy carriage wheels grinding in mud, horse snorts, and rhythmic hoofbeats halting."
+      },
+      {
+        "start": 11.8,
+        "end": 15.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Aristocratic Woman steps out of the carriage into the misty air, shielding herself under an intricate lace parasol in an elegant lavender gown."
+      },
+      {
+        "start": 15.0,
+        "end": 19.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Gerald steps down from the carriage behind her, looking immaculate in a high-collared navy frock coat, white waistcoat, and dark cravat."
+      },
+      {
+        "start": 19.5,
+        "end": 21.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Aristocratic Woman smirks cruelly as she surveys the humble stone cottage."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high."
+      },
+      {
+        "start": 22.0,
+        "end": 24.5,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "This is where you live now?"
+      },
+      {
+        "start": 24.5,
+        "end": 29.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully."
+      },
+      {
+        "start": 25.0,
+        "end": 29.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "A fitting home for a woman who threw away everything for a penniless soldier."
+      },
+      {
+        "start": 29.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair."
+      },
+      {
+        "start": 30.0,
+        "end": 32.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You came all this way just to insult my home?"
+      },
+      {
+        "start": 32.8,
+        "end": 37.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol."
+      },
+      {
+        "start": 33.2,
+        "end": 37.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "Home? Look at your hands, Juliana."
+      },
+      {
+        "start": 37.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's mud-stained palms held open against her apron."
+      },
+      {
+        "start": 38.2,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "content": "You look like a servant."
+      },
+      {
+        "start": 39.8,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald's smug expression watching Juliana."
+      },
+      {
+        "start": 41.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana lifting her chin with unwavering dignity."
+      },
+      {
+        "start": 41.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I work with my hands. There is no shame in that."
+      },
+      {
+        "start": 45.0,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Gerald's tightening jaw."
+      },
+      {
+        "start": 45.2,
+        "end": 46.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You were born a lady."
+      },
+      {
+        "start": 47.0,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+      },
+      {
+        "start": 48.8,
+        "end": 50.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I remain one."
+      },
+      {
+        "start": 50.8,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "start": 51.5,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You chose that scarred beggar over a life of comfort."
+      }
+    ],
+    "final_score": 6.75,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 719
+  },
+  {
+    "episode": 7,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 7,
+        "start": 45.0,
+        "end": 65.2,
+        "duration": 20.2,
+        "start_time_fmt": "00:45.00",
+        "end_time_fmt": "01:05.20"
+      }
+    ],
+    "total_duration": 20.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.5,
+    "composite_score": 6.65,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"You were born a lady.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Intense close-up of Juliana dismissing him with utter contempt.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 45.0,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Gerald's tightening jaw."
+      },
+      {
+        "start": 45.2,
+        "end": 46.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You were born a lady."
+      },
+      {
+        "start": 47.0,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+      },
+      {
+        "start": 48.8,
+        "end": 50.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I remain one."
+      },
+      {
+        "start": 50.8,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "start": 51.5,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You chose that scarred beggar over a life of comfort."
+      },
+      {
+        "start": 54.8,
+        "end": 61.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+      },
+      {
+        "start": 57.8,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I chose a man who stood beside me when you walked away."
+      },
+      {
+        "start": 61.5,
+        "end": 65.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana dismissing him with utter contempt."
+      }
+    ],
+    "final_score": 6.65,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 765
+  }
+]

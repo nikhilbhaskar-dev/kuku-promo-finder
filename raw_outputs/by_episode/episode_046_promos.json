@@ -1,0 +1,3016 @@
+[
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 78.0,
+        "end": 100.4,
+        "duration": 22.4,
+        "start_time_fmt": "01:18.00",
+        "end_time_fmt": "01:40.40"
+      }
+    ],
+    "total_duration": 22.4,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.43,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Now a church calls my marriage a lie!\"",
+    "cliffhanger": "Cuts sharply on HIGH PRIEST's unresolved words: \"And I have the power to undo in one hearing what took you three years to steal!\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 78.0,
+        "end": 85.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Juliana's face as she shouts at the priest."
+      },
+      {
+        "start": 78.1,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now a church calls my marriage a lie!"
+      },
+      {
+        "start": 81.1,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "God married us, Father! You are just angry no one asked you first!"
+      },
+      {
+        "start": 85.8,
+        "end": 89.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine leaning against a stone archway, whispering with venomous mockery."
+      },
+      {
+        "start": 86.1,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Careful, healer. The floor isn't finished with you."
+      },
+      {
+        "start": 89.2,
+        "end": 92.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest pressing the document against his chest, his eyes darkening with anger."
+      },
+      {
+        "start": 89.3,
+        "end": 92.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Careful, girl. You mistake my patience for weakness."
+      },
+      {
+        "start": 92.5,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the High Priest stepping up the altar steps toward them."
+      },
+      {
+        "start": 92.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!"
+      },
+      {
+        "start": 96.0,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Brief insert of Catherine smirking as she watches from the side."
+      },
+      {
+        "start": 96.8,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the High Priest waving the letter overhead before the congregation."
+      },
+      {
+        "start": 96.8,
+        "end": 100.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And I have the power to undo in one hearing what took you three years to steal!"
+      }
+    ],
+    "final_score": 8.43,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 42
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 78.0,
+        "end": 133.2,
+        "duration": 55.2,
+        "start_time_fmt": "01:18.00",
+        "end_time_fmt": "02:13.20"
+      }
+    ],
+    "total_duration": 55.2,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.43,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Now a church calls my marriage a lie!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!\", leaving the outcome hanging.",
+    "why_it_works": "At 55s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 78.0,
+        "end": 85.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Juliana's face as she shouts at the priest."
+      },
+      {
+        "start": 78.1,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now a church calls my marriage a lie!"
+      },
+      {
+        "start": 81.1,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "God married us, Father! You are just angry no one asked you first!"
+      },
+      {
+        "start": 85.8,
+        "end": 89.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine leaning against a stone archway, whispering with venomous mockery."
+      },
+      {
+        "start": 86.1,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Careful, healer. The floor isn't finished with you."
+      },
+      {
+        "start": 89.2,
+        "end": 92.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest pressing the document against his chest, his eyes darkening with anger."
+      },
+      {
+        "start": 89.3,
+        "end": 92.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Careful, girl. You mistake my patience for weakness."
+      },
+      {
+        "start": 92.5,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the High Priest stepping up the altar steps toward them."
+      },
+      {
+        "start": 92.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!"
+      },
+      {
+        "start": 96.0,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Brief insert of Catherine smirking as she watches from the side."
+      },
+      {
+        "start": 96.8,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the High Priest waving the letter overhead before the congregation."
+      },
+      {
+        "start": 96.8,
+        "end": 100.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And I have the power to undo in one hearing what took you three years to steal!"
+      },
+      {
+        "start": 100.5,
+        "end": 101.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine listening eagerly."
+      },
+      {
+        "start": 101.8,
+        "end": 106.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium shot of Alexander confronting the High Priest face-to-face at the foot of the altar."
+      },
+      {
+        "start": 101.8,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal."
+      },
+      {
+        "start": 106.8,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle two-shot of the High Priest staring up into Alexander's imposing frame."
+      },
+      {
+        "start": 107.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The High Religious Council rules on matters of holy matrimony. That includes yours."
+      },
+      {
+        "start": 111.8,
+        "end": 118.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander glaring with icy authority."
+      },
+      {
+        "start": 112.0,
+        "end": 118.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel."
+      },
+      {
+        "start": 118.5,
+        "end": 124.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide profile two-shot of the High Priest and Alexander locked in an intense standoff before the altar."
+      },
+      {
+        "start": 118.8,
+        "end": 123.6,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Ten days. And if the council rules against you, this county watches you lose her twice."
+      },
+      {
+        "start": 124.0,
+        "end": 126.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I'll take that wager over your decree."
+      },
+      {
+        "start": 126.5,
+        "end": 127.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick reaction shot of the elderly woman in the pew gripping her beads in distress."
+      },
+      {
+        "start": 127.2,
+        "end": 133.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot from behind the guards as they surround Alexander and Juliana, halberds and swords pointed inches from Alexander's chest."
+      },
+      {
+        "start": 127.2,
+        "end": 133.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!"
+      }
+    ],
+    "final_score": 8.43,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 43
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 101.8,
+        "end": 133.2,
+        "duration": 31.4,
+        "start_time_fmt": "01:41.80",
+        "end_time_fmt": "02:13.20"
+      }
+    ],
+    "total_duration": 31.4,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.43,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!\", leaving the outcome hanging.",
+    "why_it_works": "At 31s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 101.8,
+        "end": 106.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium shot of Alexander confronting the High Priest face-to-face at the foot of the altar."
+      },
+      {
+        "start": 101.8,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal."
+      },
+      {
+        "start": 106.8,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle two-shot of the High Priest staring up into Alexander's imposing frame."
+      },
+      {
+        "start": 107.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The High Religious Council rules on matters of holy matrimony. That includes yours."
+      },
+      {
+        "start": 111.8,
+        "end": 118.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander glaring with icy authority."
+      },
+      {
+        "start": 112.0,
+        "end": 118.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel."
+      },
+      {
+        "start": 118.5,
+        "end": 124.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide profile two-shot of the High Priest and Alexander locked in an intense standoff before the altar."
+      },
+      {
+        "start": 118.8,
+        "end": 123.6,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Ten days. And if the council rules against you, this county watches you lose her twice."
+      },
+      {
+        "start": 124.0,
+        "end": 126.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I'll take that wager over your decree."
+      },
+      {
+        "start": 126.5,
+        "end": 127.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick reaction shot of the elderly woman in the pew gripping her beads in distress."
+      },
+      {
+        "start": 127.2,
+        "end": 133.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot from behind the guards as they surround Alexander and Juliana, halberds and swords pointed inches from Alexander's chest."
+      },
+      {
+        "start": 127.2,
+        "end": 133.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!"
+      }
+    ],
+    "final_score": 8.43,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 44
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 58.2,
+        "end": 96.2,
+        "duration": 38.0,
+        "start_time_fmt": "00:58.20",
+        "end_time_fmt": "01:36.20"
+      }
+    ],
+    "total_duration": 38.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I didn't ask this church for permission to survive, Father.\"",
+    "cliffhanger": "Cuts sharply on HIGH PRIEST's unresolved words: \"God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!\", leaving the outcome hanging.",
+    "why_it_works": "At 38s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 58.2,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lifting her chin, tearful yet burning with righteous fury."
+      },
+      {
+        "start": 58.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I didn't ask this church for permission to survive, Father."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing proudly beside Alexander."
+      },
+      {
+        "start": 62.9,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I won't ask it for permission to love."
+      },
+      {
+        "start": 65.8,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest looking down, a sinister, condescending smirk gracing his lips."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Love doesn't make a Duchess, girl. Paper does."
+      },
+      {
+        "start": 71.0,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in medium close-up on Juliana, her voice trembling with intense indignation."
+      },
+      {
+        "start": 71.4,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then look at this floor honestly, for once."
+      },
+      {
+        "start": 74.4,
+        "end": 76.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church called me unworthy."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick cut to the High Priest maintaining a smug, impenetrable stare."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church chained me."
+      },
+      {
+        "start": 78.0,
+        "end": 85.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Juliana's face as she shouts at the priest."
+      },
+      {
+        "start": 78.1,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now a church calls my marriage a lie!"
+      },
+      {
+        "start": 81.1,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "God married us, Father! You are just angry no one asked you first!"
+      },
+      {
+        "start": 85.8,
+        "end": 89.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine leaning against a stone archway, whispering with venomous mockery."
+      },
+      {
+        "start": 86.1,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Careful, healer. The floor isn't finished with you."
+      },
+      {
+        "start": 89.2,
+        "end": 92.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest pressing the document against his chest, his eyes darkening with anger."
+      },
+      {
+        "start": 89.3,
+        "end": 92.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Careful, girl. You mistake my patience for weakness."
+      },
+      {
+        "start": 92.5,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the High Priest stepping up the altar steps toward them."
+      },
+      {
+        "start": 92.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!"
+      }
+    ],
+    "final_score": 8.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 50
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 92.5,
+        "end": 118.2,
+        "duration": 25.7,
+        "start_time_fmt": "01:32.50",
+        "end_time_fmt": "01:58.20"
+      }
+    ],
+    "total_duration": 25.7,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.01,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 92.5,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the High Priest stepping up the altar steps toward them."
+      },
+      {
+        "start": 92.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!"
+      },
+      {
+        "start": 96.0,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Brief insert of Catherine smirking as she watches from the side."
+      },
+      {
+        "start": 96.8,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the High Priest waving the letter overhead before the congregation."
+      },
+      {
+        "start": 96.8,
+        "end": 100.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And I have the power to undo in one hearing what took you three years to steal!"
+      },
+      {
+        "start": 100.5,
+        "end": 101.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine listening eagerly."
+      },
+      {
+        "start": 101.8,
+        "end": 106.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium shot of Alexander confronting the High Priest face-to-face at the foot of the altar."
+      },
+      {
+        "start": 101.8,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal."
+      },
+      {
+        "start": 106.8,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle two-shot of the High Priest staring up into Alexander's imposing frame."
+      },
+      {
+        "start": 107.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The High Religious Council rules on matters of holy matrimony. That includes yours."
+      },
+      {
+        "start": 111.8,
+        "end": 118.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander glaring with icy authority."
+      },
+      {
+        "start": 112.0,
+        "end": 118.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel."
+      }
+    ],
+    "final_score": 8.01,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 151
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 85.8,
+        "end": 106.5,
+        "duration": 20.7,
+        "start_time_fmt": "01:25.80",
+        "end_time_fmt": "01:46.50"
+      }
+    ],
+    "total_duration": 20.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.0,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Careful, healer. The floor isn't finished with you.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 85.8,
+        "end": 89.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine leaning against a stone archway, whispering with venomous mockery."
+      },
+      {
+        "start": 86.1,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Careful, healer. The floor isn't finished with you."
+      },
+      {
+        "start": 89.2,
+        "end": 92.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest pressing the document against his chest, his eyes darkening with anger."
+      },
+      {
+        "start": 89.3,
+        "end": 92.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Careful, girl. You mistake my patience for weakness."
+      },
+      {
+        "start": 92.5,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the High Priest stepping up the altar steps toward them."
+      },
+      {
+        "start": 92.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!"
+      },
+      {
+        "start": 96.0,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Brief insert of Catherine smirking as she watches from the side."
+      },
+      {
+        "start": 96.8,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the High Priest waving the letter overhead before the congregation."
+      },
+      {
+        "start": 96.8,
+        "end": 100.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And I have the power to undo in one hearing what took you three years to steal!"
+      },
+      {
+        "start": 100.5,
+        "end": 101.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine listening eagerly."
+      },
+      {
+        "start": 101.8,
+        "end": 106.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium shot of Alexander confronting the High Priest face-to-face at the foot of the altar."
+      },
+      {
+        "start": 101.8,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal."
+      }
+    ],
+    "final_score": 8.0,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 156
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 58.2,
+        "end": 81.0,
+        "duration": 22.8,
+        "start_time_fmt": "00:58.20",
+        "end_time_fmt": "01:21.00"
+      }
+    ],
+    "total_duration": 22.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.92,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I didn't ask this church for permission to survive, Father.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Now a church calls my marriage a lie!\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 58.2,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lifting her chin, tearful yet burning with righteous fury."
+      },
+      {
+        "start": 58.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I didn't ask this church for permission to survive, Father."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing proudly beside Alexander."
+      },
+      {
+        "start": 62.9,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I won't ask it for permission to love."
+      },
+      {
+        "start": 65.8,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest looking down, a sinister, condescending smirk gracing his lips."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Love doesn't make a Duchess, girl. Paper does."
+      },
+      {
+        "start": 71.0,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in medium close-up on Juliana, her voice trembling with intense indignation."
+      },
+      {
+        "start": 71.4,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then look at this floor honestly, for once."
+      },
+      {
+        "start": 74.4,
+        "end": 76.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church called me unworthy."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick cut to the High Priest maintaining a smug, impenetrable stare."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church chained me."
+      },
+      {
+        "start": 78.0,
+        "end": 85.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Juliana's face as she shouts at the priest."
+      },
+      {
+        "start": 78.1,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now a church calls my marriage a lie!"
+      }
+    ],
+    "final_score": 7.92,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 191
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 26.8,
+        "end": 85.5,
+        "duration": 58.7,
+        "start_time_fmt": "00:26.80",
+        "end_time_fmt": "01:25.50"
+      }
+    ],
+    "total_duration": 58.7,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.83,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"God married us, Father! You are just angry no one asked you first!\", leaving the outcome hanging.",
+    "why_it_works": "At 59s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 26.8,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the High Priest brandishing the letter aloft in the center of the chapel nave."
+      },
+      {
+        "start": 26.8,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him."
+      },
+      {
+        "start": 30.5,
+        "end": 34.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander turning toward Juliana, placing a protective hand on her arm."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana places her hand over Alexander's as he steps forward to shield her."
+      },
+      {
+        "start": 34.2,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his scarred face hardening with unwavering conviction."
+      },
+      {
+        "start": 34.3,
+        "end": 36.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "She married the man... not the title."
+      },
+      {
+        "start": 37.0,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the High Priest as he raises the parchment toward the vaulted ceiling."
+      },
+      {
+        "start": 37.3,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest lowering the document, raising a single finger in admonishment."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No Crown license was sought, because no one thought to ask leave for a Duke to marry."
+      },
+      {
+        "start": 47.0,
+        "end": 49.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance."
+      },
+      {
+        "start": 47.1,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No licensed clergyman presided..."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest glaring intently."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...because a frightened village priest has no authority to bind a peer."
+      },
+      {
+        "start": 52.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot pushing into a close-up as the High Priest thrusts the royal War Office proclamation directly into the camera."
+      },
+      {
+        "start": 52.2,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead."
+      },
+      {
+        "start": 58.2,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lifting her chin, tearful yet burning with righteous fury."
+      },
+      {
+        "start": 58.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I didn't ask this church for permission to survive, Father."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing proudly beside Alexander."
+      },
+      {
+        "start": 62.9,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I won't ask it for permission to love."
+      },
+      {
+        "start": 65.8,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest looking down, a sinister, condescending smirk gracing his lips."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Love doesn't make a Duchess, girl. Paper does."
+      },
+      {
+        "start": 71.0,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in medium close-up on Juliana, her voice trembling with intense indignation."
+      },
+      {
+        "start": 71.4,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then look at this floor honestly, for once."
+      },
+      {
+        "start": 74.4,
+        "end": 76.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church called me unworthy."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick cut to the High Priest maintaining a smug, impenetrable stare."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church chained me."
+      },
+      {
+        "start": 78.0,
+        "end": 85.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Juliana's face as she shouts at the priest."
+      },
+      {
+        "start": 78.1,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now a church calls my marriage a lie!"
+      },
+      {
+        "start": 81.1,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "God married us, Father! You are just angry no one asked you first!"
+      }
+    ],
+    "final_score": 7.83,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 223
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 17.2,
+        "end": 49.0,
+        "duration": 31.8,
+        "start_time_fmt": "00:17.20",
+        "end_time_fmt": "00:49.00"
+      }
+    ],
+    "total_duration": 31.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.78,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"None shall leave until every witness is accounted for.\"",
+    "cliffhanger": "Cuts sharply on HIGH PRIEST's unresolved words: \"No licensed clergyman presided...\", leaving the outcome hanging.",
+    "why_it_works": "At 32s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 17.2,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of the High Priest opening the yellowed War Office document."
+      },
+      {
+        "start": 17.3,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "None shall leave until every witness is accounted for."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Alexander and Juliana standing defiant at the altar as congregation members watch in silence."
+      },
+      {
+        "start": 20.6,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "You married this woman as a nameless beggar..."
+      },
+      {
+        "start": 22.8,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the High Priest holding the decree, his gaze burning with disdain."
+      },
+      {
+        "start": 22.9,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...in a hedge ceremony no clerk in England ever recorded."
+      },
+      {
+        "start": 26.8,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the High Priest brandishing the letter aloft in the center of the chapel nave."
+      },
+      {
+        "start": 26.8,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him."
+      },
+      {
+        "start": 30.5,
+        "end": 34.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander turning toward Juliana, placing a protective hand on her arm."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana places her hand over Alexander's as he steps forward to shield her."
+      },
+      {
+        "start": 34.2,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his scarred face hardening with unwavering conviction."
+      },
+      {
+        "start": 34.3,
+        "end": 36.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "She married the man... not the title."
+      },
+      {
+        "start": 37.0,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the High Priest as he raises the parchment toward the vaulted ceiling."
+      },
+      {
+        "start": 37.3,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest lowering the document, raising a single finger in admonishment."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No Crown license was sought, because no one thought to ask leave for a Duke to marry."
+      },
+      {
+        "start": 47.0,
+        "end": 49.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance."
+      },
+      {
+        "start": 47.1,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No licensed clergyman presided..."
+      }
+    ],
+    "final_score": 7.78,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 236
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 111.8,
+        "end": 143.8,
+        "duration": 32.0,
+        "start_time_fmt": "01:51.80",
+        "end_time_fmt": "02:23.80"
+      }
+    ],
+    "total_duration": 32.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.78,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Ten days is plenty of time.\"\n\n--- SCRIPT END ---\", leaving the outcome hanging.",
+    "why_it_works": "At 32s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 111.8,
+        "end": 118.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander glaring with icy authority."
+      },
+      {
+        "start": 112.0,
+        "end": 118.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel."
+      },
+      {
+        "start": 118.5,
+        "end": 124.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide profile two-shot of the High Priest and Alexander locked in an intense standoff before the altar."
+      },
+      {
+        "start": 118.8,
+        "end": 123.6,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Ten days. And if the council rules against you, this county watches you lose her twice."
+      },
+      {
+        "start": 124.0,
+        "end": 126.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I'll take that wager over your decree."
+      },
+      {
+        "start": 126.5,
+        "end": 127.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick reaction shot of the elderly woman in the pew gripping her beads in distress."
+      },
+      {
+        "start": 127.2,
+        "end": 133.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot from behind the guards as they surround Alexander and Juliana, halberds and swords pointed inches from Alexander's chest."
+      },
+      {
+        "start": 127.2,
+        "end": 133.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!"
+      },
+      {
+        "start": 133.5,
+        "end": 138.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest extending his hand toward the guards, commanding them to stand down."
+      },
+      {
+        "start": 134.0,
+        "end": 136.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards slowly lower their weapon points away from the Duke."
+      },
+      {
+        "start": 134.2,
+        "end": 138.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Ten days, Duke. Choose your witnesses well."
+      },
+      {
+        "start": 138.8,
+        "end": 140.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "The High Priest turns sharply on his heel and strides past the guards toward the church exit."
+      },
+      {
+        "start": 139.0,
+        "end": 142.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Shuffling boots and clattering armor as the royal guards turn and retreat down the ruined aisle."
+      },
+      {
+        "start": 140.5,
+        "end": 143.88,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow pan to Catherine standing in her bridal gown beside the sunlit aisle, watching the priest depart before turning to camera with a wicked, predatory smile."
+      },
+      {
+        "start": 141.2,
+        "end": 143.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Ten days is plenty of time.\"\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 7.78,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 237
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 65.8,
+        "end": 118.2,
+        "duration": 52.4,
+        "start_time_fmt": "01:05.80",
+        "end_time_fmt": "01:58.20"
+      }
+    ],
+    "total_duration": 52.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.65,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"Love doesn't make a Duchess, girl. Paper does.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.\", leaving the outcome hanging.",
+    "why_it_works": "At 52s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 65.8,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest looking down, a sinister, condescending smirk gracing his lips."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Love doesn't make a Duchess, girl. Paper does."
+      },
+      {
+        "start": 71.0,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in medium close-up on Juliana, her voice trembling with intense indignation."
+      },
+      {
+        "start": 71.4,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then look at this floor honestly, for once."
+      },
+      {
+        "start": 74.4,
+        "end": 76.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church called me unworthy."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick cut to the High Priest maintaining a smug, impenetrable stare."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church chained me."
+      },
+      {
+        "start": 78.0,
+        "end": 85.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Juliana's face as she shouts at the priest."
+      },
+      {
+        "start": 78.1,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now a church calls my marriage a lie!"
+      },
+      {
+        "start": 81.1,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "God married us, Father! You are just angry no one asked you first!"
+      },
+      {
+        "start": 85.8,
+        "end": 89.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine leaning against a stone archway, whispering with venomous mockery."
+      },
+      {
+        "start": 86.1,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Careful, healer. The floor isn't finished with you."
+      },
+      {
+        "start": 89.2,
+        "end": 92.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest pressing the document against his chest, his eyes darkening with anger."
+      },
+      {
+        "start": 89.3,
+        "end": 92.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Careful, girl. You mistake my patience for weakness."
+      },
+      {
+        "start": 92.5,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the High Priest stepping up the altar steps toward them."
+      },
+      {
+        "start": 92.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!"
+      },
+      {
+        "start": 96.0,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Brief insert of Catherine smirking as she watches from the side."
+      },
+      {
+        "start": 96.8,
+        "end": 100.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the High Priest waving the letter overhead before the congregation."
+      },
+      {
+        "start": 96.8,
+        "end": 100.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And I have the power to undo in one hearing what took you three years to steal!"
+      },
+      {
+        "start": 100.5,
+        "end": 101.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine listening eagerly."
+      },
+      {
+        "start": 101.8,
+        "end": 106.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium shot of Alexander confronting the High Priest face-to-face at the foot of the altar."
+      },
+      {
+        "start": 101.8,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal."
+      },
+      {
+        "start": 106.8,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle two-shot of the High Priest staring up into Alexander's imposing frame."
+      },
+      {
+        "start": 107.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The High Religious Council rules on matters of holy matrimony. That includes yours."
+      },
+      {
+        "start": 111.8,
+        "end": 118.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander glaring with icy authority."
+      },
+      {
+        "start": 112.0,
+        "end": 118.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel."
+      }
+    ],
+    "final_score": 7.65,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 297
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 66.8,
+        "end": 89.0,
+        "duration": 22.2,
+        "start_time_fmt": "01:06.80",
+        "end_time_fmt": "01:29.00"
+      }
+    ],
+    "total_duration": 22.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.65,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"Love doesn't make a Duchess, girl. Paper does.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Careful, healer. The floor isn't finished with you.\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Love doesn't make a Duchess, girl. Paper does."
+      },
+      {
+        "start": 71.0,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in medium close-up on Juliana, her voice trembling with intense indignation."
+      },
+      {
+        "start": 71.4,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then look at this floor honestly, for once."
+      },
+      {
+        "start": 74.4,
+        "end": 76.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church called me unworthy."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick cut to the High Priest maintaining a smug, impenetrable stare."
+      },
+      {
+        "start": 76.8,
+        "end": 78.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A church chained me."
+      },
+      {
+        "start": 78.0,
+        "end": 85.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Juliana's face as she shouts at the priest."
+      },
+      {
+        "start": 78.1,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now a church calls my marriage a lie!"
+      },
+      {
+        "start": 81.1,
+        "end": 85.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "God married us, Father! You are just angry no one asked you first!"
+      },
+      {
+        "start": 85.8,
+        "end": 89.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine leaning against a stone archway, whispering with venomous mockery."
+      },
+      {
+        "start": 86.1,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Careful, healer. The floor isn't finished with you."
+      }
+    ],
+    "final_score": 7.65,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 298
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 37.0,
+        "end": 70.5,
+        "duration": 33.5,
+        "start_time_fmt": "00:37.00",
+        "end_time_fmt": "01:10.50"
+      }
+    ],
+    "total_duration": 33.5,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.41,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone.\"",
+    "cliffhanger": "Cuts sharply on HIGH PRIEST's unresolved words: \"Love doesn't make a Duchess, girl. Paper does.\", leaving the outcome hanging.",
+    "why_it_works": "At 34s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 37.0,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the High Priest as he raises the parchment toward the vaulted ceiling."
+      },
+      {
+        "start": 37.3,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest lowering the document, raising a single finger in admonishment."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No Crown license was sought, because no one thought to ask leave for a Duke to marry."
+      },
+      {
+        "start": 47.0,
+        "end": 49.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance."
+      },
+      {
+        "start": 47.1,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No licensed clergyman presided..."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest glaring intently."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...because a frightened village priest has no authority to bind a peer."
+      },
+      {
+        "start": 52.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot pushing into a close-up as the High Priest thrusts the royal War Office proclamation directly into the camera."
+      },
+      {
+        "start": 52.2,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead."
+      },
+      {
+        "start": 58.2,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lifting her chin, tearful yet burning with righteous fury."
+      },
+      {
+        "start": 58.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I didn't ask this church for permission to survive, Father."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing proudly beside Alexander."
+      },
+      {
+        "start": 62.9,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I won't ask it for permission to love."
+      },
+      {
+        "start": 65.8,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest looking down, a sinister, condescending smirk gracing his lips."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Love doesn't make a Duchess, girl. Paper does."
+      }
+    ],
+    "final_score": 7.41,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 398
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 26.8,
+        "end": 58.0,
+        "duration": 31.2,
+        "start_time_fmt": "00:26.80",
+        "end_time_fmt": "00:58.00"
+      }
+    ],
+    "total_duration": 31.2,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.26,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.\"",
+    "cliffhanger": "Cuts sharply on HIGH PRIEST's unresolved words: \"And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead.\", leaving the outcome hanging.",
+    "why_it_works": "At 31s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 26.8,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the High Priest brandishing the letter aloft in the center of the chapel nave."
+      },
+      {
+        "start": 26.8,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him."
+      },
+      {
+        "start": 30.5,
+        "end": 34.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander turning toward Juliana, placing a protective hand on her arm."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana places her hand over Alexander's as he steps forward to shield her."
+      },
+      {
+        "start": 34.2,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his scarred face hardening with unwavering conviction."
+      },
+      {
+        "start": 34.3,
+        "end": 36.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "She married the man... not the title."
+      },
+      {
+        "start": 37.0,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the High Priest as he raises the parchment toward the vaulted ceiling."
+      },
+      {
+        "start": 37.3,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest lowering the document, raising a single finger in admonishment."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No Crown license was sought, because no one thought to ask leave for a Duke to marry."
+      },
+      {
+        "start": 47.0,
+        "end": 49.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance."
+      },
+      {
+        "start": 47.1,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No licensed clergyman presided..."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest glaring intently."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...because a frightened village priest has no authority to bind a peer."
+      },
+      {
+        "start": 52.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot pushing into a close-up as the High Priest thrusts the royal War Office proclamation directly into the camera."
+      },
+      {
+        "start": 52.2,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead."
+      }
+    ],
+    "final_score": 7.26,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 485
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 11.0,
+        "end": 70.5,
+        "duration": 59.5,
+        "start_time_fmt": "00:11.00",
+        "end_time_fmt": "01:10.50"
+      }
+    ],
+    "total_duration": 59.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.05,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"By Royal command, this sanctuary is placed under immediate Crown scesion.\"",
+    "cliffhanger": "Cuts sharply on HIGH PRIEST's unresolved words: \"Love doesn't make a Duchess, girl. Paper does.\", leaving the outcome hanging.",
+    "why_it_works": "At 60s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 11.0,
+        "end": 13.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest holding up a wax-sealed document before his chest, flanked by two armed guards."
+      },
+      {
+        "start": 11.5,
+        "end": 16.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "By Royal command, this sanctuary is placed under immediate Crown scesion."
+      },
+      {
+        "start": 13.8,
+        "end": 17.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest's fingers breaking the crimson wax seal and string on the war office envelope."
+      },
+      {
+        "start": 15.0,
+        "end": 16.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Crisp tear of wax and parchment string snapping open."
+      },
+      {
+        "start": 17.2,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of the High Priest opening the yellowed War Office document."
+      },
+      {
+        "start": 17.3,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "None shall leave until every witness is accounted for."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Alexander and Juliana standing defiant at the altar as congregation members watch in silence."
+      },
+      {
+        "start": 20.6,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "You married this woman as a nameless beggar..."
+      },
+      {
+        "start": 22.8,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the High Priest holding the decree, his gaze burning with disdain."
+      },
+      {
+        "start": 22.9,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...in a hedge ceremony no clerk in England ever recorded."
+      },
+      {
+        "start": 26.8,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the High Priest brandishing the letter aloft in the center of the chapel nave."
+      },
+      {
+        "start": 26.8,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him."
+      },
+      {
+        "start": 30.5,
+        "end": 34.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander turning toward Juliana, placing a protective hand on her arm."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana places her hand over Alexander's as he steps forward to shield her."
+      },
+      {
+        "start": 34.2,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his scarred face hardening with unwavering conviction."
+      },
+      {
+        "start": 34.3,
+        "end": 36.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "She married the man... not the title."
+      },
+      {
+        "start": 37.0,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the High Priest as he raises the parchment toward the vaulted ceiling."
+      },
+      {
+        "start": 37.3,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest lowering the document, raising a single finger in admonishment."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No Crown license was sought, because no one thought to ask leave for a Duke to marry."
+      },
+      {
+        "start": 47.0,
+        "end": 49.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance."
+      },
+      {
+        "start": 47.1,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No licensed clergyman presided..."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest glaring intently."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...because a frightened village priest has no authority to bind a peer."
+      },
+      {
+        "start": 52.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot pushing into a close-up as the High Priest thrusts the royal War Office proclamation directly into the camera."
+      },
+      {
+        "start": 52.2,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead."
+      },
+      {
+        "start": 58.2,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lifting her chin, tearful yet burning with righteous fury."
+      },
+      {
+        "start": 58.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I didn't ask this church for permission to survive, Father."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing proudly beside Alexander."
+      },
+      {
+        "start": 62.9,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I won't ask it for permission to love."
+      },
+      {
+        "start": 65.8,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest looking down, a sinister, condescending smirk gracing his lips."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Love doesn't make a Duchess, girl. Paper does."
+      }
+    ],
+    "final_score": 7.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 591
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 11.0,
+        "end": 31.8,
+        "duration": 20.8,
+        "start_time_fmt": "00:11.00",
+        "end_time_fmt": "00:31.80"
+      }
+    ],
+    "total_duration": 20.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 8.3,
+    "emotional_impact": 8.0,
+    "composite_score": 6.91,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"By Royal command, this sanctuary is placed under immediate Crown scesion.\"",
+    "cliffhanger": "Cuts sharply on HIGH PRIEST's unresolved words: \"Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 11.0,
+        "end": 13.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest holding up a wax-sealed document before his chest, flanked by two armed guards."
+      },
+      {
+        "start": 11.5,
+        "end": 16.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "By Royal command, this sanctuary is placed under immediate Crown scesion."
+      },
+      {
+        "start": 13.8,
+        "end": 17.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest's fingers breaking the crimson wax seal and string on the war office envelope."
+      },
+      {
+        "start": 15.0,
+        "end": 16.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Crisp tear of wax and parchment string snapping open."
+      },
+      {
+        "start": 17.2,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of the High Priest opening the yellowed War Office document."
+      },
+      {
+        "start": 17.3,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "None shall leave until every witness is accounted for."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Alexander and Juliana standing defiant at the altar as congregation members watch in silence."
+      },
+      {
+        "start": 20.6,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "You married this woman as a nameless beggar..."
+      },
+      {
+        "start": 22.8,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the High Priest holding the decree, his gaze burning with disdain."
+      },
+      {
+        "start": 22.9,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...in a hedge ceremony no clerk in England ever recorded."
+      },
+      {
+        "start": 26.8,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the High Priest brandishing the letter aloft in the center of the chapel nave."
+      },
+      {
+        "start": 26.8,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him."
+      }
+    ],
+    "final_score": 6.91,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 660
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 47.0,
+        "end": 76.8,
+        "duration": 29.8,
+        "start_time_fmt": "00:47.00",
+        "end_time_fmt": "01:16.80"
+      }
+    ],
+    "total_duration": 29.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.88,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"No licensed clergyman presided...\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Slow push-in medium close-up on Juliana, her voice trembling with intense indignation.",
+    "why_it_works": "At 30s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 47.0,
+        "end": 49.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance."
+      },
+      {
+        "start": 47.1,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No licensed clergyman presided..."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest glaring intently."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...because a frightened village priest has no authority to bind a peer."
+      },
+      {
+        "start": 52.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot pushing into a close-up as the High Priest thrusts the royal War Office proclamation directly into the camera."
+      },
+      {
+        "start": 52.2,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead."
+      },
+      {
+        "start": 58.2,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lifting her chin, tearful yet burning with righteous fury."
+      },
+      {
+        "start": 58.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I didn't ask this church for permission to survive, Father."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing proudly beside Alexander."
+      },
+      {
+        "start": 62.9,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I won't ask it for permission to love."
+      },
+      {
+        "start": 65.8,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest looking down, a sinister, condescending smirk gracing his lips."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Love doesn't make a Duchess, girl. Paper does."
+      },
+      {
+        "start": 71.0,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow push-in medium close-up on Juliana, her voice trembling with intense indignation."
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 685
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 0.0,
+        "end": 22.8,
+        "duration": 22.8,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:22.80"
+      }
+    ],
+    "total_duration": 22.8,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 6.8,
+    "emotional_impact": 8.5,
+    "composite_score": 6.87,
+    "hook": "Opens with immediate physical drama: Alexander holds Juliana's hand resolutely as Juliana gazes toward the church aisle where the intrusion unfolds.",
+    "cliffhanger": "Cuts sharply on HIGH PRIEST's unresolved words: \"You married this woman as a nameless beggar...\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Assumes some prior familiarity with character relationships or off-screen backstory. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Alexander and Juliana standing side by side before the altar, their hands tightly clasped beneath the soaring stained-glass windows."
+      },
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander holds Juliana's hand resolutely as Juliana gazes toward the church aisle where the intrusion unfolds."
+      },
+      {
+        "start": 3.5,
+        "end": 5.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of an elderly noblewoman seated in the pew, clutching her chest with anxious apprehension."
+      },
+      {
+        "start": 5.8,
+        "end": 7.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine in her lavish bridal gown, her fists clenched tightly in silent fury."
+      },
+      {
+        "start": 7.1,
+        "end": 11.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot down the ruined nave aisle as the High Priest marches forward flanked by armed royal guards with halberds."
+      },
+      {
+        "start": 7.8,
+        "end": 11.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy armored footsteps and boots crunching against loose stone debris."
+      },
+      {
+        "start": 11.0,
+        "end": 13.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest holding up a wax-sealed document before his chest, flanked by two armed guards."
+      },
+      {
+        "start": 11.5,
+        "end": 16.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "By Royal command, this sanctuary is placed under immediate Crown scesion."
+      },
+      {
+        "start": 13.8,
+        "end": 17.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest's fingers breaking the crimson wax seal and string on the war office envelope."
+      },
+      {
+        "start": 15.0,
+        "end": 16.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Crisp tear of wax and parchment string snapping open."
+      },
+      {
+        "start": 17.2,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of the High Priest opening the yellowed War Office document."
+      },
+      {
+        "start": 17.3,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "None shall leave until every witness is accounted for."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Alexander and Juliana standing defiant at the altar as congregation members watch in silence."
+      },
+      {
+        "start": 20.6,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "You married this woman as a nameless beggar..."
+      }
+    ],
+    "final_score": 6.87,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 692
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 42.8,
+        "end": 62.8,
+        "duration": 20.0,
+        "start_time_fmt": "00:42.80",
+        "end_time_fmt": "01:02.80"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 8.3,
+    "emotional_impact": 6.5,
+    "composite_score": 6.87,
+    "hook": "HIGH PRIEST shocks the viewer with an immediate confrontation: \"No Crown license was sought, because no one thought to ask leave for a Duke to marry.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana lifting her chin, tearful yet burning with righteous fury.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest lowering the document, raising a single finger in admonishment."
+      },
+      {
+        "start": 42.8,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No Crown license was sought, because no one thought to ask leave for a Duke to marry."
+      },
+      {
+        "start": 47.0,
+        "end": 49.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance."
+      },
+      {
+        "start": 47.1,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "No licensed clergyman presided..."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest glaring intently."
+      },
+      {
+        "start": 49.0,
+        "end": 52.2,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...because a frightened village priest has no authority to bind a peer."
+      },
+      {
+        "start": 52.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot pushing into a close-up as the High Priest thrusts the royal War Office proclamation directly into the camera."
+      },
+      {
+        "start": 52.2,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead."
+      },
+      {
+        "start": 58.2,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lifting her chin, tearful yet burning with righteous fury."
+      }
+    ],
+    "final_score": 6.87,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 693
+  },
+  {
+    "episode": 46,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 46,
+        "start": 0.0,
+        "end": 42.5,
+        "duration": 42.5,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:42.50"
+      }
+    ],
+    "total_duration": 42.5,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.6,
+    "hook": "Opens with immediate physical drama: Alexander holds Juliana's hand resolutely as Juliana gazes toward the church aisle where the intrusion unfolds.",
+    "cliffhanger": "Cuts sharply on HIGH PRIEST's unresolved words: \"The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone.\", leaving the outcome hanging.",
+    "why_it_works": "At 42s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Alexander and Juliana standing side by side before the altar, their hands tightly clasped beneath the soaring stained-glass windows."
+      },
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander holds Juliana's hand resolutely as Juliana gazes toward the church aisle where the intrusion unfolds."
+      },
+      {
+        "start": 3.5,
+        "end": 5.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of an elderly noblewoman seated in the pew, clutching her chest with anxious apprehension."
+      },
+      {
+        "start": 5.8,
+        "end": 7.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine in her lavish bridal gown, her fists clenched tightly in silent fury."
+      },
+      {
+        "start": 7.1,
+        "end": 11.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot down the ruined nave aisle as the High Priest marches forward flanked by armed royal guards with halberds."
+      },
+      {
+        "start": 7.8,
+        "end": 11.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy armored footsteps and boots crunching against loose stone debris."
+      },
+      {
+        "start": 11.0,
+        "end": 13.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the High Priest holding up a wax-sealed document before his chest, flanked by two armed guards."
+      },
+      {
+        "start": 11.5,
+        "end": 16.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "By Royal command, this sanctuary is placed under immediate Crown scesion."
+      },
+      {
+        "start": 13.8,
+        "end": 17.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the High Priest's fingers breaking the crimson wax seal and string on the war office envelope."
+      },
+      {
+        "start": 15.0,
+        "end": 16.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Crisp tear of wax and parchment string snapping open."
+      },
+      {
+        "start": 17.2,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of the High Priest opening the yellowed War Office document."
+      },
+      {
+        "start": 17.3,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "None shall leave until every witness is accounted for."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Alexander and Juliana standing defiant at the altar as congregation members watch in silence."
+      },
+      {
+        "start": 20.6,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "You married this woman as a nameless beggar..."
+      },
+      {
+        "start": 22.8,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the High Priest holding the decree, his gaze burning with disdain."
+      },
+      {
+        "start": 22.9,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "...in a hedge ceremony no clerk in England ever recorded."
+      },
+      {
+        "start": 26.8,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the High Priest brandishing the letter aloft in the center of the chapel nave."
+      },
+      {
+        "start": 26.8,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him."
+      },
+      {
+        "start": 30.5,
+        "end": 34.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander turning toward Juliana, placing a protective hand on her arm."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana places her hand over Alexander's as he steps forward to shield her."
+      },
+      {
+        "start": 34.2,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his scarred face hardening with unwavering conviction."
+      },
+      {
+        "start": 34.3,
+        "end": 36.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "She married the man... not the title."
+      },
+      {
+        "start": 37.0,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the High Priest as he raises the parchment toward the vaulted ceiling."
+      },
+      {
+        "start": 37.3,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "HIGH PRIEST",
+        "content": "The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone."
+      }
+    ],
+    "final_score": 6.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 781
+  }
+]

@@ -1,0 +1,3584 @@
+[
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 69.5,
+        "end": 106.0,
+        "duration": 36.5,
+        "start_time_fmt": "01:09.50",
+        "end_time_fmt": "01:46.00"
+      }
+    ],
+    "total_duration": 36.5,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.54,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"If I stop now, I will think about everything I lost.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"And yet...\", leaving the outcome hanging.",
+    "why_it_works": "At 36s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 69.5,
+        "end": 72.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, her voice catching with raw, suppressed emotion as she scrubs."
+      },
+      {
+        "start": 70.1,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop now, I will think about everything I lost."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low shot of the Mysterious Bearded Man kneeling beside Juliana as she wipes the table."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Juliana sweeping dust toward the large stone fireplace."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following the Mysterious Bearded Man as he sets the firewood into the stone fireplace."
+      },
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame."
+      },
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on hands striking flint, sparks showering onto the twigs and catching fire."
+      },
+      {
+        "start": 83.8,
+        "end": 85.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of vibrant orange flames rapidly spreading across the dry logs, crackling warmly."
+      },
+      {
+        "start": 83.8,
+        "end": 90.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Crisp crackling and snapping of dry wood catching fire in the hearth."
+      },
+      {
+        "start": 85.0,
+        "end": 87.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing by the table, broom resting against her hip, bathed in the amber firelight."
+      },
+      {
+        "start": 87.5,
+        "end": 89.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat."
+      },
+      {
+        "start": 87.5,
+        "end": 89.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising before the blazing fireplace."
+      },
+      {
+        "start": 89.0,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "There."
+      },
+      {
+        "start": 89.8,
+        "end": 91.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking at him with radiant gratitude and a gentle smile."
+      },
+      {
+        "start": 91.7,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man gesturing faintly to the modest room."
+      },
+      {
+        "start": 92.1,
+        "end": 93.6,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is not much."
+      },
+      {
+        "start": 93.8,
+        "end": 95.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the stone floor before the blazing hearth, wrapping her dark cloak around her shoulders."
+      },
+      {
+        "start": 94.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is enough for tonight."
+      },
+      {
+        "start": 95.8,
+        "end": 98.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing the roaring hearth fire between them as the Mysterious Bearded Man crouches down beside her on the stone floor."
+      },
+      {
+        "start": 98.2,
+        "end": 101.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana pulling her cloak tighter, her face glowing warmly in the firelight."
+      },
+      {
+        "start": 98.4,
+        "end": 100.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I lost my home today."
+      },
+      {
+        "start": 100.6,
+        "end": 101.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My family."
+      },
+      {
+        "start": 101.0,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the glowing embers and dancing flames inside the fireplace."
+      },
+      {
+        "start": 102.0,
+        "end": 104.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Everything I thought my life would be."
+      },
+      {
+        "start": 103.0,
+        "end": 104.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Mysterious Bearded Man's scarred, work-worn hands resting quietly on his knees."
+      },
+      {
+        "start": 104.3,
+        "end": 106.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking down into the flames, a peaceful serenity washing over her features."
+      },
+      {
+        "start": 105.0,
+        "end": 106.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And yet..."
+      }
+    ],
+    "final_score": 7.54,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 352
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 17.2,
+        "end": 60.0,
+        "duration": 42.8,
+        "start_time_fmt": "00:17.20",
+        "end_time_fmt": "01:00.00"
+      }
+    ],
+    "total_duration": 42.8,
+    "hook_strength": 7.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.4,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I suppose the day was already ruined.\"",
+    "cliffhanger": "Cuts sharply on MYSTERIOUS BEARDED MAN's unresolved words: \"You are not disappointed?\", leaving the outcome hanging.",
+    "why_it_works": "At 43s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 17.2,
+        "end": 18.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's bodice and mother's pendant as she gathers her cloak closer."
+      },
+      {
+        "start": 18.3,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, offering a wistful, comforting smile."
+      },
+      {
+        "start": 18.5,
+        "end": 20.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I suppose the day was already ruined."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the Mysterious Bearded Man's piercing eyes, touched by her lack of bitterness."
+      },
+      {
+        "start": 24.0,
+        "end": 26.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees."
+      },
+      {
+        "start": 24.5,
+        "end": 26.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "They walk forward toward the cottage emerging from the dark woods."
+      },
+      {
+        "start": 26.1,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Juliana's face, wide-eyed with realization."
+      },
+      {
+        "start": 26.5,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is it?"
+      },
+      {
+        "start": 27.9,
+        "end": 29.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Mysterious Bearded Man."
+      },
+      {
+        "start": 28.1,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Yes."
+      },
+      {
+        "start": 29.2,
+        "end": 30.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Upward shot of rain pelting through the thick treetops."
+      },
+      {
+        "start": 29.2,
+        "end": 30.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden distant rumble of thunder echoing across the forest."
+      },
+      {
+        "start": 30.1,
+        "end": 33.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door."
+      },
+      {
+        "start": 30.15,
+        "end": 33.15,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "At least no one there will be waiting to humiliate me."
+      },
+      {
+        "start": 33.0,
+        "end": 33.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective."
+      },
+      {
+        "start": 33.7,
+        "end": 36.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards."
+      },
+      {
+        "start": 36.7,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling."
+      },
+      {
+        "start": 36.7,
+        "end": 40.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic water drips plinking into the metal-rimmed wooden bucket."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them."
+      },
+      {
+        "start": 40.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man standing in the dim light by the door."
+      },
+      {
+        "start": 40.7,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I am sorry."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings."
+      },
+      {
+        "start": 43.3,
+        "end": 46.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man looking at her with somber honesty."
+      },
+      {
+        "start": 43.6,
+        "end": 45.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You came from comfort."
+      },
+      {
+        "start": 45.1,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "This is all I can give you now."
+      },
+      {
+        "start": 46.4,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders."
+      },
+      {
+        "start": 46.6,
+        "end": 49.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana removes her dark cloak, revealing her damp white bridal dress underneath."
+      },
+      {
+        "start": 48.8,
+        "end": 51.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane."
+      },
+      {
+        "start": 51.1,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile shot of Juliana looking out the rain-streaked window into the quiet forest."
+      },
+      {
+        "start": 51.3,
+        "end": 52.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is quiet."
+      },
+      {
+        "start": 53.3,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Very quiet."
+      },
+      {
+        "start": 54.8,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face."
+      },
+      {
+        "start": 56.4,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I think I like that."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man, slightly surprised by her reaction."
+      },
+      {
+        "start": 58.4,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You are not disappointed?"
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 400
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 7.1,
+        "end": 27.7,
+        "duration": 20.6,
+        "start_time_fmt": "00:07.10",
+        "end_time_fmt": "00:27.70"
+      }
+    ],
+    "total_duration": 20.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.25,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"I know this is not the life you came from.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"That is it?\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 7.1,
+        "end": 9.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Mysterious Bearded Man, his dark hair soaked and rain running down the scars on his cheek."
+      },
+      {
+        "start": 7.2,
+        "end": 9.85,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I know this is not the life you came from."
+      },
+      {
+        "start": 9.9,
+        "end": 14.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into the rain, exhaling a soft breath of resignation."
+      },
+      {
+        "start": 10.1,
+        "end": 11.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No."
+      },
+      {
+        "start": 11.3,
+        "end": 13.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana looks upward into the canopy, gathering herself with a faint nod."
+      },
+      {
+        "start": 13.4,
+        "end": 14.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It isn't."
+      },
+      {
+        "start": 14.9,
+        "end": 17.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man, gazing down at her with quiet remorse."
+      },
+      {
+        "start": 15.2,
+        "end": 18.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You should not have had to walk through this rain tonight."
+      },
+      {
+        "start": 17.2,
+        "end": 18.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's bodice and mother's pendant as she gathers her cloak closer."
+      },
+      {
+        "start": 18.3,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, offering a wistful, comforting smile."
+      },
+      {
+        "start": 18.5,
+        "end": 20.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I suppose the day was already ruined."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the Mysterious Bearded Man's piercing eyes, touched by her lack of bitterness."
+      },
+      {
+        "start": 24.0,
+        "end": 26.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees."
+      },
+      {
+        "start": 24.5,
+        "end": 26.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "They walk forward toward the cottage emerging from the dark woods."
+      },
+      {
+        "start": 26.1,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Juliana's face, wide-eyed with realization."
+      },
+      {
+        "start": 26.5,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is it?"
+      }
+    ],
+    "final_score": 7.25,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 491
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 29.2,
+        "end": 76.8,
+        "duration": 47.6,
+        "start_time_fmt": "00:29.20",
+        "end_time_fmt": "01:16.80"
+      }
+    ],
+    "total_duration": 47.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.22,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"At least no one there will be waiting to humiliate me.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help.",
+    "why_it_works": "At 48s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 29.2,
+        "end": 30.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Upward shot of rain pelting through the thick treetops."
+      },
+      {
+        "start": 29.2,
+        "end": 30.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden distant rumble of thunder echoing across the forest."
+      },
+      {
+        "start": 30.1,
+        "end": 33.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door."
+      },
+      {
+        "start": 30.15,
+        "end": 33.15,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "At least no one there will be waiting to humiliate me."
+      },
+      {
+        "start": 33.0,
+        "end": 33.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective."
+      },
+      {
+        "start": 33.7,
+        "end": 36.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards."
+      },
+      {
+        "start": 36.7,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling."
+      },
+      {
+        "start": 36.7,
+        "end": 40.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic water drips plinking into the metal-rimmed wooden bucket."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them."
+      },
+      {
+        "start": 40.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man standing in the dim light by the door."
+      },
+      {
+        "start": 40.7,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I am sorry."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings."
+      },
+      {
+        "start": 43.3,
+        "end": 46.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man looking at her with somber honesty."
+      },
+      {
+        "start": 43.6,
+        "end": 45.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You came from comfort."
+      },
+      {
+        "start": 45.1,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "This is all I can give you now."
+      },
+      {
+        "start": 46.4,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders."
+      },
+      {
+        "start": 46.6,
+        "end": 49.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana removes her dark cloak, revealing her damp white bridal dress underneath."
+      },
+      {
+        "start": 48.8,
+        "end": 51.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane."
+      },
+      {
+        "start": 51.1,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile shot of Juliana looking out the rain-streaked window into the quiet forest."
+      },
+      {
+        "start": 51.3,
+        "end": 52.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is quiet."
+      },
+      {
+        "start": 53.3,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Very quiet."
+      },
+      {
+        "start": 54.8,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face."
+      },
+      {
+        "start": 56.4,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I think I like that."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man, slightly surprised by her reaction."
+      },
+      {
+        "start": 58.4,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You are not disappointed?"
+      },
+      {
+        "start": 59.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana meeting his gaze honestly."
+      },
+      {
+        "start": 60.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I am."
+      },
+      {
+        "start": 61.3,
+        "end": 64.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently."
+      },
+      {
+        "start": 61.9,
+        "end": 64.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But not because of you."
+      },
+      {
+        "start": 64.1,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the damp surface."
+      },
+      {
+        "start": 64.3,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is our home, I want it clean."
+      },
+      {
+        "start": 66.6,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man stepping forward to intervene gently."
+      },
+      {
+        "start": 66.7,
+        "end": 68.7,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to do that tonight."
+      },
+      {
+        "start": 67.8,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hands vigorously scrubbing grime from the wooden tabletop."
+      },
+      {
+        "start": 69.5,
+        "end": 72.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, her voice catching with raw, suppressed emotion as she scrubs."
+      },
+      {
+        "start": 70.1,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop now, I will think about everything I lost."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help."
+      }
+    ],
+    "final_score": 7.22,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 509
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 17.2,
+        "end": 37.7,
+        "duration": 20.5,
+        "start_time_fmt": "00:17.20",
+        "end_time_fmt": "00:37.70"
+      }
+    ],
+    "total_duration": 20.5,
+    "hook_strength": 7.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.5,
+    "composite_score": 6.95,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I suppose the day was already ruined.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 17.2,
+        "end": 18.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's bodice and mother's pendant as she gathers her cloak closer."
+      },
+      {
+        "start": 18.3,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, offering a wistful, comforting smile."
+      },
+      {
+        "start": 18.5,
+        "end": 20.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I suppose the day was already ruined."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the Mysterious Bearded Man's piercing eyes, touched by her lack of bitterness."
+      },
+      {
+        "start": 24.0,
+        "end": 26.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees."
+      },
+      {
+        "start": 24.5,
+        "end": 26.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "They walk forward toward the cottage emerging from the dark woods."
+      },
+      {
+        "start": 26.1,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Juliana's face, wide-eyed with realization."
+      },
+      {
+        "start": 26.5,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is it?"
+      },
+      {
+        "start": 27.9,
+        "end": 29.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Mysterious Bearded Man."
+      },
+      {
+        "start": 28.1,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Yes."
+      },
+      {
+        "start": 29.2,
+        "end": 30.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Upward shot of rain pelting through the thick treetops."
+      },
+      {
+        "start": 29.2,
+        "end": 30.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden distant rumble of thunder echoing across the forest."
+      },
+      {
+        "start": 30.1,
+        "end": 33.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door."
+      },
+      {
+        "start": 30.15,
+        "end": 33.15,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "At least no one there will be waiting to humiliate me."
+      },
+      {
+        "start": 33.0,
+        "end": 33.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective."
+      },
+      {
+        "start": 33.7,
+        "end": 36.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards."
+      },
+      {
+        "start": 36.7,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling."
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 632
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 29.2,
+        "end": 51.1,
+        "duration": 21.9,
+        "start_time_fmt": "00:29.20",
+        "end_time_fmt": "00:51.10"
+      }
+    ],
+    "total_duration": 21.9,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.95,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"At least no one there will be waiting to humiliate me.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 29.2,
+        "end": 30.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Upward shot of rain pelting through the thick treetops."
+      },
+      {
+        "start": 29.2,
+        "end": 30.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden distant rumble of thunder echoing across the forest."
+      },
+      {
+        "start": 30.1,
+        "end": 33.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door."
+      },
+      {
+        "start": 30.15,
+        "end": 33.15,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "At least no one there will be waiting to humiliate me."
+      },
+      {
+        "start": 33.0,
+        "end": 33.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective."
+      },
+      {
+        "start": 33.7,
+        "end": 36.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards."
+      },
+      {
+        "start": 36.7,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling."
+      },
+      {
+        "start": 36.7,
+        "end": 40.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic water drips plinking into the metal-rimmed wooden bucket."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them."
+      },
+      {
+        "start": 40.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man standing in the dim light by the door."
+      },
+      {
+        "start": 40.7,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I am sorry."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings."
+      },
+      {
+        "start": 43.3,
+        "end": 46.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man looking at her with somber honesty."
+      },
+      {
+        "start": 43.6,
+        "end": 45.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You came from comfort."
+      },
+      {
+        "start": 45.1,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "This is all I can give you now."
+      },
+      {
+        "start": 46.4,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders."
+      },
+      {
+        "start": 46.6,
+        "end": 49.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana removes her dark cloak, revealing her damp white bridal dress underneath."
+      },
+      {
+        "start": 48.8,
+        "end": 51.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane."
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 633
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 40.0,
+        "end": 60.0,
+        "duration": 20.0,
+        "start_time_fmt": "00:40.00",
+        "end_time_fmt": "01:00.00"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.95,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"I am sorry.\"",
+    "cliffhanger": "Cuts sharply on MYSTERIOUS BEARDED MAN's unresolved words: \"You are not disappointed?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 40.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man standing in the dim light by the door."
+      },
+      {
+        "start": 40.7,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I am sorry."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings."
+      },
+      {
+        "start": 43.3,
+        "end": 46.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man looking at her with somber honesty."
+      },
+      {
+        "start": 43.6,
+        "end": 45.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You came from comfort."
+      },
+      {
+        "start": 45.1,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "This is all I can give you now."
+      },
+      {
+        "start": 46.4,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders."
+      },
+      {
+        "start": 46.6,
+        "end": 49.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana removes her dark cloak, revealing her damp white bridal dress underneath."
+      },
+      {
+        "start": 48.8,
+        "end": 51.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane."
+      },
+      {
+        "start": 51.1,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile shot of Juliana looking out the rain-streaked window into the quiet forest."
+      },
+      {
+        "start": 51.3,
+        "end": 52.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is quiet."
+      },
+      {
+        "start": 53.3,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Very quiet."
+      },
+      {
+        "start": 54.8,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face."
+      },
+      {
+        "start": 56.4,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I think I like that."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man, slightly surprised by her reaction."
+      },
+      {
+        "start": 58.4,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You are not disappointed?"
+      }
+    ],
+    "final_score": 6.95,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 634
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 45.1,
+        "end": 83.8,
+        "duration": 38.7,
+        "start_time_fmt": "00:45.10",
+        "end_time_fmt": "01:23.80"
+      }
+    ],
+    "total_duration": 38.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.77,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"This is all I can give you now.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.",
+    "why_it_works": "At 39s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 45.1,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "This is all I can give you now."
+      },
+      {
+        "start": 46.4,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders."
+      },
+      {
+        "start": 46.6,
+        "end": 49.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana removes her dark cloak, revealing her damp white bridal dress underneath."
+      },
+      {
+        "start": 48.8,
+        "end": 51.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane."
+      },
+      {
+        "start": 51.1,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile shot of Juliana looking out the rain-streaked window into the quiet forest."
+      },
+      {
+        "start": 51.3,
+        "end": 52.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is quiet."
+      },
+      {
+        "start": 53.3,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Very quiet."
+      },
+      {
+        "start": 54.8,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face."
+      },
+      {
+        "start": 56.4,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I think I like that."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man, slightly surprised by her reaction."
+      },
+      {
+        "start": 58.4,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You are not disappointed?"
+      },
+      {
+        "start": 59.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana meeting his gaze honestly."
+      },
+      {
+        "start": 60.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I am."
+      },
+      {
+        "start": 61.3,
+        "end": 64.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently."
+      },
+      {
+        "start": 61.9,
+        "end": 64.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But not because of you."
+      },
+      {
+        "start": 64.1,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the damp surface."
+      },
+      {
+        "start": 64.3,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is our home, I want it clean."
+      },
+      {
+        "start": 66.6,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man stepping forward to intervene gently."
+      },
+      {
+        "start": 66.7,
+        "end": 68.7,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to do that tonight."
+      },
+      {
+        "start": 67.8,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hands vigorously scrubbing grime from the wooden tabletop."
+      },
+      {
+        "start": 69.5,
+        "end": 72.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, her voice catching with raw, suppressed emotion as she scrubs."
+      },
+      {
+        "start": 70.1,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop now, I will think about everything I lost."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low shot of the Mysterious Bearded Man kneeling beside Juliana as she wipes the table."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Juliana sweeping dust toward the large stone fireplace."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following the Mysterious Bearded Man as he sets the firewood into the stone fireplace."
+      },
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame."
+      }
+    ],
+    "final_score": 6.77,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 713
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 56.2,
+        "end": 76.8,
+        "duration": 20.6,
+        "start_time_fmt": "00:56.20",
+        "end_time_fmt": "01:16.80"
+      }
+    ],
+    "total_duration": 20.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.77,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I think I like that.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face."
+      },
+      {
+        "start": 56.4,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I think I like that."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man, slightly surprised by her reaction."
+      },
+      {
+        "start": 58.4,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You are not disappointed?"
+      },
+      {
+        "start": 59.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana meeting his gaze honestly."
+      },
+      {
+        "start": 60.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I am."
+      },
+      {
+        "start": 61.3,
+        "end": 64.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently."
+      },
+      {
+        "start": 61.9,
+        "end": 64.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But not because of you."
+      },
+      {
+        "start": 64.1,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the damp surface."
+      },
+      {
+        "start": 64.3,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is our home, I want it clean."
+      },
+      {
+        "start": 66.6,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man stepping forward to intervene gently."
+      },
+      {
+        "start": 66.7,
+        "end": 68.7,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to do that tonight."
+      },
+      {
+        "start": 67.8,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hands vigorously scrubbing grime from the wooden tabletop."
+      },
+      {
+        "start": 69.5,
+        "end": 72.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, her voice catching with raw, suppressed emotion as she scrubs."
+      },
+      {
+        "start": 70.1,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop now, I will think about everything I lost."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help."
+      }
+    ],
+    "final_score": 6.77,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 714
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 7.1,
+        "end": 42.0,
+        "duration": 34.9,
+        "start_time_fmt": "00:07.10",
+        "end_time_fmt": "00:42.00"
+      }
+    ],
+    "total_duration": 34.9,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"I know this is not the life you came from.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium close-up of the Mysterious Bearded Man standing in the dim light by the door.",
+    "why_it_works": "At 35s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 7.1,
+        "end": 9.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Mysterious Bearded Man, his dark hair soaked and rain running down the scars on his cheek."
+      },
+      {
+        "start": 7.2,
+        "end": 9.85,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I know this is not the life you came from."
+      },
+      {
+        "start": 9.9,
+        "end": 14.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into the rain, exhaling a soft breath of resignation."
+      },
+      {
+        "start": 10.1,
+        "end": 11.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No."
+      },
+      {
+        "start": 11.3,
+        "end": 13.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana looks upward into the canopy, gathering herself with a faint nod."
+      },
+      {
+        "start": 13.4,
+        "end": 14.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It isn't."
+      },
+      {
+        "start": 14.9,
+        "end": 17.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man, gazing down at her with quiet remorse."
+      },
+      {
+        "start": 15.2,
+        "end": 18.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You should not have had to walk through this rain tonight."
+      },
+      {
+        "start": 17.2,
+        "end": 18.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's bodice and mother's pendant as she gathers her cloak closer."
+      },
+      {
+        "start": 18.3,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, offering a wistful, comforting smile."
+      },
+      {
+        "start": 18.5,
+        "end": 20.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I suppose the day was already ruined."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the Mysterious Bearded Man's piercing eyes, touched by her lack of bitterness."
+      },
+      {
+        "start": 24.0,
+        "end": 26.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees."
+      },
+      {
+        "start": 24.5,
+        "end": 26.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "They walk forward toward the cottage emerging from the dark woods."
+      },
+      {
+        "start": 26.1,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Juliana's face, wide-eyed with realization."
+      },
+      {
+        "start": 26.5,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is it?"
+      },
+      {
+        "start": 27.9,
+        "end": 29.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Mysterious Bearded Man."
+      },
+      {
+        "start": 28.1,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Yes."
+      },
+      {
+        "start": 29.2,
+        "end": 30.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Upward shot of rain pelting through the thick treetops."
+      },
+      {
+        "start": 29.2,
+        "end": 30.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden distant rumble of thunder echoing across the forest."
+      },
+      {
+        "start": 30.1,
+        "end": 33.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door."
+      },
+      {
+        "start": 30.15,
+        "end": 33.15,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "At least no one there will be waiting to humiliate me."
+      },
+      {
+        "start": 33.0,
+        "end": 33.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective."
+      },
+      {
+        "start": 33.7,
+        "end": 36.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards."
+      },
+      {
+        "start": 36.7,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling."
+      },
+      {
+        "start": 36.7,
+        "end": 40.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic water drips plinking into the metal-rimmed wooden bucket."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them."
+      },
+      {
+        "start": 40.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man standing in the dim light by the door."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 727
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 81.0,
+        "end": 111.5,
+        "duration": 30.5,
+        "start_time_fmt": "01:21.00",
+        "end_time_fmt": "01:51.50"
+      }
+    ],
+    "total_duration": 30.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "Opens with immediate physical drama: He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on Juliana looking up into the room with quiet hope in her blue eyes.",
+    "why_it_works": "At 30s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame."
+      },
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on hands striking flint, sparks showering onto the twigs and catching fire."
+      },
+      {
+        "start": 83.8,
+        "end": 85.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of vibrant orange flames rapidly spreading across the dry logs, crackling warmly."
+      },
+      {
+        "start": 83.8,
+        "end": 90.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Crisp crackling and snapping of dry wood catching fire in the hearth."
+      },
+      {
+        "start": 85.0,
+        "end": 87.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing by the table, broom resting against her hip, bathed in the amber firelight."
+      },
+      {
+        "start": 87.5,
+        "end": 89.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat."
+      },
+      {
+        "start": 87.5,
+        "end": 89.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising before the blazing fireplace."
+      },
+      {
+        "start": 89.0,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "There."
+      },
+      {
+        "start": 89.8,
+        "end": 91.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking at him with radiant gratitude and a gentle smile."
+      },
+      {
+        "start": 91.7,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man gesturing faintly to the modest room."
+      },
+      {
+        "start": 92.1,
+        "end": 93.6,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is not much."
+      },
+      {
+        "start": 93.8,
+        "end": 95.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the stone floor before the blazing hearth, wrapping her dark cloak around her shoulders."
+      },
+      {
+        "start": 94.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is enough for tonight."
+      },
+      {
+        "start": 95.8,
+        "end": 98.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing the roaring hearth fire between them as the Mysterious Bearded Man crouches down beside her on the stone floor."
+      },
+      {
+        "start": 98.2,
+        "end": 101.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana pulling her cloak tighter, her face glowing warmly in the firelight."
+      },
+      {
+        "start": 98.4,
+        "end": 100.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I lost my home today."
+      },
+      {
+        "start": 100.6,
+        "end": 101.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My family."
+      },
+      {
+        "start": 101.0,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the glowing embers and dancing flames inside the fireplace."
+      },
+      {
+        "start": 102.0,
+        "end": 104.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Everything I thought my life would be."
+      },
+      {
+        "start": 103.0,
+        "end": 104.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Mysterious Bearded Man's scarred, work-worn hands resting quietly on his knees."
+      },
+      {
+        "start": 104.3,
+        "end": 106.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking down into the flames, a peaceful serenity washing over her features."
+      },
+      {
+        "start": 105.0,
+        "end": 106.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And yet..."
+      },
+      {
+        "start": 106.0,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the Mysterious Bearded Man's profile, his scarred cheek illuminated by the amber glow as he watches over her protectively."
+      },
+      {
+        "start": 106.2,
+        "end": 109.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Sitting here with him, I don't feel afraid."
+      },
+      {
+        "start": 109.0,
+        "end": 111.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into the room with quiet hope in her blue eyes."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 728
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 91.7,
+        "end": 115.0,
+        "duration": 23.3,
+        "start_time_fmt": "01:31.70",
+        "end_time_fmt": "01:55.00"
+      }
+    ],
+    "total_duration": 23.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"It is not much.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on the crackling flames and glowing embers of the fireplace, slowly fading to black as the music swells warmly.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 91.7,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man gesturing faintly to the modest room."
+      },
+      {
+        "start": 92.1,
+        "end": 93.6,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is not much."
+      },
+      {
+        "start": 93.8,
+        "end": 95.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the stone floor before the blazing hearth, wrapping her dark cloak around her shoulders."
+      },
+      {
+        "start": 94.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is enough for tonight."
+      },
+      {
+        "start": 95.8,
+        "end": 98.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing the roaring hearth fire between them as the Mysterious Bearded Man crouches down beside her on the stone floor."
+      },
+      {
+        "start": 98.2,
+        "end": 101.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana pulling her cloak tighter, her face glowing warmly in the firelight."
+      },
+      {
+        "start": 98.4,
+        "end": 100.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I lost my home today."
+      },
+      {
+        "start": 100.6,
+        "end": 101.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My family."
+      },
+      {
+        "start": 101.0,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the glowing embers and dancing flames inside the fireplace."
+      },
+      {
+        "start": 102.0,
+        "end": 104.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Everything I thought my life would be."
+      },
+      {
+        "start": 103.0,
+        "end": 104.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Mysterious Bearded Man's scarred, work-worn hands resting quietly on his knees."
+      },
+      {
+        "start": 104.3,
+        "end": 106.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking down into the flames, a peaceful serenity washing over her features."
+      },
+      {
+        "start": 105.0,
+        "end": 106.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And yet..."
+      },
+      {
+        "start": 106.0,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the Mysterious Bearded Man's profile, his scarred cheek illuminated by the amber glow as he watches over her protectively."
+      },
+      {
+        "start": 106.2,
+        "end": 109.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Sitting here with him, I don't feel afraid."
+      },
+      {
+        "start": 109.0,
+        "end": 111.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into the room with quiet hope in her blue eyes."
+      },
+      {
+        "start": 111.5,
+        "end": 115.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the crackling flames and glowing embers of the fireplace, slowly fading to black as the music swells warmly."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 729
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 61.3,
+        "end": 83.8,
+        "duration": 22.5,
+        "start_time_fmt": "01:01.30",
+        "end_time_fmt": "01:23.80"
+      }
+    ],
+    "total_duration": 22.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.7,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"But not because of you.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 61.3,
+        "end": 64.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently."
+      },
+      {
+        "start": 61.9,
+        "end": 64.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But not because of you."
+      },
+      {
+        "start": 64.1,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the damp surface."
+      },
+      {
+        "start": 64.3,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is our home, I want it clean."
+      },
+      {
+        "start": 66.6,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man stepping forward to intervene gently."
+      },
+      {
+        "start": 66.7,
+        "end": 68.7,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to do that tonight."
+      },
+      {
+        "start": 67.8,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hands vigorously scrubbing grime from the wooden tabletop."
+      },
+      {
+        "start": 69.5,
+        "end": 72.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, her voice catching with raw, suppressed emotion as she scrubs."
+      },
+      {
+        "start": 70.1,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop now, I will think about everything I lost."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low shot of the Mysterious Bearded Man kneeling beside Juliana as she wipes the table."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Juliana sweeping dust toward the large stone fireplace."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following the Mysterious Bearded Man as he sets the firewood into the stone fireplace."
+      },
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame."
+      }
+    ],
+    "final_score": 6.7,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 760
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 70.1,
+        "end": 91.7,
+        "duration": 21.6,
+        "start_time_fmt": "01:10.10",
+        "end_time_fmt": "01:31.70"
+      }
+    ],
+    "total_duration": 21.6,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 5.5,
+    "composite_score": 6.56,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"If I stop now, I will think about everything I lost.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana looking at him with radiant gratitude and a gentle smile.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 70.1,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop now, I will think about everything I lost."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low shot of the Mysterious Bearded Man kneeling beside Juliana as she wipes the table."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Juliana sweeping dust toward the large stone fireplace."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following the Mysterious Bearded Man as he sets the firewood into the stone fireplace."
+      },
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame."
+      },
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on hands striking flint, sparks showering onto the twigs and catching fire."
+      },
+      {
+        "start": 83.8,
+        "end": 85.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of vibrant orange flames rapidly spreading across the dry logs, crackling warmly."
+      },
+      {
+        "start": 83.8,
+        "end": 90.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Crisp crackling and snapping of dry wood catching fire in the hearth."
+      },
+      {
+        "start": 85.0,
+        "end": 87.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing by the table, broom resting against her hip, bathed in the amber firelight."
+      },
+      {
+        "start": 87.5,
+        "end": 89.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat."
+      },
+      {
+        "start": 87.5,
+        "end": 89.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising before the blazing fireplace."
+      },
+      {
+        "start": 89.0,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "There."
+      },
+      {
+        "start": 89.8,
+        "end": 91.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking at him with radiant gratitude and a gentle smile."
+      }
+    ],
+    "final_score": 6.56,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 789
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 51.1,
+        "end": 101.8,
+        "duration": 50.7,
+        "start_time_fmt": "00:51.10",
+        "end_time_fmt": "01:41.80"
+      }
+    ],
+    "total_duration": 50.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.55,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"It is quiet.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"My family.\", leaving the outcome hanging.",
+    "why_it_works": "At 51s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 51.1,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile shot of Juliana looking out the rain-streaked window into the quiet forest."
+      },
+      {
+        "start": 51.3,
+        "end": 52.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is quiet."
+      },
+      {
+        "start": 53.3,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Very quiet."
+      },
+      {
+        "start": 54.8,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face."
+      },
+      {
+        "start": 56.4,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I think I like that."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man, slightly surprised by her reaction."
+      },
+      {
+        "start": 58.4,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You are not disappointed?"
+      },
+      {
+        "start": 59.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana meeting his gaze honestly."
+      },
+      {
+        "start": 60.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I am."
+      },
+      {
+        "start": 61.3,
+        "end": 64.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently."
+      },
+      {
+        "start": 61.9,
+        "end": 64.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But not because of you."
+      },
+      {
+        "start": 64.1,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the damp surface."
+      },
+      {
+        "start": 64.3,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is our home, I want it clean."
+      },
+      {
+        "start": 66.6,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man stepping forward to intervene gently."
+      },
+      {
+        "start": 66.7,
+        "end": 68.7,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to do that tonight."
+      },
+      {
+        "start": 67.8,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hands vigorously scrubbing grime from the wooden tabletop."
+      },
+      {
+        "start": 69.5,
+        "end": 72.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, her voice catching with raw, suppressed emotion as she scrubs."
+      },
+      {
+        "start": 70.1,
+        "end": 73.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop now, I will think about everything I lost."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help."
+      },
+      {
+        "start": 74.3,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low shot of the Mysterious Bearded Man kneeling beside Juliana as she wipes the table."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Juliana sweeping dust toward the large stone fireplace."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth."
+      },
+      {
+        "start": 77.8,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following the Mysterious Bearded Man as he sets the firewood into the stone fireplace."
+      },
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame."
+      },
+      {
+        "start": 81.0,
+        "end": 83.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on hands striking flint, sparks showering onto the twigs and catching fire."
+      },
+      {
+        "start": 83.8,
+        "end": 85.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of vibrant orange flames rapidly spreading across the dry logs, crackling warmly."
+      },
+      {
+        "start": 83.8,
+        "end": 90.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Crisp crackling and snapping of dry wood catching fire in the hearth."
+      },
+      {
+        "start": 85.0,
+        "end": 87.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing by the table, broom resting against her hip, bathed in the amber firelight."
+      },
+      {
+        "start": 87.5,
+        "end": 89.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat."
+      },
+      {
+        "start": 87.5,
+        "end": 89.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising before the blazing fireplace."
+      },
+      {
+        "start": 89.0,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "There."
+      },
+      {
+        "start": 89.8,
+        "end": 91.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking at him with radiant gratitude and a gentle smile."
+      },
+      {
+        "start": 91.7,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man gesturing faintly to the modest room."
+      },
+      {
+        "start": 92.1,
+        "end": 93.6,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is not much."
+      },
+      {
+        "start": 93.8,
+        "end": 95.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana kneeling on the stone floor before the blazing hearth, wrapping her dark cloak around her shoulders."
+      },
+      {
+        "start": 94.2,
+        "end": 96.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is enough for tonight."
+      },
+      {
+        "start": 95.8,
+        "end": 98.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing the roaring hearth fire between them as the Mysterious Bearded Man crouches down beside her on the stone floor."
+      },
+      {
+        "start": 98.2,
+        "end": 101.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana pulling her cloak tighter, her face glowing warmly in the firelight."
+      },
+      {
+        "start": 98.4,
+        "end": 100.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I lost my home today."
+      },
+      {
+        "start": 100.6,
+        "end": 101.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My family."
+      }
+    ],
+    "final_score": 6.55,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 790
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 43.6,
+        "end": 67.8,
+        "duration": 24.2,
+        "start_time_fmt": "00:43.60",
+        "end_time_fmt": "01:07.80"
+      }
+    ],
+    "total_duration": 24.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"You came from comfort.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot of the Mysterious Bearded Man stepping forward to intervene gently.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 43.6,
+        "end": 45.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You came from comfort."
+      },
+      {
+        "start": 45.1,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "This is all I can give you now."
+      },
+      {
+        "start": 46.4,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders."
+      },
+      {
+        "start": 46.6,
+        "end": 49.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana removes her dark cloak, revealing her damp white bridal dress underneath."
+      },
+      {
+        "start": 48.8,
+        "end": 51.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane."
+      },
+      {
+        "start": 51.1,
+        "end": 54.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile shot of Juliana looking out the rain-streaked window into the quiet forest."
+      },
+      {
+        "start": 51.3,
+        "end": 52.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is quiet."
+      },
+      {
+        "start": 53.3,
+        "end": 54.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Very quiet."
+      },
+      {
+        "start": 54.8,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face."
+      },
+      {
+        "start": 56.4,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I think I like that."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man, slightly surprised by her reaction."
+      },
+      {
+        "start": 58.4,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You are not disappointed?"
+      },
+      {
+        "start": 59.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana meeting his gaze honestly."
+      },
+      {
+        "start": 60.3,
+        "end": 61.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I am."
+      },
+      {
+        "start": 61.3,
+        "end": 64.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently."
+      },
+      {
+        "start": 61.9,
+        "end": 64.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But not because of you."
+      },
+      {
+        "start": 64.1,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the damp surface."
+      },
+      {
+        "start": 64.3,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is our home, I want it clean."
+      },
+      {
+        "start": 66.6,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man stepping forward to intervene gently."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 813
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 0.0,
+        "end": 21.0,
+        "duration": 21.0,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:21.00"
+      }
+    ],
+    "total_duration": 21.0,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 6.2,
+    "hook": "Opens with immediate physical drama: Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, shivering under her dark hooded cloak.",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana's face, offering a wistful, comforting smile.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 2.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full tracking shot of Juliana and the Mysterious Bearded Man trudging along a muddy, rain-soaked path in the dark woods."
+      },
+      {
+        "start": 0.0,
+        "end": 3.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, shivering under her dark hooded cloak."
+      },
+      {
+        "start": 2.3,
+        "end": 3.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's wet hand clutching her muddy dress."
+      },
+      {
+        "start": 2.3,
+        "end": 6.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy rain pouring through dense tree canopies with steady footfalls on wet earth."
+      },
+      {
+        "start": 3.5,
+        "end": 4.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Upward shot through the dripping, silhouetted branches into the stormy night sky."
+      },
+      {
+        "start": 4.2,
+        "end": 7.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framing Juliana and the Mysterious Bearded Man as they pause in the misty woods."
+      },
+      {
+        "start": 4.5,
+        "end": 7.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana turns back toward him, water glistening on her face and hair."
+      },
+      {
+        "start": 7.1,
+        "end": 9.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Mysterious Bearded Man, his dark hair soaked and rain running down the scars on his cheek."
+      },
+      {
+        "start": 7.2,
+        "end": 9.85,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I know this is not the life you came from."
+      },
+      {
+        "start": 9.9,
+        "end": 14.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into the rain, exhaling a soft breath of resignation."
+      },
+      {
+        "start": 10.1,
+        "end": 11.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No."
+      },
+      {
+        "start": 11.3,
+        "end": 13.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana looks upward into the canopy, gathering herself with a faint nod."
+      },
+      {
+        "start": 13.4,
+        "end": 14.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It isn't."
+      },
+      {
+        "start": 14.9,
+        "end": 17.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man, gazing down at her with quiet remorse."
+      },
+      {
+        "start": 15.2,
+        "end": 18.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You should not have had to walk through this rain tonight."
+      },
+      {
+        "start": 17.2,
+        "end": 18.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's bodice and mother's pendant as she gathers her cloak closer."
+      },
+      {
+        "start": 18.3,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's face, offering a wistful, comforting smile."
+      }
+    ],
+    "final_score": 6.2,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 863
+  },
+  {
+    "episode": 6,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 6,
+        "start": 24.0,
+        "end": 45.0,
+        "duration": 21.0,
+        "start_time_fmt": "00:24.00",
+        "end_time_fmt": "00:45.00"
+      }
+    ],
+    "total_duration": 21.0,
+    "hook_strength": 5.8,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.04,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"That is it?\"",
+    "cliffhanger": "Cuts sharply on MYSTERIOUS BEARDED MAN's unresolved words: \"You came from comfort.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 24.0,
+        "end": 26.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees."
+      },
+      {
+        "start": 24.5,
+        "end": 26.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "They walk forward toward the cottage emerging from the dark woods."
+      },
+      {
+        "start": 26.1,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Juliana's face, wide-eyed with realization."
+      },
+      {
+        "start": 26.5,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is it?"
+      },
+      {
+        "start": 27.9,
+        "end": 29.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Mysterious Bearded Man."
+      },
+      {
+        "start": 28.1,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Yes."
+      },
+      {
+        "start": 29.2,
+        "end": 30.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Upward shot of rain pelting through the thick treetops."
+      },
+      {
+        "start": 29.2,
+        "end": 30.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sudden distant rumble of thunder echoing across the forest."
+      },
+      {
+        "start": 30.1,
+        "end": 33.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door."
+      },
+      {
+        "start": 30.15,
+        "end": 33.15,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "At least no one there will be waiting to humiliate me."
+      },
+      {
+        "start": 33.0,
+        "end": 33.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective."
+      },
+      {
+        "start": 33.7,
+        "end": 36.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards."
+      },
+      {
+        "start": 36.7,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling."
+      },
+      {
+        "start": 36.7,
+        "end": 40.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic water drips plinking into the metal-rimmed wooden bucket."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them."
+      },
+      {
+        "start": 40.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man standing in the dim light by the door."
+      },
+      {
+        "start": 40.7,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I am sorry."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings."
+      },
+      {
+        "start": 43.3,
+        "end": 46.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man looking at her with somber honesty."
+      },
+      {
+        "start": 43.6,
+        "end": 45.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You came from comfort."
+      }
+    ],
+    "final_score": 6.04,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 877
+  }
+]

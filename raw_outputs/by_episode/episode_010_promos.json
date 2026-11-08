@@ -1,0 +1,2026 @@
+[
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 14.2,
+        "end": 66.1,
+        "duration": 51.9,
+        "start_time_fmt": "00:14.20",
+        "end_time_fmt": "01:06.10"
+      }
+    ],
+    "total_duration": 51.9,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.75,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Sit down.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Why do you look at me like that?\", leaving the outcome hanging.",
+    "why_it_works": "At 52s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 14.2,
+        "end": 16.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire."
+      },
+      {
+        "start": 14.5,
+        "end": 16.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Sit down."
+      },
+      {
+        "start": 16.0,
+        "end": 17.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's determined, unyielding expression."
+      },
+      {
+        "start": 16.2,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now."
+      },
+      {
+        "start": 17.8,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire."
+      },
+      {
+        "start": 20.0,
+        "end": 23.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair."
+      },
+      {
+        "start": 20.9,
+        "end": 22.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I need to see the wound."
+      },
+      {
+        "start": 23.0,
+        "end": 25.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Alexander looking up at her stubbornly."
+      },
+      {
+        "start": 23.2,
+        "end": 24.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is only a scratch."
+      },
+      {
+        "start": 25.2,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance."
+      },
+      {
+        "start": 25.5,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then removing your shirt should not trouble you."
+      },
+      {
+        "start": 28.0,
+        "end": 31.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat."
+      },
+      {
+        "start": 31.8,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana observing him with guarded anticipation."
+      },
+      {
+        "start": 33.2,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations."
+      },
+      {
+        "start": 36.5,
+        "end": 38.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight pan over the scarred, wounded flesh along his chest and ribs."
+      },
+      {
+        "start": 38.0,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's eyes widening in horror and deep pity."
+      },
+      {
+        "start": 38.1,
+        "end": 38.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Dear God."
+      },
+      {
+        "start": 39.2,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor."
+      },
+      {
+        "start": 43.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest."
+      },
+      {
+        "start": 45.0,
+        "end": 47.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes softened with profound empathy."
+      },
+      {
+        "start": 45.3,
+        "end": 47.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have suffered terribly."
+      },
+      {
+        "start": 47.3,
+        "end": 49.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism."
+      },
+      {
+        "start": 47.8,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is over."
+      },
+      {
+        "start": 49.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana dipping a linen cloth into the water bowl."
+      },
+      {
+        "start": 49.7,
+        "end": 51.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your scars disagree."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder."
+      },
+      {
+        "start": 52.0,
+        "end": 53.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Does it hurt?"
+      },
+      {
+        "start": 54.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander trying not to wince under her touch."
+      },
+      {
+        "start": 54.0,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Not much."
+      },
+      {
+        "start": 55.5,
+        "end": 58.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly, amused by his stubborn pride."
+      },
+      {
+        "start": 55.6,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are a terrible liar."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound."
+      },
+      {
+        "start": 60.0,
+        "end": 63.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound."
+      },
+      {
+        "start": 63.0,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze."
+      },
+      {
+        "start": 63.9,
+        "end": 66.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why do you look at me like that?"
+      }
+    ],
+    "final_score": 7.75,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 247
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 23.0,
+        "end": 53.3,
+        "duration": 30.3,
+        "start_time_fmt": "00:23.00",
+        "end_time_fmt": "00:53.30"
+      }
+    ],
+    "total_duration": 30.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.4,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"It is only a scratch.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Does it hurt?\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 23.0,
+        "end": 25.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Alexander looking up at her stubbornly."
+      },
+      {
+        "start": 23.2,
+        "end": 24.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is only a scratch."
+      },
+      {
+        "start": 25.2,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance."
+      },
+      {
+        "start": 25.5,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then removing your shirt should not trouble you."
+      },
+      {
+        "start": 28.0,
+        "end": 31.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat."
+      },
+      {
+        "start": 31.8,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana observing him with guarded anticipation."
+      },
+      {
+        "start": 33.2,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations."
+      },
+      {
+        "start": 36.5,
+        "end": 38.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight pan over the scarred, wounded flesh along his chest and ribs."
+      },
+      {
+        "start": 38.0,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's eyes widening in horror and deep pity."
+      },
+      {
+        "start": 38.1,
+        "end": 38.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Dear God."
+      },
+      {
+        "start": 39.2,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor."
+      },
+      {
+        "start": 43.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest."
+      },
+      {
+        "start": 45.0,
+        "end": 47.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes softened with profound empathy."
+      },
+      {
+        "start": 45.3,
+        "end": 47.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have suffered terribly."
+      },
+      {
+        "start": 47.3,
+        "end": 49.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism."
+      },
+      {
+        "start": 47.8,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is over."
+      },
+      {
+        "start": 49.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana dipping a linen cloth into the water bowl."
+      },
+      {
+        "start": 49.7,
+        "end": 51.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your scars disagree."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder."
+      },
+      {
+        "start": 52.0,
+        "end": 53.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Does it hurt?"
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 402
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 38.0,
+        "end": 66.1,
+        "duration": 28.1,
+        "start_time_fmt": "00:38.00",
+        "end_time_fmt": "01:06.10"
+      }
+    ],
+    "total_duration": 28.1,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.3,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Dear God.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Why do you look at me like that?\", leaving the outcome hanging.",
+    "why_it_works": "At 28s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 38.0,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's eyes widening in horror and deep pity."
+      },
+      {
+        "start": 38.1,
+        "end": 38.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Dear God."
+      },
+      {
+        "start": 39.2,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor."
+      },
+      {
+        "start": 43.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest."
+      },
+      {
+        "start": 45.0,
+        "end": 47.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes softened with profound empathy."
+      },
+      {
+        "start": 45.3,
+        "end": 47.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have suffered terribly."
+      },
+      {
+        "start": 47.3,
+        "end": 49.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism."
+      },
+      {
+        "start": 47.8,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is over."
+      },
+      {
+        "start": 49.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana dipping a linen cloth into the water bowl."
+      },
+      {
+        "start": 49.7,
+        "end": 51.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your scars disagree."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder."
+      },
+      {
+        "start": 52.0,
+        "end": 53.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Does it hurt?"
+      },
+      {
+        "start": 54.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander trying not to wince under her touch."
+      },
+      {
+        "start": 54.0,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Not much."
+      },
+      {
+        "start": 55.5,
+        "end": 58.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly, amused by his stubborn pride."
+      },
+      {
+        "start": 55.6,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are a terrible liar."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound."
+      },
+      {
+        "start": 60.0,
+        "end": 63.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound."
+      },
+      {
+        "start": 63.0,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze."
+      },
+      {
+        "start": 63.9,
+        "end": 66.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why do you look at me like that?"
+      }
+    ],
+    "final_score": 7.3,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 464
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 14.2,
+        "end": 36.5,
+        "duration": 22.3,
+        "start_time_fmt": "00:14.20",
+        "end_time_fmt": "00:36.50"
+      }
+    ],
+    "total_duration": 22.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.02,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Sit down.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 14.2,
+        "end": 16.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire."
+      },
+      {
+        "start": 14.5,
+        "end": 16.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Sit down."
+      },
+      {
+        "start": 16.0,
+        "end": 17.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's determined, unyielding expression."
+      },
+      {
+        "start": 16.2,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now."
+      },
+      {
+        "start": 17.8,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire."
+      },
+      {
+        "start": 20.0,
+        "end": 23.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair."
+      },
+      {
+        "start": 20.9,
+        "end": 22.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I need to see the wound."
+      },
+      {
+        "start": 23.0,
+        "end": 25.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Alexander looking up at her stubbornly."
+      },
+      {
+        "start": 23.2,
+        "end": 24.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is only a scratch."
+      },
+      {
+        "start": 25.2,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance."
+      },
+      {
+        "start": 25.5,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then removing your shirt should not trouble you."
+      },
+      {
+        "start": 28.0,
+        "end": 31.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat."
+      },
+      {
+        "start": 31.8,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana observing him with guarded anticipation."
+      },
+      {
+        "start": 33.2,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations."
+      }
+    ],
+    "final_score": 7.02,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 598
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 9.1,
+        "end": 47.3,
+        "duration": 38.2,
+        "start_time_fmt": "00:09.10",
+        "end_time_fmt": "00:47.30"
+      }
+    ],
+    "total_duration": 38.2,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 6.93,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"There is blood running down your arm.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana looking up at him, her eyes softened with profound empathy.",
+    "why_it_works": "At 38s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 9.1,
+        "end": 11.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana hurriedly stepping toward him across the stone floor."
+      },
+      {
+        "start": 9.15,
+        "end": 11.45,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "There is blood running down your arm."
+      },
+      {
+        "start": 11.5,
+        "end": 14.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile two-shot as Alexander stands rigid while Juliana confronts him."
+      },
+      {
+        "start": 11.9,
+        "end": 14.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "A cut from the tenant fields."
+      },
+      {
+        "start": 14.2,
+        "end": 16.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire."
+      },
+      {
+        "start": 14.5,
+        "end": 16.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Sit down."
+      },
+      {
+        "start": 16.0,
+        "end": 17.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's determined, unyielding expression."
+      },
+      {
+        "start": 16.2,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now."
+      },
+      {
+        "start": 17.8,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire."
+      },
+      {
+        "start": 20.0,
+        "end": 23.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair."
+      },
+      {
+        "start": 20.9,
+        "end": 22.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I need to see the wound."
+      },
+      {
+        "start": 23.0,
+        "end": 25.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Alexander looking up at her stubbornly."
+      },
+      {
+        "start": 23.2,
+        "end": 24.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is only a scratch."
+      },
+      {
+        "start": 25.2,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance."
+      },
+      {
+        "start": 25.5,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then removing your shirt should not trouble you."
+      },
+      {
+        "start": 28.0,
+        "end": 31.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat."
+      },
+      {
+        "start": 31.8,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana observing him with guarded anticipation."
+      },
+      {
+        "start": 33.2,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations."
+      },
+      {
+        "start": 36.5,
+        "end": 38.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight pan over the scarred, wounded flesh along his chest and ribs."
+      },
+      {
+        "start": 38.0,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's eyes widening in horror and deep pity."
+      },
+      {
+        "start": 38.1,
+        "end": 38.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Dear God."
+      },
+      {
+        "start": 39.2,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor."
+      },
+      {
+        "start": 43.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest."
+      },
+      {
+        "start": 45.0,
+        "end": 47.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes softened with profound empathy."
+      }
+    ],
+    "final_score": 6.93,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 656
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 55.5,
+        "end": 77.0,
+        "duration": 21.5,
+        "start_time_fmt": "00:55.50",
+        "end_time_fmt": "01:17.00"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.78,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You are a terrible liar.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up two-shot of their faces drawing mere inches apart in the warm firelight.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 55.5,
+        "end": 58.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly, amused by his stubborn pride."
+      },
+      {
+        "start": 55.6,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are a terrible liar."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound."
+      },
+      {
+        "start": 60.0,
+        "end": 63.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound."
+      },
+      {
+        "start": 63.0,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze."
+      },
+      {
+        "start": 63.9,
+        "end": 66.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why do you look at me like that?"
+      },
+      {
+        "start": 66.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his voice deep and laden with restrained emotion."
+      },
+      {
+        "start": 66.5,
+        "end": 68.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because you are looking at me."
+      },
+      {
+        "start": 68.8,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back down at his shoulder to hide her growing fluster, applying the salve carefully."
+      },
+      {
+        "start": 69.6,
+        "end": 70.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Hold still."
+      },
+      {
+        "start": 71.5,
+        "end": 74.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander leaning closer to her, his breathing heavy."
+      },
+      {
+        "start": 72.1,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I am holding still."
+      },
+      {
+        "start": 74.5,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of their faces drawing mere inches apart in the warm firelight."
+      }
+    ],
+    "final_score": 6.78,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 707
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 55.5,
+        "end": 94.0,
+        "duration": 38.5,
+        "start_time_fmt": "00:55.50",
+        "end_time_fmt": "01:34.00"
+      }
+    ],
+    "total_duration": 38.5,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.78,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You are a terrible liar.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up shot holding on Juliana's wide, luminous blue eyes, completely captivated and overwhelmed by his confession, the firelight dancing across their intertwined hands as the scene lingers and fades.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 38s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 55.5,
+        "end": 58.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly, amused by his stubborn pride."
+      },
+      {
+        "start": 55.6,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are a terrible liar."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound."
+      },
+      {
+        "start": 60.0,
+        "end": 63.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound."
+      },
+      {
+        "start": 63.0,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze."
+      },
+      {
+        "start": 63.9,
+        "end": 66.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why do you look at me like that?"
+      },
+      {
+        "start": 66.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his voice deep and laden with restrained emotion."
+      },
+      {
+        "start": 66.5,
+        "end": 68.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because you are looking at me."
+      },
+      {
+        "start": 68.8,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back down at his shoulder to hide her growing fluster, applying the salve carefully."
+      },
+      {
+        "start": 69.6,
+        "end": 70.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Hold still."
+      },
+      {
+        "start": 71.5,
+        "end": 74.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander leaning closer to her, his breathing heavy."
+      },
+      {
+        "start": 72.1,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I am holding still."
+      },
+      {
+        "start": 74.5,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of their faces drawing mere inches apart in the warm firelight."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Perhaps it is your hand."
+      },
+      {
+        "start": 79.0,
+        "end": 82.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's large, rough hands reaching up and gently enveloping Juliana's slender hands, bringing them against his bare chest over his racing heart."
+      },
+      {
+        "start": 82.5,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Alexander gazing into Juliana's eyes with raw, unmasked devotion."
+      },
+      {
+        "start": 82.6,
+        "end": 85.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Your touch is the only medicine that has ever eased my pain."
+      },
+      {
+        "start": 86.5,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot holding on Juliana's wide, luminous blue eyes, completely captivated and overwhelmed by his confession, the firelight dancing across their intertwined hands as the scene lingers and fades.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 6.78,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 708
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 4.2,
+        "end": 24.9,
+        "duration": 20.7,
+        "start_time_fmt": "00:04.20",
+        "end_time_fmt": "00:24.90"
+      }
+    ],
+    "total_duration": 20.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 6.75,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Alexander!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"It is only a scratch.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 4.2,
+        "end": 6.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana rising swiftly from her chair, shock and terror flashing across her face."
+      },
+      {
+        "start": 5.1,
+        "end": 6.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander!"
+      },
+      {
+        "start": 6.8,
+        "end": 9.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander struggling to breathe, clutching his bloodied coat over his chest."
+      },
+      {
+        "start": 7.5,
+        "end": 9.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is nothing."
+      },
+      {
+        "start": 9.1,
+        "end": 11.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana hurriedly stepping toward him across the stone floor."
+      },
+      {
+        "start": 9.15,
+        "end": 11.45,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "There is blood running down your arm."
+      },
+      {
+        "start": 11.5,
+        "end": 14.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile two-shot as Alexander stands rigid while Juliana confronts him."
+      },
+      {
+        "start": 11.9,
+        "end": 14.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "A cut from the tenant fields."
+      },
+      {
+        "start": 14.2,
+        "end": 16.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire."
+      },
+      {
+        "start": 14.5,
+        "end": 16.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Sit down."
+      },
+      {
+        "start": 16.0,
+        "end": 17.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's determined, unyielding expression."
+      },
+      {
+        "start": 16.2,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Now."
+      },
+      {
+        "start": 17.8,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire."
+      },
+      {
+        "start": 20.0,
+        "end": 23.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair."
+      },
+      {
+        "start": 20.9,
+        "end": 22.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I need to see the wound."
+      },
+      {
+        "start": 23.0,
+        "end": 25.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Alexander looking up at her stubbornly."
+      },
+      {
+        "start": 23.2,
+        "end": 24.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is only a scratch."
+      }
+    ],
+    "final_score": 6.75,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 720
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 25.2,
+        "end": 82.5,
+        "duration": 57.3,
+        "start_time_fmt": "00:25.20",
+        "end_time_fmt": "01:22.50"
+      }
+    ],
+    "total_duration": 57.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Then removing your shirt should not trouble you.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Alexander's large, rough hands reaching up and gently enveloping Juliana's slender hands, bringing them against his bare chest over his racing heart.",
+    "why_it_works": "At 57s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 25.2,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance."
+      },
+      {
+        "start": 25.5,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then removing your shirt should not trouble you."
+      },
+      {
+        "start": 28.0,
+        "end": 31.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat."
+      },
+      {
+        "start": 31.8,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana observing him with guarded anticipation."
+      },
+      {
+        "start": 33.2,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations."
+      },
+      {
+        "start": 36.5,
+        "end": 38.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight pan over the scarred, wounded flesh along his chest and ribs."
+      },
+      {
+        "start": 38.0,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's eyes widening in horror and deep pity."
+      },
+      {
+        "start": 38.1,
+        "end": 38.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Dear God."
+      },
+      {
+        "start": 39.2,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor."
+      },
+      {
+        "start": 43.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest."
+      },
+      {
+        "start": 45.0,
+        "end": 47.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes softened with profound empathy."
+      },
+      {
+        "start": 45.3,
+        "end": 47.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have suffered terribly."
+      },
+      {
+        "start": 47.3,
+        "end": 49.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism."
+      },
+      {
+        "start": 47.8,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is over."
+      },
+      {
+        "start": 49.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana dipping a linen cloth into the water bowl."
+      },
+      {
+        "start": 49.7,
+        "end": 51.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your scars disagree."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder."
+      },
+      {
+        "start": 52.0,
+        "end": 53.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Does it hurt?"
+      },
+      {
+        "start": 54.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander trying not to wince under her touch."
+      },
+      {
+        "start": 54.0,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Not much."
+      },
+      {
+        "start": 55.5,
+        "end": 58.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly, amused by his stubborn pride."
+      },
+      {
+        "start": 55.6,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are a terrible liar."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound."
+      },
+      {
+        "start": 60.0,
+        "end": 63.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound."
+      },
+      {
+        "start": 63.0,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze."
+      },
+      {
+        "start": 63.9,
+        "end": 66.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why do you look at me like that?"
+      },
+      {
+        "start": 66.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his voice deep and laden with restrained emotion."
+      },
+      {
+        "start": 66.5,
+        "end": 68.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because you are looking at me."
+      },
+      {
+        "start": 68.8,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back down at his shoulder to hide her growing fluster, applying the salve carefully."
+      },
+      {
+        "start": 69.6,
+        "end": 70.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Hold still."
+      },
+      {
+        "start": 71.5,
+        "end": 74.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander leaning closer to her, his breathing heavy."
+      },
+      {
+        "start": 72.1,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I am holding still."
+      },
+      {
+        "start": 74.5,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of their faces drawing mere inches apart in the warm firelight."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Perhaps it is your hand."
+      },
+      {
+        "start": 79.0,
+        "end": 82.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's large, rough hands reaching up and gently enveloping Juliana's slender hands, bringing them against his bare chest over his racing heart."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 814
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 45.0,
+        "end": 74.5,
+        "duration": 29.5,
+        "start_time_fmt": "00:45.00",
+        "end_time_fmt": "01:14.50"
+      }
+    ],
+    "total_duration": 29.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You have suffered terribly.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot of Alexander leaning closer to her, his breathing heavy.",
+    "why_it_works": "At 30s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 45.0,
+        "end": 47.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes softened with profound empathy."
+      },
+      {
+        "start": 45.3,
+        "end": 47.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have suffered terribly."
+      },
+      {
+        "start": 47.3,
+        "end": 49.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism."
+      },
+      {
+        "start": 47.8,
+        "end": 49.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It is over."
+      },
+      {
+        "start": 49.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana dipping a linen cloth into the water bowl."
+      },
+      {
+        "start": 49.7,
+        "end": 51.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your scars disagree."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder."
+      },
+      {
+        "start": 52.0,
+        "end": 53.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Does it hurt?"
+      },
+      {
+        "start": 54.0,
+        "end": 55.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander trying not to wince under her touch."
+      },
+      {
+        "start": 54.0,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Not much."
+      },
+      {
+        "start": 55.5,
+        "end": 58.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly, amused by his stubborn pride."
+      },
+      {
+        "start": 55.6,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are a terrible liar."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound."
+      },
+      {
+        "start": 60.0,
+        "end": 63.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound."
+      },
+      {
+        "start": 63.0,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze."
+      },
+      {
+        "start": 63.9,
+        "end": 66.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why do you look at me like that?"
+      },
+      {
+        "start": 66.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his voice deep and laden with restrained emotion."
+      },
+      {
+        "start": 66.5,
+        "end": 68.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because you are looking at me."
+      },
+      {
+        "start": 68.8,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back down at his shoulder to hide her growing fluster, applying the salve carefully."
+      },
+      {
+        "start": 69.6,
+        "end": 70.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Hold still."
+      },
+      {
+        "start": 71.5,
+        "end": 74.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander leaning closer to her, his breathing heavy."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 815
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 63.9,
+        "end": 86.5,
+        "duration": 22.6,
+        "start_time_fmt": "01:03.90",
+        "end_time_fmt": "01:26.50"
+      }
+    ],
+    "total_duration": 22.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Why do you look at me like that?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up shot of Alexander gazing into Juliana's eyes with raw, unmasked devotion.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 63.9,
+        "end": 66.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why do you look at me like that?"
+      },
+      {
+        "start": 66.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his voice deep and laden with restrained emotion."
+      },
+      {
+        "start": 66.5,
+        "end": 68.4,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because you are looking at me."
+      },
+      {
+        "start": 68.8,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking back down at his shoulder to hide her growing fluster, applying the salve carefully."
+      },
+      {
+        "start": 69.6,
+        "end": 70.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Hold still."
+      },
+      {
+        "start": 71.5,
+        "end": 74.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander leaning closer to her, his breathing heavy."
+      },
+      {
+        "start": 72.1,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I am holding still."
+      },
+      {
+        "start": 74.5,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of their faces drawing mere inches apart in the warm firelight."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Perhaps it is your hand."
+      },
+      {
+        "start": 79.0,
+        "end": 82.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's large, rough hands reaching up and gently enveloping Juliana's slender hands, bringing them against his bare chest over his racing heart."
+      },
+      {
+        "start": 82.5,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Alexander gazing into Juliana's eyes with raw, unmasked devotion."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 816
+  },
+  {
+    "episode": 10,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 10,
+        "start": 71.5,
+        "end": 94.0,
+        "duration": 22.5,
+        "start_time_fmt": "01:11.50",
+        "end_time_fmt": "01:34.00"
+      }
+    ],
+    "total_duration": 22.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 6.8,
+    "emotional_impact": 6.5,
+    "composite_score": 6.21,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"I am holding still.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up shot holding on Juliana's wide, luminous blue eyes, completely captivated and overwhelmed by his confession, the firelight dancing across their intertwined hands as the scene lingers and fades.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Assumes some prior familiarity with character relationships or off-screen backstory. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 71.5,
+        "end": 74.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander leaning closer to her, his breathing heavy."
+      },
+      {
+        "start": 72.1,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I am holding still."
+      },
+      {
+        "start": 74.5,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of their faces drawing mere inches apart in the warm firelight."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Perhaps it is your hand."
+      },
+      {
+        "start": 79.0,
+        "end": 82.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's large, rough hands reaching up and gently enveloping Juliana's slender hands, bringing them against his bare chest over his racing heart."
+      },
+      {
+        "start": 82.5,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Alexander gazing into Juliana's eyes with raw, unmasked devotion."
+      },
+      {
+        "start": 82.6,
+        "end": 85.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Your touch is the only medicine that has ever eased my pain."
+      },
+      {
+        "start": 86.5,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot holding on Juliana's wide, luminous blue eyes, completely captivated and overwhelmed by his confession, the firelight dancing across their intertwined hands as the scene lingers and fades.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 6.21,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 862
+  }
+]

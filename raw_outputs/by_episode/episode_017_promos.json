@@ -1,0 +1,2965 @@
+[
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 26.0,
+        "end": 59.8,
+        "duration": 33.8,
+        "start_time_fmt": "00:26.00",
+        "end_time_fmt": "00:59.80"
+      }
+    ],
+    "total_duration": 33.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.4,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"As long as I draw breath...\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Of them?\", leaving the outcome hanging.",
+    "why_it_works": "At 34s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 26.0,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "As long as I draw breath..."
+      },
+      {
+        "start": 26.5,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana."
+      },
+      {
+        "start": 28.0,
+        "end": 31.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms."
+      },
+      {
+        "start": 28.8,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "...no one will hurt you again."
+      },
+      {
+        "start": 31.5,
+        "end": 34.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+      },
+      {
+        "start": 32.8,
+        "end": 34.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot promise that."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's intense, protective gaze locking onto hers."
+      },
+      {
+        "start": 34.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I just did."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black."
+      },
+      {
+        "start": 39.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth."
+      },
+      {
+        "start": 40.0,
+        "end": 44.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand."
+      },
+      {
+        "start": 42.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      },
+      {
+        "start": 42.8,
+        "end": 44.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You were bleeding last night."
+      },
+      {
+        "start": 45.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "start": 46.0,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So were you."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      },
+      {
+        "start": 49.0,
+        "end": 51.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You make it very difficult to argue with you."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective."
+      },
+      {
+        "start": 54.0,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was frightened."
+      },
+      {
+        "start": 58.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "start": 58.8,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Of them?"
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 404
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 26.0,
+        "end": 83.5,
+        "duration": 57.5,
+        "start_time_fmt": "00:26.00",
+        "end_time_fmt": "01:23.50"
+      }
+    ],
+    "total_duration": 57.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.87,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"As long as I draw breath...\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard.",
+    "why_it_works": "At 58s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 26.0,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "As long as I draw breath..."
+      },
+      {
+        "start": 26.5,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana."
+      },
+      {
+        "start": 28.0,
+        "end": 31.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms."
+      },
+      {
+        "start": 28.8,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "...no one will hurt you again."
+      },
+      {
+        "start": 31.5,
+        "end": 34.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+      },
+      {
+        "start": 32.8,
+        "end": 34.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot promise that."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's intense, protective gaze locking onto hers."
+      },
+      {
+        "start": 34.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I just did."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black."
+      },
+      {
+        "start": 39.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth."
+      },
+      {
+        "start": 40.0,
+        "end": 44.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand."
+      },
+      {
+        "start": 42.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      },
+      {
+        "start": 42.8,
+        "end": 44.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You were bleeding last night."
+      },
+      {
+        "start": 45.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "start": 46.0,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So were you."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      },
+      {
+        "start": 49.0,
+        "end": 51.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You make it very difficult to argue with you."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective."
+      },
+      {
+        "start": 54.0,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was frightened."
+      },
+      {
+        "start": 58.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "start": 58.8,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Of them?"
+      },
+      {
+        "start": 60.5,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana gazing directly into his eyes, her heart laid bare."
+      },
+      {
+        "start": 60.8,
+        "end": 62.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Of losing you."
+      },
+      {
+        "start": 63.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander visibly moved, his gaze softening with profound emotion."
+      },
+      {
+        "start": 66.0,
+        "end": 73.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest."
+      },
+      {
+        "start": 66.0,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame."
+      },
+      {
+        "start": 73.5,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair."
+      },
+      {
+        "start": 77.0,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest."
+      },
+      {
+        "start": 78.5,
+        "end": 80.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your heart is racing."
+      },
+      {
+        "start": 80.5,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard."
+      }
+    ],
+    "final_score": 6.87,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 688
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 9.3,
+        "end": 31.5,
+        "duration": 22.2,
+        "start_time_fmt": "00:09.30",
+        "end_time_fmt": "00:31.50"
+      }
+    ],
+    "total_duration": 22.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.77,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Some of them survived.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 9.3,
+        "end": 11.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Some of them survived."
+      },
+      {
+        "start": 11.5,
+        "end": 14.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Alexander repairing the broken wooden fence with a heavy iron hammer."
+      },
+      {
+        "start": 11.5,
+        "end": 14.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, heavy thuds of an iron hammer pounding into weathered wood."
+      },
+      {
+        "start": 11.5,
+        "end": 14.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination."
+      },
+      {
+        "start": 14.0,
+        "end": 16.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana kneeling on the wet cobblestones in the foreground while Alexander stands by the fence behind her, lowering his hammer."
+      },
+      {
+        "start": 14.3,
+        "end": 15.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 16.2,
+        "end": 18.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander turning toward her, his scarred face stoic and intense."
+      },
+      {
+        "start": 16.8,
+        "end": 17.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "For what?"
+      },
+      {
+        "start": 18.0,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears."
+      },
+      {
+        "start": 18.2,
+        "end": 20.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "For standing between me and those men."
+      },
+      {
+        "start": 21.0,
+        "end": 23.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction."
+      },
+      {
+        "start": 21.5,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would do it again."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her lips parting as her voice wavers with emotion."
+      },
+      {
+        "start": 24.0,
+        "end": 25.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Even if there were ten of them?"
+      },
+      {
+        "start": 26.0,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "As long as I draw breath..."
+      },
+      {
+        "start": 26.5,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana."
+      },
+      {
+        "start": 28.0,
+        "end": 31.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms."
+      }
+    ],
+    "final_score": 6.77,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 716
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 0.0,
+        "end": 25.7,
+        "duration": 25.7,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:25.70"
+      }
+    ],
+    "total_duration": 25.7,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.5,
+    "hook": "Opens with immediate physical drama: Juliana sits on her knees in her dirt-smudged dress, her hands wrapped in clean linen bandages, sorrowfully examining the wreckage. In the distant background, Alexander paces near the perimeter fence.",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Even if there were ten of them?\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High angle wide shot looking down at the muddy, trampled garden. Broken wooden planters and splintered planks litter the ground as Juliana kneels amidst the ruined soil."
+      },
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana sits on her knees in her dirt-smudged dress, her hands wrapped in clean linen bandages, sorrowfully examining the wreckage. In the distant background, Alexander paces near the perimeter fence."
+      },
+      {
+        "start": 3.0,
+        "end": 7.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's bandaged hand reaching into the dark earth of a battered planter box."
+      },
+      {
+        "start": 3.0,
+        "end": 7.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots out of the soil, cupping it in her palm."
+      },
+      {
+        "start": 7.0,
+        "end": 11.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope."
+      },
+      {
+        "start": 9.3,
+        "end": 11.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Some of them survived."
+      },
+      {
+        "start": 11.5,
+        "end": 14.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Alexander repairing the broken wooden fence with a heavy iron hammer."
+      },
+      {
+        "start": 11.5,
+        "end": 14.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, heavy thuds of an iron hammer pounding into weathered wood."
+      },
+      {
+        "start": 11.5,
+        "end": 14.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination."
+      },
+      {
+        "start": 14.0,
+        "end": 16.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana kneeling on the wet cobblestones in the foreground while Alexander stands by the fence behind her, lowering his hammer."
+      },
+      {
+        "start": 14.3,
+        "end": 15.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 16.2,
+        "end": 18.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander turning toward her, his scarred face stoic and intense."
+      },
+      {
+        "start": 16.8,
+        "end": 17.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "For what?"
+      },
+      {
+        "start": 18.0,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears."
+      },
+      {
+        "start": 18.2,
+        "end": 20.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "For standing between me and those men."
+      },
+      {
+        "start": 21.0,
+        "end": 23.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction."
+      },
+      {
+        "start": 21.5,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would do it again."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her lips parting as her voice wavers with emotion."
+      },
+      {
+        "start": 24.0,
+        "end": 25.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Even if there were ten of them?"
+      }
+    ],
+    "final_score": 6.5,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 798
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 3.0,
+        "end": 59.8,
+        "duration": 56.8,
+        "start_time_fmt": "00:03.00",
+        "end_time_fmt": "00:59.80"
+      }
+    ],
+    "total_duration": 56.8,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.5,
+    "hook": "Opens with immediate physical drama: Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots out of the soil, cupping it in her palm.",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Of them?\", leaving the outcome hanging.",
+    "why_it_works": "At 57s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 3.0,
+        "end": 7.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's bandaged hand reaching into the dark earth of a battered planter box."
+      },
+      {
+        "start": 3.0,
+        "end": 7.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots out of the soil, cupping it in her palm."
+      },
+      {
+        "start": 7.0,
+        "end": 11.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope."
+      },
+      {
+        "start": 9.3,
+        "end": 11.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Some of them survived."
+      },
+      {
+        "start": 11.5,
+        "end": 14.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Alexander repairing the broken wooden fence with a heavy iron hammer."
+      },
+      {
+        "start": 11.5,
+        "end": 14.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, heavy thuds of an iron hammer pounding into weathered wood."
+      },
+      {
+        "start": 11.5,
+        "end": 14.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination."
+      },
+      {
+        "start": 14.0,
+        "end": 16.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana kneeling on the wet cobblestones in the foreground while Alexander stands by the fence behind her, lowering his hammer."
+      },
+      {
+        "start": 14.3,
+        "end": 15.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 16.2,
+        "end": 18.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander turning toward her, his scarred face stoic and intense."
+      },
+      {
+        "start": 16.8,
+        "end": 17.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "For what?"
+      },
+      {
+        "start": 18.0,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears."
+      },
+      {
+        "start": 18.2,
+        "end": 20.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "For standing between me and those men."
+      },
+      {
+        "start": 21.0,
+        "end": 23.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction."
+      },
+      {
+        "start": 21.5,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would do it again."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her lips parting as her voice wavers with emotion."
+      },
+      {
+        "start": 24.0,
+        "end": 25.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Even if there were ten of them?"
+      },
+      {
+        "start": 26.0,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "As long as I draw breath..."
+      },
+      {
+        "start": 26.5,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana."
+      },
+      {
+        "start": 28.0,
+        "end": 31.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms."
+      },
+      {
+        "start": 28.8,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "...no one will hurt you again."
+      },
+      {
+        "start": 31.5,
+        "end": 34.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+      },
+      {
+        "start": 32.8,
+        "end": 34.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot promise that."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's intense, protective gaze locking onto hers."
+      },
+      {
+        "start": 34.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I just did."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black."
+      },
+      {
+        "start": 39.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth."
+      },
+      {
+        "start": 40.0,
+        "end": 44.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand."
+      },
+      {
+        "start": 42.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      },
+      {
+        "start": 42.8,
+        "end": 44.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You were bleeding last night."
+      },
+      {
+        "start": 45.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "start": 46.0,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So were you."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      },
+      {
+        "start": 49.0,
+        "end": 51.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You make it very difficult to argue with you."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective."
+      },
+      {
+        "start": 54.0,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was frightened."
+      },
+      {
+        "start": 58.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "start": 58.8,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Of them?"
+      }
+    ],
+    "final_score": 6.5,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 799
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 14.0,
+        "end": 39.0,
+        "duration": 25.0,
+        "start_time_fmt": "00:14.00",
+        "end_time_fmt": "00:39.00"
+      }
+    ],
+    "total_duration": 25.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Thank you.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers.",
+    "why_it_works": "At 25s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 14.0,
+        "end": 16.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framing Juliana kneeling on the wet cobblestones in the foreground while Alexander stands by the fence behind her, lowering his hammer."
+      },
+      {
+        "start": 14.3,
+        "end": 15.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Thank you."
+      },
+      {
+        "start": 16.2,
+        "end": 18.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander turning toward her, his scarred face stoic and intense."
+      },
+      {
+        "start": 16.8,
+        "end": 17.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "For what?"
+      },
+      {
+        "start": 18.0,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears."
+      },
+      {
+        "start": 18.2,
+        "end": 20.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "For standing between me and those men."
+      },
+      {
+        "start": 21.0,
+        "end": 23.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction."
+      },
+      {
+        "start": 21.5,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would do it again."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her lips parting as her voice wavers with emotion."
+      },
+      {
+        "start": 24.0,
+        "end": 25.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Even if there were ten of them?"
+      },
+      {
+        "start": 26.0,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "As long as I draw breath..."
+      },
+      {
+        "start": 26.5,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana."
+      },
+      {
+        "start": 28.0,
+        "end": 31.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms."
+      },
+      {
+        "start": 28.8,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "...no one will hurt you again."
+      },
+      {
+        "start": 31.5,
+        "end": 34.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+      },
+      {
+        "start": 32.8,
+        "end": 34.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot promise that."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's intense, protective gaze locking onto hers."
+      },
+      {
+        "start": 34.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I just did."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 818
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 21.0,
+        "end": 45.0,
+        "duration": 24.0,
+        "start_time_fmt": "00:21.00",
+        "end_time_fmt": "00:45.00"
+      }
+    ],
+    "total_duration": 24.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"I would do it again.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 21.0,
+        "end": 23.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction."
+      },
+      {
+        "start": 21.5,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I would do it again."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her lips parting as her voice wavers with emotion."
+      },
+      {
+        "start": 24.0,
+        "end": 25.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Even if there were ten of them?"
+      },
+      {
+        "start": 26.0,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "As long as I draw breath..."
+      },
+      {
+        "start": 26.5,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana."
+      },
+      {
+        "start": 28.0,
+        "end": 31.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms."
+      },
+      {
+        "start": 28.8,
+        "end": 31.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "...no one will hurt you again."
+      },
+      {
+        "start": 31.5,
+        "end": 34.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+      },
+      {
+        "start": 32.8,
+        "end": 34.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot promise that."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's intense, protective gaze locking onto hers."
+      },
+      {
+        "start": 34.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I just did."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black."
+      },
+      {
+        "start": 39.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth."
+      },
+      {
+        "start": 40.0,
+        "end": 44.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand."
+      },
+      {
+        "start": 42.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 819
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 42.0,
+        "end": 63.5,
+        "duration": 21.5,
+        "start_time_fmt": "00:42.00",
+        "end_time_fmt": "01:03.50"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You were bleeding last night.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana gazing directly into his eyes, her heart laid bare.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 42.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      },
+      {
+        "start": 42.8,
+        "end": 44.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You were bleeding last night."
+      },
+      {
+        "start": 45.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "start": 46.0,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So were you."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      },
+      {
+        "start": 49.0,
+        "end": 51.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You make it very difficult to argue with you."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective."
+      },
+      {
+        "start": 54.0,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was frightened."
+      },
+      {
+        "start": 58.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "start": 58.8,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Of them?"
+      },
+      {
+        "start": 60.5,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana gazing directly into his eyes, her heart laid bare."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 820
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 42.0,
+        "end": 96.0,
+        "duration": 54.0,
+        "start_time_fmt": "00:42.00",
+        "end_time_fmt": "01:36.00"
+      }
+    ],
+    "total_duration": 54.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You were bleeding last night.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Alexander regarding her with a subtle, affectionate smirk.",
+    "why_it_works": "At 54s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 42.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      },
+      {
+        "start": 42.8,
+        "end": 44.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You were bleeding last night."
+      },
+      {
+        "start": 45.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "start": 46.0,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So were you."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      },
+      {
+        "start": 49.0,
+        "end": 51.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You make it very difficult to argue with you."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective."
+      },
+      {
+        "start": 54.0,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was frightened."
+      },
+      {
+        "start": 58.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "start": 58.8,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Of them?"
+      },
+      {
+        "start": 60.5,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana gazing directly into his eyes, her heart laid bare."
+      },
+      {
+        "start": 60.8,
+        "end": 62.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Of losing you."
+      },
+      {
+        "start": 63.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander visibly moved, his gaze softening with profound emotion."
+      },
+      {
+        "start": 66.0,
+        "end": 73.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest."
+      },
+      {
+        "start": 66.0,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame."
+      },
+      {
+        "start": 73.5,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair."
+      },
+      {
+        "start": 77.0,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest."
+      },
+      {
+        "start": 78.5,
+        "end": 80.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your heart is racing."
+      },
+      {
+        "start": 80.5,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard."
+      },
+      {
+        "start": 81.2,
+        "end": 82.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So is yours."
+      },
+      {
+        "start": 83.5,
+        "end": 87.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framing the couple embraced in front of the roaring, glowing fireplace."
+      },
+      {
+        "start": 86.5,
+        "end": 90.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers."
+      },
+      {
+        "start": 87.5,
+        "end": 90.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of her delicate fingers running through his thick strands of hair."
+      },
+      {
+        "start": 88.0,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is becoming impossible."
+      },
+      {
+        "start": 90.0,
+        "end": 93.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana beaming up at him with affectionate humor."
+      },
+      {
+        "start": 90.4,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Soon birds will start nesting in it."
+      },
+      {
+        "start": 93.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander regarding her with a subtle, affectionate smirk."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 821
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 45.0,
+        "end": 73.5,
+        "duration": 28.5,
+        "start_time_fmt": "00:45.00",
+        "end_time_fmt": "01:13.50"
+      }
+    ],
+    "total_duration": 28.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"So were you.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest.",
+    "why_it_works": "At 28s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 45.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "start": 46.0,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So were you."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      },
+      {
+        "start": 49.0,
+        "end": 51.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You make it very difficult to argue with you."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face."
+      },
+      {
+        "start": 53.5,
+        "end": 56.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective."
+      },
+      {
+        "start": 54.0,
+        "end": 58.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was frightened."
+      },
+      {
+        "start": 58.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "start": 58.8,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Of them?"
+      },
+      {
+        "start": 60.5,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana gazing directly into his eyes, her heart laid bare."
+      },
+      {
+        "start": 60.8,
+        "end": 62.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Of losing you."
+      },
+      {
+        "start": 63.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander visibly moved, his gaze softening with profound emotion."
+      },
+      {
+        "start": 66.0,
+        "end": 73.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 822
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 56.5,
+        "end": 87.5,
+        "duration": 31.0,
+        "start_time_fmt": "00:56.50",
+        "end_time_fmt": "01:27.50"
+      }
+    ],
+    "total_duration": 31.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I was frightened.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot framing the couple embraced in front of the roaring, glowing fireplace.",
+    "why_it_works": "At 31s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was frightened."
+      },
+      {
+        "start": 58.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "start": 58.8,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Of them?"
+      },
+      {
+        "start": 60.5,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana gazing directly into his eyes, her heart laid bare."
+      },
+      {
+        "start": 60.8,
+        "end": 62.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Of losing you."
+      },
+      {
+        "start": 63.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander visibly moved, his gaze softening with profound emotion."
+      },
+      {
+        "start": 66.0,
+        "end": 73.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest."
+      },
+      {
+        "start": 66.0,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame."
+      },
+      {
+        "start": 73.5,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair."
+      },
+      {
+        "start": 77.0,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest."
+      },
+      {
+        "start": 78.5,
+        "end": 80.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your heart is racing."
+      },
+      {
+        "start": 80.5,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard."
+      },
+      {
+        "start": 81.2,
+        "end": 82.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So is yours."
+      },
+      {
+        "start": 83.5,
+        "end": 87.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framing the couple embraced in front of the roaring, glowing fireplace."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 823
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 56.5,
+        "end": 112.0,
+        "duration": 55.5,
+        "start_time_fmt": "00:56.50",
+        "end_time_fmt": "01:52.00"
+      }
+    ],
+    "total_duration": 55.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I was frightened.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana's peaceful face resting against Alexander's rugged chest.",
+    "why_it_works": "At 56s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was frightened."
+      },
+      {
+        "start": 58.5,
+        "end": 60.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "start": 58.8,
+        "end": 59.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Of them?"
+      },
+      {
+        "start": 60.5,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana gazing directly into his eyes, her heart laid bare."
+      },
+      {
+        "start": 60.8,
+        "end": 62.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Of losing you."
+      },
+      {
+        "start": 63.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander visibly moved, his gaze softening with profound emotion."
+      },
+      {
+        "start": 66.0,
+        "end": 73.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest."
+      },
+      {
+        "start": 66.0,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame."
+      },
+      {
+        "start": 73.5,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair."
+      },
+      {
+        "start": 77.0,
+        "end": 81.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest."
+      },
+      {
+        "start": 78.5,
+        "end": 80.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your heart is racing."
+      },
+      {
+        "start": 80.5,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard."
+      },
+      {
+        "start": 81.2,
+        "end": 82.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So is yours."
+      },
+      {
+        "start": 83.5,
+        "end": 87.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framing the couple embraced in front of the roaring, glowing fireplace."
+      },
+      {
+        "start": 86.5,
+        "end": 90.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers."
+      },
+      {
+        "start": 87.5,
+        "end": 90.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of her delicate fingers running through his thick strands of hair."
+      },
+      {
+        "start": 88.0,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is becoming impossible."
+      },
+      {
+        "start": 90.0,
+        "end": 93.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana beaming up at him with affectionate humor."
+      },
+      {
+        "start": 90.4,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Soon birds will start nesting in it."
+      },
+      {
+        "start": 93.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander regarding her with a subtle, affectionate smirk."
+      },
+      {
+        "start": 93.5,
+        "end": 95.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They have not complained yet."
+      },
+      {
+        "start": 95.5,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana lets out a quiet, melodic laugh."
+      },
+      {
+        "start": 96.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Juliana lifts her bandaged hand toward his beard playfully."
+      },
+      {
+        "start": 96.5,
+        "end": 99.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I shall have to save you from the birds."
+      },
+      {
+        "start": 99.5,
+        "end": 102.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander gently catches her wrist mid-air, holding her hand firmly against his chest while looking into her eyes with solemn sincerity."
+      },
+      {
+        "start": 100.3,
+        "end": 101.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Not yet."
+      },
+      {
+        "start": 102.5,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes shining with quiet patience and understanding."
+      },
+      {
+        "start": 103.0,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I will wait."
+      },
+      {
+        "start": 105.0,
+        "end": 108.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander releasing a quiet breath of gratitude, pulling her closer against his shoulder."
+      },
+      {
+        "start": 107.0,
+        "end": 114.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her head against Alexander's collarbone once more, wrapping both arms around him as he cradles her head in his palm."
+      },
+      {
+        "start": 108.0,
+        "end": 112.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's peaceful face resting against Alexander's rugged chest."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 824
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 78.5,
+        "end": 100.0,
+        "duration": 21.5,
+        "start_time_fmt": "01:18.50",
+        "end_time_fmt": "01:40.00"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Your heart is racing.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium close-up as Juliana lifts her bandaged hand toward his beard playfully.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 78.5,
+        "end": 80.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your heart is racing."
+      },
+      {
+        "start": 80.5,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard."
+      },
+      {
+        "start": 81.2,
+        "end": 82.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So is yours."
+      },
+      {
+        "start": 83.5,
+        "end": 87.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framing the couple embraced in front of the roaring, glowing fireplace."
+      },
+      {
+        "start": 86.5,
+        "end": 90.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers."
+      },
+      {
+        "start": 87.5,
+        "end": 90.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of her delicate fingers running through his thick strands of hair."
+      },
+      {
+        "start": 88.0,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is becoming impossible."
+      },
+      {
+        "start": 90.0,
+        "end": 93.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana beaming up at him with affectionate humor."
+      },
+      {
+        "start": 90.4,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Soon birds will start nesting in it."
+      },
+      {
+        "start": 93.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander regarding her with a subtle, affectionate smirk."
+      },
+      {
+        "start": 93.5,
+        "end": 95.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They have not complained yet."
+      },
+      {
+        "start": 95.5,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana lets out a quiet, melodic laugh."
+      },
+      {
+        "start": 96.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Juliana lifts her bandaged hand toward his beard playfully."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 825
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 78.5,
+        "end": 118.88,
+        "duration": 40.38,
+        "start_time_fmt": "01:18.50",
+        "end_time_fmt": "01:58.88"
+      }
+    ],
+    "total_duration": 40.38,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Your heart is racing.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Slow pull-back wide shot of Alexander and Juliana locked in a tender, enduring embrace before the radiant, roaring hearth as the fire crackles peacefully.",
+    "why_it_works": "At 40s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 78.5,
+        "end": 80.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your heart is racing."
+      },
+      {
+        "start": 80.5,
+        "end": 83.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard."
+      },
+      {
+        "start": 81.2,
+        "end": 82.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So is yours."
+      },
+      {
+        "start": 83.5,
+        "end": 87.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framing the couple embraced in front of the roaring, glowing fireplace."
+      },
+      {
+        "start": 86.5,
+        "end": 90.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers."
+      },
+      {
+        "start": 87.5,
+        "end": 90.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of her delicate fingers running through his thick strands of hair."
+      },
+      {
+        "start": 88.0,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is becoming impossible."
+      },
+      {
+        "start": 90.0,
+        "end": 93.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana beaming up at him with affectionate humor."
+      },
+      {
+        "start": 90.4,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Soon birds will start nesting in it."
+      },
+      {
+        "start": 93.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander regarding her with a subtle, affectionate smirk."
+      },
+      {
+        "start": 93.5,
+        "end": 95.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They have not complained yet."
+      },
+      {
+        "start": 95.5,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana lets out a quiet, melodic laugh."
+      },
+      {
+        "start": 96.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Juliana lifts her bandaged hand toward his beard playfully."
+      },
+      {
+        "start": 96.5,
+        "end": 99.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I shall have to save you from the birds."
+      },
+      {
+        "start": 99.5,
+        "end": 102.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander gently catches her wrist mid-air, holding her hand firmly against his chest while looking into her eyes with solemn sincerity."
+      },
+      {
+        "start": 100.3,
+        "end": 101.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Not yet."
+      },
+      {
+        "start": 102.5,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes shining with quiet patience and understanding."
+      },
+      {
+        "start": 103.0,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I will wait."
+      },
+      {
+        "start": 105.0,
+        "end": 108.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander releasing a quiet breath of gratitude, pulling her closer against his shoulder."
+      },
+      {
+        "start": 107.0,
+        "end": 114.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her head against Alexander's collarbone once more, wrapping both arms around him as he cradles her head in his palm."
+      },
+      {
+        "start": 108.0,
+        "end": 112.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's peaceful face resting against Alexander's rugged chest."
+      },
+      {
+        "start": 108.3,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I know almost nothing about the man I married."
+      },
+      {
+        "start": 112.0,
+        "end": 118.88,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow pull-back wide shot of Alexander and Juliana locked in a tender, enduring embrace before the radiant, roaring hearth as the fire crackles peacefully."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 826
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 87.5,
+        "end": 108.0,
+        "duration": 20.5,
+        "start_time_fmt": "01:27.50",
+        "end_time_fmt": "01:48.00"
+      }
+    ],
+    "total_duration": 20.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"This is becoming impossible.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium close-up of Alexander releasing a quiet breath of gratitude, pulling her closer against his shoulder.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 87.5,
+        "end": 90.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of her delicate fingers running through his thick strands of hair."
+      },
+      {
+        "start": 88.0,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is becoming impossible."
+      },
+      {
+        "start": 90.0,
+        "end": 93.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana beaming up at him with affectionate humor."
+      },
+      {
+        "start": 90.4,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Soon birds will start nesting in it."
+      },
+      {
+        "start": 93.0,
+        "end": 96.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander regarding her with a subtle, affectionate smirk."
+      },
+      {
+        "start": 93.5,
+        "end": 95.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They have not complained yet."
+      },
+      {
+        "start": 95.5,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana lets out a quiet, melodic laugh."
+      },
+      {
+        "start": 96.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Juliana lifts her bandaged hand toward his beard playfully."
+      },
+      {
+        "start": 96.5,
+        "end": 99.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I shall have to save you from the birds."
+      },
+      {
+        "start": 99.5,
+        "end": 102.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander gently catches her wrist mid-air, holding her hand firmly against his chest while looking into her eyes with solemn sincerity."
+      },
+      {
+        "start": 100.3,
+        "end": 101.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Not yet."
+      },
+      {
+        "start": 102.5,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes shining with quiet patience and understanding."
+      },
+      {
+        "start": 103.0,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I will wait."
+      },
+      {
+        "start": 105.0,
+        "end": 108.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander releasing a quiet breath of gratitude, pulling her closer against his shoulder."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 827
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 95.5,
+        "end": 118.88,
+        "duration": 23.38,
+        "start_time_fmt": "01:35.50",
+        "end_time_fmt": "01:58.88"
+      }
+    ],
+    "total_duration": 23.38,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Then I shall have to save you from the birds.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Warm crackle of embers in the hearth blending with swelling, tender orchestral strings holding into the fade-out.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 95.5,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana lets out a quiet, melodic laugh."
+      },
+      {
+        "start": 96.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Juliana lifts her bandaged hand toward his beard playfully."
+      },
+      {
+        "start": 96.5,
+        "end": 99.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I shall have to save you from the birds."
+      },
+      {
+        "start": 99.5,
+        "end": 102.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander gently catches her wrist mid-air, holding her hand firmly against his chest while looking into her eyes with solemn sincerity."
+      },
+      {
+        "start": 100.3,
+        "end": 101.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Not yet."
+      },
+      {
+        "start": 102.5,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at him, her eyes shining with quiet patience and understanding."
+      },
+      {
+        "start": 103.0,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I will wait."
+      },
+      {
+        "start": 105.0,
+        "end": 108.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander releasing a quiet breath of gratitude, pulling her closer against his shoulder."
+      },
+      {
+        "start": 107.0,
+        "end": 114.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her head against Alexander's collarbone once more, wrapping both arms around him as he cradles her head in his palm."
+      },
+      {
+        "start": 108.0,
+        "end": 112.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's peaceful face resting against Alexander's rugged chest."
+      },
+      {
+        "start": 108.3,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I know almost nothing about the man I married."
+      },
+      {
+        "start": 112.0,
+        "end": 118.88,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow pull-back wide shot of Alexander and Juliana locked in a tender, enduring embrace before the radiant, roaring hearth as the fire crackles peacefully."
+      },
+      {
+        "start": 112.2,
+        "end": 116.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But every day, he gives me another reason to trust him."
+      },
+      {
+        "start": 114.0,
+        "end": 118.88,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Warm crackle of embers in the hearth blending with swelling, tender orchestral strings holding into the fade-out.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 828
+  },
+  {
+    "episode": 17,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 17,
+        "start": 31.5,
+        "end": 51.5,
+        "duration": 20.0,
+        "start_time_fmt": "00:31.50",
+        "end_time_fmt": "00:51.50"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 5.8,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.14,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You cannot promise that.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 31.5,
+        "end": 34.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+      },
+      {
+        "start": 32.8,
+        "end": 34.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot promise that."
+      },
+      {
+        "start": 34.5,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's intense, protective gaze locking onto hers."
+      },
+      {
+        "start": 34.8,
+        "end": 35.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I just did."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers."
+      },
+      {
+        "start": 36.5,
+        "end": 39.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black."
+      },
+      {
+        "start": 39.0,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth."
+      },
+      {
+        "start": 40.0,
+        "end": 44.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand."
+      },
+      {
+        "start": 42.0,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      },
+      {
+        "start": 42.8,
+        "end": 44.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You were bleeding last night."
+      },
+      {
+        "start": 45.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "start": 46.0,
+        "end": 47.3,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "So were you."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      }
+    ],
+    "final_score": 6.14,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 871
+  }
+]

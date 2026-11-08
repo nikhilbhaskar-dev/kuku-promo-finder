@@ -1,0 +1,2274 @@
+[
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 29.6,
+        "end": 62.8,
+        "duration": 33.2,
+        "start_time_fmt": "00:29.60",
+        "end_time_fmt": "01:02.80"
+      }
+    ],
+    "total_duration": 33.2,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.01,
+    "hook": "ROYAL SENTRY shocks the viewer with an immediate confrontation: \"Stop!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Enough hiding.\", leaving the outcome hanging.",
+    "why_it_works": "At 33s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 29.6,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+      },
+      {
+        "start": 29.8,
+        "end": 30.6,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL SENTRY",
+        "content": "Stop!"
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "Firewood for the kitchens, sir."
+      },
+      {
+        "start": 32.4,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel."
+      },
+      {
+        "start": 33.1,
+        "end": 36.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise."
+      },
+      {
+        "start": 36.5,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind."
+      },
+      {
+        "start": 37.0,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp."
+      },
+      {
+        "start": 41.0,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Sleep."
+      },
+      {
+        "start": 42.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors."
+      },
+      {
+        "start": 46.8,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary."
+      },
+      {
+        "start": 47.0,
+        "end": 48.1,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "The road is clear."
+      },
+      {
+        "start": 48.2,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Tell the Duke."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander stares solemnly at his rugged reflection, his expression dark and resolute."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors."
+      },
+      {
+        "start": 55.8,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair."
+      },
+      {
+        "start": 56.5,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander snips through his overgrown locks, shedding the years of exile and camouflage."
+      },
+      {
+        "start": 57.2,
+        "end": 60.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, metallic snips of heavy shears cutting through thick hair."
+      },
+      {
+        "start": 59.8,
+        "end": 61.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander trims his beard at the jawline."
+      },
+      {
+        "start": 61.2,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+      },
+      {
+        "start": 62.0,
+        "end": 66.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+      },
+      {
+        "start": 62.0,
+        "end": 62.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Enough hiding."
+      }
+    ],
+    "final_score": 8.01,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 149
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 29.6,
+        "end": 85.2,
+        "duration": 55.6,
+        "start_time_fmt": "00:29.60",
+        "end_time_fmt": "01:25.20"
+      }
+    ],
+    "total_duration": 55.6,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.68,
+    "hook": "ROYAL SENTRY shocks the viewer with an immediate confrontation: \"Stop!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium close-up of the soldier rising and snapping a crisp military salute.",
+    "why_it_works": "At 56s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 29.6,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+      },
+      {
+        "start": 29.8,
+        "end": 30.6,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL SENTRY",
+        "content": "Stop!"
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "Firewood for the kitchens, sir."
+      },
+      {
+        "start": 32.4,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel."
+      },
+      {
+        "start": 33.1,
+        "end": 36.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise."
+      },
+      {
+        "start": 36.5,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind."
+      },
+      {
+        "start": 37.0,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp."
+      },
+      {
+        "start": 41.0,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Sleep."
+      },
+      {
+        "start": 42.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors."
+      },
+      {
+        "start": 46.8,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary."
+      },
+      {
+        "start": 47.0,
+        "end": 48.1,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "The road is clear."
+      },
+      {
+        "start": 48.2,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Tell the Duke."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander stares solemnly at his rugged reflection, his expression dark and resolute."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors."
+      },
+      {
+        "start": 55.8,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair."
+      },
+      {
+        "start": 56.5,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander snips through his overgrown locks, shedding the years of exile and camouflage."
+      },
+      {
+        "start": 57.2,
+        "end": 60.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, metallic snips of heavy shears cutting through thick hair."
+      },
+      {
+        "start": 59.8,
+        "end": 61.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander trims his beard at the jawline."
+      },
+      {
+        "start": 61.2,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+      },
+      {
+        "start": 62.0,
+        "end": 66.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+      },
+      {
+        "start": 62.0,
+        "end": 62.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Enough hiding."
+      },
+      {
+        "start": 63.0,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They buried Alexander Ashwin three years ago."
+      },
+      {
+        "start": 65.6,
+        "end": 66.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Today, he comes home."
+      },
+      {
+        "start": 66.6,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat."
+      },
+      {
+        "start": 74.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow."
+      },
+      {
+        "start": 75.8,
+        "end": 77.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST",
+        "content": "Your Grace."
+      },
+      {
+        "start": 77.8,
+        "end": 82.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel."
+      },
+      {
+        "start": 80.5,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Secure the chapel."
+      },
+      {
+        "start": 82.5,
+        "end": 85.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the soldier rising and snapping a crisp military salute."
+      }
+    ],
+    "final_score": 7.68,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 283
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 41.0,
+        "end": 66.9,
+        "duration": 25.9,
+        "start_time_fmt": "00:41.00",
+        "end_time_fmt": "01:06.90"
+      }
+    ],
+    "total_duration": 25.9,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.65,
+    "hook": "LOYALIST FIGHTER shocks the viewer with an immediate confrontation: \"Sleep.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Today, he comes home.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 41.0,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Sleep."
+      },
+      {
+        "start": 42.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors."
+      },
+      {
+        "start": 46.8,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary."
+      },
+      {
+        "start": 47.0,
+        "end": 48.1,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "The road is clear."
+      },
+      {
+        "start": 48.2,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Tell the Duke."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander stares solemnly at his rugged reflection, his expression dark and resolute."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors."
+      },
+      {
+        "start": 55.8,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair."
+      },
+      {
+        "start": 56.5,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander snips through his overgrown locks, shedding the years of exile and camouflage."
+      },
+      {
+        "start": 57.2,
+        "end": 60.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, metallic snips of heavy shears cutting through thick hair."
+      },
+      {
+        "start": 59.8,
+        "end": 61.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander trims his beard at the jawline."
+      },
+      {
+        "start": 61.2,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+      },
+      {
+        "start": 62.0,
+        "end": 66.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+      },
+      {
+        "start": 62.0,
+        "end": 62.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Enough hiding."
+      },
+      {
+        "start": 63.0,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They buried Alexander Ashwin three years ago."
+      },
+      {
+        "start": 65.6,
+        "end": 66.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Today, he comes home."
+      }
+    ],
+    "final_score": 7.65,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 295
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 61.2,
+        "end": 82.5,
+        "duration": 21.3,
+        "start_time_fmt": "01:01.20",
+        "end_time_fmt": "01:22.50"
+      }
+    ],
+    "total_duration": 21.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.5,
+    "composite_score": 7.4,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Enough hiding.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 61.2,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+      },
+      {
+        "start": 62.0,
+        "end": 66.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+      },
+      {
+        "start": 62.0,
+        "end": 62.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Enough hiding."
+      },
+      {
+        "start": 63.0,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They buried Alexander Ashwin three years ago."
+      },
+      {
+        "start": 65.6,
+        "end": 66.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Today, he comes home."
+      },
+      {
+        "start": 66.6,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat."
+      },
+      {
+        "start": 74.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow."
+      },
+      {
+        "start": 75.8,
+        "end": 77.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST",
+        "content": "Your Grace."
+      },
+      {
+        "start": 77.8,
+        "end": 82.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel."
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 419
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 61.2,
+        "end": 98.0,
+        "duration": 36.8,
+        "start_time_fmt": "01:01.20",
+        "end_time_fmt": "01:38.00"
+      }
+    ],
+    "total_duration": 36.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.35,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Enough hiding.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"And I am bringing my wife home.\", leaving the outcome hanging.",
+    "why_it_works": "At 37s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 61.2,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+      },
+      {
+        "start": 62.0,
+        "end": 66.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+      },
+      {
+        "start": 62.0,
+        "end": 62.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Enough hiding."
+      },
+      {
+        "start": 63.0,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They buried Alexander Ashwin three years ago."
+      },
+      {
+        "start": 65.6,
+        "end": 66.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Today, he comes home."
+      },
+      {
+        "start": 66.6,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat."
+      },
+      {
+        "start": 74.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow."
+      },
+      {
+        "start": 75.8,
+        "end": 77.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST",
+        "content": "Your Grace."
+      },
+      {
+        "start": 77.8,
+        "end": 82.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel."
+      },
+      {
+        "start": 80.5,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Secure the chapel."
+      },
+      {
+        "start": 82.5,
+        "end": 85.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the soldier rising and snapping a crisp military salute."
+      },
+      {
+        "start": 83.8,
+        "end": 85.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST",
+        "content": "Yes, Your Grace."
+      },
+      {
+        "start": 85.2,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him."
+      },
+      {
+        "start": 85.5,
+        "end": 87.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "No more hiding."
+      },
+      {
+        "start": 87.5,
+        "end": 90.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I am taking back my house."
+      },
+      {
+        "start": 90.2,
+        "end": 95.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward."
+      },
+      {
+        "start": 95.0,
+        "end": 98.41,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction."
+      },
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "And I am bringing my wife home."
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 441
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 48.2,
+        "end": 74.8,
+        "duration": 26.6,
+        "start_time_fmt": "00:48.20",
+        "end_time_fmt": "01:14.80"
+      }
+    ],
+    "total_duration": 26.6,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.5,
+    "composite_score": 7.31,
+    "hook": "LOYALIST FIGHTER shocks the viewer with an immediate confrontation: \"Tell the Duke.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat.",
+    "why_it_works": "At 27s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 48.2,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Tell the Duke."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander stares solemnly at his rugged reflection, his expression dark and resolute."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors."
+      },
+      {
+        "start": 55.8,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair."
+      },
+      {
+        "start": 56.5,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander snips through his overgrown locks, shedding the years of exile and camouflage."
+      },
+      {
+        "start": 57.2,
+        "end": 60.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, metallic snips of heavy shears cutting through thick hair."
+      },
+      {
+        "start": 59.8,
+        "end": 61.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander trims his beard at the jawline."
+      },
+      {
+        "start": 61.2,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+      },
+      {
+        "start": 62.0,
+        "end": 66.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+      },
+      {
+        "start": 62.0,
+        "end": 62.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Enough hiding."
+      },
+      {
+        "start": 63.0,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They buried Alexander Ashwin three years ago."
+      },
+      {
+        "start": 65.6,
+        "end": 66.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Today, he comes home."
+      },
+      {
+        "start": 66.6,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat."
+      }
+    ],
+    "final_score": 7.31,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 462
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 18.0,
+        "end": 42.2,
+        "duration": 24.2,
+        "start_time_fmt": "00:18.00",
+        "end_time_fmt": "00:42.20"
+      }
+    ],
+    "total_duration": 24.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.05,
+    "hook": "LOYALIST SCOUT shocks the viewer with an immediate confrontation: \"Six at the front.\"",
+    "cliffhanger": "Cuts sharply on LOYALIST FIGHTER's unresolved words: \"Sleep.\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 18.0,
+        "end": 22.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile two-shot of the two loyalist soldiers watching the cathedral spires in the distance."
+      },
+      {
+        "start": 18.3,
+        "end": 19.9,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST SCOUT",
+        "content": "Six at the front."
+      },
+      {
+        "start": 20.2,
+        "end": 21.8,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Four more inside."
+      },
+      {
+        "start": 22.4,
+        "end": 24.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium over-the-shoulder shot of the two men conferring as townsfolk pass in the foreground."
+      },
+      {
+        "start": 22.5,
+        "end": 23.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST SCOUT",
+        "content": "And the east gate?"
+      },
+      {
+        "start": 23.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Ours."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide crane shot panning down as a horse-drawn cart loaded with cut firewood pulls up along the wet stone pavement in front of the cathedral steps."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway."
+      },
+      {
+        "start": 29.6,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+      },
+      {
+        "start": 29.8,
+        "end": 30.6,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL SENTRY",
+        "content": "Stop!"
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "Firewood for the kitchens, sir."
+      },
+      {
+        "start": 32.4,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel."
+      },
+      {
+        "start": 33.1,
+        "end": 36.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise."
+      },
+      {
+        "start": 36.5,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind."
+      },
+      {
+        "start": 37.0,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp."
+      },
+      {
+        "start": 41.0,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Sleep."
+      }
+    ],
+    "final_score": 7.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 588
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 22.4,
+        "end": 52.8,
+        "duration": 30.4,
+        "start_time_fmt": "00:22.40",
+        "end_time_fmt": "00:52.80"
+      }
+    ],
+    "total_duration": 30.4,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.88,
+    "hook": "LOYALIST SCOUT shocks the viewer with an immediate confrontation: \"And the east gate?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek.",
+    "why_it_works": "At 30s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 22.4,
+        "end": 24.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium over-the-shoulder shot of the two men conferring as townsfolk pass in the foreground."
+      },
+      {
+        "start": 22.5,
+        "end": 23.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST SCOUT",
+        "content": "And the east gate?"
+      },
+      {
+        "start": 23.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Ours."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide crane shot panning down as a horse-drawn cart loaded with cut firewood pulls up along the wet stone pavement in front of the cathedral steps."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway."
+      },
+      {
+        "start": 29.6,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+      },
+      {
+        "start": 29.8,
+        "end": 30.6,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL SENTRY",
+        "content": "Stop!"
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "Firewood for the kitchens, sir."
+      },
+      {
+        "start": 32.4,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel."
+      },
+      {
+        "start": 33.1,
+        "end": 36.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise."
+      },
+      {
+        "start": 36.5,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind."
+      },
+      {
+        "start": 37.0,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp."
+      },
+      {
+        "start": 41.0,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Sleep."
+      },
+      {
+        "start": 42.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors."
+      },
+      {
+        "start": 46.8,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary."
+      },
+      {
+        "start": 47.0,
+        "end": 48.1,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "The road is clear."
+      },
+      {
+        "start": 48.2,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Tell the Duke."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek."
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 683
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 0.0,
+        "end": 30.6,
+        "duration": 30.6,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:30.60"
+      }
+    ],
+    "total_duration": 30.6,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.87,
+    "hook": "Opens with immediate physical drama: Men in work clothes stack wooden crates onto the back of a large carriage as horses snort restlessly in the morning mist.",
+    "cliffhanger": "Cuts sharply on ROYAL SENTRY's unresolved words: \"Stop!\", leaving the outcome hanging.",
+    "why_it_works": "At 31s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 4.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle tracking shot from behind wagon wheels framing laborers unloading wooden crates from a horse-drawn cart in the bustling town square."
+      },
+      {
+        "start": 0.0,
+        "end": 4.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Men in work clothes stack wooden crates onto the back of a large carriage as horses snort restlessly in the morning mist."
+      },
+      {
+        "start": 4.6,
+        "end": 7.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile shot of a vigilant scout in a dark brimmed hat holding reins and surveying the street."
+      },
+      {
+        "start": 4.6,
+        "end": 7.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The scout stands quietly by a wooden rail, keeping a sharp eye on passing civilians."
+      },
+      {
+        "start": 7.1,
+        "end": 9.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Artistic framing through the spokes of a large wooden wagon wheel looking out across the cobblestones toward church spires in the distance."
+      },
+      {
+        "start": 9.6,
+        "end": 13.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of a disguised loyalist adjusting his flat cap, followed by a low-angle tracking shot of two men walking briskly over the wet cobblestones."
+      },
+      {
+        "start": 13.8,
+        "end": 15.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide symmetrical establishing shot of the grand Gothic cathedral entrance flanked by armed royal guards in red uniforms and bearskin hats standing on stone steps."
+      },
+      {
+        "start": 13.8,
+        "end": 15.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention with rifles on the grand cathedral staircase."
+      },
+      {
+        "start": 15.8,
+        "end": 18.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot in a nearby alleyway where two loyalist conspirators huddle beside bundles of hay, discreetly passing a folded message."
+      },
+      {
+        "start": 18.0,
+        "end": 22.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile two-shot of the two loyalist soldiers watching the cathedral spires in the distance."
+      },
+      {
+        "start": 18.3,
+        "end": 19.9,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST SCOUT",
+        "content": "Six at the front."
+      },
+      {
+        "start": 20.2,
+        "end": 21.8,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Four more inside."
+      },
+      {
+        "start": 22.4,
+        "end": 24.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium over-the-shoulder shot of the two men conferring as townsfolk pass in the foreground."
+      },
+      {
+        "start": 22.5,
+        "end": 23.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST SCOUT",
+        "content": "And the east gate?"
+      },
+      {
+        "start": 23.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Ours."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide crane shot panning down as a horse-drawn cart loaded with cut firewood pulls up along the wet stone pavement in front of the cathedral steps."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway."
+      },
+      {
+        "start": 29.6,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+      },
+      {
+        "start": 29.8,
+        "end": 30.6,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL SENTRY",
+        "content": "Stop!"
+      }
+    ],
+    "final_score": 6.87,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 690
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 75.8,
+        "end": 98.41,
+        "duration": 22.61,
+        "start_time_fmt": "01:15.80",
+        "end_time_fmt": "01:38.41"
+      }
+    ],
+    "total_duration": 22.61,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "LOYALIST shocks the viewer with an immediate confrontation: \"Your Grace.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 75.8,
+        "end": 77.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST",
+        "content": "Your Grace."
+      },
+      {
+        "start": 77.8,
+        "end": 82.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel."
+      },
+      {
+        "start": 80.5,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Secure the chapel."
+      },
+      {
+        "start": 82.5,
+        "end": 85.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the soldier rising and snapping a crisp military salute."
+      },
+      {
+        "start": 83.8,
+        "end": 85.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST",
+        "content": "Yes, Your Grace."
+      },
+      {
+        "start": 85.2,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him."
+      },
+      {
+        "start": 85.5,
+        "end": 87.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "No more hiding."
+      },
+      {
+        "start": 87.5,
+        "end": 90.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I am taking back my house."
+      },
+      {
+        "start": 90.2,
+        "end": 95.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward."
+      },
+      {
+        "start": 95.0,
+        "end": 98.41,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 751
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 4.6,
+        "end": 49.2,
+        "duration": 44.6,
+        "start_time_fmt": "00:04.60",
+        "end_time_fmt": "00:49.20"
+      }
+    ],
+    "total_duration": 44.6,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.45,
+    "hook": "Opens with immediate physical drama: The scout stands quietly by a wooden rail, keeping a sharp eye on passing civilians.",
+    "cliffhanger": "Cuts sharply on LOYALIST FIGHTER's unresolved words: \"Tell the Duke.\", leaving the outcome hanging.",
+    "why_it_works": "At 45s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 4.6,
+        "end": 7.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile shot of a vigilant scout in a dark brimmed hat holding reins and surveying the street."
+      },
+      {
+        "start": 4.6,
+        "end": 7.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The scout stands quietly by a wooden rail, keeping a sharp eye on passing civilians."
+      },
+      {
+        "start": 7.1,
+        "end": 9.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Artistic framing through the spokes of a large wooden wagon wheel looking out across the cobblestones toward church spires in the distance."
+      },
+      {
+        "start": 9.6,
+        "end": 13.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of a disguised loyalist adjusting his flat cap, followed by a low-angle tracking shot of two men walking briskly over the wet cobblestones."
+      },
+      {
+        "start": 13.8,
+        "end": 15.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide symmetrical establishing shot of the grand Gothic cathedral entrance flanked by armed royal guards in red uniforms and bearskin hats standing on stone steps."
+      },
+      {
+        "start": 13.8,
+        "end": 15.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention with rifles on the grand cathedral staircase."
+      },
+      {
+        "start": 15.8,
+        "end": 18.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot in a nearby alleyway where two loyalist conspirators huddle beside bundles of hay, discreetly passing a folded message."
+      },
+      {
+        "start": 18.0,
+        "end": 22.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile two-shot of the two loyalist soldiers watching the cathedral spires in the distance."
+      },
+      {
+        "start": 18.3,
+        "end": 19.9,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST SCOUT",
+        "content": "Six at the front."
+      },
+      {
+        "start": 20.2,
+        "end": 21.8,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Four more inside."
+      },
+      {
+        "start": 22.4,
+        "end": 24.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium over-the-shoulder shot of the two men conferring as townsfolk pass in the foreground."
+      },
+      {
+        "start": 22.5,
+        "end": 23.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST SCOUT",
+        "content": "And the east gate?"
+      },
+      {
+        "start": 23.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Ours."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide crane shot panning down as a horse-drawn cart loaded with cut firewood pulls up along the wet stone pavement in front of the cathedral steps."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway."
+      },
+      {
+        "start": 29.6,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+      },
+      {
+        "start": 29.8,
+        "end": 30.6,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL SENTRY",
+        "content": "Stop!"
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "Firewood for the kitchens, sir."
+      },
+      {
+        "start": 32.4,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel."
+      },
+      {
+        "start": 33.1,
+        "end": 36.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise."
+      },
+      {
+        "start": 36.5,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind."
+      },
+      {
+        "start": 37.0,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp."
+      },
+      {
+        "start": 41.0,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Sleep."
+      },
+      {
+        "start": 42.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors."
+      },
+      {
+        "start": 46.8,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary."
+      },
+      {
+        "start": 47.0,
+        "end": 48.1,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "The road is clear."
+      },
+      {
+        "start": 48.2,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Tell the Duke."
+      }
+    ],
+    "final_score": 6.45,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 810
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 13.8,
+        "end": 71.8,
+        "duration": 58.0,
+        "start_time_fmt": "00:13.80",
+        "end_time_fmt": "01:11.80"
+      }
+    ],
+    "total_duration": 58.0,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.42,
+    "hook": "Opens with immediate physical drama: Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention with rifles on the grand cathedral staircase.",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light.",
+    "why_it_works": "At 58s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 13.8,
+        "end": 15.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide symmetrical establishing shot of the grand Gothic cathedral entrance flanked by armed royal guards in red uniforms and bearskin hats standing on stone steps."
+      },
+      {
+        "start": 13.8,
+        "end": 15.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention with rifles on the grand cathedral staircase."
+      },
+      {
+        "start": 15.8,
+        "end": 18.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot in a nearby alleyway where two loyalist conspirators huddle beside bundles of hay, discreetly passing a folded message."
+      },
+      {
+        "start": 18.0,
+        "end": 22.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile two-shot of the two loyalist soldiers watching the cathedral spires in the distance."
+      },
+      {
+        "start": 18.3,
+        "end": 19.9,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST SCOUT",
+        "content": "Six at the front."
+      },
+      {
+        "start": 20.2,
+        "end": 21.8,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Four more inside."
+      },
+      {
+        "start": 22.4,
+        "end": 24.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium over-the-shoulder shot of the two men conferring as townsfolk pass in the foreground."
+      },
+      {
+        "start": 22.5,
+        "end": 23.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST SCOUT",
+        "content": "And the east gate?"
+      },
+      {
+        "start": 23.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Ours."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide crane shot panning down as a horse-drawn cart loaded with cut firewood pulls up along the wet stone pavement in front of the cathedral steps."
+      },
+      {
+        "start": 24.2,
+        "end": 29.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway."
+      },
+      {
+        "start": 29.6,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+      },
+      {
+        "start": 29.8,
+        "end": 30.6,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL SENTRY",
+        "content": "Stop!"
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "Firewood for the kitchens, sir."
+      },
+      {
+        "start": 32.4,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel."
+      },
+      {
+        "start": 33.1,
+        "end": 36.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise."
+      },
+      {
+        "start": 36.5,
+        "end": 42.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind."
+      },
+      {
+        "start": 37.0,
+        "end": 42.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp."
+      },
+      {
+        "start": 41.0,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Sleep."
+      },
+      {
+        "start": 42.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors."
+      },
+      {
+        "start": 46.8,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary."
+      },
+      {
+        "start": 47.0,
+        "end": 48.1,
+        "type": "DIALOGUE",
+        "speaker": "CART DRIVER",
+        "content": "The road is clear."
+      },
+      {
+        "start": 48.2,
+        "end": 49.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST FIGHTER",
+        "content": "Tell the Duke."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek."
+      },
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander stares solemnly at his rugged reflection, his expression dark and resolute."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors."
+      },
+      {
+        "start": 55.8,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair."
+      },
+      {
+        "start": 56.5,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander snips through his overgrown locks, shedding the years of exile and camouflage."
+      },
+      {
+        "start": 57.2,
+        "end": 60.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, metallic snips of heavy shears cutting through thick hair."
+      },
+      {
+        "start": 59.8,
+        "end": 61.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Alexander trims his beard at the jawline."
+      },
+      {
+        "start": 61.2,
+        "end": 66.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+      },
+      {
+        "start": 62.0,
+        "end": 66.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+      },
+      {
+        "start": 62.0,
+        "end": 62.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Enough hiding."
+      },
+      {
+        "start": 63.0,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "They buried Alexander Ashwin three years ago."
+      },
+      {
+        "start": 65.6,
+        "end": 66.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Today, he comes home."
+      },
+      {
+        "start": 66.6,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light."
+      }
+    ],
+    "final_score": 6.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 840
+  },
+  {
+    "episode": 39,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 39,
+        "start": 68.5,
+        "end": 90.2,
+        "duration": 21.7,
+        "start_time_fmt": "01:08.50",
+        "end_time_fmt": "01:30.20"
+      }
+    ],
+    "total_duration": 21.7,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.1,
+    "hook": "Opens with immediate physical drama: Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat.",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"I am taking back my house.\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light."
+      },
+      {
+        "start": 68.5,
+        "end": 71.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat."
+      },
+      {
+        "start": 74.8,
+        "end": 77.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow."
+      },
+      {
+        "start": 75.8,
+        "end": 77.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST",
+        "content": "Your Grace."
+      },
+      {
+        "start": 77.8,
+        "end": 82.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel."
+      },
+      {
+        "start": 80.5,
+        "end": 82.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Secure the chapel."
+      },
+      {
+        "start": 82.5,
+        "end": 85.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the soldier rising and snapping a crisp military salute."
+      },
+      {
+        "start": 83.8,
+        "end": 85.2,
+        "type": "DIALOGUE",
+        "speaker": "LOYALIST",
+        "content": "Yes, Your Grace."
+      },
+      {
+        "start": 85.2,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him."
+      },
+      {
+        "start": 85.5,
+        "end": 87.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "No more hiding."
+      },
+      {
+        "start": 87.5,
+        "end": 90.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I am taking back my house."
+      }
+    ],
+    "final_score": 6.1,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 874
+  }
+]

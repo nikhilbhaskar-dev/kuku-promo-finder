@@ -1,0 +1,2052 @@
+[
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 62.5,
+        "end": 110.6,
+        "duration": 48.1,
+        "start_time_fmt": "01:02.50",
+        "end_time_fmt": "01:50.60"
+      }
+    ],
+    "total_duration": 48.1,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.68,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Yes. But the charcoal is fighting the poison. You are safe now.\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Do not move!\", leaving the outcome hanging.",
+    "why_it_works": "At 48s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 62.5,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears."
+      },
+      {
+        "start": 62.6,
+        "end": 66.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes. But the charcoal is fighting the poison. You are safe now."
+      },
+      {
+        "start": 67.0,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp."
+      },
+      {
+        "start": 71.8,
+        "end": 79.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing."
+      },
+      {
+        "start": 73.8,
+        "end": 79.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Then tell me... why is a girl of such noble spirit working as a common maid?"
+      },
+      {
+        "start": 79.6,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+      },
+      {
+        "start": 80.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Because my family cast me out to rot. I have nothing left in this world but my honor."
+      },
+      {
+        "start": 86.5,
+        "end": 90.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger."
+      },
+      {
+        "start": 87.0,
+        "end": 90.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight."
+      },
+      {
+        "start": 90.2,
+        "end": 92.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stunned gasp."
+      },
+      {
+        "start": 90.8,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face."
+      },
+      {
+        "start": 90.8,
+        "end": 95.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand."
+      },
+      {
+        "start": 95.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand."
+      },
+      {
+        "start": 96.0,
+        "end": 99.8,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Your hand... Let me see your hand."
+      },
+      {
+        "start": 100.0,
+        "end": 105.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy."
+      },
+      {
+        "start": 100.5,
+        "end": 105.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace? What is wrong? You look as though you've seen a ghost."
+      },
+      {
+        "start": 105.5,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm."
+      },
+      {
+        "start": 106.0,
+        "end": 109.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess reaches outward with trembling fingers, grasping frantically for Juliana."
+      },
+      {
+        "start": 108.8,
+        "end": 110.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sudden sharp rustle of fabric as her fingers snap tight."
+      },
+      {
+        "start": 109.0,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve."
+      },
+      {
+        "start": 109.2,
+        "end": 110.6,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Do not move!"
+      }
+    ],
+    "final_score": 7.68,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 279
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 14.2,
+        "end": 62.0,
+        "duration": 47.8,
+        "start_time_fmt": "00:14.20",
+        "end_time_fmt": "01:02.00"
+      }
+    ],
+    "total_duration": 47.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.3,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"Who are you? Speak to me. I have not seen your face before.\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\", leaving the outcome hanging.",
+    "why_it_works": "At 48s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 14.2,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium two-shot looking past Juliana's silhouette down to the Duchess in bed."
+      },
+      {
+        "start": 14.2,
+        "end": 20.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Who are you? Speak to me. I have not seen your face before."
+      },
+      {
+        "start": 20.5,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana leaning over the bed, holding the dropper bottle carefully toward the Duchess's mouth, her expression urgent yet tender."
+      },
+      {
+        "start": 20.6,
+        "end": 25.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please, Your Grace. Drink the last of this antidote. Drink it slowly."
+      },
+      {
+        "start": 25.8,
+        "end": 28.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips."
+      },
+      {
+        "start": 25.8,
+        "end": 28.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle."
+      },
+      {
+        "start": 28.5,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp."
+      },
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion."
+      },
+      {
+        "start": 30.8,
+        "end": 35.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "You... you are no common servant. You took Catherine's whip for me the other day."
+      },
+      {
+        "start": 35.8,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her eyes reflecting quiet resolve and pain."
+      },
+      {
+        "start": 36.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did what I had to. It does not change my duty."
+      },
+      {
+        "start": 40.2,
+        "end": 43.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess."
+      },
+      {
+        "start": 40.3,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Rest now, Your Grace. You are safe tonight."
+      },
+      {
+        "start": 43.2,
+        "end": 47.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper."
+      },
+      {
+        "start": 43.5,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If the guards hear us, we are both dead."
+      },
+      {
+        "start": 47.5,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap."
+      },
+      {
+        "start": 50.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face."
+      },
+      {
+        "start": 52.5,
+        "end": 55.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess clutches the blanket against her chest, her breathing quickening with dismay."
+      },
+      {
+        "start": 55.8,
+        "end": 62.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty."
+      },
+      {
+        "start": 56.0,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+      }
+    ],
+    "final_score": 7.3,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 473
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 30.8,
+        "end": 79.4,
+        "duration": 48.6,
+        "start_time_fmt": "00:30.80",
+        "end_time_fmt": "01:19.40"
+      }
+    ],
+    "total_duration": 48.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.3,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"You... you are no common servant. You took Catherine's whip for me the other day.\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Then tell me... why is a girl of such noble spirit working as a common maid?\", leaving the outcome hanging.",
+    "why_it_works": "At 49s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion."
+      },
+      {
+        "start": 30.8,
+        "end": 35.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "You... you are no common servant. You took Catherine's whip for me the other day."
+      },
+      {
+        "start": 35.8,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her eyes reflecting quiet resolve and pain."
+      },
+      {
+        "start": 36.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did what I had to. It does not change my duty."
+      },
+      {
+        "start": 40.2,
+        "end": 43.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess."
+      },
+      {
+        "start": 40.3,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Rest now, Your Grace. You are safe tonight."
+      },
+      {
+        "start": 43.2,
+        "end": 47.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper."
+      },
+      {
+        "start": 43.5,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If the guards hear us, we are both dead."
+      },
+      {
+        "start": 47.5,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap."
+      },
+      {
+        "start": 50.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face."
+      },
+      {
+        "start": 52.5,
+        "end": 55.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess clutches the blanket against her chest, her breathing quickening with dismay."
+      },
+      {
+        "start": 55.8,
+        "end": 62.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty."
+      },
+      {
+        "start": 56.0,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+      },
+      {
+        "start": 62.5,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears."
+      },
+      {
+        "start": 62.6,
+        "end": 66.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes. But the charcoal is fighting the poison. You are safe now."
+      },
+      {
+        "start": 67.0,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp."
+      },
+      {
+        "start": 71.8,
+        "end": 79.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing."
+      },
+      {
+        "start": 73.8,
+        "end": 79.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Then tell me... why is a girl of such noble spirit working as a common maid?"
+      }
+    ],
+    "final_score": 7.3,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 474
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 35.8,
+        "end": 62.0,
+        "duration": 26.2,
+        "start_time_fmt": "00:35.80",
+        "end_time_fmt": "01:02.00"
+      }
+    ],
+    "total_duration": 26.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 7.22,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I did what I had to. It does not change my duty.\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 35.8,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her eyes reflecting quiet resolve and pain."
+      },
+      {
+        "start": 36.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did what I had to. It does not change my duty."
+      },
+      {
+        "start": 40.2,
+        "end": 43.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess."
+      },
+      {
+        "start": 40.3,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Rest now, Your Grace. You are safe tonight."
+      },
+      {
+        "start": 43.2,
+        "end": 47.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper."
+      },
+      {
+        "start": 43.5,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If the guards hear us, we are both dead."
+      },
+      {
+        "start": 47.5,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap."
+      },
+      {
+        "start": 50.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face."
+      },
+      {
+        "start": 52.5,
+        "end": 55.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess clutches the blanket against her chest, her breathing quickening with dismay."
+      },
+      {
+        "start": 55.8,
+        "end": 62.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty."
+      },
+      {
+        "start": 56.0,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+      }
+    ],
+    "final_score": 7.22,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 512
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 55.8,
+        "end": 79.4,
+        "duration": 23.6,
+        "start_time_fmt": "00:55.80",
+        "end_time_fmt": "01:19.40"
+      }
+    ],
+    "total_duration": 23.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 7.22,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Then tell me... why is a girl of such noble spirit working as a common maid?\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 55.8,
+        "end": 62.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty."
+      },
+      {
+        "start": 56.0,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+      },
+      {
+        "start": 62.5,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears."
+      },
+      {
+        "start": 62.6,
+        "end": 66.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes. But the charcoal is fighting the poison. You are safe now."
+      },
+      {
+        "start": 67.0,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp."
+      },
+      {
+        "start": 71.8,
+        "end": 79.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing."
+      },
+      {
+        "start": 73.8,
+        "end": 79.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Then tell me... why is a girl of such noble spirit working as a common maid?"
+      }
+    ],
+    "final_score": 7.22,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 513
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 62.5,
+        "end": 90.8,
+        "duration": 28.3,
+        "start_time_fmt": "01:02.50",
+        "end_time_fmt": "01:30.80"
+      }
+    ],
+    "total_duration": 28.3,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 7.01,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Yes. But the charcoal is fighting the poison. You are safe now.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger.",
+    "why_it_works": "At 28s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 62.5,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears."
+      },
+      {
+        "start": 62.6,
+        "end": 66.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes. But the charcoal is fighting the poison. You are safe now."
+      },
+      {
+        "start": 67.0,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp."
+      },
+      {
+        "start": 71.8,
+        "end": 79.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing."
+      },
+      {
+        "start": 73.8,
+        "end": 79.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Then tell me... why is a girl of such noble spirit working as a common maid?"
+      },
+      {
+        "start": 79.6,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+      },
+      {
+        "start": 80.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Because my family cast me out to rot. I have nothing left in this world but my honor."
+      },
+      {
+        "start": 86.5,
+        "end": 90.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger."
+      }
+    ],
+    "final_score": 7.01,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 613
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 79.6,
+        "end": 115.5,
+        "duration": 35.9,
+        "start_time_fmt": "01:19.60",
+        "end_time_fmt": "01:55.50"
+      }
+    ],
+    "total_duration": 35.9,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.97,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Because my family cast me out to rot. I have nothing left in this world but my honor.\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Where... where... Where did you get this ring? Speak to me!\", leaving the outcome hanging.",
+    "why_it_works": "At 36s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 79.6,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+      },
+      {
+        "start": 80.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Because my family cast me out to rot. I have nothing left in this world but my honor."
+      },
+      {
+        "start": 86.5,
+        "end": 90.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger."
+      },
+      {
+        "start": 87.0,
+        "end": 90.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight."
+      },
+      {
+        "start": 90.2,
+        "end": 92.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stunned gasp."
+      },
+      {
+        "start": 90.8,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face."
+      },
+      {
+        "start": 90.8,
+        "end": 95.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand."
+      },
+      {
+        "start": 95.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand."
+      },
+      {
+        "start": 96.0,
+        "end": 99.8,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Your hand... Let me see your hand."
+      },
+      {
+        "start": 100.0,
+        "end": 105.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy."
+      },
+      {
+        "start": 100.5,
+        "end": 105.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace? What is wrong? You look as though you've seen a ghost."
+      },
+      {
+        "start": 105.5,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm."
+      },
+      {
+        "start": 106.0,
+        "end": 109.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess reaches outward with trembling fingers, grasping frantically for Juliana."
+      },
+      {
+        "start": 108.8,
+        "end": 110.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sudden sharp rustle of fabric as her fingers snap tight."
+      },
+      {
+        "start": 109.0,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve."
+      },
+      {
+        "start": 109.2,
+        "end": 110.6,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Do not move!"
+      },
+      {
+        "start": 110.8,
+        "end": 115.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes."
+      },
+      {
+        "start": 111.0,
+        "end": 115.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Where... where... Where did you get this ring? Speak to me!"
+      }
+    ],
+    "final_score": 6.97,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 624
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 40.2,
+        "end": 99.8,
+        "duration": 59.6,
+        "start_time_fmt": "00:40.20",
+        "end_time_fmt": "01:39.80"
+      }
+    ],
+    "total_duration": 59.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Rest now, Your Grace. You are safe tonight.\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Your hand... Let me see your hand.\", leaving the outcome hanging.",
+    "why_it_works": "At 60s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 40.2,
+        "end": 43.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess."
+      },
+      {
+        "start": 40.3,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Rest now, Your Grace. You are safe tonight."
+      },
+      {
+        "start": 43.2,
+        "end": 47.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper."
+      },
+      {
+        "start": 43.5,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If the guards hear us, we are both dead."
+      },
+      {
+        "start": 47.5,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap."
+      },
+      {
+        "start": 50.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face."
+      },
+      {
+        "start": 52.5,
+        "end": 55.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess clutches the blanket against her chest, her breathing quickening with dismay."
+      },
+      {
+        "start": 55.8,
+        "end": 62.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty."
+      },
+      {
+        "start": 56.0,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+      },
+      {
+        "start": 62.5,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears."
+      },
+      {
+        "start": 62.6,
+        "end": 66.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes. But the charcoal is fighting the poison. You are safe now."
+      },
+      {
+        "start": 67.0,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp."
+      },
+      {
+        "start": 71.8,
+        "end": 79.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing."
+      },
+      {
+        "start": 73.8,
+        "end": 79.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Then tell me... why is a girl of such noble spirit working as a common maid?"
+      },
+      {
+        "start": 79.6,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+      },
+      {
+        "start": 80.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Because my family cast me out to rot. I have nothing left in this world but my honor."
+      },
+      {
+        "start": 86.5,
+        "end": 90.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger."
+      },
+      {
+        "start": 87.0,
+        "end": 90.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight."
+      },
+      {
+        "start": 90.2,
+        "end": 92.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stunned gasp."
+      },
+      {
+        "start": 90.8,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face."
+      },
+      {
+        "start": 90.8,
+        "end": 95.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand."
+      },
+      {
+        "start": 95.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand."
+      },
+      {
+        "start": 96.0,
+        "end": 99.8,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Your hand... Let me see your hand."
+      }
+    ],
+    "final_score": 6.9,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 666
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 73.8,
+        "end": 99.8,
+        "duration": 26.0,
+        "start_time_fmt": "01:13.80",
+        "end_time_fmt": "01:39.80"
+      }
+    ],
+    "total_duration": 26.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 6.82,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"Then tell me... why is a girl of such noble spirit working as a common maid?\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Your hand... Let me see your hand.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 73.8,
+        "end": 79.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Then tell me... why is a girl of such noble spirit working as a common maid?"
+      },
+      {
+        "start": 79.6,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+      },
+      {
+        "start": 80.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Because my family cast me out to rot. I have nothing left in this world but my honor."
+      },
+      {
+        "start": 86.5,
+        "end": 90.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger."
+      },
+      {
+        "start": 87.0,
+        "end": 90.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight."
+      },
+      {
+        "start": 90.2,
+        "end": 92.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stunned gasp."
+      },
+      {
+        "start": 90.8,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face."
+      },
+      {
+        "start": 90.8,
+        "end": 95.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand."
+      },
+      {
+        "start": 95.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand."
+      },
+      {
+        "start": 96.0,
+        "end": 99.8,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Your hand... Let me see your hand."
+      }
+    ],
+    "final_score": 6.82,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 702
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 95.0,
+        "end": 115.5,
+        "duration": 20.5,
+        "start_time_fmt": "01:35.00",
+        "end_time_fmt": "01:55.50"
+      }
+    ],
+    "total_duration": 20.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.75,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"Your hand... Let me see your hand.\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Where... where... Where did you get this ring? Speak to me!\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 95.0,
+        "end": 100.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand."
+      },
+      {
+        "start": 96.0,
+        "end": 99.8,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Your hand... Let me see your hand."
+      },
+      {
+        "start": 100.0,
+        "end": 105.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy."
+      },
+      {
+        "start": 100.5,
+        "end": 105.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace? What is wrong? You look as though you've seen a ghost."
+      },
+      {
+        "start": 105.5,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm."
+      },
+      {
+        "start": 106.0,
+        "end": 109.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess reaches outward with trembling fingers, grasping frantically for Juliana."
+      },
+      {
+        "start": 108.8,
+        "end": 110.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sudden sharp rustle of fabric as her fingers snap tight."
+      },
+      {
+        "start": 109.0,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve."
+      },
+      {
+        "start": 109.2,
+        "end": 110.6,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Do not move!"
+      },
+      {
+        "start": 110.8,
+        "end": 115.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes."
+      },
+      {
+        "start": 111.0,
+        "end": 115.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Where... where... Where did you get this ring? Speak to me!"
+      }
+    ],
+    "final_score": 6.75,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 723
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 20.5,
+        "end": 47.0,
+        "duration": 26.5,
+        "start_time_fmt": "00:20.50",
+        "end_time_fmt": "00:47.00"
+      }
+    ],
+    "total_duration": 26.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.6,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Please, Your Grace. Drink the last of this antidote. Drink it slowly.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"If the guards hear us, we are both dead.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 20.5,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana leaning over the bed, holding the dropper bottle carefully toward the Duchess's mouth, her expression urgent yet tender."
+      },
+      {
+        "start": 20.6,
+        "end": 25.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please, Your Grace. Drink the last of this antidote. Drink it slowly."
+      },
+      {
+        "start": 25.8,
+        "end": 28.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips."
+      },
+      {
+        "start": 25.8,
+        "end": 28.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle."
+      },
+      {
+        "start": 28.5,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp."
+      },
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion."
+      },
+      {
+        "start": 30.8,
+        "end": 35.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "You... you are no common servant. You took Catherine's whip for me the other day."
+      },
+      {
+        "start": 35.8,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her eyes reflecting quiet resolve and pain."
+      },
+      {
+        "start": 36.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did what I had to. It does not change my duty."
+      },
+      {
+        "start": 40.2,
+        "end": 43.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess."
+      },
+      {
+        "start": 40.3,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Rest now, Your Grace. You are safe tonight."
+      },
+      {
+        "start": 43.2,
+        "end": 47.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper."
+      },
+      {
+        "start": 43.5,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If the guards hear us, we are both dead."
+      }
+    ],
+    "final_score": 6.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 776
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 14.2,
+        "end": 39.8,
+        "duration": 25.6,
+        "start_time_fmt": "00:14.20",
+        "end_time_fmt": "00:39.80"
+      }
+    ],
+    "total_duration": 25.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.52,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"Who are you? Speak to me. I have not seen your face before.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I did what I had to. It does not change my duty.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 14.2,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium two-shot looking past Juliana's silhouette down to the Duchess in bed."
+      },
+      {
+        "start": 14.2,
+        "end": 20.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Who are you? Speak to me. I have not seen your face before."
+      },
+      {
+        "start": 20.5,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana leaning over the bed, holding the dropper bottle carefully toward the Duchess's mouth, her expression urgent yet tender."
+      },
+      {
+        "start": 20.6,
+        "end": 25.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please, Your Grace. Drink the last of this antidote. Drink it slowly."
+      },
+      {
+        "start": 25.8,
+        "end": 28.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips."
+      },
+      {
+        "start": 25.8,
+        "end": 28.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle."
+      },
+      {
+        "start": 28.5,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp."
+      },
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion."
+      },
+      {
+        "start": 30.8,
+        "end": 35.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "You... you are no common servant. You took Catherine's whip for me the other day."
+      },
+      {
+        "start": 35.8,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her eyes reflecting quiet resolve and pain."
+      },
+      {
+        "start": 36.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did what I had to. It does not change my duty."
+      }
+    ],
+    "final_score": 6.52,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 796
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 100.0,
+        "end": 120.88,
+        "duration": 20.88,
+        "start_time_fmt": "01:40.00",
+        "end_time_fmt": "02:00.88"
+      }
+    ],
+    "total_duration": 20.88,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.5,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Your Grace? What is wrong? You look as though you've seen a ghost.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 100.0,
+        "end": 105.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy."
+      },
+      {
+        "start": 100.5,
+        "end": 105.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace? What is wrong? You look as though you've seen a ghost."
+      },
+      {
+        "start": 105.5,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm."
+      },
+      {
+        "start": 106.0,
+        "end": 109.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess reaches outward with trembling fingers, grasping frantically for Juliana."
+      },
+      {
+        "start": 108.8,
+        "end": 110.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sudden sharp rustle of fabric as her fingers snap tight."
+      },
+      {
+        "start": 109.0,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve."
+      },
+      {
+        "start": 109.2,
+        "end": 110.6,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Do not move!"
+      },
+      {
+        "start": 110.8,
+        "end": 115.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes."
+      },
+      {
+        "start": 111.0,
+        "end": 115.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Where... where... Where did you get this ring? Speak to me!"
+      },
+      {
+        "start": 115.8,
+        "end": 119.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words echo in the silence of the room."
+      },
+      {
+        "start": 119.5,
+        "end": 120.88,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 6.5,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 802
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 30.8,
+        "end": 50.8,
+        "duration": 20.0,
+        "start_time_fmt": "00:30.80",
+        "end_time_fmt": "00:50.80"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.35,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"You... you are no common servant. You took Catherine's whip for me the other day.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion."
+      },
+      {
+        "start": 30.8,
+        "end": 35.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "You... you are no common servant. You took Catherine's whip for me the other day."
+      },
+      {
+        "start": 35.8,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her eyes reflecting quiet resolve and pain."
+      },
+      {
+        "start": 36.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did what I had to. It does not change my duty."
+      },
+      {
+        "start": 40.2,
+        "end": 43.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess."
+      },
+      {
+        "start": 40.3,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Rest now, Your Grace. You are safe tonight."
+      },
+      {
+        "start": 43.2,
+        "end": 47.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper."
+      },
+      {
+        "start": 43.5,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If the guards hear us, we are both dead."
+      },
+      {
+        "start": 47.5,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap."
+      }
+    ],
+    "final_score": 6.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 849
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 43.2,
+        "end": 71.8,
+        "duration": 28.6,
+        "start_time_fmt": "00:43.20",
+        "end_time_fmt": "01:11.80"
+      }
+    ],
+    "total_duration": 28.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.35,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"If the guards hear us, we are both dead.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp.",
+    "why_it_works": "At 29s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 43.2,
+        "end": 47.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper."
+      },
+      {
+        "start": 43.5,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If the guards hear us, we are both dead."
+      },
+      {
+        "start": 47.5,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap."
+      },
+      {
+        "start": 50.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face."
+      },
+      {
+        "start": 52.5,
+        "end": 55.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess clutches the blanket against her chest, her breathing quickening with dismay."
+      },
+      {
+        "start": 55.8,
+        "end": 62.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty."
+      },
+      {
+        "start": 56.0,
+        "end": 62.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+      },
+      {
+        "start": 62.5,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears."
+      },
+      {
+        "start": 62.6,
+        "end": 66.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes. But the charcoal is fighting the poison. You are safe now."
+      },
+      {
+        "start": 67.0,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp."
+      }
+    ],
+    "final_score": 6.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 850
+  },
+  {
+    "episode": 26,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 26,
+        "start": 0.0,
+        "end": 47.0,
+        "duration": 47.0,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:47.00"
+      }
+    ],
+    "total_duration": 47.0,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.15,
+    "hook": "Opens with immediate physical drama: Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention back to the ailing Duchess.",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"If the guards hear us, we are both dead.\", leaving the outcome hanging.",
+    "why_it_works": "At 47s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 5.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot framed through heavy bed curtains in a dark, candlelit bedchamber. Juliana in her maid's apron sits vigilantly beside the canopied bed where the frail Dowager Duchess lies."
+      },
+      {
+        "start": 0.0,
+        "end": 5.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention back to the ailing Duchess."
+      },
+      {
+        "start": 5.8,
+        "end": 10.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hands unscrewing the glass dropper from a small amber medicine bottle filled with dark medicinal liquid."
+      },
+      {
+        "start": 6.5,
+        "end": 9.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Tense, atmospheric orchestral score builds softly in the background."
+      },
+      {
+        "start": 10.5,
+        "end": 14.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess resting against pale pillows as her heavy eyelids slowly open, her gaze weak and disoriented."
+      },
+      {
+        "start": 11.0,
+        "end": 14.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Dowager Duchess blinks against the dim lamplight, turning her head toward Juliana."
+      },
+      {
+        "start": 14.2,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium two-shot looking past Juliana's silhouette down to the Duchess in bed."
+      },
+      {
+        "start": 14.2,
+        "end": 20.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Who are you? Speak to me. I have not seen your face before."
+      },
+      {
+        "start": 20.5,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana leaning over the bed, holding the dropper bottle carefully toward the Duchess's mouth, her expression urgent yet tender."
+      },
+      {
+        "start": 20.6,
+        "end": 25.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please, Your Grace. Drink the last of this antidote. Drink it slowly."
+      },
+      {
+        "start": 25.8,
+        "end": 28.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips."
+      },
+      {
+        "start": 25.8,
+        "end": 28.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle."
+      },
+      {
+        "start": 28.5,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp."
+      },
+      {
+        "start": 30.8,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion."
+      },
+      {
+        "start": 30.8,
+        "end": 35.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "You... you are no common servant. You took Catherine's whip for me the other day."
+      },
+      {
+        "start": 35.8,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her eyes reflecting quiet resolve and pain."
+      },
+      {
+        "start": 36.0,
+        "end": 39.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did what I had to. It does not change my duty."
+      },
+      {
+        "start": 40.2,
+        "end": 43.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess."
+      },
+      {
+        "start": 40.3,
+        "end": 43.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Rest now, Your Grace. You are safe tonight."
+      },
+      {
+        "start": 43.2,
+        "end": 47.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper."
+      },
+      {
+        "start": 43.5,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If the guards hear us, we are both dead."
+      }
+    ],
+    "final_score": 6.15,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 870
+  }
+]

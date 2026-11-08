@@ -1,0 +1,4380 @@
+[
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 3.2,
+        "end": 27.7,
+        "duration": 24.5,
+        "start_time_fmt": "00:03.20",
+        "end_time_fmt": "00:27.70"
+      }
+    ],
+    "total_duration": 24.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.2,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"Look at him.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Why would you offer me your name?\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 3.2,
+        "end": 5.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald stepping forward from his pew with a smug, sneering grin."
+      },
+      {
+        "start": 3.4,
+        "end": 4.9,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Look at him."
+      },
+      {
+        "start": 5.0,
+        "end": 7.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald's venomous, self-satisfied face."
+      },
+      {
+        "start": 5.0,
+        "end": 7.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "A penniless nobody for a discarded bride."
+      },
+      {
+        "start": 7.6,
+        "end": 10.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Clarissa covering her mouth with her gloved hand, bursting into cruel laughter."
+      },
+      {
+        "start": 7.8,
+        "end": 9.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Clarissa giggles spitefully, lowering her gloved hand to gloat."
+      },
+      {
+        "start": 9.0,
+        "end": 10.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "How fitting."
+      },
+      {
+        "start": 10.5,
+        "end": 12.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers."
+      },
+      {
+        "start": 10.6,
+        "end": 14.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "You have finally found a man as worthless as everyone thinks you are."
+      },
+      {
+        "start": 12.0,
+        "end": 15.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's side profile, hurt glistening in her eyes as the insult cuts deep."
+      },
+      {
+        "start": 15.0,
+        "end": 17.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up toward the high arches of the chapel, drawing inward strength."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana closes her eyes briefly and releases a steadying breath."
+      },
+      {
+        "start": 17.5,
+        "end": 21.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the kneeling Mysterious Bearded Man up at Juliana."
+      },
+      {
+        "start": 20.0,
+        "end": 21.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 21.9,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness."
+      },
+      {
+        "start": 23.4,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's anguished face."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You heard what they think I am."
+      },
+      {
+        "start": 25.8,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking down as Juliana addresses the kneeling stranger directly."
+      },
+      {
+        "start": 25.9,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why would you offer me your name?"
+      }
+    ],
+    "final_score": 8.3,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 72
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 10.5,
+        "end": 33.7,
+        "duration": 23.2,
+        "start_time_fmt": "00:10.50",
+        "end_time_fmt": "00:33.70"
+      }
+    ],
+    "total_duration": 23.2,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 8.11,
+    "hook": "CLARISSA shocks the viewer with an immediate confrontation: \"You have finally found a man as worthless as everyone thinks you are.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"And what do you see?\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 10.5,
+        "end": 12.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers."
+      },
+      {
+        "start": 10.6,
+        "end": 14.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "You have finally found a man as worthless as everyone thinks you are."
+      },
+      {
+        "start": 12.0,
+        "end": 15.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's side profile, hurt glistening in her eyes as the insult cuts deep."
+      },
+      {
+        "start": 15.0,
+        "end": 17.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up toward the high arches of the chapel, drawing inward strength."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana closes her eyes briefly and releases a steadying breath."
+      },
+      {
+        "start": 17.5,
+        "end": 21.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the kneeling Mysterious Bearded Man up at Juliana."
+      },
+      {
+        "start": 20.0,
+        "end": 21.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 21.9,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness."
+      },
+      {
+        "start": 23.4,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's anguished face."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You heard what they think I am."
+      },
+      {
+        "start": 25.8,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking down as Juliana addresses the kneeling stranger directly."
+      },
+      {
+        "start": 25.9,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why would you offer me your name?"
+      },
+      {
+        "start": 27.9,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 28.0,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Because I know what I see."
+      },
+      {
+        "start": 30.5,
+        "end": 32.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana reacting with a mix of suspicion and wonder."
+      },
+      {
+        "start": 32.0,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate tight shot framing Juliana's profile beside his dark silhouette."
+      },
+      {
+        "start": 32.1,
+        "end": 33.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what do you see?"
+      }
+    ],
+    "final_score": 8.21,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 79
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 114.0,
+        "end": 134.5,
+        "duration": 20.5,
+        "start_time_fmt": "01:54.00",
+        "end_time_fmt": "02:14.50"
+      }
+    ],
+    "total_duration": 20.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.77,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"You have thrown yourself away!\"",
+    "cliffhanger": "Cuts sharply on LORD ASHCROFT's unresolved words: \"You are disowned!\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 114.0,
+        "end": 115.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dramatic musical chord swelling."
+      },
+      {
+        "start": 114.8,
+        "end": 116.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald lunging forward, pointing an enraged finger."
+      },
+      {
+        "start": 115.0,
+        "end": 116.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You have thrown yourself away!"
+      },
+      {
+        "start": 116.8,
+        "end": 119.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, face contorted in rage."
+      },
+      {
+        "start": 117.0,
+        "end": 119.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "For a penniless nobody!"
+      },
+      {
+        "start": 119.0,
+        "end": 122.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her."
+      },
+      {
+        "start": 120.5,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I would rather choose my own life..."
+      },
+      {
+        "start": 122.8,
+        "end": 125.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her jaw set with unshakable pride."
+      },
+      {
+        "start": 123.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...than spend another moment begging for yours."
+      },
+      {
+        "start": 125.8,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, eyes wide with speechless shock and wounded pride."
+      },
+      {
+        "start": 126.0,
+        "end": 127.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald recoils slightly, mouth agape."
+      },
+      {
+        "start": 127.4,
+        "end": 131.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors."
+      },
+      {
+        "start": 127.5,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "Do not bring this man anywhere near Ashcroft Manor!"
+      },
+      {
+        "start": 131.5,
+        "end": 134.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Lady Ashcroft, eyes blazing with cold malice."
+      },
+      {
+        "start": 132.0,
+        "end": 134.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "You are disowned!"
+      }
+    ],
+    "final_score": 7.87,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 203
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 10.5,
+        "end": 55.8,
+        "duration": 45.3,
+        "start_time_fmt": "00:10.50",
+        "end_time_fmt": "00:55.80"
+      }
+    ],
+    "total_duration": 45.3,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.71,
+    "hook": "CLARISSA shocks the viewer with an immediate confrontation: \"You have finally found a man as worthless as everyone thinks you are.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"If this is pity, take back your ring.\", leaving the outcome hanging.",
+    "why_it_works": "At 45s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 10.5,
+        "end": 12.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers."
+      },
+      {
+        "start": 10.6,
+        "end": 14.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "You have finally found a man as worthless as everyone thinks you are."
+      },
+      {
+        "start": 12.0,
+        "end": 15.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's side profile, hurt glistening in her eyes as the insult cuts deep."
+      },
+      {
+        "start": 15.0,
+        "end": 17.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up toward the high arches of the chapel, drawing inward strength."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana closes her eyes briefly and releases a steadying breath."
+      },
+      {
+        "start": 17.5,
+        "end": 21.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the kneeling Mysterious Bearded Man up at Juliana."
+      },
+      {
+        "start": 20.0,
+        "end": 21.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 21.9,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness."
+      },
+      {
+        "start": 23.4,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's anguished face."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You heard what they think I am."
+      },
+      {
+        "start": 25.8,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking down as Juliana addresses the kneeling stranger directly."
+      },
+      {
+        "start": 25.9,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why would you offer me your name?"
+      },
+      {
+        "start": 27.9,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 28.0,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Because I know what I see."
+      },
+      {
+        "start": 30.5,
+        "end": 32.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana reacting with a mix of suspicion and wonder."
+      },
+      {
+        "start": 32.0,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate tight shot framing Juliana's profile beside his dark silhouette."
+      },
+      {
+        "start": 32.1,
+        "end": 33.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what do you see?"
+      },
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 34.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "A woman who was betrayed."
+      },
+      {
+        "start": 36.0,
+        "end": 38.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew."
+      },
+      {
+        "start": 36.5,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Not a woman who deserves to be discarded."
+      },
+      {
+        "start": 38.9,
+        "end": 41.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words."
+      },
+      {
+        "start": 41.5,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana."
+      },
+      {
+        "start": 42.0,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't know what my family has done to me."
+      },
+      {
+        "start": 45.0,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Mysterious Bearded Man still on one knee, framed against the stained-glass window."
+      },
+      {
+        "start": 46.0,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I know they have made you stand alone."
+      },
+      {
+        "start": 49.8,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background."
+      },
+      {
+        "start": 50.0,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to stand alone now."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana, her pride flaring through her sadness."
+      },
+      {
+        "start": 53.6,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is pity, take back your ring."
+      }
+    ],
+    "final_score": 7.81,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 226
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 52.8,
+        "end": 85.8,
+        "duration": 33.0,
+        "start_time_fmt": "00:52.80",
+        "end_time_fmt": "01:25.80"
+      }
+    ],
+    "total_duration": 33.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.7,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"If this is pity, take back your ring.\"",
+    "cliffhanger": "Cuts sharply on THE PRIEST's unresolved words: \"Are you certain?\", leaving the outcome hanging.",
+    "why_it_works": "At 33s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana, her pride flaring through her sadness."
+      },
+      {
+        "start": 53.6,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is pity, take back your ring."
+      },
+      {
+        "start": 55.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's face, a tear clinging to her cheek."
+      },
+      {
+        "start": 56.8,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not become anyone's charity."
+      },
+      {
+        "start": 59.0,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her gaze directly."
+      },
+      {
+        "start": 59.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is not pity, Lady Juliana."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense tight close-up on his piercing blue-green eyes and facial scars."
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is a vow."
+      },
+      {
+        "start": 65.8,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, completely disarmed by the gravity of his promise."
+      },
+      {
+        "start": 66.0,
+        "end": 68.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know this man."
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew."
+      },
+      {
+        "start": 68.0,
+        "end": 69.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what waits beyond these doors."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up of Juliana looking toward her estranged family, then turning back."
+      },
+      {
+        "start": 69.8,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But he looked at me when everyone else turned away."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips."
+      },
+      {
+        "start": 72.8,
+        "end": 74.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I accept."
+      },
+      {
+        "start": 74.8,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana."
+      },
+      {
+        "start": 79.0,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's slender hand resting gently into his large, weathered palm."
+      },
+      {
+        "start": 79.2,
+        "end": 81.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He folds his fingers over hers, holding her hand with protective firmness."
+      },
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling."
+      },
+      {
+        "start": 82.0,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "My- My Lady..."
+      },
+      {
+        "start": 84.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Priest's alarmed, questioning eyes."
+      },
+      {
+        "start": 84.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Are you certain?"
+      }
+    ],
+    "final_score": 7.8,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 229
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 53.6,
+        "end": 113.0,
+        "duration": 59.4,
+        "start_time_fmt": "00:53.60",
+        "end_time_fmt": "01:53.00"
+      }
+    ],
+    "total_duration": 59.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.63,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"If this is pity, take back your ring.\"",
+    "cliffhanger": "Cuts sharply on THE PRIEST's unresolved words: \"By the authority entrusted to me, I now pronounce you...\", leaving the outcome hanging.",
+    "why_it_works": "At 59s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 53.6,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is pity, take back your ring."
+      },
+      {
+        "start": 55.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's face, a tear clinging to her cheek."
+      },
+      {
+        "start": 56.8,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not become anyone's charity."
+      },
+      {
+        "start": 59.0,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her gaze directly."
+      },
+      {
+        "start": 59.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is not pity, Lady Juliana."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense tight close-up on his piercing blue-green eyes and facial scars."
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is a vow."
+      },
+      {
+        "start": 65.8,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, completely disarmed by the gravity of his promise."
+      },
+      {
+        "start": 66.0,
+        "end": 68.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know this man."
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew."
+      },
+      {
+        "start": 68.0,
+        "end": 69.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what waits beyond these doors."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up of Juliana looking toward her estranged family, then turning back."
+      },
+      {
+        "start": 69.8,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But he looked at me when everyone else turned away."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips."
+      },
+      {
+        "start": 72.8,
+        "end": 74.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I accept."
+      },
+      {
+        "start": 74.8,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana."
+      },
+      {
+        "start": 79.0,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's slender hand resting gently into his large, weathered palm."
+      },
+      {
+        "start": 79.2,
+        "end": 81.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He folds his fingers over hers, holding her hand with protective firmness."
+      },
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling."
+      },
+      {
+        "start": 82.0,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "My- My Lady..."
+      },
+      {
+        "start": 84.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Priest's alarmed, questioning eyes."
+      },
+      {
+        "start": 84.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Are you certain?"
+      },
+      {
+        "start": 86.0,
+        "end": 88.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence."
+      },
+      {
+        "start": 88.8,
+        "end": 91.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana, her expression clear and unshakable."
+      },
+      {
+        "start": 89.8,
+        "end": 91.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I am."
+      },
+      {
+        "start": 91.5,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest swallowing hard and looking down at his book."
+      },
+      {
+        "start": 92.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Then... let us proceed."
+      },
+      {
+        "start": 94.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes."
+      },
+      {
+        "start": 95.8,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You need not say anything you do not mean."
+      },
+      {
+        "start": 97.8,
+        "end": 100.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly up at him."
+      },
+      {
+        "start": 98.2,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I truly mean it."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of his hands sliding the silver ring over her ring finger."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carefully slides the band onto Juliana's finger."
+      },
+      {
+        "start": 102.2,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her hands tenderly."
+      },
+      {
+        "start": 102.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my protection."
+      },
+      {
+        "start": 105.0,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the warrior's face, his eyes full of devotion."
+      },
+      {
+        "start": 105.2,
+        "end": 107.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my respect."
+      },
+      {
+        "start": 107.8,
+        "end": 110.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of his intense gaze."
+      },
+      {
+        "start": 107.8,
+        "end": 109.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "And you have my word."
+      },
+      {
+        "start": 110.0,
+        "end": 112.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands."
+      },
+      {
+        "start": 110.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "By the authority entrusted to me, I now pronounce you..."
+      }
+    ],
+    "final_score": 7.73,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 260
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 127.4,
+        "end": 149.0,
+        "duration": 21.6,
+        "start_time_fmt": "02:07.40",
+        "end_time_fmt": "02:29.00"
+      }
+    ],
+    "total_duration": 21.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.5,
+    "composite_score": 7.4,
+    "hook": "LORD ASHCROFT shocks the viewer with an immediate confrontation: \"Do not bring this man anywhere near Ashcroft Manor!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Heavy oak doors creaking open, followed by a triumphant musical swell fading out into silence.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 127.4,
+        "end": 131.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors."
+      },
+      {
+        "start": 127.5,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "Do not bring this man anywhere near Ashcroft Manor!"
+      },
+      {
+        "start": 131.5,
+        "end": 134.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Lady Ashcroft, eyes blazing with cold malice."
+      },
+      {
+        "start": 132.0,
+        "end": 134.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "You are disowned!"
+      },
+      {
+        "start": 134.8,
+        "end": 136.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lord Ashcroft bowing his head deeply over his cane in shame."
+      },
+      {
+        "start": 136.0,
+        "end": 138.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana. Tears brim in her eyes at the formal rejection, but she does not break."
+      },
+      {
+        "start": 138.8,
+        "end": 140.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as the Mysterious Bearded Man turns gently to Juliana, reaching his hand out once more."
+      },
+      {
+        "start": 139.5,
+        "end": 140.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Come, Lady Juliana."
+      },
+      {
+        "start": 140.8,
+        "end": 142.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana placing her hand securely into his, gripping his scarred hand."
+      },
+      {
+        "start": 142.8,
+        "end": 144.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Juliana and the warrior as they begin walking down the central aisle toward the chapel doors."
+      },
+      {
+        "start": 144.8,
+        "end": 146.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium three-shot of Gerald, Clarissa, and Lady Ashcroft watching in stunned silence and disbelief."
+      },
+      {
+        "start": 145.0,
+        "end": 146.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Clarissa gapes in shock while Lady Ashcroft exhales in exasperation."
+      },
+      {
+        "start": 146.5,
+        "end": 151.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot from the back of the chapel as the massive oak doors swing wide open, revealing bright daylight and the courtyard outside."
+      },
+      {
+        "start": 147.5,
+        "end": 151.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out."
+      },
+      {
+        "start": 147.0,
+        "end": 149.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy oak doors creaking open, followed by a triumphant musical swell fading out into silence.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 7.5,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 366
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 27.9,
+        "end": 85.8,
+        "duration": 57.9,
+        "start_time_fmt": "00:27.90",
+        "end_time_fmt": "01:25.80"
+      }
+    ],
+    "total_duration": 57.9,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.25,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"Because I know what I see.\"",
+    "cliffhanger": "Cuts sharply on THE PRIEST's unresolved words: \"Are you certain?\", leaving the outcome hanging.",
+    "why_it_works": "At 58s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 27.9,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 28.0,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Because I know what I see."
+      },
+      {
+        "start": 30.5,
+        "end": 32.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana reacting with a mix of suspicion and wonder."
+      },
+      {
+        "start": 32.0,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate tight shot framing Juliana's profile beside his dark silhouette."
+      },
+      {
+        "start": 32.1,
+        "end": 33.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what do you see?"
+      },
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 34.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "A woman who was betrayed."
+      },
+      {
+        "start": 36.0,
+        "end": 38.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew."
+      },
+      {
+        "start": 36.5,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Not a woman who deserves to be discarded."
+      },
+      {
+        "start": 38.9,
+        "end": 41.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words."
+      },
+      {
+        "start": 41.5,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana."
+      },
+      {
+        "start": 42.0,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't know what my family has done to me."
+      },
+      {
+        "start": 45.0,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Mysterious Bearded Man still on one knee, framed against the stained-glass window."
+      },
+      {
+        "start": 46.0,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I know they have made you stand alone."
+      },
+      {
+        "start": 49.8,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background."
+      },
+      {
+        "start": 50.0,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to stand alone now."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana, her pride flaring through her sadness."
+      },
+      {
+        "start": 53.6,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is pity, take back your ring."
+      },
+      {
+        "start": 55.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's face, a tear clinging to her cheek."
+      },
+      {
+        "start": 56.8,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not become anyone's charity."
+      },
+      {
+        "start": 59.0,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her gaze directly."
+      },
+      {
+        "start": 59.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is not pity, Lady Juliana."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense tight close-up on his piercing blue-green eyes and facial scars."
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is a vow."
+      },
+      {
+        "start": 65.8,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, completely disarmed by the gravity of his promise."
+      },
+      {
+        "start": 66.0,
+        "end": 68.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know this man."
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew."
+      },
+      {
+        "start": 68.0,
+        "end": 69.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what waits beyond these doors."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up of Juliana looking toward her estranged family, then turning back."
+      },
+      {
+        "start": 69.8,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But he looked at me when everyone else turned away."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips."
+      },
+      {
+        "start": 72.8,
+        "end": 74.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I accept."
+      },
+      {
+        "start": 74.8,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana."
+      },
+      {
+        "start": 79.0,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's slender hand resting gently into his large, weathered palm."
+      },
+      {
+        "start": 79.2,
+        "end": 81.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He folds his fingers over hers, holding her hand with protective firmness."
+      },
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling."
+      },
+      {
+        "start": 82.0,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "My- My Lady..."
+      },
+      {
+        "start": 84.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Priest's alarmed, questioning eyes."
+      },
+      {
+        "start": 84.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Are you certain?"
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 426
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 97.8,
+        "end": 134.5,
+        "duration": 36.7,
+        "start_time_fmt": "01:37.80",
+        "end_time_fmt": "02:14.50"
+      }
+    ],
+    "total_duration": 36.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.17,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I truly mean it.\"",
+    "cliffhanger": "Cuts sharply on LORD ASHCROFT's unresolved words: \"You are disowned!\", leaving the outcome hanging.",
+    "why_it_works": "At 37s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 97.8,
+        "end": 100.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly up at him."
+      },
+      {
+        "start": 98.2,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I truly mean it."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of his hands sliding the silver ring over her ring finger."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carefully slides the band onto Juliana's finger."
+      },
+      {
+        "start": 102.2,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her hands tenderly."
+      },
+      {
+        "start": 102.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my protection."
+      },
+      {
+        "start": 105.0,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the warrior's face, his eyes full of devotion."
+      },
+      {
+        "start": 105.2,
+        "end": 107.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my respect."
+      },
+      {
+        "start": 107.8,
+        "end": 110.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of his intense gaze."
+      },
+      {
+        "start": 107.8,
+        "end": 109.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "And you have my word."
+      },
+      {
+        "start": 110.0,
+        "end": 112.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands."
+      },
+      {
+        "start": 110.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "By the authority entrusted to me, I now pronounce you..."
+      },
+      {
+        "start": 112.8,
+        "end": 114.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar."
+      },
+      {
+        "start": 113.0,
+        "end": 114.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "...husband and wife!"
+      },
+      {
+        "start": 114.0,
+        "end": 115.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dramatic musical chord swelling."
+      },
+      {
+        "start": 114.8,
+        "end": 116.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald lunging forward, pointing an enraged finger."
+      },
+      {
+        "start": 115.0,
+        "end": 116.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You have thrown yourself away!"
+      },
+      {
+        "start": 116.8,
+        "end": 119.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, face contorted in rage."
+      },
+      {
+        "start": 117.0,
+        "end": 119.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "For a penniless nobody!"
+      },
+      {
+        "start": 119.0,
+        "end": 122.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her."
+      },
+      {
+        "start": 120.5,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I would rather choose my own life..."
+      },
+      {
+        "start": 122.8,
+        "end": 125.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her jaw set with unshakable pride."
+      },
+      {
+        "start": 123.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...than spend another moment begging for yours."
+      },
+      {
+        "start": 125.8,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, eyes wide with speechless shock and wounded pride."
+      },
+      {
+        "start": 126.0,
+        "end": 127.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald recoils slightly, mouth agape."
+      },
+      {
+        "start": 127.4,
+        "end": 131.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors."
+      },
+      {
+        "start": 127.5,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "Do not bring this man anywhere near Ashcroft Manor!"
+      },
+      {
+        "start": 131.5,
+        "end": 134.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Lady Ashcroft, eyes blazing with cold malice."
+      },
+      {
+        "start": 132.0,
+        "end": 134.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "You are disowned!"
+      }
+    ],
+    "final_score": 7.27,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 480
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 114.0,
+        "end": 151.4,
+        "duration": 37.4,
+        "start_time_fmt": "01:54.00",
+        "end_time_fmt": "02:31.40"
+      }
+    ],
+    "total_duration": 37.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.15,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"You have thrown yourself away!\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.",
+    "why_it_works": "At 37s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 114.0,
+        "end": 115.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dramatic musical chord swelling."
+      },
+      {
+        "start": 114.8,
+        "end": 116.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald lunging forward, pointing an enraged finger."
+      },
+      {
+        "start": 115.0,
+        "end": 116.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You have thrown yourself away!"
+      },
+      {
+        "start": 116.8,
+        "end": 119.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, face contorted in rage."
+      },
+      {
+        "start": 117.0,
+        "end": 119.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "For a penniless nobody!"
+      },
+      {
+        "start": 119.0,
+        "end": 122.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her."
+      },
+      {
+        "start": 120.5,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I would rather choose my own life..."
+      },
+      {
+        "start": 122.8,
+        "end": 125.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her jaw set with unshakable pride."
+      },
+      {
+        "start": 123.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...than spend another moment begging for yours."
+      },
+      {
+        "start": 125.8,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, eyes wide with speechless shock and wounded pride."
+      },
+      {
+        "start": 126.0,
+        "end": 127.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald recoils slightly, mouth agape."
+      },
+      {
+        "start": 127.4,
+        "end": 131.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors."
+      },
+      {
+        "start": 127.5,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "Do not bring this man anywhere near Ashcroft Manor!"
+      },
+      {
+        "start": 131.5,
+        "end": 134.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Lady Ashcroft, eyes blazing with cold malice."
+      },
+      {
+        "start": 132.0,
+        "end": 134.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "You are disowned!"
+      },
+      {
+        "start": 134.8,
+        "end": 136.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lord Ashcroft bowing his head deeply over his cane in shame."
+      },
+      {
+        "start": 136.0,
+        "end": 138.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana. Tears brim in her eyes at the formal rejection, but she does not break."
+      },
+      {
+        "start": 138.8,
+        "end": 140.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as the Mysterious Bearded Man turns gently to Juliana, reaching his hand out once more."
+      },
+      {
+        "start": 139.5,
+        "end": 140.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Come, Lady Juliana."
+      },
+      {
+        "start": 140.8,
+        "end": 142.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana placing her hand securely into his, gripping his scarred hand."
+      },
+      {
+        "start": 142.8,
+        "end": 144.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot behind Juliana and the warrior as they begin walking down the central aisle toward the chapel doors."
+      },
+      {
+        "start": 144.8,
+        "end": 146.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium three-shot of Gerald, Clarissa, and Lady Ashcroft watching in stunned silence and disbelief."
+      },
+      {
+        "start": 145.0,
+        "end": 146.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Clarissa gapes in shock while Lady Ashcroft exhales in exasperation."
+      },
+      {
+        "start": 146.5,
+        "end": 151.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot from the back of the chapel as the massive oak doors swing wide open, revealing bright daylight and the courtyard outside."
+      },
+      {
+        "start": 147.5,
+        "end": 151.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out."
+      }
+    ],
+    "final_score": 7.25,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 490
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 71.8,
+        "end": 131.5,
+        "duration": 59.7,
+        "start_time_fmt": "01:11.80",
+        "end_time_fmt": "02:11.50"
+      }
+    ],
+    "total_duration": 59.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.02,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Then I accept.\"",
+    "cliffhanger": "Cuts sharply on LORD ASHCROFT's unresolved words: \"Do not bring this man anywhere near Ashcroft Manor!\", leaving the outcome hanging.",
+    "why_it_works": "At 60s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips."
+      },
+      {
+        "start": 72.8,
+        "end": 74.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I accept."
+      },
+      {
+        "start": 74.8,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana."
+      },
+      {
+        "start": 79.0,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's slender hand resting gently into his large, weathered palm."
+      },
+      {
+        "start": 79.2,
+        "end": 81.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He folds his fingers over hers, holding her hand with protective firmness."
+      },
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling."
+      },
+      {
+        "start": 82.0,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "My- My Lady..."
+      },
+      {
+        "start": 84.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Priest's alarmed, questioning eyes."
+      },
+      {
+        "start": 84.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Are you certain?"
+      },
+      {
+        "start": 86.0,
+        "end": 88.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence."
+      },
+      {
+        "start": 88.8,
+        "end": 91.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana, her expression clear and unshakable."
+      },
+      {
+        "start": 89.8,
+        "end": 91.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I am."
+      },
+      {
+        "start": 91.5,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest swallowing hard and looking down at his book."
+      },
+      {
+        "start": 92.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Then... let us proceed."
+      },
+      {
+        "start": 94.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes."
+      },
+      {
+        "start": 95.8,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You need not say anything you do not mean."
+      },
+      {
+        "start": 97.8,
+        "end": 100.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly up at him."
+      },
+      {
+        "start": 98.2,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I truly mean it."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of his hands sliding the silver ring over her ring finger."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carefully slides the band onto Juliana's finger."
+      },
+      {
+        "start": 102.2,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her hands tenderly."
+      },
+      {
+        "start": 102.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my protection."
+      },
+      {
+        "start": 105.0,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the warrior's face, his eyes full of devotion."
+      },
+      {
+        "start": 105.2,
+        "end": 107.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my respect."
+      },
+      {
+        "start": 107.8,
+        "end": 110.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of his intense gaze."
+      },
+      {
+        "start": 107.8,
+        "end": 109.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "And you have my word."
+      },
+      {
+        "start": 110.0,
+        "end": 112.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands."
+      },
+      {
+        "start": 110.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "By the authority entrusted to me, I now pronounce you..."
+      },
+      {
+        "start": 112.8,
+        "end": 114.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar."
+      },
+      {
+        "start": 113.0,
+        "end": 114.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "...husband and wife!"
+      },
+      {
+        "start": 114.0,
+        "end": 115.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dramatic musical chord swelling."
+      },
+      {
+        "start": 114.8,
+        "end": 116.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald lunging forward, pointing an enraged finger."
+      },
+      {
+        "start": 115.0,
+        "end": 116.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You have thrown yourself away!"
+      },
+      {
+        "start": 116.8,
+        "end": 119.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, face contorted in rage."
+      },
+      {
+        "start": 117.0,
+        "end": 119.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "For a penniless nobody!"
+      },
+      {
+        "start": 119.0,
+        "end": 122.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her."
+      },
+      {
+        "start": 120.5,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I would rather choose my own life..."
+      },
+      {
+        "start": 122.8,
+        "end": 125.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her jaw set with unshakable pride."
+      },
+      {
+        "start": 123.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...than spend another moment begging for yours."
+      },
+      {
+        "start": 125.8,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, eyes wide with speechless shock and wounded pride."
+      },
+      {
+        "start": 126.0,
+        "end": 127.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald recoils slightly, mouth agape."
+      },
+      {
+        "start": 127.4,
+        "end": 131.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors."
+      },
+      {
+        "start": 127.5,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "Do not bring this man anywhere near Ashcroft Manor!"
+      }
+    ],
+    "final_score": 7.12,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 554
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 81.8,
+        "end": 114.8,
+        "duration": 33.0,
+        "start_time_fmt": "01:21.80",
+        "end_time_fmt": "01:54.80"
+      }
+    ],
+    "total_duration": 33.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.02,
+    "hook": "THE PRIEST shocks the viewer with an immediate confrontation: \"My- My Lady...\"",
+    "cliffhanger": "Cuts sharply on THE PRIEST's unresolved words: \"...husband and wife!\", leaving the outcome hanging.",
+    "why_it_works": "At 33s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling."
+      },
+      {
+        "start": 82.0,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "My- My Lady..."
+      },
+      {
+        "start": 84.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Priest's alarmed, questioning eyes."
+      },
+      {
+        "start": 84.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Are you certain?"
+      },
+      {
+        "start": 86.0,
+        "end": 88.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence."
+      },
+      {
+        "start": 88.8,
+        "end": 91.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana, her expression clear and unshakable."
+      },
+      {
+        "start": 89.8,
+        "end": 91.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I am."
+      },
+      {
+        "start": 91.5,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest swallowing hard and looking down at his book."
+      },
+      {
+        "start": 92.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Then... let us proceed."
+      },
+      {
+        "start": 94.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes."
+      },
+      {
+        "start": 95.8,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You need not say anything you do not mean."
+      },
+      {
+        "start": 97.8,
+        "end": 100.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly up at him."
+      },
+      {
+        "start": 98.2,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I truly mean it."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of his hands sliding the silver ring over her ring finger."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carefully slides the band onto Juliana's finger."
+      },
+      {
+        "start": 102.2,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her hands tenderly."
+      },
+      {
+        "start": 102.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my protection."
+      },
+      {
+        "start": 105.0,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the warrior's face, his eyes full of devotion."
+      },
+      {
+        "start": 105.2,
+        "end": 107.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my respect."
+      },
+      {
+        "start": 107.8,
+        "end": 110.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of his intense gaze."
+      },
+      {
+        "start": 107.8,
+        "end": 109.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "And you have my word."
+      },
+      {
+        "start": 110.0,
+        "end": 112.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands."
+      },
+      {
+        "start": 110.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "By the authority entrusted to me, I now pronounce you..."
+      },
+      {
+        "start": 112.8,
+        "end": 114.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar."
+      },
+      {
+        "start": 113.0,
+        "end": 114.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "...husband and wife!"
+      }
+    ],
+    "final_score": 7.12,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 555
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 94.8,
+        "end": 116.8,
+        "duration": 22.0,
+        "start_time_fmt": "01:34.80",
+        "end_time_fmt": "01:56.80"
+      }
+    ],
+    "total_duration": 22.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.02,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"You need not say anything you do not mean.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"You have thrown yourself away!\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 94.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes."
+      },
+      {
+        "start": 95.8,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You need not say anything you do not mean."
+      },
+      {
+        "start": 97.8,
+        "end": 100.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly up at him."
+      },
+      {
+        "start": 98.2,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I truly mean it."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of his hands sliding the silver ring over her ring finger."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man carefully slides the band onto Juliana's finger."
+      },
+      {
+        "start": 102.2,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her hands tenderly."
+      },
+      {
+        "start": 102.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my protection."
+      },
+      {
+        "start": 105.0,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the warrior's face, his eyes full of devotion."
+      },
+      {
+        "start": 105.2,
+        "end": 107.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my respect."
+      },
+      {
+        "start": 107.8,
+        "end": 110.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of his intense gaze."
+      },
+      {
+        "start": 107.8,
+        "end": 109.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "And you have my word."
+      },
+      {
+        "start": 110.0,
+        "end": 112.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands."
+      },
+      {
+        "start": 110.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "By the authority entrusted to me, I now pronounce you..."
+      },
+      {
+        "start": 112.8,
+        "end": 114.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar."
+      },
+      {
+        "start": 113.0,
+        "end": 114.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "...husband and wife!"
+      },
+      {
+        "start": 114.0,
+        "end": 115.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dramatic musical chord swelling."
+      },
+      {
+        "start": 114.8,
+        "end": 116.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald lunging forward, pointing an enraged finger."
+      },
+      {
+        "start": 115.0,
+        "end": 116.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You have thrown yourself away!"
+      }
+    ],
+    "final_score": 7.12,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 556
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 20.0,
+        "end": 44.8,
+        "duration": 24.8,
+        "start_time_fmt": "00:20.00",
+        "end_time_fmt": "00:44.80"
+      }
+    ],
+    "total_duration": 24.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You don't even know me.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"You don't know what my family has done to me.\", leaving the outcome hanging.",
+    "why_it_works": "At 25s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 20.0,
+        "end": 21.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 21.9,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness."
+      },
+      {
+        "start": 23.4,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's anguished face."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You heard what they think I am."
+      },
+      {
+        "start": 25.8,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking down as Juliana addresses the kneeling stranger directly."
+      },
+      {
+        "start": 25.9,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why would you offer me your name?"
+      },
+      {
+        "start": 27.9,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 28.0,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Because I know what I see."
+      },
+      {
+        "start": 30.5,
+        "end": 32.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana reacting with a mix of suspicion and wonder."
+      },
+      {
+        "start": 32.0,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate tight shot framing Juliana's profile beside his dark silhouette."
+      },
+      {
+        "start": 32.1,
+        "end": 33.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what do you see?"
+      },
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 34.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "A woman who was betrayed."
+      },
+      {
+        "start": 36.0,
+        "end": 38.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew."
+      },
+      {
+        "start": 36.5,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Not a woman who deserves to be discarded."
+      },
+      {
+        "start": 38.9,
+        "end": 41.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words."
+      },
+      {
+        "start": 41.5,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana."
+      },
+      {
+        "start": 42.0,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't know what my family has done to me."
+      }
+    ],
+    "final_score": 7.0,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 614
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 32.0,
+        "end": 55.8,
+        "duration": 23.8,
+        "start_time_fmt": "00:32.00",
+        "end_time_fmt": "00:55.80"
+      }
+    ],
+    "total_duration": 23.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"And what do you see?\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"If this is pity, take back your ring.\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 32.0,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate tight shot framing Juliana's profile beside his dark silhouette."
+      },
+      {
+        "start": 32.1,
+        "end": 33.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what do you see?"
+      },
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 34.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "A woman who was betrayed."
+      },
+      {
+        "start": 36.0,
+        "end": 38.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew."
+      },
+      {
+        "start": 36.5,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Not a woman who deserves to be discarded."
+      },
+      {
+        "start": 38.9,
+        "end": 41.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words."
+      },
+      {
+        "start": 41.5,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana."
+      },
+      {
+        "start": 42.0,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't know what my family has done to me."
+      },
+      {
+        "start": 45.0,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Mysterious Bearded Man still on one knee, framed against the stained-glass window."
+      },
+      {
+        "start": 46.0,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I know they have made you stand alone."
+      },
+      {
+        "start": 49.8,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background."
+      },
+      {
+        "start": 50.0,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to stand alone now."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana, her pride flaring through her sadness."
+      },
+      {
+        "start": 53.6,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is pity, take back your ring."
+      }
+    ],
+    "final_score": 7.0,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 615
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 36.0,
+        "end": 69.6,
+        "duration": 33.6,
+        "start_time_fmt": "00:36.00",
+        "end_time_fmt": "01:09.60"
+      }
+    ],
+    "total_duration": 33.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"Not a woman who deserves to be discarded.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I don't know what waits beyond these doors.\", leaving the outcome hanging.",
+    "why_it_works": "At 34s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 36.0,
+        "end": 38.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew."
+      },
+      {
+        "start": 36.5,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Not a woman who deserves to be discarded."
+      },
+      {
+        "start": 38.9,
+        "end": 41.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words."
+      },
+      {
+        "start": 41.5,
+        "end": 45.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana."
+      },
+      {
+        "start": 42.0,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't know what my family has done to me."
+      },
+      {
+        "start": 45.0,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Mysterious Bearded Man still on one knee, framed against the stained-glass window."
+      },
+      {
+        "start": 46.0,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I know they have made you stand alone."
+      },
+      {
+        "start": 49.8,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background."
+      },
+      {
+        "start": 50.0,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to stand alone now."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana, her pride flaring through her sadness."
+      },
+      {
+        "start": 53.6,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is pity, take back your ring."
+      },
+      {
+        "start": 55.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's face, a tear clinging to her cheek."
+      },
+      {
+        "start": 56.8,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not become anyone's charity."
+      },
+      {
+        "start": 59.0,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her gaze directly."
+      },
+      {
+        "start": 59.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is not pity, Lady Juliana."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense tight close-up on his piercing blue-green eyes and facial scars."
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is a vow."
+      },
+      {
+        "start": 65.8,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, completely disarmed by the gravity of his promise."
+      },
+      {
+        "start": 66.0,
+        "end": 68.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know this man."
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew."
+      },
+      {
+        "start": 68.0,
+        "end": 69.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what waits beyond these doors."
+      }
+    ],
+    "final_score": 7.0,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 616
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 102.2,
+        "end": 122.8,
+        "duration": 20.6,
+        "start_time_fmt": "01:42.20",
+        "end_time_fmt": "02:02.80"
+      }
+    ],
+    "total_duration": 20.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.88,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"You have my protection.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I would rather choose my own life...\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 102.2,
+        "end": 105.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her hands tenderly."
+      },
+      {
+        "start": 102.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my protection."
+      },
+      {
+        "start": 105.0,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot of the warrior's face, his eyes full of devotion."
+      },
+      {
+        "start": 105.2,
+        "end": 107.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You have my respect."
+      },
+      {
+        "start": 107.8,
+        "end": 110.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of his intense gaze."
+      },
+      {
+        "start": 107.8,
+        "end": 109.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "And you have my word."
+      },
+      {
+        "start": 110.0,
+        "end": 112.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands."
+      },
+      {
+        "start": 110.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "By the authority entrusted to me, I now pronounce you..."
+      },
+      {
+        "start": 112.8,
+        "end": 114.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar."
+      },
+      {
+        "start": 113.0,
+        "end": 114.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "...husband and wife!"
+      },
+      {
+        "start": 114.0,
+        "end": 115.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dramatic musical chord swelling."
+      },
+      {
+        "start": 114.8,
+        "end": 116.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald lunging forward, pointing an enraged finger."
+      },
+      {
+        "start": 115.0,
+        "end": 116.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You have thrown yourself away!"
+      },
+      {
+        "start": 116.8,
+        "end": 119.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, face contorted in rage."
+      },
+      {
+        "start": 117.0,
+        "end": 119.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "For a penniless nobody!"
+      },
+      {
+        "start": 119.0,
+        "end": 122.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her."
+      },
+      {
+        "start": 120.5,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I would rather choose my own life..."
+      }
+    ],
+    "final_score": 6.98,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 621
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 0.0,
+        "end": 41.5,
+        "duration": 41.5,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:41.50"
+      }
+    ],
+    "total_duration": 41.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"Look at him.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Low-angle medium shot of Juliana bending slightly forward, shaken by his words.",
+    "why_it_works": "At 42s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 1.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man's scarred hand holding out the silver band ring."
+      },
+      {
+        "start": 1.5,
+        "end": 3.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, staring down in disbelief at the offered ring."
+      },
+      {
+        "start": 1.5,
+        "end": 3.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's eyes widen, stunned breath catching in her throat."
+      },
+      {
+        "start": 3.2,
+        "end": 5.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald stepping forward from his pew with a smug, sneering grin."
+      },
+      {
+        "start": 3.4,
+        "end": 4.9,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Look at him."
+      },
+      {
+        "start": 5.0,
+        "end": 7.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald's venomous, self-satisfied face."
+      },
+      {
+        "start": 5.0,
+        "end": 7.5,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "A penniless nobody for a discarded bride."
+      },
+      {
+        "start": 7.6,
+        "end": 10.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Clarissa covering her mouth with her gloved hand, bursting into cruel laughter."
+      },
+      {
+        "start": 7.8,
+        "end": 9.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Clarissa giggles spitefully, lowering her gloved hand to gloat."
+      },
+      {
+        "start": 9.0,
+        "end": 10.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "How fitting."
+      },
+      {
+        "start": 10.5,
+        "end": 12.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers."
+      },
+      {
+        "start": 10.6,
+        "end": 14.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "You have finally found a man as worthless as everyone thinks you are."
+      },
+      {
+        "start": 12.0,
+        "end": 15.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's side profile, hurt glistening in her eyes as the insult cuts deep."
+      },
+      {
+        "start": 15.0,
+        "end": 17.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana looking up toward the high arches of the chapel, drawing inward strength."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana closes her eyes briefly and releases a steadying breath."
+      },
+      {
+        "start": 17.5,
+        "end": 21.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the kneeling Mysterious Bearded Man up at Juliana."
+      },
+      {
+        "start": 20.0,
+        "end": 21.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 21.9,
+        "end": 23.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness."
+      },
+      {
+        "start": 23.4,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's anguished face."
+      },
+      {
+        "start": 23.5,
+        "end": 25.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You heard what they think I am."
+      },
+      {
+        "start": 25.8,
+        "end": 27.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking down as Juliana addresses the kneeling stranger directly."
+      },
+      {
+        "start": 25.9,
+        "end": 27.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why would you offer me your name?"
+      },
+      {
+        "start": 27.9,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 28.0,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Because I know what I see."
+      },
+      {
+        "start": 30.5,
+        "end": 32.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana reacting with a mix of suspicion and wonder."
+      },
+      {
+        "start": 32.0,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intimate tight shot framing Juliana's profile beside his dark silhouette."
+      },
+      {
+        "start": 32.1,
+        "end": 33.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what do you see?"
+      },
+      {
+        "start": 33.8,
+        "end": 36.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man."
+      },
+      {
+        "start": 34.0,
+        "end": 36.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "A woman who was betrayed."
+      },
+      {
+        "start": 36.0,
+        "end": 38.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew."
+      },
+      {
+        "start": 36.5,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "Not a woman who deserves to be discarded."
+      },
+      {
+        "start": 38.9,
+        "end": 41.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words."
+      }
+    ],
+    "final_score": 6.82,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 698
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 46.0,
+        "end": 76.2,
+        "duration": 30.2,
+        "start_time_fmt": "00:46.00",
+        "end_time_fmt": "01:16.20"
+      }
+    ],
+    "total_duration": 30.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"I know they have made you stand alone.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them.",
+    "why_it_works": "At 30s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 46.0,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "I know they have made you stand alone."
+      },
+      {
+        "start": 49.8,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background."
+      },
+      {
+        "start": 50.0,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You don't have to stand alone now."
+      },
+      {
+        "start": 52.8,
+        "end": 55.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana, her pride flaring through her sadness."
+      },
+      {
+        "start": 53.6,
+        "end": 55.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If this is pity, take back your ring."
+      },
+      {
+        "start": 55.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's face, a tear clinging to her cheek."
+      },
+      {
+        "start": 56.8,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will not become anyone's charity."
+      },
+      {
+        "start": 59.0,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Mysterious Bearded Man holding her gaze directly."
+      },
+      {
+        "start": 59.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is not pity, Lady Juliana."
+      },
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense tight close-up on his piercing blue-green eyes and facial scars."
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is a vow."
+      },
+      {
+        "start": 65.8,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, completely disarmed by the gravity of his promise."
+      },
+      {
+        "start": 66.0,
+        "end": 68.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know this man."
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew."
+      },
+      {
+        "start": 68.0,
+        "end": 69.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what waits beyond these doors."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up of Juliana looking toward her estranged family, then turning back."
+      },
+      {
+        "start": 69.8,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But he looked at me when everyone else turned away."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips."
+      },
+      {
+        "start": 72.8,
+        "end": 74.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I accept."
+      },
+      {
+        "start": 74.8,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them."
+      }
+    ],
+    "final_score": 6.82,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 699
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 62.8,
+        "end": 91.5,
+        "duration": 28.7,
+        "start_time_fmt": "01:02.80",
+        "end_time_fmt": "01:31.50"
+      }
+    ],
+    "total_duration": 28.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "MYSTERIOUS BEARDED MAN shocks the viewer with an immediate confrontation: \"It is a vow.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up profile of Juliana, her expression clear and unshakable.",
+    "why_it_works": "At 29s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 62.8,
+        "end": 65.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense tight close-up on his piercing blue-green eyes and facial scars."
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "It is a vow."
+      },
+      {
+        "start": 65.8,
+        "end": 67.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, completely disarmed by the gravity of his promise."
+      },
+      {
+        "start": 66.0,
+        "end": 68.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know this man."
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew."
+      },
+      {
+        "start": 68.0,
+        "end": 69.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what waits beyond these doors."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up of Juliana looking toward her estranged family, then turning back."
+      },
+      {
+        "start": 69.8,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But he looked at me when everyone else turned away."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips."
+      },
+      {
+        "start": 72.8,
+        "end": 74.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I accept."
+      },
+      {
+        "start": 74.8,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana."
+      },
+      {
+        "start": 79.0,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's slender hand resting gently into his large, weathered palm."
+      },
+      {
+        "start": 79.2,
+        "end": 81.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He folds his fingers over hers, holding her hand with protective firmness."
+      },
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling."
+      },
+      {
+        "start": 82.0,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "My- My Lady..."
+      },
+      {
+        "start": 84.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Priest's alarmed, questioning eyes."
+      },
+      {
+        "start": 84.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Are you certain?"
+      },
+      {
+        "start": 86.0,
+        "end": 88.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence."
+      },
+      {
+        "start": 88.8,
+        "end": 91.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana, her expression clear and unshakable."
+      }
+    ],
+    "final_score": 6.82,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 700
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 68.0,
+        "end": 102.2,
+        "duration": 34.2,
+        "start_time_fmt": "01:08.00",
+        "end_time_fmt": "01:42.20"
+      }
+    ],
+    "total_duration": 34.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I don't know what waits beyond these doors.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up shot of his hands sliding the silver ring over her ring finger.",
+    "why_it_works": "At 34s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 68.0,
+        "end": 69.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I don't know what waits beyond these doors."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up of Juliana looking toward her estranged family, then turning back."
+      },
+      {
+        "start": 69.8,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "But he looked at me when everyone else turned away."
+      },
+      {
+        "start": 71.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips."
+      },
+      {
+        "start": 72.8,
+        "end": 74.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Then I accept."
+      },
+      {
+        "start": 74.8,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana."
+      },
+      {
+        "start": 76.2,
+        "end": 79.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana."
+      },
+      {
+        "start": 79.0,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's slender hand resting gently into his large, weathered palm."
+      },
+      {
+        "start": 79.2,
+        "end": 81.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He folds his fingers over hers, holding her hand with protective firmness."
+      },
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling."
+      },
+      {
+        "start": 82.0,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "My- My Lady..."
+      },
+      {
+        "start": 84.0,
+        "end": 86.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Priest's alarmed, questioning eyes."
+      },
+      {
+        "start": 84.0,
+        "end": 85.8,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Are you certain?"
+      },
+      {
+        "start": 86.0,
+        "end": 88.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence."
+      },
+      {
+        "start": 88.8,
+        "end": 91.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana, her expression clear and unshakable."
+      },
+      {
+        "start": 89.8,
+        "end": 91.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I am."
+      },
+      {
+        "start": 91.5,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Priest swallowing hard and looking down at his book."
+      },
+      {
+        "start": 92.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "THE PRIEST",
+        "content": "Then... let us proceed."
+      },
+      {
+        "start": 94.8,
+        "end": 97.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes."
+      },
+      {
+        "start": 95.8,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "content": "You need not say anything you do not mean."
+      },
+      {
+        "start": 97.8,
+        "end": 100.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana smiling softly up at him."
+      },
+      {
+        "start": 98.2,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I truly mean it."
+      },
+      {
+        "start": 100.2,
+        "end": 102.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of his hands sliding the silver ring over her ring finger."
+      }
+    ],
+    "final_score": 6.82,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 701
+  },
+  {
+    "episode": 4,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 4,
+        "start": 120.5,
+        "end": 140.8,
+        "duration": 20.3,
+        "start_time_fmt": "02:00.50",
+        "end_time_fmt": "02:20.80"
+      }
+    ],
+    "total_duration": 20.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.5,
+    "composite_score": 6.65,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I would rather choose my own life...\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium two-shot as the Mysterious Bearded Man turns gently to Juliana, reaching his hand out once more.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 120.5,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I would rather choose my own life..."
+      },
+      {
+        "start": 122.8,
+        "end": 125.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her jaw set with unshakable pride."
+      },
+      {
+        "start": 123.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "...than spend another moment begging for yours."
+      },
+      {
+        "start": 125.8,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald, eyes wide with speechless shock and wounded pride."
+      },
+      {
+        "start": 126.0,
+        "end": 127.4,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald recoils slightly, mouth agape."
+      },
+      {
+        "start": 127.4,
+        "end": 131.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors."
+      },
+      {
+        "start": 127.5,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "Do not bring this man anywhere near Ashcroft Manor!"
+      },
+      {
+        "start": 131.5,
+        "end": 134.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Lady Ashcroft, eyes blazing with cold malice."
+      },
+      {
+        "start": 132.0,
+        "end": 134.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD ASHCROFT",
+        "content": "You are disowned!"
+      },
+      {
+        "start": 134.8,
+        "end": 136.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Lord Ashcroft bowing his head deeply over his cane in shame."
+      },
+      {
+        "start": 136.0,
+        "end": 138.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana. Tears brim in her eyes at the formal rejection, but she does not break."
+      },
+      {
+        "start": 138.8,
+        "end": 140.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as the Mysterious Bearded Man turns gently to Juliana, reaching his hand out once more."
+      }
+    ],
+    "final_score": 6.75,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 718
+  }
+]

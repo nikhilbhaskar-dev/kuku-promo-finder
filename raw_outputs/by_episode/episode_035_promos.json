@@ -1,0 +1,2910 @@
+[
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 42.5,
+        "end": 74.0,
+        "duration": 31.5,
+        "start_time_fmt": "00:42.50",
+        "end_time_fmt": "01:14.00"
+      }
+    ],
+    "total_duration": 31.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 9.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.55,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Mother?\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Then how did you survive?\", leaving the outcome hanging.",
+    "why_it_works": "At 32s, this promo stops feed scroll with immediate high-status conflict and cuts at peak unresolved tension to drive instant next-episode clicks, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 42.5,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother?"
+      },
+      {
+        "start": 44.2,
+        "end": 47.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "You're alive."
+      },
+      {
+        "start": 48.0,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother."
+      },
+      {
+        "start": 50.0,
+        "end": 55.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief."
+      },
+      {
+        "start": 52.5,
+        "end": 55.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I buried you."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I know."
+      },
+      {
+        "start": 59.5,
+        "end": 66.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "They told me you died. They told me your entire regiment was destroyed."
+      },
+      {
+        "start": 66.5,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories."
+      },
+      {
+        "start": 68.5,
+        "end": 70.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Most of them were."
+      },
+      {
+        "start": 71.5,
+        "end": 74.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then how did you survive?"
+      }
+    ],
+    "final_score": 8.55,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 28
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 52.5,
+        "end": 91.5,
+        "duration": 39.0,
+        "start_time_fmt": "00:52.50",
+        "end_time_fmt": "01:31.50"
+      }
+    ],
+    "total_duration": 39.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.2,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"I buried you.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"A traitor?\", leaving the outcome hanging.",
+    "why_it_works": "At 39s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 52.5,
+        "end": 55.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I buried you."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I know."
+      },
+      {
+        "start": 59.5,
+        "end": 66.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "They told me you died. They told me your entire regiment was destroyed."
+      },
+      {
+        "start": 66.5,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories."
+      },
+      {
+        "start": 68.5,
+        "end": 70.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Most of them were."
+      },
+      {
+        "start": 71.5,
+        "end": 74.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then how did you survive?"
+      },
+      {
+        "start": 74.2,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile of Alexander as his eyes look into the distance, haunted by the past."
+      },
+      {
+        "start": 75.0,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I wasn't supposed to."
+      },
+      {
+        "start": 78.0,
+        "end": 82.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern."
+      },
+      {
+        "start": 79.0,
+        "end": 83.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Three years ago, I was sent to the Iberian front."
+      },
+      {
+        "start": 83.0,
+        "end": 87.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's weathered face looking down pensively as he recounts the mission."
+      },
+      {
+        "start": 83.0,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies."
+      },
+      {
+        "start": 87.0,
+        "end": 89.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid."
+      },
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother, gasping with wide, horrified eyes."
+      },
+      {
+        "start": 89.8,
+        "end": 91.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "A traitor?"
+      }
+    ],
+    "final_score": 8.2,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 84
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 71.5,
+        "end": 91.5,
+        "duration": 20.0,
+        "start_time_fmt": "01:11.50",
+        "end_time_fmt": "01:31.50"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.2,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"Then how did you survive?\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"A traitor?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 71.5,
+        "end": 74.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then how did you survive?"
+      },
+      {
+        "start": 74.2,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile of Alexander as his eyes look into the distance, haunted by the past."
+      },
+      {
+        "start": 75.0,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I wasn't supposed to."
+      },
+      {
+        "start": 78.0,
+        "end": 82.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern."
+      },
+      {
+        "start": 79.0,
+        "end": 83.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Three years ago, I was sent to the Iberian front."
+      },
+      {
+        "start": 83.0,
+        "end": 87.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's weathered face looking down pensively as he recounts the mission."
+      },
+      {
+        "start": 83.0,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies."
+      },
+      {
+        "start": 87.0,
+        "end": 89.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid."
+      },
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother, gasping with wide, horrified eyes."
+      },
+      {
+        "start": 89.8,
+        "end": 91.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "A traitor?"
+      }
+    ],
+    "final_score": 8.2,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 85
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 71.5,
+        "end": 113.0,
+        "duration": 41.5,
+        "start_time_fmt": "01:11.50",
+        "end_time_fmt": "01:53.00"
+      }
+    ],
+    "total_duration": 41.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.2,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"Then how did you survive?\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"How did you escape?\", leaving the outcome hanging.",
+    "why_it_works": "At 42s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 71.5,
+        "end": 74.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then how did you survive?"
+      },
+      {
+        "start": 74.2,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile of Alexander as his eyes look into the distance, haunted by the past."
+      },
+      {
+        "start": 75.0,
+        "end": 77.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I wasn't supposed to."
+      },
+      {
+        "start": 78.0,
+        "end": 82.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern."
+      },
+      {
+        "start": 79.0,
+        "end": 83.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Three years ago, I was sent to the Iberian front."
+      },
+      {
+        "start": 83.0,
+        "end": 87.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's weathered face looking down pensively as he recounts the mission."
+      },
+      {
+        "start": 83.0,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies."
+      },
+      {
+        "start": 87.0,
+        "end": 89.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid."
+      },
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother, gasping with wide, horrified eyes."
+      },
+      {
+        "start": 89.8,
+        "end": 91.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "A traitor?"
+      },
+      {
+        "start": 92.0,
+        "end": 93.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Yes."
+      },
+      {
+        "start": 93.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framing both of them across the wooden table bathed in amber lantern glow."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We were close to finding him."
+      },
+      {
+        "start": 98.5,
+        "end": 101.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then came the ambush."
+      },
+      {
+        "start": 101.2,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles."
+      },
+      {
+        "start": 101.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My men were slaughtered."
+      },
+      {
+        "start": 104.2,
+        "end": 106.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of his mother clutching at her throat, tears glistening in her eyes."
+      },
+      {
+        "start": 104.5,
+        "end": 106.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "And you?"
+      },
+      {
+        "start": 107.0,
+        "end": 110.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I was shot. Left for dead."
+      },
+      {
+        "start": 110.0,
+        "end": 113.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief."
+      },
+      {
+        "start": 111.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "How did you escape?"
+      }
+    ],
+    "final_score": 8.2,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 86
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 89.8,
+        "end": 113.0,
+        "duration": 23.2,
+        "start_time_fmt": "01:29.80",
+        "end_time_fmt": "01:53.00"
+      }
+    ],
+    "total_duration": 23.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.2,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"A traitor?\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"How did you escape?\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother, gasping with wide, horrified eyes."
+      },
+      {
+        "start": 89.8,
+        "end": 91.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "A traitor?"
+      },
+      {
+        "start": 92.0,
+        "end": 93.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Yes."
+      },
+      {
+        "start": 93.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framing both of them across the wooden table bathed in amber lantern glow."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We were close to finding him."
+      },
+      {
+        "start": 98.5,
+        "end": 101.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then came the ambush."
+      },
+      {
+        "start": 101.2,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles."
+      },
+      {
+        "start": 101.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My men were slaughtered."
+      },
+      {
+        "start": 104.2,
+        "end": 106.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of his mother clutching at her throat, tears glistening in her eyes."
+      },
+      {
+        "start": 104.5,
+        "end": 106.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "And you?"
+      },
+      {
+        "start": 107.0,
+        "end": 110.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I was shot. Left for dead."
+      },
+      {
+        "start": 110.0,
+        "end": 113.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief."
+      },
+      {
+        "start": 111.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "How did you escape?"
+      }
+    ],
+    "final_score": 8.2,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 87
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 89.8,
+        "end": 130.5,
+        "duration": 40.7,
+        "start_time_fmt": "01:29.80",
+        "end_time_fmt": "02:10.50"
+      }
+    ],
+    "total_duration": 40.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 8.05,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"A traitor?\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Who?\", leaving the outcome hanging.",
+    "why_it_works": "At 41s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother, gasping with wide, horrified eyes."
+      },
+      {
+        "start": 89.8,
+        "end": 91.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "A traitor?"
+      },
+      {
+        "start": 92.0,
+        "end": 93.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Yes."
+      },
+      {
+        "start": 93.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framing both of them across the wooden table bathed in amber lantern glow."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We were close to finding him."
+      },
+      {
+        "start": 98.5,
+        "end": 101.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then came the ambush."
+      },
+      {
+        "start": 101.2,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles."
+      },
+      {
+        "start": 101.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My men were slaughtered."
+      },
+      {
+        "start": 104.2,
+        "end": 106.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of his mother clutching at her throat, tears glistening in her eyes."
+      },
+      {
+        "start": 104.5,
+        "end": 106.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "And you?"
+      },
+      {
+        "start": 107.0,
+        "end": 110.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I was shot. Left for dead."
+      },
+      {
+        "start": 110.0,
+        "end": 113.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief."
+      },
+      {
+        "start": 111.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "How did you escape?"
+      },
+      {
+        "start": 113.5,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his eyes dark with the harrowing memory."
+      },
+      {
+        "start": 114.0,
+        "end": 118.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I crawled away from the battlefield, half dead, alone."
+      },
+      {
+        "start": 118.2,
+        "end": 122.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I survived because the men who came looking for me believed I was already dead."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother as her expression shifts to profound bewilderment and outrage."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then why did they never tell us?"
+      },
+      {
+        "start": 125.5,
+        "end": 129.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's intense, piercing gaze."
+      },
+      {
+        "start": 126.0,
+        "end": 129.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because someone wanted you to believe I was dead."
+      },
+      {
+        "start": 129.5,
+        "end": 130.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      }
+    ],
+    "final_score": 8.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 140
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 122.0,
+        "end": 145.0,
+        "duration": 23.0,
+        "start_time_fmt": "02:02.00",
+        "end_time_fmt": "02:25.00"
+      }
+    ],
+    "total_duration": 23.0,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.96,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"Then why did they never tell us?\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Who?\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother as her expression shifts to profound bewilderment and outrage."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then why did they never tell us?"
+      },
+      {
+        "start": 125.5,
+        "end": 129.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's intense, piercing gaze."
+      },
+      {
+        "start": 126.0,
+        "end": 129.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because someone wanted you to believe I was dead."
+      },
+      {
+        "start": 129.5,
+        "end": 130.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      },
+      {
+        "start": 130.5,
+        "end": 134.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside."
+      },
+      {
+        "start": 131.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I spent three years trying to find out."
+      },
+      {
+        "start": 134.0,
+        "end": 136.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage."
+      },
+      {
+        "start": 134.0,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "The ambush was not an accident."
+      },
+      {
+        "start": 137.0,
+        "end": 144.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He leans heavily over the wooden table, looming close as his fury boils over."
+      },
+      {
+        "start": 137.0,
+        "end": 140.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Someone ordered my men to die."
+      },
+      {
+        "start": 141.0,
+        "end": 144.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Someone wanted me erased."
+      },
+      {
+        "start": 144.0,
+        "end": 145.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      }
+    ],
+    "final_score": 7.96,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 164
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 21.0,
+        "end": 74.0,
+        "duration": 53.0,
+        "start_time_fmt": "00:21.00",
+        "end_time_fmt": "01:14.00"
+      }
+    ],
+    "total_duration": 53.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 9.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.95,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"This must be the place.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Then how did you survive?\", leaving the outcome hanging.",
+    "why_it_works": "At 53s, this promo draws viewer into a clear character dilemma and cuts at peak unresolved tension to drive instant next-episode clicks, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "This must be the place."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open."
+      },
+      {
+        "start": 24.8,
+        "end": 27.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Creak of cold wooden hinges opening."
+      },
+      {
+        "start": 27.5,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light."
+      },
+      {
+        "start": 28.5,
+        "end": 30.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm."
+      },
+      {
+        "start": 30.8,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes."
+      },
+      {
+        "start": 36.5,
+        "end": 40.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks."
+      },
+      {
+        "start": 37.0,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander!"
+      },
+      {
+        "start": 40.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander as his hard expression crumbles into utter astonishment."
+      },
+      {
+        "start": 42.5,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother?"
+      },
+      {
+        "start": 44.2,
+        "end": 47.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "You're alive."
+      },
+      {
+        "start": 48.0,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother."
+      },
+      {
+        "start": 50.0,
+        "end": 55.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief."
+      },
+      {
+        "start": 52.5,
+        "end": 55.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I buried you."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I know."
+      },
+      {
+        "start": 59.5,
+        "end": 66.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "They told me you died. They told me your entire regiment was destroyed."
+      },
+      {
+        "start": 66.5,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories."
+      },
+      {
+        "start": 68.5,
+        "end": 70.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Most of them were."
+      },
+      {
+        "start": 71.5,
+        "end": 74.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then how did you survive?"
+      }
+    ],
+    "final_score": 7.95,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 168
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 98.5,
+        "end": 145.0,
+        "duration": 46.5,
+        "start_time_fmt": "01:38.50",
+        "end_time_fmt": "02:25.00"
+      }
+    ],
+    "total_duration": 46.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.6,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"Then came the ambush.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Who?\", leaving the outcome hanging.",
+    "why_it_works": "At 46s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 98.5,
+        "end": 101.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then came the ambush."
+      },
+      {
+        "start": 101.2,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles."
+      },
+      {
+        "start": 101.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My men were slaughtered."
+      },
+      {
+        "start": 104.2,
+        "end": 106.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of his mother clutching at her throat, tears glistening in her eyes."
+      },
+      {
+        "start": 104.5,
+        "end": 106.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "And you?"
+      },
+      {
+        "start": 107.0,
+        "end": 110.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I was shot. Left for dead."
+      },
+      {
+        "start": 110.0,
+        "end": 113.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief."
+      },
+      {
+        "start": 111.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "How did you escape?"
+      },
+      {
+        "start": 113.5,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his eyes dark with the harrowing memory."
+      },
+      {
+        "start": 114.0,
+        "end": 118.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I crawled away from the battlefield, half dead, alone."
+      },
+      {
+        "start": 118.2,
+        "end": 122.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I survived because the men who came looking for me believed I was already dead."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother as her expression shifts to profound bewilderment and outrage."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then why did they never tell us?"
+      },
+      {
+        "start": 125.5,
+        "end": 129.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's intense, piercing gaze."
+      },
+      {
+        "start": 126.0,
+        "end": 129.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because someone wanted you to believe I was dead."
+      },
+      {
+        "start": 129.5,
+        "end": 130.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      },
+      {
+        "start": 130.5,
+        "end": 134.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside."
+      },
+      {
+        "start": 131.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I spent three years trying to find out."
+      },
+      {
+        "start": 134.0,
+        "end": 136.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage."
+      },
+      {
+        "start": 134.0,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "The ambush was not an accident."
+      },
+      {
+        "start": 137.0,
+        "end": 144.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He leans heavily over the wooden table, looming close as his fury boils over."
+      },
+      {
+        "start": 137.0,
+        "end": 140.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Someone ordered my men to die."
+      },
+      {
+        "start": 141.0,
+        "end": 144.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Someone wanted me erased."
+      },
+      {
+        "start": 144.0,
+        "end": 145.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      }
+    ],
+    "final_score": 7.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 327
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 101.2,
+        "end": 125.5,
+        "duration": 24.3,
+        "start_time_fmt": "01:41.20",
+        "end_time_fmt": "02:05.50"
+      }
+    ],
+    "total_duration": 24.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.6,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"My men were slaughtered.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Then why did they never tell us?\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 101.2,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles."
+      },
+      {
+        "start": 101.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My men were slaughtered."
+      },
+      {
+        "start": 104.2,
+        "end": 106.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of his mother clutching at her throat, tears glistening in her eyes."
+      },
+      {
+        "start": 104.5,
+        "end": 106.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "And you?"
+      },
+      {
+        "start": 107.0,
+        "end": 110.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I was shot. Left for dead."
+      },
+      {
+        "start": 110.0,
+        "end": 113.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief."
+      },
+      {
+        "start": 111.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "How did you escape?"
+      },
+      {
+        "start": 113.5,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his eyes dark with the harrowing memory."
+      },
+      {
+        "start": 114.0,
+        "end": 118.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I crawled away from the battlefield, half dead, alone."
+      },
+      {
+        "start": 118.2,
+        "end": 122.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I survived because the men who came looking for me believed I was already dead."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother as her expression shifts to profound bewilderment and outrage."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then why did they never tell us?"
+      }
+    ],
+    "final_score": 7.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 328
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 110.0,
+        "end": 130.5,
+        "duration": 20.5,
+        "start_time_fmt": "01:50.00",
+        "end_time_fmt": "02:10.50"
+      }
+    ],
+    "total_duration": 20.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.6,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"How did you escape?\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"Who?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 110.0,
+        "end": 113.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief."
+      },
+      {
+        "start": 111.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "How did you escape?"
+      },
+      {
+        "start": 113.5,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his eyes dark with the harrowing memory."
+      },
+      {
+        "start": 114.0,
+        "end": 118.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I crawled away from the battlefield, half dead, alone."
+      },
+      {
+        "start": 118.2,
+        "end": 122.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I survived because the men who came looking for me believed I was already dead."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother as her expression shifts to profound bewilderment and outrage."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then why did they never tell us?"
+      },
+      {
+        "start": 125.5,
+        "end": 129.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's intense, piercing gaze."
+      },
+      {
+        "start": 126.0,
+        "end": 129.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because someone wanted you to believe I was dead."
+      },
+      {
+        "start": 129.5,
+        "end": 130.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      }
+    ],
+    "final_score": 7.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 329
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 5.5,
+        "end": 44.2,
+        "duration": 38.7,
+        "start_time_fmt": "00:05.50",
+        "end_time_fmt": "00:44.20"
+      }
+    ],
+    "total_duration": 38.7,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 7.53,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"I will not die in that house.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Mother?\", leaving the outcome hanging.",
+    "why_it_works": "At 39s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 5.5,
+        "end": 8.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I will not die in that house."
+      },
+      {
+        "start": 9.0,
+        "end": 12.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on her trembling, weathered hands gripping a mossy stone bolt set into a heavy iron plate on the stone wall."
+      },
+      {
+        "start": 9.5,
+        "end": 12.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism."
+      },
+      {
+        "start": 11.2,
+        "end": 13.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy stone grating and metallic latch clanging as the lock releases."
+      },
+      {
+        "start": 13.0,
+        "end": 15.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside."
+      },
+      {
+        "start": 15.5,
+        "end": 19.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide atmospheric shot of a deep, snow-covered pine forest at night. In the distance stands a small secluded log cabin nestled under towering snowy trees."
+      },
+      {
+        "start": 15.5,
+        "end": 19.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow."
+      },
+      {
+        "start": 16.0,
+        "end": 19.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Howling winter wind and crunching of footsteps in deep snow."
+      },
+      {
+        "start": 19.5,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold."
+      },
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "This must be the place."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open."
+      },
+      {
+        "start": 24.8,
+        "end": 27.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Creak of cold wooden hinges opening."
+      },
+      {
+        "start": 27.5,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light."
+      },
+      {
+        "start": 28.5,
+        "end": 30.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm."
+      },
+      {
+        "start": 30.8,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes."
+      },
+      {
+        "start": 36.5,
+        "end": 40.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks."
+      },
+      {
+        "start": 37.0,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander!"
+      },
+      {
+        "start": 40.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander as his hard expression crumbles into utter astonishment."
+      },
+      {
+        "start": 42.5,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother?"
+      }
+    ],
+    "final_score": 7.53,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 356
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 83.0,
+        "end": 106.0,
+        "duration": 23.0,
+        "start_time_fmt": "01:23.00",
+        "end_time_fmt": "01:46.00"
+      }
+    ],
+    "total_duration": 23.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.4,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"And you?\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 83.0,
+        "end": 87.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Alexander's weathered face looking down pensively as he recounts the mission."
+      },
+      {
+        "start": 83.0,
+        "end": 89.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies."
+      },
+      {
+        "start": 87.0,
+        "end": 89.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid."
+      },
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother, gasping with wide, horrified eyes."
+      },
+      {
+        "start": 89.8,
+        "end": 91.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "A traitor?"
+      },
+      {
+        "start": 92.0,
+        "end": 93.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Yes."
+      },
+      {
+        "start": 93.5,
+        "end": 97.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot framing both of them across the wooden table bathed in amber lantern glow."
+      },
+      {
+        "start": 94.5,
+        "end": 97.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "We were close to finding him."
+      },
+      {
+        "start": 98.5,
+        "end": 101.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Then came the ambush."
+      },
+      {
+        "start": 101.2,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles."
+      },
+      {
+        "start": 101.5,
+        "end": 104.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "My men were slaughtered."
+      },
+      {
+        "start": 104.2,
+        "end": 106.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of his mother clutching at her throat, tears glistening in her eyes."
+      },
+      {
+        "start": 104.5,
+        "end": 106.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "And you?"
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 416
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 21.0,
+        "end": 44.2,
+        "duration": 23.2,
+        "start_time_fmt": "00:21.00",
+        "end_time_fmt": "00:44.20"
+      }
+    ],
+    "total_duration": 23.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 7.17,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"This must be the place.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Mother?\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "This must be the place."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open."
+      },
+      {
+        "start": 24.8,
+        "end": 27.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Creak of cold wooden hinges opening."
+      },
+      {
+        "start": 27.5,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light."
+      },
+      {
+        "start": 28.5,
+        "end": 30.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm."
+      },
+      {
+        "start": 30.8,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes."
+      },
+      {
+        "start": 36.5,
+        "end": 40.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks."
+      },
+      {
+        "start": 37.0,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander!"
+      },
+      {
+        "start": 40.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander as his hard expression crumbles into utter astonishment."
+      },
+      {
+        "start": 42.5,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother?"
+      }
+    ],
+    "final_score": 7.17,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 543
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 131.0,
+        "end": 157.5,
+        "duration": 26.5,
+        "start_time_fmt": "02:11.00",
+        "end_time_fmt": "02:37.50"
+      }
+    ],
+    "total_duration": 26.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.17,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"I spent three years trying to find out.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 131.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I spent three years trying to find out."
+      },
+      {
+        "start": 134.0,
+        "end": 136.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage."
+      },
+      {
+        "start": 134.0,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "The ambush was not an accident."
+      },
+      {
+        "start": 137.0,
+        "end": 144.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He leans heavily over the wooden table, looming close as his fury boils over."
+      },
+      {
+        "start": 137.0,
+        "end": 140.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Someone ordered my men to die."
+      },
+      {
+        "start": 141.0,
+        "end": 144.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Someone wanted me erased."
+      },
+      {
+        "start": 144.0,
+        "end": 145.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      },
+      {
+        "start": 145.0,
+        "end": 150.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill."
+      },
+      {
+        "start": 145.5,
+        "end": 150.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "The men behind it... are the same men ruling Ashwood now."
+      },
+      {
+        "start": 150.5,
+        "end": 157.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades."
+      }
+    ],
+    "final_score": 7.17,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 544
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 5.5,
+        "end": 27.5,
+        "duration": 22.0,
+        "start_time_fmt": "00:05.50",
+        "end_time_fmt": "00:27.50"
+      }
+    ],
+    "total_duration": 22.0,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 8.3,
+    "emotional_impact": 5.5,
+    "composite_score": 6.72,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"I will not die in that house.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 5.5,
+        "end": 8.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I will not die in that house."
+      },
+      {
+        "start": 9.0,
+        "end": 12.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on her trembling, weathered hands gripping a mossy stone bolt set into a heavy iron plate on the stone wall."
+      },
+      {
+        "start": 9.5,
+        "end": 12.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism."
+      },
+      {
+        "start": 11.2,
+        "end": 13.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy stone grating and metallic latch clanging as the lock releases."
+      },
+      {
+        "start": 13.0,
+        "end": 15.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside."
+      },
+      {
+        "start": 15.5,
+        "end": 19.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide atmospheric shot of a deep, snow-covered pine forest at night. In the distance stands a small secluded log cabin nestled under towering snowy trees."
+      },
+      {
+        "start": 15.5,
+        "end": 19.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow."
+      },
+      {
+        "start": 16.0,
+        "end": 19.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Howling winter wind and crunching of footsteps in deep snow."
+      },
+      {
+        "start": 19.5,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold."
+      },
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "This must be the place."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 748
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 110.0,
+        "end": 157.5,
+        "duration": 47.5,
+        "start_time_fmt": "01:50.00",
+        "end_time_fmt": "02:37.50"
+      }
+    ],
+    "total_duration": 47.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"How did you escape?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades.",
+    "why_it_works": "At 48s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 110.0,
+        "end": 113.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief."
+      },
+      {
+        "start": 111.0,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "How did you escape?"
+      },
+      {
+        "start": 113.5,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his eyes dark with the harrowing memory."
+      },
+      {
+        "start": 114.0,
+        "end": 118.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I crawled away from the battlefield, half dead, alone."
+      },
+      {
+        "start": 118.2,
+        "end": 122.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I survived because the men who came looking for me believed I was already dead."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother as her expression shifts to profound bewilderment and outrage."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then why did they never tell us?"
+      },
+      {
+        "start": 125.5,
+        "end": 129.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's intense, piercing gaze."
+      },
+      {
+        "start": 126.0,
+        "end": 129.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because someone wanted you to believe I was dead."
+      },
+      {
+        "start": 129.5,
+        "end": 130.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      },
+      {
+        "start": 130.5,
+        "end": 134.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside."
+      },
+      {
+        "start": 131.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I spent three years trying to find out."
+      },
+      {
+        "start": 134.0,
+        "end": 136.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage."
+      },
+      {
+        "start": 134.0,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "The ambush was not an accident."
+      },
+      {
+        "start": 137.0,
+        "end": 144.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He leans heavily over the wooden table, looming close as his fury boils over."
+      },
+      {
+        "start": 137.0,
+        "end": 140.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Someone ordered my men to die."
+      },
+      {
+        "start": 141.0,
+        "end": 144.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Someone wanted me erased."
+      },
+      {
+        "start": 144.0,
+        "end": 145.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      },
+      {
+        "start": 145.0,
+        "end": 150.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill."
+      },
+      {
+        "start": 145.5,
+        "end": 150.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "The men behind it... are the same men ruling Ashwood now."
+      },
+      {
+        "start": 150.5,
+        "end": 157.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 749
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 36.5,
+        "end": 58.0,
+        "duration": 21.5,
+        "start_time_fmt": "00:36.50",
+        "end_time_fmt": "00:58.00"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.55,
+    "hook": "ALEXANDER'S MOTHER shocks the viewer with an immediate confrontation: \"Alexander!\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"I know.\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 36.5,
+        "end": 40.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks."
+      },
+      {
+        "start": 37.0,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander!"
+      },
+      {
+        "start": 40.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander as his hard expression crumbles into utter astonishment."
+      },
+      {
+        "start": 42.5,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother?"
+      },
+      {
+        "start": 44.2,
+        "end": 47.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "You're alive."
+      },
+      {
+        "start": 48.0,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother."
+      },
+      {
+        "start": 50.0,
+        "end": 55.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief."
+      },
+      {
+        "start": 52.5,
+        "end": 55.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I buried you."
+      },
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I know."
+      }
+    ],
+    "final_score": 6.55,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 792
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 113.5,
+        "end": 140.5,
+        "duration": 27.0,
+        "start_time_fmt": "01:53.50",
+        "end_time_fmt": "02:20.50"
+      }
+    ],
+    "total_duration": 27.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.55,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"I crawled away from the battlefield, half dead, alone.\"",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Someone ordered my men to die.\", leaving the outcome hanging.",
+    "why_it_works": "At 27s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 113.5,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander, his eyes dark with the harrowing memory."
+      },
+      {
+        "start": 114.0,
+        "end": 118.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I crawled away from the battlefield, half dead, alone."
+      },
+      {
+        "start": 118.2,
+        "end": 122.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I survived because the men who came looking for me believed I was already dead."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother as her expression shifts to profound bewilderment and outrage."
+      },
+      {
+        "start": 122.0,
+        "end": 125.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then why did they never tell us?"
+      },
+      {
+        "start": 125.5,
+        "end": 129.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's intense, piercing gaze."
+      },
+      {
+        "start": 126.0,
+        "end": 129.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Because someone wanted you to believe I was dead."
+      },
+      {
+        "start": 129.5,
+        "end": 130.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Who?"
+      },
+      {
+        "start": 130.5,
+        "end": 134.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside."
+      },
+      {
+        "start": 131.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I spent three years trying to find out."
+      },
+      {
+        "start": 134.0,
+        "end": 136.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage."
+      },
+      {
+        "start": 134.0,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "The ambush was not an accident."
+      },
+      {
+        "start": 137.0,
+        "end": 144.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "He leans heavily over the wooden table, looming close as his fury boils over."
+      },
+      {
+        "start": 137.0,
+        "end": 140.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Someone ordered my men to die."
+      }
+    ],
+    "final_score": 6.55,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 793
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 56.5,
+        "end": 78.0,
+        "duration": 21.5,
+        "start_time_fmt": "00:56.50",
+        "end_time_fmt": "01:18.00"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 6.5,
+    "hook": "ALEXANDER shocks the viewer with an immediate confrontation: \"I know.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Side profile of Alexander as his eyes look into the distance, haunted by the past.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 56.5,
+        "end": 58.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "I know."
+      },
+      {
+        "start": 59.5,
+        "end": 66.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "They told me you died. They told me your entire regiment was destroyed."
+      },
+      {
+        "start": 66.5,
+        "end": 71.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories."
+      },
+      {
+        "start": 68.5,
+        "end": 70.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Most of them were."
+      },
+      {
+        "start": 71.5,
+        "end": 74.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Then how did you survive?"
+      },
+      {
+        "start": 74.2,
+        "end": 78.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile of Alexander as his eyes look into the distance, haunted by the past."
+      }
+    ],
+    "final_score": 6.5,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 805
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 15.5,
+        "end": 55.0,
+        "duration": 39.5,
+        "start_time_fmt": "00:15.50",
+        "end_time_fmt": "00:55.00"
+      }
+    ],
+    "total_duration": 39.5,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.45,
+    "hook": "Opens with immediate physical drama: Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow.",
+    "cliffhanger": "Cuts sharply on ALEXANDER'S MOTHER's unresolved words: \"I buried you.\", leaving the outcome hanging.",
+    "why_it_works": "At 40s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 15.5,
+        "end": 19.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide atmospheric shot of a deep, snow-covered pine forest at night. In the distance stands a small secluded log cabin nestled under towering snowy trees."
+      },
+      {
+        "start": 15.5,
+        "end": 19.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow."
+      },
+      {
+        "start": 16.0,
+        "end": 19.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Howling winter wind and crunching of footsteps in deep snow."
+      },
+      {
+        "start": 19.5,
+        "end": 24.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold."
+      },
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "This must be the place."
+      },
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open."
+      },
+      {
+        "start": 24.8,
+        "end": 27.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Creak of cold wooden hinges opening."
+      },
+      {
+        "start": 27.5,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light."
+      },
+      {
+        "start": 28.5,
+        "end": 30.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm."
+      },
+      {
+        "start": 30.8,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes."
+      },
+      {
+        "start": 36.5,
+        "end": 40.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks."
+      },
+      {
+        "start": 37.0,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander!"
+      },
+      {
+        "start": 40.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander as his hard expression crumbles into utter astonishment."
+      },
+      {
+        "start": 42.5,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother?"
+      },
+      {
+        "start": 44.2,
+        "end": 47.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "You're alive."
+      },
+      {
+        "start": 48.0,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother."
+      },
+      {
+        "start": 50.0,
+        "end": 55.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief."
+      },
+      {
+        "start": 52.5,
+        "end": 55.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "I buried you."
+      }
+    ],
+    "final_score": 6.45,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 809
+  },
+  {
+    "episode": 35,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 35,
+        "start": 27.5,
+        "end": 49.8,
+        "duration": 22.3,
+        "start_time_fmt": "00:27.50",
+        "end_time_fmt": "00:49.80"
+      }
+    ],
+    "total_duration": 22.3,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 6.02,
+    "hook": "Opens with immediate physical drama: Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm.",
+    "cliffhanger": "Cuts sharply on ALEXANDER's unresolved words: \"Mother.\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 27.5,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light."
+      },
+      {
+        "start": 28.5,
+        "end": 30.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm."
+      },
+      {
+        "start": 30.8,
+        "end": 33.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes."
+      },
+      {
+        "start": 36.5,
+        "end": 40.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks."
+      },
+      {
+        "start": 37.0,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "Alexander!"
+      },
+      {
+        "start": 40.5,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Alexander as his hard expression crumbles into utter astonishment."
+      },
+      {
+        "start": 42.5,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother?"
+      },
+      {
+        "start": 44.2,
+        "end": 47.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER'S MOTHER",
+        "content": "You're alive."
+      },
+      {
+        "start": 48.0,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Mother."
+      }
+    ],
+    "final_score": 6.02,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 878
+  }
+]

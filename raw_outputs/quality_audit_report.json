@@ -1,0 +1,4848 @@
+{
+  "total_promos_audited": 878,
+  "camera_heavy_count": 453,
+  "lore_heavy_count": 96,
+  "soft_resolution_count": 215,
+  "monologue_count": 29,
+  "flawless_high_quality_count": 14,
+  "failure_breakdown": {
+    "camera_heavy_openings": [
+      {
+        "rank": 1,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 3,
+        "episode": 7,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 5,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 6,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 7,
+        "episode": 9,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 14,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 16,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 17,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 18,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 21,
+        "episode": 12,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 22,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 24,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 25,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 26,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 29,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 30,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 34,
+        "episode": 42,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 37,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 39,
+        "episode": 15,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 42,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 43,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 44,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 45,
+        "episode": 16,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 46,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 48,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 50,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 51,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 54,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 61,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 64,
+        "episode": 41,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 66,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 69,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 73,
+        "episode": 42,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 75,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 76,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 81,
+        "episode": 42,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 88,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 91,
+        "episode": 43,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 92,
+        "episode": 3,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 98,
+        "episode": 38,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 101,
+        "episode": 43,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 104,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 109,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 110,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 111,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 112,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 116,
+        "episode": 15,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 120,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 122,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 123,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 124,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 126,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 127,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 128,
+        "episode": 15,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 130,
+        "episode": 7,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 131,
+        "episode": 7,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 135,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 136,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 137,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 138,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 141,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 142,
+        "episode": 42,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 9.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 143,
+        "episode": 12,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 145,
+        "episode": 42,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 146,
+        "episode": 43,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 149,
+        "episode": 39,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 150,
+        "episode": 43,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 151,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 152,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 156,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 160,
+        "episode": 43,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 162,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 164,
+        "episode": 35,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 165,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 166,
+        "episode": 44,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 167,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 171,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 173,
+        "episode": 15,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 174,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 178,
+        "episode": 11,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 180,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 181,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 185,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 186,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 187,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 189,
+        "episode": 45,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 191,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 194,
+        "episode": 22,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 195,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 199,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 205,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 206,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 207,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 211,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 214,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 215,
+        "episode": 40,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 218,
+        "episode": 7,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 221,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 223,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 224,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 229,
+        "episode": 4,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 232,
+        "episode": 16,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 233,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 235,
+        "episode": 44,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 236,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 237,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 238,
+        "episode": 13,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 239,
+        "episode": 13,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 240,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 242,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 243,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 244,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 245,
+        "episode": 43,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 253,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 254,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 255,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 257,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 258,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 259,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 261,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 265,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 270,
+        "episode": 18,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 271,
+        "episode": 19,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 274,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 275,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 276,
+        "episode": 40,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 277,
+        "episode": 50,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 278,
+        "episode": 38,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 279,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 281,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 283,
+        "episode": 39,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 285,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 286,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 287,
+        "episode": 32,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 288,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 289,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 290,
+        "episode": 12,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 292,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 294,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 297,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 299,
+        "episode": 18,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 300,
+        "episode": 22,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 302,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 314,
+        "episode": 8,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 317,
+        "episode": 40,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 318,
+        "episode": 50,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 325,
+        "episode": 24,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 326,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 328,
+        "episode": 35,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 329,
+        "episode": 35,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 331,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 332,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 333,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 334,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 339,
+        "episode": 11,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 343,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 344,
+        "episode": 16,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 346,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 347,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 348,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 350,
+        "episode": 41,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 351,
+        "episode": 44,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 352,
+        "episode": 6,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 353,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 354,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 357,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 358,
+        "episode": 15,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 362,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 363,
+        "episode": 50,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 365,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 366,
+        "episode": 4,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 373,
+        "episode": 45,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 374,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 376,
+        "episode": 2,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 377,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 378,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 379,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 380,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 381,
+        "episode": 32,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 383,
+        "episode": 41,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 385,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 388,
+        "episode": 24,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 389,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 393,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 395,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 397,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 398,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 399,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 405,
+        "episode": 22,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 406,
+        "episode": 22,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 407,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 409,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 410,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 8.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 411,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 414,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 415,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 416,
+        "episode": 35,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 419,
+        "episode": 39,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 423,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 426,
+        "episode": 4,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 427,
+        "episode": 7,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 434,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 436,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 438,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 439,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 440,
+        "episode": 38,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 441,
+        "episode": 39,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 442,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 444,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 445,
+        "episode": 45,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 8.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 446,
+        "episode": 3,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 447,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 448,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 452,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 453,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 458,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 459,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 460,
+        "episode": 42,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 465,
+        "episode": 21,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 467,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 471,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 472,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 473,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 474,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 475,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 477,
+        "episode": 45,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 481,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 484,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 485,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 486,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 8.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 487,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 8.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 488,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 9.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 489,
+        "episode": 50,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 491,
+        "episode": 6,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 492,
+        "episode": 8,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 493,
+        "episode": 8,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 495,
+        "episode": 9,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 496,
+        "episode": 19,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 497,
+        "episode": 22,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 498,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 499,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 500,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 501,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 502,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 504,
+        "episode": 38,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 505,
+        "episode": 40,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 506,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 507,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 508,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 512,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 513,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 514,
+        "episode": 42,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 10.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 516,
+        "episode": 22,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 517,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 518,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 519,
+        "episode": 44,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 520,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 521,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 522,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 526,
+        "episode": 8,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 528,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 529,
+        "episode": 32,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 531,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 532,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 533,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 534,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 9.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 536,
+        "episode": 13,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 537,
+        "episode": 16,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 541,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 542,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 545,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 549,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 550,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 553,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 554,
+        "episode": 4,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 556,
+        "episode": 4,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 557,
+        "episode": 5,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 560,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 561,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 562,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 563,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 564,
+        "episode": 32,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 565,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 566,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 568,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 569,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 570,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 572,
+        "episode": 11,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 576,
+        "episode": 9,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 577,
+        "episode": 24,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 578,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 579,
+        "episode": 1,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 582,
+        "episode": 14,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 583,
+        "episode": 19,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 584,
+        "episode": 21,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 585,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 586,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 587,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 588,
+        "episode": 39,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 591,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 592,
+        "episode": 48,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 594,
+        "episode": 7,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 597,
+        "episode": 7,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 600,
+        "episode": 12,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 602,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 604,
+        "episode": 21,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 606,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 607,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 608,
+        "episode": 32,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 610,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 611,
+        "episode": 43,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 612,
+        "episode": 45,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 613,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 616,
+        "episode": 4,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 621,
+        "episode": 4,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 623,
+        "episode": 5,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 624,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 625,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 626,
+        "episode": 40,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 627,
+        "episode": 45,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 628,
+        "episode": 18,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 630,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 631,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 636,
+        "episode": 13,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 637,
+        "episode": 15,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 639,
+        "episode": 18,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 8.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 645,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 646,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 648,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 649,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 651,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 652,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 653,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 654,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 655,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 657,
+        "episode": 14,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 660,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 666,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 667,
+        "episode": 32,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 669,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 670,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 671,
+        "episode": 12,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 675,
+        "episode": 28,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 676,
+        "episode": 29,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.9s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 678,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 679,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 680,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 681,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 682,
+        "episode": 38,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 687,
+        "episode": 14,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 689,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 8.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 690,
+        "episode": 39,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 692,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 693,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 694,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 695,
+        "episode": 5,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 700,
+        "episode": 4,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 704,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 705,
+        "episode": 50,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 706,
+        "episode": 50,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 707,
+        "episode": 10,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 708,
+        "episode": 10,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 711,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 8.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 712,
+        "episode": 33,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 719,
+        "episode": 7,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 720,
+        "episode": 10,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 721,
+        "episode": 12,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 723,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 727,
+        "episode": 6,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 731,
+        "episode": 8,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 736,
+        "episode": 19,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 738,
+        "episode": 19,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.4s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 739,
+        "episode": 19,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 743,
+        "episode": 22,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 745,
+        "episode": 27,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 749,
+        "episode": 35,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 750,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 756,
+        "episode": 48,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 757,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 758,
+        "episode": 50,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 759,
+        "episode": 50,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 760,
+        "episode": 6,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 761,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 764,
+        "episode": 5,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 769,
+        "episode": 40,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 771,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 774,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 775,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 776,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 780,
+        "episode": 37,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 781,
+        "episode": 46,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 782,
+        "episode": 48,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 783,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 784,
+        "episode": 22,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.1s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 786,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 787,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 788,
+        "episode": 45,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 790,
+        "episode": 6,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 791,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 792,
+        "episode": 35,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 793,
+        "episode": 35,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 794,
+        "episode": 36,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 796,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 6.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 797,
+        "episode": 13,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 798,
+        "episode": 17,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 799,
+        "episode": 17,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 800,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 802,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 803,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 804,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 806,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 809,
+        "episode": 35,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 810,
+        "episode": 39,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 811,
+        "episode": 38,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 814,
+        "episode": 10,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 817,
+        "episode": 14,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 819,
+        "episode": 17,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 820,
+        "episode": 17,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 821,
+        "episode": 17,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 822,
+        "episode": 17,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 827,
+        "episode": 17,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 829,
+        "episode": 18,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 830,
+        "episode": 19,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 832,
+        "episode": 21,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 833,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.7s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 834,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 835,
+        "episode": 25,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 837,
+        "episode": 32,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 839,
+        "episode": 34,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 841,
+        "episode": 47,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 842,
+        "episode": 31,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 843,
+        "episode": 18,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 844,
+        "episode": 14,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 2.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 847,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 848,
+        "episode": 23,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 849,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 850,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 852,
+        "episode": 41,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 853,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 854,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.6s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 855,
+        "episode": 41,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 857,
+        "episode": 49,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 858,
+        "episode": 20,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 7.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 861,
+        "episode": 30,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.2s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 862,
+        "episode": 10,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 864,
+        "episode": 15,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 865,
+        "episode": 18,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 4.5s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 868,
+        "episode": 22,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 869,
+        "episode": 32,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 870,
+        "episode": 26,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 5.8s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 871,
+        "episode": 17,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.0s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 874,
+        "episode": 39,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      },
+      {
+        "rank": 878,
+        "episode": 35,
+        "issue": "Slow visual grab",
+        "details": "Opens on a 3.3s silent camera shot before first line, risking 1.5s scroll-drop on TikTok."
+      }
+    ],
+    "lore_heavy_context": [
+      {
+        "rank": 28,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 73,
+        "episode": 42,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 81,
+        "episode": 42,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 83,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 84,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 85,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 86,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 87,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 140,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 145,
+        "episode": 42,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 164,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 165,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 166,
+        "episode": 44,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 168,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 187,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 189,
+        "episode": 45,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 200,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 241,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 242,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 257,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 274,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 277,
+        "episode": 50,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 281,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 301,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 313,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 318,
+        "episode": 50,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 327,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 328,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 329,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 346,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 347,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 348,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 351,
+        "episode": 44,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 356,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 363,
+        "episode": 50,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 379,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 382,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 393,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 409,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 416,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 420,
+        "episode": 48,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 457,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 458,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 489,
+        "episode": 50,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 500,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 501,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 503,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 506,
+        "episode": 49,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 507,
+        "episode": 49,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 519,
+        "episode": 44,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 530,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 532,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 542,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 543,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 544,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 549,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 550,
+        "episode": 49,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 585,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 586,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 609,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 620,
+        "episode": 50,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 652,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 653,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 658,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 668,
+        "episode": 49,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 678,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 679,
+        "episode": 33,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 689,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 694,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 704,
+        "episode": 34,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 705,
+        "episode": 50,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 706,
+        "episode": 50,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 710,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 711,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 724,
+        "episode": 43,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 726,
+        "episode": 48,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 748,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 749,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 756,
+        "episode": 48,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 757,
+        "episode": 49,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 758,
+        "episode": 50,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 759,
+        "episode": 50,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 761,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 771,
+        "episode": 49,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 772,
+        "episode": 49,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 782,
+        "episode": 48,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 792,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 793,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 794,
+        "episode": 36,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 803,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 804,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 805,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 809,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 853,
+        "episode": 49,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 861,
+        "episode": 30,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      },
+      {
+        "rank": 878,
+        "episode": 35,
+        "issue": "Lore dependency",
+        "details": "Dialogue references secondary plotlines without mentioning core protagonist/antagonist dynamics; cold viewers may lack context."
+      }
+    ],
+    "soft_resolution_cliffhangers": [
+      {
+        "rank": 5,
+        "episode": 28,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 8,
+        "episode": 28,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 16,
+        "episode": 2,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 18,
+        "episode": 28,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 20,
+        "episode": 32,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 29,
+        "episode": 1,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 30,
+        "episode": 2,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 35,
+        "episode": 43,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 41,
+        "episode": 45,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 56,
+        "episode": 21,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 67,
+        "episode": 45,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 73,
+        "episode": 42,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 77,
+        "episode": 1,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 78,
+        "episode": 5,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 81,
+        "episode": 42,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 90,
+        "episode": 28,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 101,
+        "episode": 43,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 103,
+        "episode": 32,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 129,
+        "episode": 36,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 143,
+        "episode": 12,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 146,
+        "episode": 43,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 149,
+        "episode": 39,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 150,
+        "episode": 43,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 151,
+        "episode": 46,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 152,
+        "episode": 28,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 154,
+        "episode": 38,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 155,
+        "episode": 41,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 156,
+        "episode": 46,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 157,
+        "episode": 11,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 159,
+        "episode": 18,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 170,
+        "episode": 1,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 171,
+        "episode": 2,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 172,
+        "episode": 12,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 173,
+        "episode": 15,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 174,
+        "episode": 28,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 175,
+        "episode": 38,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 192,
+        "episode": 2,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 201,
+        "episode": 11,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 202,
+        "episode": 3,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 205,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 220,
+        "episode": 32,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 226,
+        "episode": 4,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 230,
+        "episode": 1,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 231,
+        "episode": 5,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 233,
+        "episode": 20,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 234,
+        "episode": 20,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 236,
+        "episode": 46,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 260,
+        "episode": 4,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 265,
+        "episode": 36,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 267,
+        "episode": 7,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 269,
+        "episode": 15,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 278,
+        "episode": 38,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 289,
+        "episode": 2,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 290,
+        "episode": 12,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 291,
+        "episode": 13,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 292,
+        "episode": 31,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 293,
+        "episode": 32,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 294,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 295,
+        "episode": 39,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 296,
+        "episode": 41,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 297,
+        "episode": 46,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 298,
+        "episode": 46,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 299,
+        "episode": 18,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 300,
+        "episode": 22,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 301,
+        "episode": 33,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 302,
+        "episode": 36,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 303,
+        "episode": 43,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 304,
+        "episode": 48,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 305,
+        "episode": 48,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 316,
+        "episode": 40,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 319,
+        "episode": 3,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 320,
+        "episode": 5,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 346,
+        "episode": 30,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 349,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 352,
+        "episode": 6,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 355,
+        "episode": 34,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 365,
+        "episode": 2,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 368,
+        "episode": 11,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 369,
+        "episode": 12,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 370,
+        "episode": 32,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 371,
+        "episode": 43,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 372,
+        "episode": 43,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 373,
+        "episode": 45,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 377,
+        "episode": 27,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 378,
+        "episode": 33,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 379,
+        "episode": 33,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 392,
+        "episode": 7,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 395,
+        "episode": 20,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 396,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 397,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 398,
+        "episode": 46,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 399,
+        "episode": 47,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 418,
+        "episode": 38,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 425,
+        "episode": 38,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 428,
+        "episode": 9,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 429,
+        "episode": 12,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 430,
+        "episode": 18,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 431,
+        "episode": 19,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 432,
+        "episode": 20,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 433,
+        "episode": 20,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 434,
+        "episode": 23,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 435,
+        "episode": 25,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 436,
+        "episode": 29,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 437,
+        "episode": 31,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 438,
+        "episode": 31,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 439,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 441,
+        "episode": 39,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 442,
+        "episode": 47,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 443,
+        "episode": 48,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 444,
+        "episode": 49,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 445,
+        "episode": 45,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 447,
+        "episode": 33,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 448,
+        "episode": 34,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 463,
+        "episode": 1,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 476,
+        "episode": 18,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 477,
+        "episode": 45,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 482,
+        "episode": 27,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 483,
+        "episode": 32,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 484,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 485,
+        "episode": 46,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 486,
+        "episode": 49,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 487,
+        "episode": 49,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 488,
+        "episode": 49,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 489,
+        "episode": 50,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 501,
+        "episode": 36,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 508,
+        "episode": 34,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 515,
+        "episode": 11,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 516,
+        "episode": 22,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 517,
+        "episode": 31,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 518,
+        "episode": 34,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 520,
+        "episode": 47,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 526,
+        "episode": 8,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 527,
+        "episode": 22,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 528,
+        "episode": 27,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 529,
+        "episode": 32,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 530,
+        "episode": 33,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 531,
+        "episode": 36,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 532,
+        "episode": 36,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 534,
+        "episode": 49,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 535,
+        "episode": 49,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 551,
+        "episode": 5,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 560,
+        "episode": 28,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 562,
+        "episode": 30,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 563,
+        "episode": 25,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 564,
+        "episode": 32,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 565,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 580,
+        "episode": 9,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 581,
+        "episode": 13,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 583,
+        "episode": 19,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 584,
+        "episode": 21,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 585,
+        "episode": 36,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 587,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 588,
+        "episode": 39,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 589,
+        "episode": 41,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 590,
+        "episode": 44,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 591,
+        "episode": 46,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 592,
+        "episode": 48,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 595,
+        "episode": 29,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 596,
+        "episode": 42,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 614,
+        "episode": 4,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 615,
+        "episode": 4,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 616,
+        "episode": 4,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 618,
+        "episode": 20,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 619,
+        "episode": 40,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 621,
+        "episode": 4,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 626,
+        "episode": 40,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 628,
+        "episode": 18,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 629,
+        "episode": 34,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 630,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 635,
+        "episode": 13,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 655,
+        "episode": 37,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 659,
+        "episode": 38,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 662,
+        "episode": 19,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 663,
+        "episode": 19,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 664,
+        "episode": 19,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 665,
+        "episode": 19,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 666,
+        "episode": 26,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 667,
+        "episode": 32,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 668,
+        "episode": 49,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 669,
+        "episode": 49,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 682,
+        "episode": 38,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 696,
+        "episode": 21,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 702,
+        "episode": 26,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 710,
+        "episode": 30,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 720,
+        "episode": 10,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 721,
+        "episode": 12,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 722,
+        "episode": 16,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 724,
+        "episode": 43,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 726,
+        "episode": 48,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 761,
+        "episode": 36,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 762,
+        "episode": 40,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 764,
+        "episode": 5,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 772,
+        "episode": 49,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 773,
+        "episode": 8,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 776,
+        "episode": 26,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 777,
+        "episode": 27,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 778,
+        "episode": 30,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 779,
+        "episode": 33,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 790,
+        "episode": 6,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 791,
+        "episode": 20,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 792,
+        "episode": 35,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 794,
+        "episode": 36,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 796,
+        "episode": 26,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 809,
+        "episode": 35,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 810,
+        "episode": 39,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 842,
+        "episode": 31,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 843,
+        "episode": 18,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 854,
+        "episode": 20,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 859,
+        "episode": 22,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 861,
+        "episode": 30,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 870,
+        "episode": 26,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 873,
+        "episode": 28,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 874,
+        "episode": 39,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 877,
+        "episode": 6,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      },
+      {
+        "rank": 878,
+        "episode": 35,
+        "issue": "Soft cutoff",
+        "details": "Ending dialogue is grammatically complete rather than open-ended, reducing compulsive click urgency."
+      }
+    ],
+    "monologue_heavy": [
+      {
+        "rank": 80,
+        "episode": 38,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 154,
+        "episode": 38,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 169,
+        "episode": 2,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 175,
+        "episode": 38,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 263,
+        "episode": 29,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 265,
+        "episode": 36,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 278,
+        "episode": 38,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 288,
+        "episode": 2,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 418,
+        "episode": 38,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 425,
+        "episode": 38,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 445,
+        "episode": 45,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 454,
+        "episode": 31,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 504,
+        "episode": 38,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 561,
+        "episode": 29,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 628,
+        "episode": 18,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 631,
+        "episode": 37,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 659,
+        "episode": 38,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 660,
+        "episode": 46,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 676,
+        "episode": 29,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 681,
+        "episode": 37,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 692,
+        "episode": 46,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 693,
+        "episode": 46,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 787,
+        "episode": 25,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 788,
+        "episode": 45,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 811,
+        "episode": 38,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 855,
+        "episode": 41,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 862,
+        "episode": 10,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 868,
+        "episode": 22,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      },
+      {
+        "rank": 869,
+        "episode": 32,
+        "issue": "Monologue pacing",
+        "details": "Segment is predominantly a monologue; lacks dynamic ping-pong confrontation."
+      }
+    ],
+    "high_quality_approved": [
+      {
+        "rank": 2,
+        "episode": 15,
+        "score": 9.15
+      },
+      {
+        "rank": 4,
+        "episode": 45,
+        "score": 9.0
+      },
+      {
+        "rank": 9,
+        "episode": 3,
+        "score": 8.82
+      },
+      {
+        "rank": 10,
+        "episode": 5,
+        "score": 8.82
+      },
+      {
+        "rank": 11,
+        "episode": 32,
+        "score": 8.8
+      },
+      {
+        "rank": 12,
+        "episode": 28,
+        "score": 8.78
+      },
+      {
+        "rank": 13,
+        "episode": 3,
+        "score": 8.75
+      },
+      {
+        "rank": 15,
+        "episode": 29,
+        "score": 8.71
+      },
+      {
+        "rank": 19,
+        "episode": 28,
+        "score": 8.63
+      },
+      {
+        "rank": 23,
+        "episode": 28,
+        "score": 8.56
+      },
+      {
+        "rank": 27,
+        "episode": 12,
+        "score": 8.55
+      },
+      {
+        "rank": 31,
+        "episode": 24,
+        "score": 8.52
+      },
+      {
+        "rank": 32,
+        "episode": 24,
+        "score": 8.52
+      },
+      {
+        "rank": 33,
+        "episode": 32,
+        "score": 8.52
+      }
+    ]
+  }
+}

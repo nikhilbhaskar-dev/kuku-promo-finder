@@ -1,0 +1,4333 @@
+[
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 56.8,
+        "end": 111.5,
+        "duration": 54.7,
+        "start_time_fmt": "00:56.80",
+        "end_time_fmt": "01:51.50"
+      }
+    ],
+    "total_duration": 54.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.2,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"No!\"",
+    "cliffhanger": "Cuts sharply on LORD's unresolved words: \"Praying... or chanting?\", leaving the outcome hanging.",
+    "why_it_works": "At 55s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 56.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "start": 57.4,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No!"
+      },
+      {
+        "start": 59.0,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Lord looms inches from the maid's face."
+      },
+      {
+        "start": 59.0,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Think carefully."
+      },
+      {
+        "start": 61.2,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Your brother is still a pauper."
+      },
+      {
+        "start": 64.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+      },
+      {
+        "start": 64.4,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "One word from me, and the county gaol will take him before sunrise."
+      },
+      {
+        "start": 68.5,
+        "end": 70.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid gasps in sheer terror, her chest heaving as tears stream."
+      },
+      {
+        "start": 68.8,
+        "end": 73.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her chest with trembling hands, crying desperately."
+      },
+      {
+        "start": 69.5,
+        "end": 73.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Please, my Lord... he is only seven!"
+      },
+      {
+        "start": 73.2,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord staring down without an ounce of pity."
+      },
+      {
+        "start": 73.2,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Then help him."
+      },
+      {
+        "start": 75.5,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid weeping profusely, cornered and helpless."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "What do you want me to say?!"
+      },
+      {
+        "start": 79.5,
+        "end": 84.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the study as the Lord stands calmly before the trembling servant."
+      },
+      {
+        "start": 79.6,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "The truth."
+      },
+      {
+        "start": 81.0,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "She drew something around the bed, did she not?"
+      },
+      {
+        "start": 84.8,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid stammering through her tears."
+      },
+      {
+        "start": 85.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... placed dried herbs around him."
+      },
+      {
+        "start": 89.0,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+      },
+      {
+        "start": 89.0,
+        "end": 90.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Around him."
+      },
+      {
+        "start": 91.0,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Like a circle?"
+      },
+      {
+        "start": 93.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 94.8,
+        "end": 98.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And she opened her mother's book..."
+      },
+      {
+        "start": 98.5,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the maid's tear-drenched eyes and quivering lips."
+      },
+      {
+        "start": 98.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 100.8,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the final trap."
+      },
+      {
+        "start": 101.0,
+        "end": 104.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "...and spoke words you could not understand."
+      },
+      {
+        "start": 104.2,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "start": 104.5,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She was praying!"
+      },
+      {
+        "start": 107.5,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord grinning with sinister triumph."
+      },
+      {
+        "start": 108.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Praying... or chanting?"
+      }
+    ],
+    "final_score": 8.2,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 83
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 29.2,
+        "end": 58.8,
+        "duration": 29.6,
+        "start_time_fmt": "00:29.20",
+        "end_time_fmt": "00:58.80"
+      }
+    ],
+    "total_duration": 29.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.92,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"I watched her save him.\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"No!\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 29.2,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+      },
+      {
+        "start": 29.8,
+        "end": 32.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I watched her save him."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window."
+      },
+      {
+        "start": 34.0,
+        "end": 36.2,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is not what I asked."
+      },
+      {
+        "start": 36.5,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness."
+      },
+      {
+        "start": 37.5,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she use her mother's book?"
+      },
+      {
+        "start": 40.2,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid trembling, tears spilling down her face."
+      },
+      {
+        "start": 42.2,
+        "end": 43.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 44.2,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's sinister, unyielding face."
+      },
+      {
+        "start": 44.8,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she prepare things no physician had prescribed?"
+      },
+      {
+        "start": 49.2,
+        "end": 52.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt."
+      },
+      {
+        "start": 50.0,
+        "end": 51.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 52.5,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's mouth curling into a sinister, predatory smile."
+      },
+      {
+        "start": 53.0,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And did she perform anything unusual?"
+      },
+      {
+        "start": 56.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "start": 57.4,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No!"
+      }
+    ],
+    "final_score": 7.92,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 185
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 29.2,
+        "end": 79.0,
+        "duration": 49.8,
+        "start_time_fmt": "00:29.20",
+        "end_time_fmt": "01:19.00"
+      }
+    ],
+    "total_duration": 49.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.92,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"I watched her save him.\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"What do you want me to say?!\", leaving the outcome hanging.",
+    "why_it_works": "At 50s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 29.2,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+      },
+      {
+        "start": 29.8,
+        "end": 32.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I watched her save him."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window."
+      },
+      {
+        "start": 34.0,
+        "end": 36.2,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is not what I asked."
+      },
+      {
+        "start": 36.5,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness."
+      },
+      {
+        "start": 37.5,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she use her mother's book?"
+      },
+      {
+        "start": 40.2,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid trembling, tears spilling down her face."
+      },
+      {
+        "start": 42.2,
+        "end": 43.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 44.2,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's sinister, unyielding face."
+      },
+      {
+        "start": 44.8,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she prepare things no physician had prescribed?"
+      },
+      {
+        "start": 49.2,
+        "end": 52.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt."
+      },
+      {
+        "start": 50.0,
+        "end": 51.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 52.5,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's mouth curling into a sinister, predatory smile."
+      },
+      {
+        "start": 53.0,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And did she perform anything unusual?"
+      },
+      {
+        "start": 56.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "start": 57.4,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No!"
+      },
+      {
+        "start": 59.0,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Lord looms inches from the maid's face."
+      },
+      {
+        "start": 59.0,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Think carefully."
+      },
+      {
+        "start": 61.2,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Your brother is still a pauper."
+      },
+      {
+        "start": 64.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+      },
+      {
+        "start": 64.4,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "One word from me, and the county gaol will take him before sunrise."
+      },
+      {
+        "start": 68.5,
+        "end": 70.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid gasps in sheer terror, her chest heaving as tears stream."
+      },
+      {
+        "start": 68.8,
+        "end": 73.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her chest with trembling hands, crying desperately."
+      },
+      {
+        "start": 69.5,
+        "end": 73.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Please, my Lord... he is only seven!"
+      },
+      {
+        "start": 73.2,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord staring down without an ounce of pity."
+      },
+      {
+        "start": 73.2,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Then help him."
+      },
+      {
+        "start": 75.5,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid weeping profusely, cornered and helpless."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "What do you want me to say?!"
+      }
+    ],
+    "final_score": 7.92,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 186
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 2.5,
+        "end": 40.0,
+        "duration": 37.5,
+        "start_time_fmt": "00:02.50",
+        "end_time_fmt": "00:40.00"
+      }
+    ],
+    "total_duration": 37.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.85,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"Your brother is breathing again.\"",
+    "cliffhanger": "Cuts sharply on LORD's unresolved words: \"Did she use her mother's book?\", leaving the outcome hanging.",
+    "why_it_works": "At 38s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 2.5,
+        "end": 4.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Your brother is breathing again."
+      },
+      {
+        "start": 4.0,
+        "end": 6.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The young maid steps inside, bowing with a submissive curtsy, keeping her head low and hands clasped."
+      },
+      {
+        "start": 5.2,
+        "end": 8.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the maid trembling as she raises her eyes hesitantly."
+      },
+      {
+        "start": 6.5,
+        "end": 8.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes, my Lord."
+      },
+      {
+        "start": 8.8,
+        "end": 12.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny."
+      },
+      {
+        "start": 9.5,
+        "end": 11.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And who saved him?"
+      },
+      {
+        "start": 12.0,
+        "end": 14.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's anxious, innocent face."
+      },
+      {
+        "start": 13.0,
+        "end": 14.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Lady Juliana."
+      },
+      {
+        "start": 14.8,
+        "end": 17.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Tell me how."
+      },
+      {
+        "start": 17.8,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the maid nervously wringing her apron fabric."
+      },
+      {
+        "start": 19.5,
+        "end": 21.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... she used herbs."
+      },
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down."
+      },
+      {
+        "start": 21.2,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "What herbs?"
+      },
+      {
+        "start": 23.0,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the frightened maid looking down, shrinking back."
+      },
+      {
+        "start": 24.5,
+        "end": 26.2,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know."
+      },
+      {
+        "start": 26.5,
+        "end": 29.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the imposing Lord towering above her."
+      },
+      {
+        "start": 27.5,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You watched her."
+      },
+      {
+        "start": 29.2,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+      },
+      {
+        "start": 29.8,
+        "end": 32.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I watched her save him."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window."
+      },
+      {
+        "start": 34.0,
+        "end": 36.2,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is not what I asked."
+      },
+      {
+        "start": 36.5,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness."
+      },
+      {
+        "start": 37.5,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she use her mother's book?"
+      }
+    ],
+    "final_score": 7.85,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 213
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 73.2,
+        "end": 131.5,
+        "duration": 58.3,
+        "start_time_fmt": "01:13.20",
+        "end_time_fmt": "02:11.50"
+      }
+    ],
+    "total_duration": 58.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.77,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"Then help him.\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"No! She saved Toby! She made him breathe again!\", leaving the outcome hanging.",
+    "why_it_works": "At 58s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 73.2,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord staring down without an ounce of pity."
+      },
+      {
+        "start": 73.2,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Then help him."
+      },
+      {
+        "start": 75.5,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid weeping profusely, cornered and helpless."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "What do you want me to say?!"
+      },
+      {
+        "start": 79.5,
+        "end": 84.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the study as the Lord stands calmly before the trembling servant."
+      },
+      {
+        "start": 79.6,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "The truth."
+      },
+      {
+        "start": 81.0,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "She drew something around the bed, did she not?"
+      },
+      {
+        "start": 84.8,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid stammering through her tears."
+      },
+      {
+        "start": 85.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... placed dried herbs around him."
+      },
+      {
+        "start": 89.0,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+      },
+      {
+        "start": 89.0,
+        "end": 90.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Around him."
+      },
+      {
+        "start": 91.0,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Like a circle?"
+      },
+      {
+        "start": 93.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 94.8,
+        "end": 98.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And she opened her mother's book..."
+      },
+      {
+        "start": 98.5,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the maid's tear-drenched eyes and quivering lips."
+      },
+      {
+        "start": 98.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 100.8,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the final trap."
+      },
+      {
+        "start": 101.0,
+        "end": 104.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "...and spoke words you could not understand."
+      },
+      {
+        "start": 104.2,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "start": 104.5,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She was praying!"
+      },
+      {
+        "start": 107.5,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord grinning with sinister triumph."
+      },
+      {
+        "start": 108.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Praying... or chanting?"
+      },
+      {
+        "start": 111.8,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid breaking down completely."
+      },
+      {
+        "start": 112.0,
+        "end": 113.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know!"
+      },
+      {
+        "start": 113.8,
+        "end": 119.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision."
+      },
+      {
+        "start": 114.0,
+        "end": 116.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw a woman draw a circle of herbs."
+      },
+      {
+        "start": 116.8,
+        "end": 119.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw her use a forbidden book."
+      },
+      {
+        "start": 119.5,
+        "end": 123.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Lord leaning in right in front of the sobbing maid."
+      },
+      {
+        "start": 119.8,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You heard words you could not understand."
+      },
+      {
+        "start": 123.5,
+        "end": 126.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word."
+      },
+      {
+        "start": 124.5,
+        "end": 126.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is witchcraft."
+      },
+      {
+        "start": 126.8,
+        "end": 131.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as the maid steps forward, pleading passionately against his chest."
+      },
+      {
+        "start": 126.8,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No! She saved Toby! She made him breathe again!"
+      }
+    ],
+    "final_score": 7.77,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 241
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 104.2,
+        "end": 137.0,
+        "duration": 32.8,
+        "start_time_fmt": "01:44.20",
+        "end_time_fmt": "02:17.00"
+      }
+    ],
+    "total_duration": 32.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.77,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"She was praying!\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"My testimony?!\", leaving the outcome hanging.",
+    "why_it_works": "At 33s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 104.2,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "start": 104.5,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She was praying!"
+      },
+      {
+        "start": 107.5,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord grinning with sinister triumph."
+      },
+      {
+        "start": 108.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Praying... or chanting?"
+      },
+      {
+        "start": 111.8,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid breaking down completely."
+      },
+      {
+        "start": 112.0,
+        "end": 113.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know!"
+      },
+      {
+        "start": 113.8,
+        "end": 119.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision."
+      },
+      {
+        "start": 114.0,
+        "end": 116.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw a woman draw a circle of herbs."
+      },
+      {
+        "start": 116.8,
+        "end": 119.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw her use a forbidden book."
+      },
+      {
+        "start": 119.5,
+        "end": 123.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Lord leaning in right in front of the sobbing maid."
+      },
+      {
+        "start": 119.8,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You heard words you could not understand."
+      },
+      {
+        "start": 123.5,
+        "end": 126.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word."
+      },
+      {
+        "start": 124.5,
+        "end": 126.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is witchcraft."
+      },
+      {
+        "start": 126.8,
+        "end": 131.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as the maid steps forward, pleading passionately against his chest."
+      },
+      {
+        "start": 126.8,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No! She saved Toby! She made him breathe again!"
+      },
+      {
+        "start": 131.8,
+        "end": 134.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord calmly watching her futile resistance."
+      },
+      {
+        "start": 132.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That will be your testimony."
+      },
+      {
+        "start": 134.5,
+        "end": 137.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's face frozen in horrified realization."
+      },
+      {
+        "start": 134.5,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "My testimony?!"
+      }
+    ],
+    "final_score": 7.77,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 242
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 2.5,
+        "end": 22.8,
+        "duration": 20.3,
+        "start_time_fmt": "00:02.50",
+        "end_time_fmt": "00:22.80"
+      }
+    ],
+    "total_duration": 20.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.75,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"Your brother is breathing again.\"",
+    "cliffhanger": "Cuts sharply on LORD's unresolved words: \"What herbs?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 2.5,
+        "end": 4.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Your brother is breathing again."
+      },
+      {
+        "start": 4.0,
+        "end": 6.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The young maid steps inside, bowing with a submissive curtsy, keeping her head low and hands clasped."
+      },
+      {
+        "start": 5.2,
+        "end": 8.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the maid trembling as she raises her eyes hesitantly."
+      },
+      {
+        "start": 6.5,
+        "end": 8.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes, my Lord."
+      },
+      {
+        "start": 8.8,
+        "end": 12.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny."
+      },
+      {
+        "start": 9.5,
+        "end": 11.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And who saved him?"
+      },
+      {
+        "start": 12.0,
+        "end": 14.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's anxious, innocent face."
+      },
+      {
+        "start": 13.0,
+        "end": 14.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Lady Juliana."
+      },
+      {
+        "start": 14.8,
+        "end": 17.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Tell me how."
+      },
+      {
+        "start": 17.8,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the maid nervously wringing her apron fabric."
+      },
+      {
+        "start": 19.5,
+        "end": 21.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... she used herbs."
+      },
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down."
+      },
+      {
+        "start": 21.2,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "What herbs?"
+      }
+    ],
+    "final_score": 7.75,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 256
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 89.0,
+        "end": 111.5,
+        "duration": 22.5,
+        "start_time_fmt": "01:29.00",
+        "end_time_fmt": "01:51.50"
+      }
+    ],
+    "total_duration": 22.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.75,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"Around him.\"",
+    "cliffhanger": "Cuts sharply on LORD's unresolved words: \"Praying... or chanting?\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 89.0,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+      },
+      {
+        "start": 89.0,
+        "end": 90.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Around him."
+      },
+      {
+        "start": 91.0,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Like a circle?"
+      },
+      {
+        "start": 93.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 94.8,
+        "end": 98.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And she opened her mother's book..."
+      },
+      {
+        "start": 98.5,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the maid's tear-drenched eyes and quivering lips."
+      },
+      {
+        "start": 98.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 100.8,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the final trap."
+      },
+      {
+        "start": 101.0,
+        "end": 104.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "...and spoke words you could not understand."
+      },
+      {
+        "start": 104.2,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "start": 104.5,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She was praying!"
+      },
+      {
+        "start": 107.5,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord grinning with sinister triumph."
+      },
+      {
+        "start": 108.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Praying... or chanting?"
+      }
+    ],
+    "final_score": 7.75,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 257
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 68.5,
+        "end": 98.0,
+        "duration": 29.5,
+        "start_time_fmt": "01:08.50",
+        "end_time_fmt": "01:38.00"
+      }
+    ],
+    "total_duration": 29.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.63,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"Please, my Lord... he is only seven!\"",
+    "cliffhanger": "Cuts sharply on LORD's unresolved words: \"And she opened her mother's book...\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 68.5,
+        "end": 70.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid gasps in sheer terror, her chest heaving as tears stream."
+      },
+      {
+        "start": 68.8,
+        "end": 73.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her chest with trembling hands, crying desperately."
+      },
+      {
+        "start": 69.5,
+        "end": 73.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Please, my Lord... he is only seven!"
+      },
+      {
+        "start": 73.2,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord staring down without an ounce of pity."
+      },
+      {
+        "start": 73.2,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Then help him."
+      },
+      {
+        "start": 75.5,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid weeping profusely, cornered and helpless."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "What do you want me to say?!"
+      },
+      {
+        "start": 79.5,
+        "end": 84.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the study as the Lord stands calmly before the trembling servant."
+      },
+      {
+        "start": 79.6,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "The truth."
+      },
+      {
+        "start": 81.0,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "She drew something around the bed, did she not?"
+      },
+      {
+        "start": 84.8,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid stammering through her tears."
+      },
+      {
+        "start": 85.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... placed dried herbs around him."
+      },
+      {
+        "start": 89.0,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+      },
+      {
+        "start": 89.0,
+        "end": 90.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Around him."
+      },
+      {
+        "start": 91.0,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Like a circle?"
+      },
+      {
+        "start": 93.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 94.8,
+        "end": 98.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And she opened her mother's book..."
+      }
+    ],
+    "final_score": 7.63,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 301
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 56.8,
+        "end": 79.0,
+        "duration": 22.2,
+        "start_time_fmt": "00:56.80",
+        "end_time_fmt": "01:19.00"
+      }
+    ],
+    "total_duration": 22.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.62,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"No!\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"What do you want me to say?!\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 56.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "start": 57.4,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No!"
+      },
+      {
+        "start": 59.0,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Lord looms inches from the maid's face."
+      },
+      {
+        "start": 59.0,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Think carefully."
+      },
+      {
+        "start": 61.2,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Your brother is still a pauper."
+      },
+      {
+        "start": 64.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+      },
+      {
+        "start": 64.4,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "One word from me, and the county gaol will take him before sunrise."
+      },
+      {
+        "start": 68.5,
+        "end": 70.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid gasps in sheer terror, her chest heaving as tears stream."
+      },
+      {
+        "start": 68.8,
+        "end": 73.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her chest with trembling hands, crying desperately."
+      },
+      {
+        "start": 69.5,
+        "end": 73.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Please, my Lord... he is only seven!"
+      },
+      {
+        "start": 73.2,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord staring down without an ounce of pity."
+      },
+      {
+        "start": 73.2,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Then help him."
+      },
+      {
+        "start": 75.5,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid weeping profusely, cornered and helpless."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "What do you want me to say?!"
+      }
+    ],
+    "final_score": 7.62,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 313
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 104.2,
+        "end": 161.5,
+        "duration": 57.3,
+        "start_time_fmt": "01:44.20",
+        "end_time_fmt": "02:41.50"
+      }
+    ],
+    "total_duration": 57.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.48,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"She was praying!\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"I am sorry, Lady Juliana...\", leaving the outcome hanging.",
+    "why_it_works": "At 57s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 104.2,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "start": 104.5,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She was praying!"
+      },
+      {
+        "start": 107.5,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord grinning with sinister triumph."
+      },
+      {
+        "start": 108.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Praying... or chanting?"
+      },
+      {
+        "start": 111.8,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid breaking down completely."
+      },
+      {
+        "start": 112.0,
+        "end": 113.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know!"
+      },
+      {
+        "start": 113.8,
+        "end": 119.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision."
+      },
+      {
+        "start": 114.0,
+        "end": 116.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw a woman draw a circle of herbs."
+      },
+      {
+        "start": 116.8,
+        "end": 119.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw her use a forbidden book."
+      },
+      {
+        "start": 119.5,
+        "end": 123.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Lord leaning in right in front of the sobbing maid."
+      },
+      {
+        "start": 119.8,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You heard words you could not understand."
+      },
+      {
+        "start": 123.5,
+        "end": 126.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word."
+      },
+      {
+        "start": 124.5,
+        "end": 126.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is witchcraft."
+      },
+      {
+        "start": 126.8,
+        "end": 131.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as the maid steps forward, pleading passionately against his chest."
+      },
+      {
+        "start": 126.8,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No! She saved Toby! She made him breathe again!"
+      },
+      {
+        "start": 131.8,
+        "end": 134.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord calmly watching her futile resistance."
+      },
+      {
+        "start": 132.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That will be your testimony."
+      },
+      {
+        "start": 134.5,
+        "end": 137.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's face frozen in horrified realization."
+      },
+      {
+        "start": 134.5,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "My testimony?!"
+      },
+      {
+        "start": 137.8,
+        "end": 140.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the ultimatum without blinking."
+      },
+      {
+        "start": 138.0,
+        "end": 140.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Before the magistrate."
+      },
+      {
+        "start": 140.5,
+        "end": 144.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt."
+      },
+      {
+        "start": 140.5,
+        "end": 144.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I never said she was a witch!"
+      },
+      {
+        "start": 144.8,
+        "end": 149.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning his back and walking back behind his desk."
+      },
+      {
+        "start": 145.0,
+        "end": 146.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You do not need to."
+      },
+      {
+        "start": 146.8,
+        "end": 149.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "I have already written the story for you."
+      },
+      {
+        "start": 149.2,
+        "end": 152.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her cheeks, crying in heartbreak."
+      },
+      {
+        "start": 149.5,
+        "end": 152.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She saved my brother..."
+      },
+      {
+        "start": 152.2,
+        "end": 156.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord turning back, resting one hand upon the desk with cold finality."
+      },
+      {
+        "start": 152.5,
+        "end": 156.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And now... you will save your brother."
+      },
+      {
+        "start": 156.2,
+        "end": 159.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair."
+      },
+      {
+        "start": 156.2,
+        "end": 159.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High angle looking down as the maid falls prostrate on the floor."
+      },
+      {
+        "start": 159.0,
+        "end": 161.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I am sorry, Lady Juliana..."
+      }
+    ],
+    "final_score": 7.48,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 378
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 126.8,
+        "end": 152.0,
+        "duration": 25.2,
+        "start_time_fmt": "02:06.80",
+        "end_time_fmt": "02:32.00"
+      }
+    ],
+    "total_duration": 25.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.48,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"No! She saved Toby! She made him breathe again!\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"She saved my brother...\", leaving the outcome hanging.",
+    "why_it_works": "At 25s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 126.8,
+        "end": 131.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as the maid steps forward, pleading passionately against his chest."
+      },
+      {
+        "start": 126.8,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No! She saved Toby! She made him breathe again!"
+      },
+      {
+        "start": 131.8,
+        "end": 134.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord calmly watching her futile resistance."
+      },
+      {
+        "start": 132.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That will be your testimony."
+      },
+      {
+        "start": 134.5,
+        "end": 137.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's face frozen in horrified realization."
+      },
+      {
+        "start": 134.5,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "My testimony?!"
+      },
+      {
+        "start": 137.8,
+        "end": 140.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the ultimatum without blinking."
+      },
+      {
+        "start": 138.0,
+        "end": 140.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Before the magistrate."
+      },
+      {
+        "start": 140.5,
+        "end": 144.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt."
+      },
+      {
+        "start": 140.5,
+        "end": 144.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I never said she was a witch!"
+      },
+      {
+        "start": 144.8,
+        "end": 149.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning his back and walking back behind his desk."
+      },
+      {
+        "start": 145.0,
+        "end": 146.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You do not need to."
+      },
+      {
+        "start": 146.8,
+        "end": 149.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "I have already written the story for you."
+      },
+      {
+        "start": 149.2,
+        "end": 152.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her cheeks, crying in heartbreak."
+      },
+      {
+        "start": 149.5,
+        "end": 152.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She saved my brother..."
+      }
+    ],
+    "final_score": 7.48,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 379
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 19.5,
+        "end": 40.0,
+        "duration": 20.5,
+        "start_time_fmt": "00:19.50",
+        "end_time_fmt": "00:40.00"
+      }
+    ],
+    "total_duration": 20.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.4,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"She... she used herbs.\"",
+    "cliffhanger": "Cuts sharply on LORD's unresolved words: \"Did she use her mother's book?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 19.5,
+        "end": 21.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... she used herbs."
+      },
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down."
+      },
+      {
+        "start": 21.2,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "What herbs?"
+      },
+      {
+        "start": 23.0,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the frightened maid looking down, shrinking back."
+      },
+      {
+        "start": 24.5,
+        "end": 26.2,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know."
+      },
+      {
+        "start": 26.5,
+        "end": 29.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the imposing Lord towering above her."
+      },
+      {
+        "start": 27.5,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You watched her."
+      },
+      {
+        "start": 29.2,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+      },
+      {
+        "start": 29.8,
+        "end": 32.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I watched her save him."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window."
+      },
+      {
+        "start": 34.0,
+        "end": 36.2,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is not what I asked."
+      },
+      {
+        "start": 36.5,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness."
+      },
+      {
+        "start": 37.5,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she use her mother's book?"
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 412
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 24.5,
+        "end": 48.8,
+        "duration": 24.3,
+        "start_time_fmt": "00:24.50",
+        "end_time_fmt": "00:48.80"
+      }
+    ],
+    "total_duration": 24.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.4,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"I don't know.\"",
+    "cliffhanger": "Cuts sharply on LORD's unresolved words: \"Did she prepare things no physician had prescribed?\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 24.5,
+        "end": 26.2,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know."
+      },
+      {
+        "start": 26.5,
+        "end": 29.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the imposing Lord towering above her."
+      },
+      {
+        "start": 27.5,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You watched her."
+      },
+      {
+        "start": 29.2,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+      },
+      {
+        "start": 29.8,
+        "end": 32.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I watched her save him."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window."
+      },
+      {
+        "start": 34.0,
+        "end": 36.2,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is not what I asked."
+      },
+      {
+        "start": 36.5,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness."
+      },
+      {
+        "start": 37.5,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she use her mother's book?"
+      },
+      {
+        "start": 40.2,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid trembling, tears spilling down her face."
+      },
+      {
+        "start": 42.2,
+        "end": 43.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 44.2,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's sinister, unyielding face."
+      },
+      {
+        "start": 44.8,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she prepare things no physician had prescribed?"
+      }
+    ],
+    "final_score": 7.4,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 413
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 131.8,
+        "end": 161.5,
+        "duration": 29.7,
+        "start_time_fmt": "02:11.80",
+        "end_time_fmt": "02:41.50"
+      }
+    ],
+    "total_duration": 29.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 7.33,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"That will be your testimony.\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"I am sorry, Lady Juliana...\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 131.8,
+        "end": 134.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord calmly watching her futile resistance."
+      },
+      {
+        "start": 132.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That will be your testimony."
+      },
+      {
+        "start": 134.5,
+        "end": 137.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's face frozen in horrified realization."
+      },
+      {
+        "start": 134.5,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "My testimony?!"
+      },
+      {
+        "start": 137.8,
+        "end": 140.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the ultimatum without blinking."
+      },
+      {
+        "start": 138.0,
+        "end": 140.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Before the magistrate."
+      },
+      {
+        "start": 140.5,
+        "end": 144.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt."
+      },
+      {
+        "start": 140.5,
+        "end": 144.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I never said she was a witch!"
+      },
+      {
+        "start": 144.8,
+        "end": 149.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning his back and walking back behind his desk."
+      },
+      {
+        "start": 145.0,
+        "end": 146.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You do not need to."
+      },
+      {
+        "start": 146.8,
+        "end": 149.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "I have already written the story for you."
+      },
+      {
+        "start": 149.2,
+        "end": 152.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her cheeks, crying in heartbreak."
+      },
+      {
+        "start": 149.5,
+        "end": 152.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She saved my brother..."
+      },
+      {
+        "start": 152.2,
+        "end": 156.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord turning back, resting one hand upon the desk with cold finality."
+      },
+      {
+        "start": 152.5,
+        "end": 156.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And now... you will save your brother."
+      },
+      {
+        "start": 156.2,
+        "end": 159.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair."
+      },
+      {
+        "start": 156.2,
+        "end": 159.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High angle looking down as the maid falls prostrate on the floor."
+      },
+      {
+        "start": 159.0,
+        "end": 161.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I am sorry, Lady Juliana..."
+      }
+    ],
+    "final_score": 7.33,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 447
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 6.5,
+        "end": 58.8,
+        "duration": 52.3,
+        "start_time_fmt": "00:06.50",
+        "end_time_fmt": "00:58.80"
+      }
+    ],
+    "total_duration": 52.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.32,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"Yes, my Lord.\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"No!\", leaving the outcome hanging.",
+    "why_it_works": "At 52s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 6.5,
+        "end": 8.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes, my Lord."
+      },
+      {
+        "start": 8.8,
+        "end": 12.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny."
+      },
+      {
+        "start": 9.5,
+        "end": 11.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And who saved him?"
+      },
+      {
+        "start": 12.0,
+        "end": 14.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's anxious, innocent face."
+      },
+      {
+        "start": 13.0,
+        "end": 14.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Lady Juliana."
+      },
+      {
+        "start": 14.8,
+        "end": 17.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Tell me how."
+      },
+      {
+        "start": 17.8,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the maid nervously wringing her apron fabric."
+      },
+      {
+        "start": 19.5,
+        "end": 21.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... she used herbs."
+      },
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down."
+      },
+      {
+        "start": 21.2,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "What herbs?"
+      },
+      {
+        "start": 23.0,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the frightened maid looking down, shrinking back."
+      },
+      {
+        "start": 24.5,
+        "end": 26.2,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know."
+      },
+      {
+        "start": 26.5,
+        "end": 29.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the imposing Lord towering above her."
+      },
+      {
+        "start": 27.5,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You watched her."
+      },
+      {
+        "start": 29.2,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+      },
+      {
+        "start": 29.8,
+        "end": 32.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I watched her save him."
+      },
+      {
+        "start": 32.8,
+        "end": 36.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window."
+      },
+      {
+        "start": 34.0,
+        "end": 36.2,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is not what I asked."
+      },
+      {
+        "start": 36.5,
+        "end": 40.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness."
+      },
+      {
+        "start": 37.5,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she use her mother's book?"
+      },
+      {
+        "start": 40.2,
+        "end": 44.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid trembling, tears spilling down her face."
+      },
+      {
+        "start": 42.2,
+        "end": 43.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 44.2,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's sinister, unyielding face."
+      },
+      {
+        "start": 44.8,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she prepare things no physician had prescribed?"
+      },
+      {
+        "start": 49.2,
+        "end": 52.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt."
+      },
+      {
+        "start": 50.0,
+        "end": 51.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 52.5,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's mouth curling into a sinister, predatory smile."
+      },
+      {
+        "start": 53.0,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And did she perform anything unusual?"
+      },
+      {
+        "start": 56.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "start": 57.4,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No!"
+      }
+    ],
+    "final_score": 7.32,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 456
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 76.8,
+        "end": 106.5,
+        "duration": 29.7,
+        "start_time_fmt": "01:16.80",
+        "end_time_fmt": "01:46.50"
+      }
+    ],
+    "total_duration": 29.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.32,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"What do you want me to say?!\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"She was praying!\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "What do you want me to say?!"
+      },
+      {
+        "start": 79.5,
+        "end": 84.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the study as the Lord stands calmly before the trembling servant."
+      },
+      {
+        "start": 79.6,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "The truth."
+      },
+      {
+        "start": 81.0,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "She drew something around the bed, did she not?"
+      },
+      {
+        "start": 84.8,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid stammering through her tears."
+      },
+      {
+        "start": 85.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... placed dried herbs around him."
+      },
+      {
+        "start": 89.0,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+      },
+      {
+        "start": 89.0,
+        "end": 90.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Around him."
+      },
+      {
+        "start": 91.0,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Like a circle?"
+      },
+      {
+        "start": 93.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 94.8,
+        "end": 98.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And she opened her mother's book..."
+      },
+      {
+        "start": 98.5,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the maid's tear-drenched eyes and quivering lips."
+      },
+      {
+        "start": 98.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 100.8,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the final trap."
+      },
+      {
+        "start": 101.0,
+        "end": 104.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "...and spoke words you could not understand."
+      },
+      {
+        "start": 104.2,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "start": 104.5,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She was praying!"
+      }
+    ],
+    "final_score": 7.32,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 457
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 42.2,
+        "end": 98.0,
+        "duration": 55.8,
+        "start_time_fmt": "00:42.20",
+        "end_time_fmt": "01:38.00"
+      }
+    ],
+    "total_duration": 55.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.18,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"Yes.\"",
+    "cliffhanger": "Cuts sharply on LORD's unresolved words: \"And she opened her mother's book...\", leaving the outcome hanging.",
+    "why_it_works": "At 56s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 42.2,
+        "end": 43.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 44.2,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's sinister, unyielding face."
+      },
+      {
+        "start": 44.8,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she prepare things no physician had prescribed?"
+      },
+      {
+        "start": 49.2,
+        "end": 52.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt."
+      },
+      {
+        "start": 50.0,
+        "end": 51.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 52.5,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's mouth curling into a sinister, predatory smile."
+      },
+      {
+        "start": 53.0,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And did she perform anything unusual?"
+      },
+      {
+        "start": 56.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "start": 57.4,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No!"
+      },
+      {
+        "start": 59.0,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Lord looms inches from the maid's face."
+      },
+      {
+        "start": 59.0,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Think carefully."
+      },
+      {
+        "start": 61.2,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Your brother is still a pauper."
+      },
+      {
+        "start": 64.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+      },
+      {
+        "start": 64.4,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "One word from me, and the county gaol will take him before sunrise."
+      },
+      {
+        "start": 68.5,
+        "end": 70.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid gasps in sheer terror, her chest heaving as tears stream."
+      },
+      {
+        "start": 68.8,
+        "end": 73.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her chest with trembling hands, crying desperately."
+      },
+      {
+        "start": 69.5,
+        "end": 73.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Please, my Lord... he is only seven!"
+      },
+      {
+        "start": 73.2,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord staring down without an ounce of pity."
+      },
+      {
+        "start": 73.2,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Then help him."
+      },
+      {
+        "start": 75.5,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid weeping profusely, cornered and helpless."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "What do you want me to say?!"
+      },
+      {
+        "start": 79.5,
+        "end": 84.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the study as the Lord stands calmly before the trembling servant."
+      },
+      {
+        "start": 79.6,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "The truth."
+      },
+      {
+        "start": 81.0,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "She drew something around the bed, did she not?"
+      },
+      {
+        "start": 84.8,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid stammering through her tears."
+      },
+      {
+        "start": 85.5,
+        "end": 88.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... placed dried herbs around him."
+      },
+      {
+        "start": 89.0,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+      },
+      {
+        "start": 89.0,
+        "end": 90.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Around him."
+      },
+      {
+        "start": 91.0,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Like a circle?"
+      },
+      {
+        "start": 93.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 94.8,
+        "end": 98.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And she opened her mother's book..."
+      }
+    ],
+    "final_score": 7.18,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 530
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 113.8,
+        "end": 144.0,
+        "duration": 30.2,
+        "start_time_fmt": "01:53.80",
+        "end_time_fmt": "02:24.00"
+      }
+    ],
+    "total_duration": 30.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.17,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"You saw a woman draw a circle of herbs.\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"I never said she was a witch!\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 113.8,
+        "end": 119.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision."
+      },
+      {
+        "start": 114.0,
+        "end": 116.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw a woman draw a circle of herbs."
+      },
+      {
+        "start": 116.8,
+        "end": 119.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw her use a forbidden book."
+      },
+      {
+        "start": 119.5,
+        "end": 123.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Lord leaning in right in front of the sobbing maid."
+      },
+      {
+        "start": 119.8,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You heard words you could not understand."
+      },
+      {
+        "start": 123.5,
+        "end": 126.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word."
+      },
+      {
+        "start": 124.5,
+        "end": 126.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is witchcraft."
+      },
+      {
+        "start": 126.8,
+        "end": 131.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as the maid steps forward, pleading passionately against his chest."
+      },
+      {
+        "start": 126.8,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No! She saved Toby! She made him breathe again!"
+      },
+      {
+        "start": 131.8,
+        "end": 134.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord calmly watching her futile resistance."
+      },
+      {
+        "start": 132.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That will be your testimony."
+      },
+      {
+        "start": 134.5,
+        "end": 137.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's face frozen in horrified realization."
+      },
+      {
+        "start": 134.5,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "My testimony?!"
+      },
+      {
+        "start": 137.8,
+        "end": 140.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the ultimatum without blinking."
+      },
+      {
+        "start": 138.0,
+        "end": 140.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Before the magistrate."
+      },
+      {
+        "start": 140.5,
+        "end": 144.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt."
+      },
+      {
+        "start": 140.5,
+        "end": 144.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I never said she was a witch!"
+      }
+    ],
+    "final_score": 7.17,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 542
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 61.2,
+        "end": 89.0,
+        "duration": 27.8,
+        "start_time_fmt": "01:01.20",
+        "end_time_fmt": "01:29.00"
+      }
+    ],
+    "total_duration": 27.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.02,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"Your brother is still a pauper.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of the maid stammering through her tears.",
+    "why_it_works": "At 28s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 61.2,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Your brother is still a pauper."
+      },
+      {
+        "start": 64.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+      },
+      {
+        "start": 64.4,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "One word from me, and the county gaol will take him before sunrise."
+      },
+      {
+        "start": 68.5,
+        "end": 70.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid gasps in sheer terror, her chest heaving as tears stream."
+      },
+      {
+        "start": 68.8,
+        "end": 73.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her chest with trembling hands, crying desperately."
+      },
+      {
+        "start": 69.5,
+        "end": 73.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Please, my Lord... he is only seven!"
+      },
+      {
+        "start": 73.2,
+        "end": 75.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord staring down without an ounce of pity."
+      },
+      {
+        "start": 73.2,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Then help him."
+      },
+      {
+        "start": 75.5,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid weeping profusely, cornered and helpless."
+      },
+      {
+        "start": 76.8,
+        "end": 79.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "What do you want me to say?!"
+      },
+      {
+        "start": 79.5,
+        "end": 84.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the study as the Lord stands calmly before the trembling servant."
+      },
+      {
+        "start": 79.6,
+        "end": 80.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "The truth."
+      },
+      {
+        "start": 81.0,
+        "end": 84.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "She drew something around the bed, did she not?"
+      },
+      {
+        "start": 84.8,
+        "end": 89.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid stammering through her tears."
+      }
+    ],
+    "final_score": 7.02,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 609
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 42.2,
+        "end": 70.0,
+        "duration": 27.8,
+        "start_time_fmt": "00:42.20",
+        "end_time_fmt": "01:10.00"
+      }
+    ],
+    "total_duration": 27.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 6.92,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"Yes.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: The maid gasps in sheer terror, her chest heaving as tears stream.",
+    "why_it_works": "At 28s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 42.2,
+        "end": 43.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 44.2,
+        "end": 49.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's sinister, unyielding face."
+      },
+      {
+        "start": 44.8,
+        "end": 48.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Did she prepare things no physician had prescribed?"
+      },
+      {
+        "start": 49.2,
+        "end": 52.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt."
+      },
+      {
+        "start": 50.0,
+        "end": 51.6,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 52.5,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's mouth curling into a sinister, predatory smile."
+      },
+      {
+        "start": 53.0,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And did she perform anything unusual?"
+      },
+      {
+        "start": 56.8,
+        "end": 59.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "start": 57.4,
+        "end": 58.8,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No!"
+      },
+      {
+        "start": 59.0,
+        "end": 64.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Profile medium two-shot as the Lord looms inches from the maid's face."
+      },
+      {
+        "start": 59.0,
+        "end": 61.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Think carefully."
+      },
+      {
+        "start": 61.2,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Your brother is still a pauper."
+      },
+      {
+        "start": 64.2,
+        "end": 68.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+      },
+      {
+        "start": 64.4,
+        "end": 68.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "One word from me, and the county gaol will take him before sunrise."
+      },
+      {
+        "start": 68.5,
+        "end": 70.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid gasps in sheer terror, her chest heaving as tears stream."
+      }
+    ],
+    "final_score": 6.92,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 658
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 89.0,
+        "end": 144.8,
+        "duration": 55.8,
+        "start_time_fmt": "01:29.00",
+        "end_time_fmt": "02:24.80"
+      }
+    ],
+    "total_duration": 55.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.88,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"Around him.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt.",
+    "why_it_works": "At 56s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 89.0,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+      },
+      {
+        "start": 89.0,
+        "end": 90.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Around him."
+      },
+      {
+        "start": 91.0,
+        "end": 92.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Like a circle?"
+      },
+      {
+        "start": 93.0,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 94.8,
+        "end": 98.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And she opened her mother's book..."
+      },
+      {
+        "start": 98.5,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the maid's tear-drenched eyes and quivering lips."
+      },
+      {
+        "start": 98.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 100.8,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the final trap."
+      },
+      {
+        "start": 101.0,
+        "end": 104.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "...and spoke words you could not understand."
+      },
+      {
+        "start": 104.2,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "start": 104.5,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She was praying!"
+      },
+      {
+        "start": 107.5,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord grinning with sinister triumph."
+      },
+      {
+        "start": 108.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Praying... or chanting?"
+      },
+      {
+        "start": 111.8,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid breaking down completely."
+      },
+      {
+        "start": 112.0,
+        "end": 113.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know!"
+      },
+      {
+        "start": 113.8,
+        "end": 119.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision."
+      },
+      {
+        "start": 114.0,
+        "end": 116.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw a woman draw a circle of herbs."
+      },
+      {
+        "start": 116.8,
+        "end": 119.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You saw her use a forbidden book."
+      },
+      {
+        "start": 119.5,
+        "end": 123.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Lord leaning in right in front of the sobbing maid."
+      },
+      {
+        "start": 119.8,
+        "end": 122.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You heard words you could not understand."
+      },
+      {
+        "start": 123.5,
+        "end": 126.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word."
+      },
+      {
+        "start": 124.5,
+        "end": 126.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That is witchcraft."
+      },
+      {
+        "start": 126.8,
+        "end": 131.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as the maid steps forward, pleading passionately against his chest."
+      },
+      {
+        "start": 126.8,
+        "end": 131.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "No! She saved Toby! She made him breathe again!"
+      },
+      {
+        "start": 131.8,
+        "end": 134.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord calmly watching her futile resistance."
+      },
+      {
+        "start": 132.0,
+        "end": 134.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "That will be your testimony."
+      },
+      {
+        "start": 134.5,
+        "end": 137.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's face frozen in horrified realization."
+      },
+      {
+        "start": 134.5,
+        "end": 137.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "My testimony?!"
+      },
+      {
+        "start": 137.8,
+        "end": 140.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the ultimatum without blinking."
+      },
+      {
+        "start": 138.0,
+        "end": 140.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Before the magistrate."
+      },
+      {
+        "start": 140.5,
+        "end": 144.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt."
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 678
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 94.8,
+        "end": 119.5,
+        "duration": 24.7,
+        "start_time_fmt": "01:34.80",
+        "end_time_fmt": "01:59.50"
+      }
+    ],
+    "total_duration": 24.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.88,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"And she opened her mother's book...\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.",
+    "why_it_works": "At 25s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 94.8,
+        "end": 98.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And she opened her mother's book..."
+      },
+      {
+        "start": 98.5,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of the maid's tear-drenched eyes and quivering lips."
+      },
+      {
+        "start": 98.5,
+        "end": 100.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Yes."
+      },
+      {
+        "start": 100.8,
+        "end": 104.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord delivering the final trap."
+      },
+      {
+        "start": 101.0,
+        "end": 104.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "...and spoke words you could not understand."
+      },
+      {
+        "start": 104.2,
+        "end": 107.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "start": 104.5,
+        "end": 106.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She was praying!"
+      },
+      {
+        "start": 107.5,
+        "end": 111.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord grinning with sinister triumph."
+      },
+      {
+        "start": 108.0,
+        "end": 111.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Praying... or chanting?"
+      },
+      {
+        "start": 111.8,
+        "end": 113.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid breaking down completely."
+      },
+      {
+        "start": 112.0,
+        "end": 113.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know!"
+      },
+      {
+        "start": 113.8,
+        "end": 119.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision."
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 679
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 140.5,
+        "end": 174.04,
+        "duration": 33.54,
+        "start_time_fmt": "02:20.50",
+        "end_time_fmt": "02:54.04"
+      }
+    ],
+    "total_duration": 33.54,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.78,
+    "hook": "MAID shocks the viewer with an immediate confrontation: \"I never said she was a witch!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Side medium shot of the maid kneeling crumpled on the floor in the dimly lit study, her face buried in both hands, weeping uncontrollably as the scene slowly fades into the dark silence.",
+    "why_it_works": "At 34s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 140.5,
+        "end": 144.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt."
+      },
+      {
+        "start": 140.5,
+        "end": 144.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I never said she was a witch!"
+      },
+      {
+        "start": 144.8,
+        "end": 149.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of the Lord turning his back and walking back behind his desk."
+      },
+      {
+        "start": 145.0,
+        "end": 146.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You do not need to."
+      },
+      {
+        "start": 146.8,
+        "end": 149.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "I have already written the story for you."
+      },
+      {
+        "start": 149.2,
+        "end": 152.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid clutching her cheeks, crying in heartbreak."
+      },
+      {
+        "start": 149.5,
+        "end": 152.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She saved my brother..."
+      },
+      {
+        "start": 152.2,
+        "end": 156.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord turning back, resting one hand upon the desk with cold finality."
+      },
+      {
+        "start": 152.5,
+        "end": 156.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And now... you will save your brother."
+      },
+      {
+        "start": 156.2,
+        "end": 159.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair."
+      },
+      {
+        "start": 156.2,
+        "end": 159.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High angle looking down as the maid falls prostrate on the floor."
+      },
+      {
+        "start": 159.0,
+        "end": 161.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I am sorry, Lady Juliana..."
+      },
+      {
+        "start": 159.5,
+        "end": 163.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of the Lord looking down dismissively at the prostrate maid."
+      },
+      {
+        "start": 161.8,
+        "end": 164.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Save your tears for the trial."
+      },
+      {
+        "start": 163.8,
+        "end": 174.04,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side medium shot of the maid kneeling crumpled on the floor in the dimly lit study, her face buried in both hands, weeping uncontrollably as the scene slowly fades into the dark silence."
+      }
+    ],
+    "final_score": 6.78,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 712
+  },
+  {
+    "episode": 33,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 33,
+        "start": 9.5,
+        "end": 32.0,
+        "duration": 22.5,
+        "start_time_fmt": "00:09.50",
+        "end_time_fmt": "00:32.00"
+      }
+    ],
+    "total_duration": 22.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.6,
+    "hook": "LORD shocks the viewer with an immediate confrontation: \"And who saved him?\"",
+    "cliffhanger": "Cuts sharply on MAID's unresolved words: \"I watched her save him.\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 9.5,
+        "end": 11.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "And who saved him?"
+      },
+      {
+        "start": 12.0,
+        "end": 14.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid's anxious, innocent face."
+      },
+      {
+        "start": 13.0,
+        "end": 14.5,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "Lady Juliana."
+      },
+      {
+        "start": 14.8,
+        "end": 17.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "Tell me how."
+      },
+      {
+        "start": 17.8,
+        "end": 21.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the maid nervously wringing her apron fabric."
+      },
+      {
+        "start": 19.5,
+        "end": 21.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "She... she used herbs."
+      },
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down."
+      },
+      {
+        "start": 21.2,
+        "end": 22.8,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "What herbs?"
+      },
+      {
+        "start": 23.0,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the frightened maid looking down, shrinking back."
+      },
+      {
+        "start": 24.5,
+        "end": 26.2,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I don't know."
+      },
+      {
+        "start": 26.5,
+        "end": 29.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at the imposing Lord towering above her."
+      },
+      {
+        "start": 27.5,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "LORD",
+        "content": "You watched her."
+      },
+      {
+        "start": 29.2,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+      },
+      {
+        "start": 29.8,
+        "end": 32.0,
+        "type": "DIALOGUE",
+        "speaker": "MAID",
+        "content": "I watched her save him."
+      }
+    ],
+    "final_score": 6.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 779
+  }
+]

@@ -1,0 +1,3883 @@
+[
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 61.3,
+        "end": 111.0,
+        "duration": 49.7,
+        "start_time_fmt": "01:01.30",
+        "end_time_fmt": "01:51.00"
+      }
+    ],
+    "total_duration": 49.7,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 8.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.99,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"How convenient that the only person who can prove the poison exists...\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"The bride who married a penniless war veteran...\", leaving the outcome hanging.",
+    "why_it_works": "At 50s, this promo stops feed scroll with immediate high-status conflict and cuts at peak unresolved tension to drive instant next-episode clicks, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 61.3,
+        "end": 66.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How convenient that the only person who can prove the poison exists..."
+      },
+      {
+        "start": 64.9,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...is the maid who claims to have discovered it."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative."
+      },
+      {
+        "start": 67.2,
+        "end": 70.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Take her away before she poisons the rest of this house."
+      },
+      {
+        "start": 70.5,
+        "end": 72.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck."
+      },
+      {
+        "start": 70.8,
+        "end": 72.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine ruthlessly yanks the silver locket off Juliana's neck."
+      },
+      {
+        "start": 71.2,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No!"
+      },
+      {
+        "start": 72.0,
+        "end": 75.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain."
+      },
+      {
+        "start": 72.2,
+        "end": 75.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Where did a gutter rat like you find a silver locket?"
+      },
+      {
+        "start": 75.3,
+        "end": 78.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip."
+      },
+      {
+        "start": 75.4,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Give it back!"
+      },
+      {
+        "start": 76.8,
+        "end": 78.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It belonged to my mother!"
+      },
+      {
+        "start": 78.9,
+        "end": 82.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor."
+      },
+      {
+        "start": 79.0,
+        "end": 81.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "A witch has no need for family heirlooms in the gallows."
+      },
+      {
+        "start": 81.0,
+        "end": 82.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clatter as the silver pendant bounces against the wooden baseboard."
+      },
+      {
+        "start": 82.3,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket."
+      },
+      {
+        "start": 82.5,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My mother's locket!"
+      },
+      {
+        "start": 86.5,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages."
+      },
+      {
+        "start": 91.0,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine reading the elegant cursive script inside the front cover."
+      },
+      {
+        "start": 91.2,
+        "end": 92.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Juliana..."
+      },
+      {
+        "start": 93.8,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'."
+      },
+      {
+        "start": 95.0,
+        "end": 97.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book."
+      },
+      {
+        "start": 95.2,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+      },
+      {
+        "start": 97.4,
+        "end": 101.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face."
+      },
+      {
+        "start": 98.2,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft."
+      },
+      {
+        "start": 101.2,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey."
+      },
+      {
+        "start": 101.5,
+        "end": 103.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I knew I had seen those eyes before."
+      },
+      {
+        "start": 104.2,
+        "end": 105.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The disgraced daughter..."
+      },
+      {
+        "start": 105.6,
+        "end": 107.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...the girl thrown out of her own family home."
+      },
+      {
+        "start": 107.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past."
+      },
+      {
+        "start": 108.1,
+        "end": 111.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The bride who married a penniless war veteran..."
+      }
+    ],
+    "final_score": 8.99,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 5
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 10.2,
+        "end": 64.8,
+        "duration": 54.6,
+        "start_time_fmt": "00:10.20",
+        "end_time_fmt": "01:04.80"
+      }
+    ],
+    "total_duration": 54.6,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 8.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.84,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"...a secret medicine in her hand.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"How convenient that the only person who can prove the poison exists...\", leaving the outcome hanging.",
+    "why_it_works": "At 55s, this promo stops feed scroll with immediate high-status conflict and cuts at peak unresolved tension to drive instant next-episode clicks, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 10.2,
+        "end": 12.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...a secret medicine in her hand."
+      },
+      {
+        "start": 12.6,
+        "end": 15.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure."
+      },
+      {
+        "start": 12.7,
+        "end": 15.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "She looks exactly like a poisoner."
+      },
+      {
+        "start": 15.2,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder."
+      },
+      {
+        "start": 15.3,
+        "end": 18.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did not poison her! Look at her eyes, the fever has broken!"
+      },
+      {
+        "start": 18.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves."
+      },
+      {
+        "start": 18.9,
+        "end": 20.3,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "A clever story, girl."
+      },
+      {
+        "start": 20.4,
+        "end": 22.7,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "But the guards know how to extract the truth."
+      },
+      {
+        "start": 22.8,
+        "end": 26.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort."
+      },
+      {
+        "start": 24.8,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert..."
+      },
+      {
+        "start": 26.7,
+        "end": 28.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed."
+      },
+      {
+        "start": 26.7,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Stop this!"
+      },
+      {
+        "start": 28.4,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger."
+      },
+      {
+        "start": 28.8,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She is innocent."
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She saved me!"
+      },
+      {
+        "start": 32.8,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears of relief welling in her eyes."
+      },
+      {
+        "start": 33.2,
+        "end": 34.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace..."
+      },
+      {
+        "start": 34.9,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror."
+      },
+      {
+        "start": 35.0,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I know what happened to me!"
+      },
+      {
+        "start": 37.7,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless."
+      },
+      {
+        "start": 38.2,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I was poisoned!"
+      },
+      {
+        "start": 40.3,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "And you... you knew!"
+      },
+      {
+        "start": 43.0,
+        "end": 47.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine."
+      },
+      {
+        "start": 43.6,
+        "end": 45.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Catherine knew!"
+      },
+      {
+        "start": 45.6,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "They have been—"
+      },
+      {
+        "start": 46.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      },
+      {
+        "start": 47.4,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back."
+      },
+      {
+        "start": 48.2,
+        "end": 49.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me help her!"
+      },
+      {
+        "start": 49.5,
+        "end": 52.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She's still weak, you cannot leave her like this!"
+      },
+      {
+        "start": 52.2,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You see?"
+      },
+      {
+        "start": 54.0,
+        "end": 56.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "The poison has clearly damaged her mind."
+      },
+      {
+        "start": 56.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed."
+      },
+      {
+        "start": 57.0,
+        "end": 58.7,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I am not delusional!"
+      },
+      {
+        "start": 58.6,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Of course you are not."
+      },
+      {
+        "start": 60.1,
+        "end": 61.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You are merely confused."
+      },
+      {
+        "start": 61.3,
+        "end": 66.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How convenient that the only person who can prove the poison exists..."
+      }
+    ],
+    "final_score": 8.84,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 8
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 10.2,
+        "end": 37.4,
+        "duration": 27.2,
+        "start_time_fmt": "00:10.20",
+        "end_time_fmt": "00:37.40"
+      }
+    ],
+    "total_duration": 27.2,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 8.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.78,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"...a secret medicine in her hand.\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"I know what happened to me!\", leaving the outcome hanging.",
+    "why_it_works": "At 27s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 10.2,
+        "end": 12.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...a secret medicine in her hand."
+      },
+      {
+        "start": 12.6,
+        "end": 15.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure."
+      },
+      {
+        "start": 12.7,
+        "end": 15.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "She looks exactly like a poisoner."
+      },
+      {
+        "start": 15.2,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder."
+      },
+      {
+        "start": 15.3,
+        "end": 18.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did not poison her! Look at her eyes, the fever has broken!"
+      },
+      {
+        "start": 18.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves."
+      },
+      {
+        "start": 18.9,
+        "end": 20.3,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "A clever story, girl."
+      },
+      {
+        "start": 20.4,
+        "end": 22.7,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "But the guards know how to extract the truth."
+      },
+      {
+        "start": 22.8,
+        "end": 26.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort."
+      },
+      {
+        "start": 24.8,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert..."
+      },
+      {
+        "start": 26.7,
+        "end": 28.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed."
+      },
+      {
+        "start": 26.7,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Stop this!"
+      },
+      {
+        "start": 28.4,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger."
+      },
+      {
+        "start": 28.8,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She is innocent."
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She saved me!"
+      },
+      {
+        "start": 32.8,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears of relief welling in her eyes."
+      },
+      {
+        "start": 33.2,
+        "end": 34.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace..."
+      },
+      {
+        "start": 34.9,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror."
+      },
+      {
+        "start": 35.0,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I know what happened to me!"
+      }
+    ],
+    "final_score": 8.78,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 12
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 107.8,
+        "end": 134.2,
+        "duration": 26.4,
+        "start_time_fmt": "01:47.80",
+        "end_time_fmt": "02:14.20"
+      }
+    ],
+    "total_duration": 26.4,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.64,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"The bride who married a penniless war veteran...\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Then perhaps you can explain every page to the magistrate...\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 107.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past."
+      },
+      {
+        "start": 108.1,
+        "end": 111.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The bride who married a penniless war veteran..."
+      },
+      {
+        "start": 111.1,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...because no respectable man would have her."
+      },
+      {
+        "start": 113.0,
+        "end": 116.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty."
+      },
+      {
+        "start": 113.3,
+        "end": 115.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do not speak about my husband!"
+      },
+      {
+        "start": 116.4,
+        "end": 122.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine throws her head back in derisive laughter, brandishing the herbarium book."
+      },
+      {
+        "start": 116.4,
+        "end": 119.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And look at you now. Scrubbing fireplaces in my house."
+      },
+      {
+        "start": 119.2,
+        "end": 121.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What a magnificent fall, Lady Juliana."
+      },
+      {
+        "start": 122.0,
+        "end": 124.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert gesturing toward the exit with an outstretched arm."
+      },
+      {
+        "start": 122.0,
+        "end": 124.7,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Drag her to the wet cells beneath the south tower."
+      },
+      {
+        "start": 124.9,
+        "end": 128.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine fanning open the illustrated botanical pages of the herbarium with gloved fingers."
+      },
+      {
+        "start": 125.0,
+        "end": 125.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And this?"
+      },
+      {
+        "start": 125.9,
+        "end": 128.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This book of weeds will hang her before the magistrate."
+      },
+      {
+        "start": 128.8,
+        "end": 131.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the guard's grip, her arm reaching out toward the book."
+      },
+      {
+        "start": 129.1,
+        "end": 131.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That book is my mother's life's work!"
+      },
+      {
+        "start": 131.2,
+        "end": 136.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine smiling coldly, clutching the closed book against her bodice."
+      },
+      {
+        "start": 131.4,
+        "end": 134.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then perhaps you can explain every page to the magistrate..."
+      }
+    ],
+    "final_score": 8.64,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 18
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 26.7,
+        "end": 52.1,
+        "duration": 25.4,
+        "start_time_fmt": "00:26.70",
+        "end_time_fmt": "00:52.10"
+      }
+    ],
+    "total_duration": 25.4,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 8.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.63,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"Stop this!\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"She's still weak, you cannot leave her like this!\", leaving the outcome hanging.",
+    "why_it_works": "At 25s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 26.7,
+        "end": 28.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed."
+      },
+      {
+        "start": 26.7,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Stop this!"
+      },
+      {
+        "start": 28.4,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger."
+      },
+      {
+        "start": 28.8,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She is innocent."
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She saved me!"
+      },
+      {
+        "start": 32.8,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears of relief welling in her eyes."
+      },
+      {
+        "start": 33.2,
+        "end": 34.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace..."
+      },
+      {
+        "start": 34.9,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror."
+      },
+      {
+        "start": 35.0,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I know what happened to me!"
+      },
+      {
+        "start": 37.7,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless."
+      },
+      {
+        "start": 38.2,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I was poisoned!"
+      },
+      {
+        "start": 40.3,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "And you... you knew!"
+      },
+      {
+        "start": 43.0,
+        "end": 47.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine."
+      },
+      {
+        "start": 43.6,
+        "end": 45.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Catherine knew!"
+      },
+      {
+        "start": 45.6,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "They have been—"
+      },
+      {
+        "start": 46.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      },
+      {
+        "start": 47.4,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back."
+      },
+      {
+        "start": 48.2,
+        "end": 49.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me help her!"
+      },
+      {
+        "start": 49.5,
+        "end": 52.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She's still weak, you cannot leave her like this!"
+      }
+    ],
+    "final_score": 8.63,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 19
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 26.7,
+        "end": 75.1,
+        "duration": 48.4,
+        "start_time_fmt": "00:26.70",
+        "end_time_fmt": "01:15.10"
+      }
+    ],
+    "total_duration": 48.4,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.56,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"Stop this!\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Where did a gutter rat like you find a silver locket?\", leaving the outcome hanging.",
+    "why_it_works": "At 48s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 26.7,
+        "end": 28.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed."
+      },
+      {
+        "start": 26.7,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Stop this!"
+      },
+      {
+        "start": 28.4,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger."
+      },
+      {
+        "start": 28.8,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She is innocent."
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She saved me!"
+      },
+      {
+        "start": 32.8,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears of relief welling in her eyes."
+      },
+      {
+        "start": 33.2,
+        "end": 34.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace..."
+      },
+      {
+        "start": 34.9,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror."
+      },
+      {
+        "start": 35.0,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I know what happened to me!"
+      },
+      {
+        "start": 37.7,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless."
+      },
+      {
+        "start": 38.2,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I was poisoned!"
+      },
+      {
+        "start": 40.3,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "And you... you knew!"
+      },
+      {
+        "start": 43.0,
+        "end": 47.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine."
+      },
+      {
+        "start": 43.6,
+        "end": 45.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Catherine knew!"
+      },
+      {
+        "start": 45.6,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "They have been—"
+      },
+      {
+        "start": 46.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      },
+      {
+        "start": 47.4,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back."
+      },
+      {
+        "start": 48.2,
+        "end": 49.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me help her!"
+      },
+      {
+        "start": 49.5,
+        "end": 52.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She's still weak, you cannot leave her like this!"
+      },
+      {
+        "start": 52.2,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You see?"
+      },
+      {
+        "start": 54.0,
+        "end": 56.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "The poison has clearly damaged her mind."
+      },
+      {
+        "start": 56.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed."
+      },
+      {
+        "start": 57.0,
+        "end": 58.7,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I am not delusional!"
+      },
+      {
+        "start": 58.6,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Of course you are not."
+      },
+      {
+        "start": 60.1,
+        "end": 61.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You are merely confused."
+      },
+      {
+        "start": 61.3,
+        "end": 66.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How convenient that the only person who can prove the poison exists..."
+      },
+      {
+        "start": 64.9,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...is the maid who claims to have discovered it."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative."
+      },
+      {
+        "start": 67.2,
+        "end": 70.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Take her away before she poisons the rest of this house."
+      },
+      {
+        "start": 70.5,
+        "end": 72.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck."
+      },
+      {
+        "start": 70.8,
+        "end": 72.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine ruthlessly yanks the silver locket off Juliana's neck."
+      },
+      {
+        "start": 71.2,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No!"
+      },
+      {
+        "start": 72.0,
+        "end": 75.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain."
+      },
+      {
+        "start": 72.2,
+        "end": 75.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Where did a gutter rat like you find a silver locket?"
+      }
+    ],
+    "final_score": 8.56,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 23
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 78.9,
+        "end": 115.8,
+        "duration": 36.9,
+        "start_time_fmt": "01:18.90",
+        "end_time_fmt": "01:55.80"
+      }
+    ],
+    "total_duration": 36.9,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.42,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"A witch has no need for family heirlooms in the gallows.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Do not speak about my husband!\", leaving the outcome hanging.",
+    "why_it_works": "At 37s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 78.9,
+        "end": 82.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor."
+      },
+      {
+        "start": 79.0,
+        "end": 81.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "A witch has no need for family heirlooms in the gallows."
+      },
+      {
+        "start": 81.0,
+        "end": 82.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clatter as the silver pendant bounces against the wooden baseboard."
+      },
+      {
+        "start": 82.3,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket."
+      },
+      {
+        "start": 82.5,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My mother's locket!"
+      },
+      {
+        "start": 86.5,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages."
+      },
+      {
+        "start": 91.0,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine reading the elegant cursive script inside the front cover."
+      },
+      {
+        "start": 91.2,
+        "end": 92.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Juliana..."
+      },
+      {
+        "start": 93.8,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'."
+      },
+      {
+        "start": 95.0,
+        "end": 97.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book."
+      },
+      {
+        "start": 95.2,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+      },
+      {
+        "start": 97.4,
+        "end": 101.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face."
+      },
+      {
+        "start": 98.2,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft."
+      },
+      {
+        "start": 101.2,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey."
+      },
+      {
+        "start": 101.5,
+        "end": 103.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I knew I had seen those eyes before."
+      },
+      {
+        "start": 104.2,
+        "end": 105.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The disgraced daughter..."
+      },
+      {
+        "start": 105.6,
+        "end": 107.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...the girl thrown out of her own family home."
+      },
+      {
+        "start": 107.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past."
+      },
+      {
+        "start": 108.1,
+        "end": 111.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The bride who married a penniless war veteran..."
+      },
+      {
+        "start": 111.1,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...because no respectable man would have her."
+      },
+      {
+        "start": 113.0,
+        "end": 116.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty."
+      },
+      {
+        "start": 113.3,
+        "end": 115.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do not speak about my husband!"
+      }
+    ],
+    "final_score": 8.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 46
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 95.0,
+        "end": 115.8,
+        "duration": 20.8,
+        "start_time_fmt": "01:35.00",
+        "end_time_fmt": "01:55.80"
+      }
+    ],
+    "total_duration": 20.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.42,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Lady Juliana Ashcroft.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Do not speak about my husband!\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 95.0,
+        "end": 97.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book."
+      },
+      {
+        "start": 95.2,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+      },
+      {
+        "start": 97.4,
+        "end": 101.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face."
+      },
+      {
+        "start": 98.2,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft."
+      },
+      {
+        "start": 101.2,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey."
+      },
+      {
+        "start": 101.5,
+        "end": 103.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I knew I had seen those eyes before."
+      },
+      {
+        "start": 104.2,
+        "end": 105.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The disgraced daughter..."
+      },
+      {
+        "start": 105.6,
+        "end": 107.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...the girl thrown out of her own family home."
+      },
+      {
+        "start": 107.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past."
+      },
+      {
+        "start": 108.1,
+        "end": 111.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The bride who married a penniless war veteran..."
+      },
+      {
+        "start": 111.1,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...because no respectable man would have her."
+      },
+      {
+        "start": 113.0,
+        "end": 116.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty."
+      },
+      {
+        "start": 113.3,
+        "end": 115.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do not speak about my husband!"
+      }
+    ],
+    "final_score": 8.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 47
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 43.6,
+        "end": 64.8,
+        "duration": 21.2,
+        "start_time_fmt": "00:43.60",
+        "end_time_fmt": "01:04.80"
+      }
+    ],
+    "total_duration": 21.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 8.18,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"Catherine knew!\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"How convenient that the only person who can prove the poison exists...\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and cuts at peak unresolved tension to drive instant next-episode clicks, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 43.6,
+        "end": 45.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Catherine knew!"
+      },
+      {
+        "start": 45.6,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "They have been—"
+      },
+      {
+        "start": 46.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      },
+      {
+        "start": 47.4,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back."
+      },
+      {
+        "start": 48.2,
+        "end": 49.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me help her!"
+      },
+      {
+        "start": 49.5,
+        "end": 52.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She's still weak, you cannot leave her like this!"
+      },
+      {
+        "start": 52.2,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You see?"
+      },
+      {
+        "start": 54.0,
+        "end": 56.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "The poison has clearly damaged her mind."
+      },
+      {
+        "start": 56.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed."
+      },
+      {
+        "start": 57.0,
+        "end": 58.7,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I am not delusional!"
+      },
+      {
+        "start": 58.6,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Of course you are not."
+      },
+      {
+        "start": 60.1,
+        "end": 61.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You are merely confused."
+      },
+      {
+        "start": 61.3,
+        "end": 66.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How convenient that the only person who can prove the poison exists..."
+      }
+    ],
+    "final_score": 8.18,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 90
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 46.8,
+        "end": 75.1,
+        "duration": 28.3,
+        "start_time_fmt": "00:46.80",
+        "end_time_fmt": "01:15.10"
+      }
+    ],
+    "total_duration": 28.3,
+    "hook_strength": 8.8,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 8.14,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Let me help her!\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Where did a gutter rat like you find a silver locket?\", leaving the outcome hanging.",
+    "why_it_works": "At 28s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 46.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      },
+      {
+        "start": 47.4,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back."
+      },
+      {
+        "start": 48.2,
+        "end": 49.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me help her!"
+      },
+      {
+        "start": 49.5,
+        "end": 52.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She's still weak, you cannot leave her like this!"
+      },
+      {
+        "start": 52.2,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You see?"
+      },
+      {
+        "start": 54.0,
+        "end": 56.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "The poison has clearly damaged her mind."
+      },
+      {
+        "start": 56.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed."
+      },
+      {
+        "start": 57.0,
+        "end": 58.7,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I am not delusional!"
+      },
+      {
+        "start": 58.6,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Of course you are not."
+      },
+      {
+        "start": 60.1,
+        "end": 61.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You are merely confused."
+      },
+      {
+        "start": 61.3,
+        "end": 66.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How convenient that the only person who can prove the poison exists..."
+      },
+      {
+        "start": 64.9,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...is the maid who claims to have discovered it."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative."
+      },
+      {
+        "start": 67.2,
+        "end": 70.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Take her away before she poisons the rest of this house."
+      },
+      {
+        "start": 70.5,
+        "end": 72.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck."
+      },
+      {
+        "start": 70.8,
+        "end": 72.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine ruthlessly yanks the silver locket off Juliana's neck."
+      },
+      {
+        "start": 71.2,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No!"
+      },
+      {
+        "start": 72.0,
+        "end": 75.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain."
+      },
+      {
+        "start": 72.2,
+        "end": 75.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Where did a gutter rat like you find a silver locket?"
+      }
+    ],
+    "final_score": 8.14,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 99
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 61.3,
+        "end": 84.4,
+        "duration": 23.1,
+        "start_time_fmt": "01:01.30",
+        "end_time_fmt": "01:24.40"
+      }
+    ],
+    "total_duration": 23.1,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 6.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.08,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"How convenient that the only person who can prove the poison exists...\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"My mother's locket!\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 61.3,
+        "end": 66.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How convenient that the only person who can prove the poison exists..."
+      },
+      {
+        "start": 64.9,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...is the maid who claims to have discovered it."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative."
+      },
+      {
+        "start": 67.2,
+        "end": 70.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Take her away before she poisons the rest of this house."
+      },
+      {
+        "start": 70.5,
+        "end": 72.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck."
+      },
+      {
+        "start": 70.8,
+        "end": 72.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine ruthlessly yanks the silver locket off Juliana's neck."
+      },
+      {
+        "start": 71.2,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No!"
+      },
+      {
+        "start": 72.0,
+        "end": 75.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain."
+      },
+      {
+        "start": 72.2,
+        "end": 75.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Where did a gutter rat like you find a silver locket?"
+      },
+      {
+        "start": 75.3,
+        "end": 78.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip."
+      },
+      {
+        "start": 75.4,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Give it back!"
+      },
+      {
+        "start": 76.8,
+        "end": 78.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It belonged to my mother!"
+      },
+      {
+        "start": 78.9,
+        "end": 82.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor."
+      },
+      {
+        "start": 79.0,
+        "end": 81.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "A witch has no need for family heirlooms in the gallows."
+      },
+      {
+        "start": 81.0,
+        "end": 82.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clatter as the silver pendant bounces against the wooden baseboard."
+      },
+      {
+        "start": 82.3,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket."
+      },
+      {
+        "start": 82.5,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My mother's locket!"
+      }
+    ],
+    "final_score": 8.08,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 112
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 4.7,
+        "end": 28.2,
+        "duration": 23.5,
+        "start_time_fmt": "00:04.70",
+        "end_time_fmt": "00:28.20"
+      }
+    ],
+    "total_duration": 23.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Look at her, Rupert.\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"Stop this!\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 4.7,
+        "end": 10.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot tracking Catherine as she strides gracefully across the chamber toward Juliana, Rupert standing stoically behind her near the bed."
+      },
+      {
+        "start": 4.9,
+        "end": 6.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Look at her, Rupert."
+      },
+      {
+        "start": 6.6,
+        "end": 8.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Soot on her face..."
+      },
+      {
+        "start": 8.2,
+        "end": 12.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot from behind Catherine as she faces Juliana, who is pinned in the doorway by the guard."
+      },
+      {
+        "start": 8.4,
+        "end": 10.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...herbs in her pockets..."
+      },
+      {
+        "start": 10.2,
+        "end": 12.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...a secret medicine in her hand."
+      },
+      {
+        "start": 12.6,
+        "end": 15.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure."
+      },
+      {
+        "start": 12.7,
+        "end": 15.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "She looks exactly like a poisoner."
+      },
+      {
+        "start": 15.2,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder."
+      },
+      {
+        "start": 15.3,
+        "end": 18.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did not poison her! Look at her eyes, the fever has broken!"
+      },
+      {
+        "start": 18.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves."
+      },
+      {
+        "start": 18.9,
+        "end": 20.3,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "A clever story, girl."
+      },
+      {
+        "start": 20.4,
+        "end": 22.7,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "But the guards know how to extract the truth."
+      },
+      {
+        "start": 22.8,
+        "end": 26.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort."
+      },
+      {
+        "start": 24.8,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert..."
+      },
+      {
+        "start": 26.7,
+        "end": 28.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed."
+      },
+      {
+        "start": 26.7,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Stop this!"
+      }
+    ],
+    "final_score": 8.07,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 120
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 95.0,
+        "end": 131.0,
+        "duration": 36.0,
+        "start_time_fmt": "01:35.00",
+        "end_time_fmt": "02:11.00"
+      }
+    ],
+    "total_duration": 36.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Lady Juliana Ashcroft.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"That book is my mother's life's work!\", leaving the outcome hanging.",
+    "why_it_works": "At 36s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 95.0,
+        "end": 97.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book."
+      },
+      {
+        "start": 95.2,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+      },
+      {
+        "start": 97.4,
+        "end": 101.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face."
+      },
+      {
+        "start": 98.2,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft."
+      },
+      {
+        "start": 101.2,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey."
+      },
+      {
+        "start": 101.5,
+        "end": 103.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I knew I had seen those eyes before."
+      },
+      {
+        "start": 104.2,
+        "end": 105.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The disgraced daughter..."
+      },
+      {
+        "start": 105.6,
+        "end": 107.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...the girl thrown out of her own family home."
+      },
+      {
+        "start": 107.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past."
+      },
+      {
+        "start": 108.1,
+        "end": 111.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The bride who married a penniless war veteran..."
+      },
+      {
+        "start": 111.1,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...because no respectable man would have her."
+      },
+      {
+        "start": 113.0,
+        "end": 116.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty."
+      },
+      {
+        "start": 113.3,
+        "end": 115.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do not speak about my husband!"
+      },
+      {
+        "start": 116.4,
+        "end": 122.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine throws her head back in derisive laughter, brandishing the herbarium book."
+      },
+      {
+        "start": 116.4,
+        "end": 119.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And look at you now. Scrubbing fireplaces in my house."
+      },
+      {
+        "start": 119.2,
+        "end": 121.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What a magnificent fall, Lady Juliana."
+      },
+      {
+        "start": 122.0,
+        "end": 124.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert gesturing toward the exit with an outstretched arm."
+      },
+      {
+        "start": 122.0,
+        "end": 124.7,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Drag her to the wet cells beneath the south tower."
+      },
+      {
+        "start": 124.9,
+        "end": 128.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine fanning open the illustrated botanical pages of the herbarium with gloved fingers."
+      },
+      {
+        "start": 125.0,
+        "end": 125.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And this?"
+      },
+      {
+        "start": 125.9,
+        "end": 128.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This book of weeds will hang her before the magistrate."
+      },
+      {
+        "start": 128.8,
+        "end": 131.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the guard's grip, her arm reaching out toward the book."
+      },
+      {
+        "start": 129.1,
+        "end": 131.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That book is my mother's life's work!"
+      }
+    ],
+    "final_score": 8.07,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 121
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 15.3,
+        "end": 48.0,
+        "duration": 32.7,
+        "start_time_fmt": "00:15.30",
+        "end_time_fmt": "00:48.00"
+      }
+    ],
+    "total_duration": 32.7,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.04,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I did not poison her! Look at her eyes, the fever has broken!\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+    "why_it_works": "At 33s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 15.3,
+        "end": 18.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did not poison her! Look at her eyes, the fever has broken!"
+      },
+      {
+        "start": 18.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves."
+      },
+      {
+        "start": 18.9,
+        "end": 20.3,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "A clever story, girl."
+      },
+      {
+        "start": 20.4,
+        "end": 22.7,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "But the guards know how to extract the truth."
+      },
+      {
+        "start": 22.8,
+        "end": 26.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort."
+      },
+      {
+        "start": 24.8,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Rupert..."
+      },
+      {
+        "start": 26.7,
+        "end": 28.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed."
+      },
+      {
+        "start": 26.7,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Stop this!"
+      },
+      {
+        "start": 28.4,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger."
+      },
+      {
+        "start": 28.8,
+        "end": 30.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She is innocent."
+      },
+      {
+        "start": 30.8,
+        "end": 32.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "She saved me!"
+      },
+      {
+        "start": 32.8,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, tears of relief welling in her eyes."
+      },
+      {
+        "start": 33.2,
+        "end": 34.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Your Grace..."
+      },
+      {
+        "start": 34.9,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror."
+      },
+      {
+        "start": 35.0,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I know what happened to me!"
+      },
+      {
+        "start": 37.7,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless."
+      },
+      {
+        "start": 38.2,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I was poisoned!"
+      },
+      {
+        "start": 40.3,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "And you... you knew!"
+      },
+      {
+        "start": 43.0,
+        "end": 47.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine."
+      },
+      {
+        "start": 43.6,
+        "end": 45.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Catherine knew!"
+      },
+      {
+        "start": 45.6,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "They have been—"
+      },
+      {
+        "start": 46.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      }
+    ],
+    "final_score": 8.04,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 144
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 101.2,
+        "end": 121.8,
+        "duration": 20.6,
+        "start_time_fmt": "01:41.20",
+        "end_time_fmt": "02:01.80"
+      }
+    ],
+    "total_duration": 20.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.0,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"I knew I had seen those eyes before.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"What a magnificent fall, Lady Juliana.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 101.2,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey."
+      },
+      {
+        "start": 101.5,
+        "end": 103.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I knew I had seen those eyes before."
+      },
+      {
+        "start": 104.2,
+        "end": 105.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The disgraced daughter..."
+      },
+      {
+        "start": 105.6,
+        "end": 107.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...the girl thrown out of her own family home."
+      },
+      {
+        "start": 107.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past."
+      },
+      {
+        "start": 108.1,
+        "end": 111.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The bride who married a penniless war veteran..."
+      },
+      {
+        "start": 111.1,
+        "end": 113.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...because no respectable man would have her."
+      },
+      {
+        "start": 113.0,
+        "end": 116.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty."
+      },
+      {
+        "start": 113.3,
+        "end": 115.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Do not speak about my husband!"
+      },
+      {
+        "start": 116.4,
+        "end": 122.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine throws her head back in derisive laughter, brandishing the herbarium book."
+      },
+      {
+        "start": 116.4,
+        "end": 119.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And look at you now. Scrubbing fireplaces in my house."
+      },
+      {
+        "start": 119.2,
+        "end": 121.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What a magnificent fall, Lady Juliana."
+      }
+    ],
+    "final_score": 8.0,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 152
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 66.8,
+        "end": 92.8,
+        "duration": 26.0,
+        "start_time_fmt": "01:06.80",
+        "end_time_fmt": "01:32.80"
+      }
+    ],
+    "total_duration": 26.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.93,
+    "hook": "BLOND NOBLEMAN shocks the viewer with an immediate confrontation: \"Take her away before she poisons the rest of this house.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Juliana...\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative."
+      },
+      {
+        "start": 67.2,
+        "end": 70.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Take her away before she poisons the rest of this house."
+      },
+      {
+        "start": 70.5,
+        "end": 72.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck."
+      },
+      {
+        "start": 70.8,
+        "end": 72.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine ruthlessly yanks the silver locket off Juliana's neck."
+      },
+      {
+        "start": 71.2,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No!"
+      },
+      {
+        "start": 72.0,
+        "end": 75.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain."
+      },
+      {
+        "start": 72.2,
+        "end": 75.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Where did a gutter rat like you find a silver locket?"
+      },
+      {
+        "start": 75.3,
+        "end": 78.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip."
+      },
+      {
+        "start": 75.4,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Give it back!"
+      },
+      {
+        "start": 76.8,
+        "end": 78.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It belonged to my mother!"
+      },
+      {
+        "start": 78.9,
+        "end": 82.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor."
+      },
+      {
+        "start": 79.0,
+        "end": 81.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "A witch has no need for family heirlooms in the gallows."
+      },
+      {
+        "start": 81.0,
+        "end": 82.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clatter as the silver pendant bounces against the wooden baseboard."
+      },
+      {
+        "start": 82.3,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket."
+      },
+      {
+        "start": 82.5,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My mother's locket!"
+      },
+      {
+        "start": 86.5,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages."
+      },
+      {
+        "start": 91.0,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine reading the elegant cursive script inside the front cover."
+      },
+      {
+        "start": 91.2,
+        "end": 92.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Juliana..."
+      }
+    ],
+    "final_score": 7.93,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 174
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 46.8,
+        "end": 97.0,
+        "duration": 50.2,
+        "start_time_fmt": "00:46.80",
+        "end_time_fmt": "01:37.00"
+      }
+    ],
+    "total_duration": 50.2,
+    "hook_strength": 8.8,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.92,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Let me help her!\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Juliana gasps in horror, realizing her secret identity has been laid bare.",
+    "why_it_works": "At 50s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 46.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      },
+      {
+        "start": 47.4,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back."
+      },
+      {
+        "start": 48.2,
+        "end": 49.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me help her!"
+      },
+      {
+        "start": 49.5,
+        "end": 52.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She's still weak, you cannot leave her like this!"
+      },
+      {
+        "start": 52.2,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You see?"
+      },
+      {
+        "start": 54.0,
+        "end": 56.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "The poison has clearly damaged her mind."
+      },
+      {
+        "start": 56.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed."
+      },
+      {
+        "start": 57.0,
+        "end": 58.7,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I am not delusional!"
+      },
+      {
+        "start": 58.6,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Of course you are not."
+      },
+      {
+        "start": 60.1,
+        "end": 61.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You are merely confused."
+      },
+      {
+        "start": 61.3,
+        "end": 66.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism."
+      },
+      {
+        "start": 61.6,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How convenient that the only person who can prove the poison exists..."
+      },
+      {
+        "start": 64.9,
+        "end": 66.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...is the maid who claims to have discovered it."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative."
+      },
+      {
+        "start": 67.2,
+        "end": 70.2,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Take her away before she poisons the rest of this house."
+      },
+      {
+        "start": 70.5,
+        "end": 72.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck."
+      },
+      {
+        "start": 70.8,
+        "end": 72.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine ruthlessly yanks the silver locket off Juliana's neck."
+      },
+      {
+        "start": 71.2,
+        "end": 72.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "No!"
+      },
+      {
+        "start": 72.0,
+        "end": 75.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain."
+      },
+      {
+        "start": 72.2,
+        "end": 75.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Where did a gutter rat like you find a silver locket?"
+      },
+      {
+        "start": 75.3,
+        "end": 78.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip."
+      },
+      {
+        "start": 75.4,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Give it back!"
+      },
+      {
+        "start": 76.8,
+        "end": 78.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It belonged to my mother!"
+      },
+      {
+        "start": 78.9,
+        "end": 82.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor."
+      },
+      {
+        "start": 79.0,
+        "end": 81.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "A witch has no need for family heirlooms in the gallows."
+      },
+      {
+        "start": 81.0,
+        "end": 82.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clatter as the silver pendant bounces against the wooden baseboard."
+      },
+      {
+        "start": 82.3,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket."
+      },
+      {
+        "start": 82.5,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My mother's locket!"
+      },
+      {
+        "start": 86.5,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages."
+      },
+      {
+        "start": 91.0,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine reading the elegant cursive script inside the front cover."
+      },
+      {
+        "start": 91.2,
+        "end": 92.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Juliana..."
+      },
+      {
+        "start": 93.8,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'."
+      },
+      {
+        "start": 95.0,
+        "end": 97.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book."
+      },
+      {
+        "start": 95.2,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+      }
+    ],
+    "final_score": 7.92,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 183
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 75.3,
+        "end": 97.0,
+        "duration": 21.7,
+        "start_time_fmt": "01:15.30",
+        "end_time_fmt": "01:37.00"
+      }
+    ],
+    "total_duration": 21.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.67,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Give it back!\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Juliana gasps in horror, realizing her secret identity has been laid bare.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 75.3,
+        "end": 78.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip."
+      },
+      {
+        "start": 75.4,
+        "end": 76.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Give it back!"
+      },
+      {
+        "start": 76.8,
+        "end": 78.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It belonged to my mother!"
+      },
+      {
+        "start": 78.9,
+        "end": 82.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor."
+      },
+      {
+        "start": 79.0,
+        "end": 81.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "A witch has no need for family heirlooms in the gallows."
+      },
+      {
+        "start": 81.0,
+        "end": 82.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clatter as the silver pendant bounces against the wooden baseboard."
+      },
+      {
+        "start": 82.3,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket."
+      },
+      {
+        "start": 82.5,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My mother's locket!"
+      },
+      {
+        "start": 86.5,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages."
+      },
+      {
+        "start": 91.0,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine reading the elegant cursive script inside the front cover."
+      },
+      {
+        "start": 91.2,
+        "end": 92.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Juliana..."
+      },
+      {
+        "start": 93.8,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'."
+      },
+      {
+        "start": 95.0,
+        "end": 97.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book."
+      },
+      {
+        "start": 95.2,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+      }
+    ],
+    "final_score": 7.67,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 285
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 34.9,
+        "end": 58.7,
+        "duration": 23.8,
+        "start_time_fmt": "00:34.90",
+        "end_time_fmt": "00:58.70"
+      }
+    ],
+    "total_duration": 23.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.27,
+    "hook": "DOWAGER DUCHESS shocks the viewer with an immediate confrontation: \"I know what happened to me!\"",
+    "cliffhanger": "Cuts sharply on DOWAGER DUCHESS's unresolved words: \"I am not delusional!\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 34.9,
+        "end": 37.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror."
+      },
+      {
+        "start": 35.0,
+        "end": 37.4,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I know what happened to me!"
+      },
+      {
+        "start": 37.7,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless."
+      },
+      {
+        "start": 38.2,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I was poisoned!"
+      },
+      {
+        "start": 40.3,
+        "end": 42.2,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "And you... you knew!"
+      },
+      {
+        "start": 43.0,
+        "end": 47.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine."
+      },
+      {
+        "start": 43.6,
+        "end": 45.3,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "Catherine knew!"
+      },
+      {
+        "start": 45.6,
+        "end": 47.0,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "They have been—"
+      },
+      {
+        "start": 46.8,
+        "end": 48.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      },
+      {
+        "start": 47.4,
+        "end": 52.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back."
+      },
+      {
+        "start": 48.2,
+        "end": 49.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me help her!"
+      },
+      {
+        "start": 49.5,
+        "end": 52.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She's still weak, you cannot leave her like this!"
+      },
+      {
+        "start": 52.2,
+        "end": 56.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "You see?"
+      },
+      {
+        "start": 54.0,
+        "end": 56.6,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "The poison has clearly damaged her mind."
+      },
+      {
+        "start": 56.8,
+        "end": 61.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed."
+      },
+      {
+        "start": 57.0,
+        "end": 58.7,
+        "type": "DIALOGUE",
+        "speaker": "DOWAGER DUCHESS",
+        "content": "I am not delusional!"
+      }
+    ],
+    "final_score": 7.27,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 481
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 82.3,
+        "end": 103.7,
+        "duration": 21.4,
+        "start_time_fmt": "01:22.30",
+        "end_time_fmt": "01:43.70"
+      }
+    ],
+    "total_duration": 21.4,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.5,
+    "composite_score": 7.12,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"My mother's locket!\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"I knew I had seen those eyes before.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 82.3,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket."
+      },
+      {
+        "start": 82.5,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My mother's locket!"
+      },
+      {
+        "start": 86.5,
+        "end": 91.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up."
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages."
+      },
+      {
+        "start": 91.0,
+        "end": 93.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine reading the elegant cursive script inside the front cover."
+      },
+      {
+        "start": 91.2,
+        "end": 92.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Juliana..."
+      },
+      {
+        "start": 93.8,
+        "end": 95.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'."
+      },
+      {
+        "start": 95.0,
+        "end": 97.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book."
+      },
+      {
+        "start": 95.2,
+        "end": 97.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+      },
+      {
+        "start": 97.4,
+        "end": 101.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face."
+      },
+      {
+        "start": 98.2,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft."
+      },
+      {
+        "start": 101.2,
+        "end": 107.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey."
+      },
+      {
+        "start": 101.5,
+        "end": 103.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I knew I had seen those eyes before."
+      }
+    ],
+    "final_score": 7.12,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 560
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 116.4,
+        "end": 138.5,
+        "duration": 22.1,
+        "start_time_fmt": "01:56.40",
+        "end_time_fmt": "02:18.50"
+      }
+    ],
+    "total_duration": 22.1,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.88,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"And look at you now. Scrubbing fireplaces in my house.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 116.4,
+        "end": 122.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine throws her head back in derisive laughter, brandishing the herbarium book."
+      },
+      {
+        "start": 116.4,
+        "end": 119.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And look at you now. Scrubbing fireplaces in my house."
+      },
+      {
+        "start": 119.2,
+        "end": 121.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What a magnificent fall, Lady Juliana."
+      },
+      {
+        "start": 122.0,
+        "end": 124.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert gesturing toward the exit with an outstretched arm."
+      },
+      {
+        "start": 122.0,
+        "end": 124.7,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Drag her to the wet cells beneath the south tower."
+      },
+      {
+        "start": 124.9,
+        "end": 128.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine fanning open the illustrated botanical pages of the herbarium with gloved fingers."
+      },
+      {
+        "start": 125.0,
+        "end": 125.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And this?"
+      },
+      {
+        "start": 125.9,
+        "end": 128.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This book of weeds will hang her before the magistrate."
+      },
+      {
+        "start": 128.8,
+        "end": 131.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the guard's grip, her arm reaching out toward the book."
+      },
+      {
+        "start": 129.1,
+        "end": 131.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That book is my mother's life's work!"
+      },
+      {
+        "start": 131.2,
+        "end": 136.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine smiling coldly, clutching the closed book against her bodice."
+      },
+      {
+        "start": 131.4,
+        "end": 134.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then perhaps you can explain every page to the magistrate..."
+      },
+      {
+        "start": 134.6,
+        "end": 136.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...before he sends you to the gallows."
+      },
+      {
+        "start": 136.8,
+        "end": 138.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 675
+  },
+  {
+    "episode": 28,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 28,
+        "start": 0.0,
+        "end": 20.3,
+        "duration": 20.3,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:20.30"
+      }
+    ],
+    "total_duration": 20.3,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 6.1,
+    "hook": "Opens with immediate physical drama: Juliana struggles against the guard's grip; the leather-bound herbarium slips from her apron pocket and falls to the stone floor.",
+    "cliffhanger": "Cuts sharply on BLOND NOBLEMAN's unresolved words: \"A clever story, girl.\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 2.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the guard drags Juliana toward the doorway, wrestling her backward."
+      },
+      {
+        "start": 0.0,
+        "end": 2.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana struggles against the guard's grip; the leather-bound herbarium slips from her apron pocket and falls to the stone floor."
+      },
+      {
+        "start": 1.8,
+        "end": 3.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy thud of the leather journal hitting the polished floor."
+      },
+      {
+        "start": 2.3,
+        "end": 4.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of the leather-bound herbarium on the floor as Catherine's silk slipper steps down hard upon its embossed cover."
+      },
+      {
+        "start": 3.2,
+        "end": 4.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine plants her embroidered shoe deliberately atop the fallen book."
+      },
+      {
+        "start": 4.7,
+        "end": 10.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot tracking Catherine as she strides gracefully across the chamber toward Juliana, Rupert standing stoically behind her near the bed."
+      },
+      {
+        "start": 4.9,
+        "end": 6.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Look at her, Rupert."
+      },
+      {
+        "start": 6.6,
+        "end": 8.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Soot on her face..."
+      },
+      {
+        "start": 8.2,
+        "end": 12.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot from behind Catherine as she faces Juliana, who is pinned in the doorway by the guard."
+      },
+      {
+        "start": 8.4,
+        "end": 10.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...herbs in her pockets..."
+      },
+      {
+        "start": 10.2,
+        "end": 12.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...a secret medicine in her hand."
+      },
+      {
+        "start": 12.6,
+        "end": 15.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure."
+      },
+      {
+        "start": 12.7,
+        "end": 15.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "She looks exactly like a poisoner."
+      },
+      {
+        "start": 15.2,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder."
+      },
+      {
+        "start": 15.3,
+        "end": 18.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I did not poison her! Look at her eyes, the fever has broken!"
+      },
+      {
+        "start": 18.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves."
+      },
+      {
+        "start": 18.9,
+        "end": 20.3,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "A clever story, girl."
+      }
+    ],
+    "final_score": 6.1,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 873
+  }
+]

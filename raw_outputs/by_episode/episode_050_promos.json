@@ -1,0 +1,1100 @@
+[
+  {
+    "episode": 50,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 50,
+        "start": 30.5,
+        "end": 56.5,
+        "duration": 26.0,
+        "start_time_fmt": "00:30.50",
+        "end_time_fmt": "00:56.50"
+      }
+    ],
+    "total_duration": 26.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.7,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"Absolution is free. Discretion has a price.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"In another room no one uses?\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 30.5,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "start": 31.0,
+        "end": 35.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Absolution is free. Discretion has a price."
+      },
+      {
+        "start": 35.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek."
+      },
+      {
+        "start": 36.5,
+        "end": 39.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Unsupervised. In your hands alone."
+      },
+      {
+        "start": 39.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck."
+      },
+      {
+        "start": 40.4,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "For as long as it holds."
+      },
+      {
+        "start": 43.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger."
+      },
+      {
+        "start": 43.2,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Done. You told yourself this ends when the hearing does."
+      },
+      {
+        "start": 48.5,
+        "end": 54.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger."
+      },
+      {
+        "start": 49.8,
+        "end": 54.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "I've told myself that since the dawn in your bedchamber, and here we are again."
+      },
+      {
+        "start": 54.5,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles."
+      },
+      {
+        "start": 54.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "In another room no one uses?"
+      }
+    ],
+    "final_score": 7.7,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 277
+  },
+  {
+    "episode": 50,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 50,
+        "start": 11.8,
+        "end": 56.5,
+        "duration": 44.7,
+        "start_time_fmt": "00:11.80",
+        "end_time_fmt": "00:56.50"
+      }
+    ],
+    "total_duration": 44.7,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.61,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Then let's stop pretending this was only appetite.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"In another room no one uses?\", leaving the outcome hanging.",
+    "why_it_works": "At 45s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 11.8,
+        "end": 15.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up pushing in on Catherine as she leans lower over his face, her gaze sharpening with dangerous intimacy."
+      },
+      {
+        "start": 12.0,
+        "end": 15.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then let's stop pretending this was only appetite."
+      },
+      {
+        "start": 15.8,
+        "end": 18.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists."
+      },
+      {
+        "start": 16.8,
+        "end": 18.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Name your price."
+      },
+      {
+        "start": 18.8,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart."
+      },
+      {
+        "start": 19.4,
+        "end": 25.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "The west territory. Tax collection, all of it. Routed through my office."
+      },
+      {
+        "start": 26.5,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief."
+      },
+      {
+        "start": 27.2,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "That's not absolution, Thomas. That's a fortune."
+      },
+      {
+        "start": 30.5,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "start": 31.0,
+        "end": 35.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Absolution is free. Discretion has a price."
+      },
+      {
+        "start": 35.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek."
+      },
+      {
+        "start": 36.5,
+        "end": 39.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Unsupervised. In your hands alone."
+      },
+      {
+        "start": 39.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck."
+      },
+      {
+        "start": 40.4,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "For as long as it holds."
+      },
+      {
+        "start": 43.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger."
+      },
+      {
+        "start": 43.2,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Done. You told yourself this ends when the hearing does."
+      },
+      {
+        "start": 48.5,
+        "end": 54.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger."
+      },
+      {
+        "start": 49.8,
+        "end": 54.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "I've told myself that since the dawn in your bedchamber, and here we are again."
+      },
+      {
+        "start": 54.5,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles."
+      },
+      {
+        "start": 54.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "In another room no one uses?"
+      }
+    ],
+    "final_score": 7.61,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 318
+  },
+  {
+    "episode": 50,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 50,
+        "start": 30.5,
+        "end": 78.5,
+        "duration": 48.0,
+        "start_time_fmt": "00:30.50",
+        "end_time_fmt": "01:18.50"
+      }
+    ],
+    "total_duration": 48.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.52,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"Absolution is free. Discretion has a price.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Agnes's jaw drops open in shock as she stifles a cry.",
+    "why_it_works": "At 48s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 30.5,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "start": 31.0,
+        "end": 35.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Absolution is free. Discretion has a price."
+      },
+      {
+        "start": 35.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek."
+      },
+      {
+        "start": 36.5,
+        "end": 39.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Unsupervised. In your hands alone."
+      },
+      {
+        "start": 39.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck."
+      },
+      {
+        "start": 40.4,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "For as long as it holds."
+      },
+      {
+        "start": 43.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger."
+      },
+      {
+        "start": 43.2,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Done. You told yourself this ends when the hearing does."
+      },
+      {
+        "start": 48.5,
+        "end": 54.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger."
+      },
+      {
+        "start": 49.8,
+        "end": 54.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "I've told myself that since the dawn in your bedchamber, and here we are again."
+      },
+      {
+        "start": 54.5,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles."
+      },
+      {
+        "start": 54.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "In another room no one uses?"
+      },
+      {
+        "start": 56.8,
+        "end": 59.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Perhaps I like rooms no one uses."
+      },
+      {
+        "start": 59.8,
+        "end": 65.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer."
+      },
+      {
+        "start": 60.3,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Or perhaps discretion isn't the only thing you've developed a taste for."
+      },
+      {
+        "start": 65.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Father Thomas pulls Catherine into a fierce, suffocating embrace, burying his face in her neck while she clings to his broad shoulders."
+      },
+      {
+        "start": 65.8,
+        "end": 70.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine closes her eyes in surrender as Father Thomas holds her tight against his naked chest, lost in their forbidden entanglement."
+      },
+      {
+        "start": 70.5,
+        "end": 73.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, holding a black iron lantern."
+      },
+      {
+        "start": 70.8,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Agnes scans the desolate hallway nervously, her lantern casting elongated shadows against the wall."
+      },
+      {
+        "start": 73.5,
+        "end": 76.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot behind Agnes as she stops dead in front of an open doorway, peering inside."
+      },
+      {
+        "start": 74.0,
+        "end": 76.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed."
+      },
+      {
+        "start": 76.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Agnes's face, drained of all color, her eyes bulging in pure terror."
+      },
+      {
+        "start": 76.8,
+        "end": 78.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Agnes's jaw drops open in shock as she stifles a cry."
+      }
+    ],
+    "final_score": 7.52,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 363
+  },
+  {
+    "episode": 50,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 50,
+        "start": 11.8,
+        "end": 35.0,
+        "duration": 23.2,
+        "start_time_fmt": "00:11.80",
+        "end_time_fmt": "00:35.00"
+      }
+    ],
+    "total_duration": 23.2,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.26,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Then let's stop pretending this was only appetite.\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"Absolution is free. Discretion has a price.\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 11.8,
+        "end": 15.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up pushing in on Catherine as she leans lower over his face, her gaze sharpening with dangerous intimacy."
+      },
+      {
+        "start": 12.0,
+        "end": 15.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then let's stop pretending this was only appetite."
+      },
+      {
+        "start": 15.8,
+        "end": 18.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists."
+      },
+      {
+        "start": 16.8,
+        "end": 18.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Name your price."
+      },
+      {
+        "start": 18.8,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart."
+      },
+      {
+        "start": 19.4,
+        "end": 25.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "The west territory. Tax collection, all of it. Routed through my office."
+      },
+      {
+        "start": 26.5,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief."
+      },
+      {
+        "start": 27.2,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "That's not absolution, Thomas. That's a fortune."
+      },
+      {
+        "start": 30.5,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "start": 31.0,
+        "end": 35.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Absolution is free. Discretion has a price."
+      }
+    ],
+    "final_score": 7.26,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 489
+  },
+  {
+    "episode": 50,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 50,
+        "start": 49.8,
+        "end": 78.5,
+        "duration": 28.7,
+        "start_time_fmt": "00:49.80",
+        "end_time_fmt": "01:18.50"
+      }
+    ],
+    "total_duration": 28.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 7.0,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"I've told myself that since the dawn in your bedchamber, and here we are again.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Agnes's jaw drops open in shock as she stifles a cry.",
+    "why_it_works": "At 29s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 49.8,
+        "end": 54.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "I've told myself that since the dawn in your bedchamber, and here we are again."
+      },
+      {
+        "start": 54.5,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles."
+      },
+      {
+        "start": 54.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "In another room no one uses?"
+      },
+      {
+        "start": 56.8,
+        "end": 59.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Perhaps I like rooms no one uses."
+      },
+      {
+        "start": 59.8,
+        "end": 65.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer."
+      },
+      {
+        "start": 60.3,
+        "end": 64.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Or perhaps discretion isn't the only thing you've developed a taste for."
+      },
+      {
+        "start": 65.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Father Thomas pulls Catherine into a fierce, suffocating embrace, burying his face in her neck while she clings to his broad shoulders."
+      },
+      {
+        "start": 65.8,
+        "end": 70.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine closes her eyes in surrender as Father Thomas holds her tight against his naked chest, lost in their forbidden entanglement."
+      },
+      {
+        "start": 70.5,
+        "end": 73.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, holding a black iron lantern."
+      },
+      {
+        "start": 70.8,
+        "end": 73.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Agnes scans the desolate hallway nervously, her lantern casting elongated shadows against the wall."
+      },
+      {
+        "start": 73.5,
+        "end": 76.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot behind Agnes as she stops dead in front of an open doorway, peering inside."
+      },
+      {
+        "start": 74.0,
+        "end": 76.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed."
+      },
+      {
+        "start": 76.5,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Agnes's face, drained of all color, her eyes bulging in pure terror."
+      },
+      {
+        "start": 76.8,
+        "end": 78.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Agnes's jaw drops open in shock as she stifles a cry."
+      }
+    ],
+    "final_score": 7.0,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 620
+  },
+  {
+    "episode": 50,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 50,
+        "start": 18.8,
+        "end": 39.8,
+        "duration": 21.0,
+        "start_time_fmt": "00:18.80",
+        "end_time_fmt": "00:39.80"
+      }
+    ],
+    "total_duration": 21.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.5,
+    "composite_score": 6.8,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"The west territory. Tax collection, all of it. Routed through my office.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 18.8,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart."
+      },
+      {
+        "start": 19.4,
+        "end": 25.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "The west territory. Tax collection, all of it. Routed through my office."
+      },
+      {
+        "start": 26.5,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief."
+      },
+      {
+        "start": 27.2,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "That's not absolution, Thomas. That's a fortune."
+      },
+      {
+        "start": 30.5,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "start": 31.0,
+        "end": 35.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Absolution is free. Discretion has a price."
+      },
+      {
+        "start": 35.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek."
+      }
+    ],
+    "final_score": 6.8,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 705
+  },
+  {
+    "episode": 50,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 50,
+        "start": 26.5,
+        "end": 48.5,
+        "duration": 22.0,
+        "start_time_fmt": "00:26.50",
+        "end_time_fmt": "00:48.50"
+      }
+    ],
+    "total_duration": 22.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.5,
+    "composite_score": 6.8,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"That's not absolution, Thomas. That's a fortune.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 26.5,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief."
+      },
+      {
+        "start": 27.2,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "That's not absolution, Thomas. That's a fortune."
+      },
+      {
+        "start": 30.5,
+        "end": 35.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "start": 31.0,
+        "end": 35.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Absolution is free. Discretion has a price."
+      },
+      {
+        "start": 35.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek."
+      },
+      {
+        "start": 36.5,
+        "end": 39.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Unsupervised. In your hands alone."
+      },
+      {
+        "start": 39.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck."
+      },
+      {
+        "start": 40.4,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "For as long as it holds."
+      },
+      {
+        "start": 43.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger."
+      }
+    ],
+    "final_score": 6.8,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 706
+  },
+  {
+    "episode": 50,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 50,
+        "start": 1.8,
+        "end": 30.5,
+        "duration": 28.7,
+        "start_time_fmt": "00:01.80",
+        "end_time_fmt": "00:30.50"
+      }
+    ],
+    "total_duration": 28.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"A man in your collar isn't supposed to have that much left in him, Thomas.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief.",
+    "why_it_works": "At 29s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 1.8,
+        "end": 7.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium close-up on Catherine looking down adoringly into Father Thomas's face, a single candle flickering in the dark background."
+      },
+      {
+        "start": 1.8,
+        "end": 5.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "A man in your collar isn't supposed to have that much left in him, Thomas."
+      },
+      {
+        "start": 5.8,
+        "end": 7.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine runs her hand gently down his chest, smiling with triumphant affection."
+      },
+      {
+        "start": 7.0,
+        "end": 11.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas turning his head toward her on the pillow, his voice raspy and dry."
+      },
+      {
+        "start": 7.2,
+        "end": 11.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "A man in my collar isn't supposed to be in this bed at all."
+      },
+      {
+        "start": 11.8,
+        "end": 15.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up pushing in on Catherine as she leans lower over his face, her gaze sharpening with dangerous intimacy."
+      },
+      {
+        "start": 12.0,
+        "end": 15.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then let's stop pretending this was only appetite."
+      },
+      {
+        "start": 15.8,
+        "end": 18.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists."
+      },
+      {
+        "start": 16.8,
+        "end": 18.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Name your price."
+      },
+      {
+        "start": 18.8,
+        "end": 26.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart."
+      },
+      {
+        "start": 19.4,
+        "end": 25.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "The west territory. Tax collection, all of it. Routed through my office."
+      },
+      {
+        "start": 26.5,
+        "end": 30.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 758
+  },
+  {
+    "episode": 50,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 50,
+        "start": 39.8,
+        "end": 65.5,
+        "duration": 25.7,
+        "start_time_fmt": "00:39.80",
+        "end_time_fmt": "01:05.50"
+      }
+    ],
+    "total_duration": 25.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"For as long as it holds.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 39.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck."
+      },
+      {
+        "start": 40.4,
+        "end": 42.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "For as long as it holds."
+      },
+      {
+        "start": 43.0,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger."
+      },
+      {
+        "start": 43.2,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Done. You told yourself this ends when the hearing does."
+      },
+      {
+        "start": 48.5,
+        "end": 54.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger."
+      },
+      {
+        "start": 49.8,
+        "end": 54.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "I've told myself that since the dawn in your bedchamber, and here we are again."
+      },
+      {
+        "start": 54.5,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles."
+      },
+      {
+        "start": 54.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "In another room no one uses?"
+      },
+      {
+        "start": 56.8,
+        "end": 59.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Perhaps I like rooms no one uses."
+      },
+      {
+        "start": 59.8,
+        "end": 65.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 759
+  }
+]

@@ -1,0 +1,2926 @@
+[
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 40.0,
+        "end": 78.1,
+        "duration": 38.1,
+        "start_time_fmt": "00:40.00",
+        "end_time_fmt": "01:18.10"
+      }
+    ],
+    "total_duration": 38.1,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.71,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You know that is a lie!\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"What exactly do you think a penniless veteran can do against Ashbrook?\", leaving the outcome hanging.",
+    "why_it_works": "At 38s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 40.0,
+        "end": 41.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation."
+      },
+      {
+        "start": 40.1,
+        "end": 41.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You know that is a lie!"
+      },
+      {
+        "start": 41.9,
+        "end": 44.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine lifting her chin arrogantly against the stone backdrop."
+      },
+      {
+        "start": 42.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I know exactly what I need him to believe."
+      },
+      {
+        "start": 44.3,
+        "end": 46.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the two guards."
+      },
+      {
+        "start": 44.4,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot just destroy it!"
+      },
+      {
+        "start": 46.9,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze."
+      },
+      {
+        "start": 47.3,
+        "end": 49.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I can burn it."
+      },
+      {
+        "start": 49.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's stricken expression, her eyes widening in horror."
+      },
+      {
+        "start": 50.1,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And when they find your corpse at the end of the rope..."
+      },
+      {
+        "start": 53.6,
+        "end": 56.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side close-up of Catherine leaning slightly forward, her voice low and merciless."
+      },
+      {
+        "start": 53.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...no one will remember what was written inside."
+      },
+      {
+        "start": 56.6,
+        "end": 59.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana screaming back in raw outrage."
+      },
+      {
+        "start": 56.7,
+        "end": 59.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are doing this because I saved the Duchess!"
+      },
+      {
+        "start": 59.2,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features."
+      },
+      {
+        "start": 59.3,
+        "end": 63.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I am doing this because women like you forget their place."
+      },
+      {
+        "start": 63.8,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick pan from Juliana's apron up to Catherine's face."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You were cast out once."
+      },
+      {
+        "start": 67.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Catherine's smiling lips and cold blue eyes."
+      },
+      {
+        "start": 67.2,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You should have stayed forgotten."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears."
+      },
+      {
+        "start": 69.8,
+        "end": 71.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My husband will find me."
+      },
+      {
+        "start": 71.8,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine letting out a scornful laugh, tilting her head."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your scarred soldier?"
+      },
+      {
+        "start": 74.3,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into sharp mockery."
+      },
+      {
+        "start": 74.7,
+        "end": 78.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What exactly do you think a penniless veteran can do against Ashbrook?"
+      }
+    ],
+    "final_score": 8.71,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 15
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 7.4,
+        "end": 46.5,
+        "duration": 39.1,
+        "start_time_fmt": "00:07.40",
+        "end_time_fmt": "00:46.50"
+      }
+    ],
+    "total_duration": 39.1,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.42,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Catherine! Please! That book is my mother's only legacy!\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"You cannot just destroy it!\", leaving the outcome hanging.",
+    "why_it_works": "At 39s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 7.4,
+        "end": 11.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's tearful face as she reaches an arm out toward Catherine in anguish."
+      },
+      {
+        "start": 7.4,
+        "end": 11.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Catherine! Please! That book is my mother's only legacy!"
+      },
+      {
+        "start": 11.7,
+        "end": 13.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot from behind Catherine as she stands motionless, watching Juliana being dragged away."
+      },
+      {
+        "start": 13.2,
+        "end": 17.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana turning her head back toward Catherine, screaming through tears."
+      },
+      {
+        "start": 13.2,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It contains years of her work! Her knowledge! Everything she left me!"
+      },
+      {
+        "start": 17.3,
+        "end": 20.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Catherine turning gracefully on the dungeon steps, holding the book loosely at her side."
+      },
+      {
+        "start": 20.1,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up pushing in on Catherine as she presents the worn botanical book with both gloved hands."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your mother's little book of weeds?"
+      },
+      {
+        "start": 24.8,
+        "end": 26.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You still call this a legacy?"
+      },
+      {
+        "start": 26.8,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana held firmly between the guards, glaring back with fierce defiance."
+      },
+      {
+        "start": 27.1,
+        "end": 28.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is medicine!"
+      },
+      {
+        "start": 28.9,
+        "end": 31.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine smiling condescendingly."
+      },
+      {
+        "start": 30.4,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Of course."
+      },
+      {
+        "start": 31.9,
+        "end": 37.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations."
+      },
+      {
+        "start": 31.9,
+        "end": 37.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand."
+      },
+      {
+        "start": 37.4,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The magistrate will call it witchcraft."
+      },
+      {
+        "start": 40.0,
+        "end": 41.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation."
+      },
+      {
+        "start": 40.1,
+        "end": 41.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You know that is a lie!"
+      },
+      {
+        "start": 41.9,
+        "end": 44.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine lifting her chin arrogantly against the stone backdrop."
+      },
+      {
+        "start": 42.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I know exactly what I need him to believe."
+      },
+      {
+        "start": 44.3,
+        "end": 46.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the two guards."
+      },
+      {
+        "start": 44.4,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot just destroy it!"
+      }
+    ],
+    "final_score": 8.42,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 48
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 56.6,
+        "end": 78.1,
+        "duration": 21.5,
+        "start_time_fmt": "00:56.60",
+        "end_time_fmt": "01:18.10"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.35,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You are doing this because I saved the Duchess!\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"What exactly do you think a penniless veteran can do against Ashbrook?\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 56.6,
+        "end": 59.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana screaming back in raw outrage."
+      },
+      {
+        "start": 56.7,
+        "end": 59.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are doing this because I saved the Duchess!"
+      },
+      {
+        "start": 59.2,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features."
+      },
+      {
+        "start": 59.3,
+        "end": 63.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I am doing this because women like you forget their place."
+      },
+      {
+        "start": 63.8,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick pan from Juliana's apron up to Catherine's face."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You were cast out once."
+      },
+      {
+        "start": 67.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Catherine's smiling lips and cold blue eyes."
+      },
+      {
+        "start": 67.2,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You should have stayed forgotten."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears."
+      },
+      {
+        "start": 69.8,
+        "end": 71.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My husband will find me."
+      },
+      {
+        "start": 71.8,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine letting out a scornful laugh, tilting her head."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your scarred soldier?"
+      },
+      {
+        "start": 74.3,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into sharp mockery."
+      },
+      {
+        "start": 74.7,
+        "end": 78.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What exactly do you think a penniless veteran can do against Ashbrook?"
+      }
+    ],
+    "final_score": 8.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 61
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 24.8,
+        "end": 46.5,
+        "duration": 21.7,
+        "start_time_fmt": "00:24.80",
+        "end_time_fmt": "00:46.50"
+      }
+    ],
+    "total_duration": 21.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 8.12,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"You still call this a legacy?\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"You cannot just destroy it!\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 24.8,
+        "end": 26.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You still call this a legacy?"
+      },
+      {
+        "start": 26.8,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana held firmly between the guards, glaring back with fierce defiance."
+      },
+      {
+        "start": 27.1,
+        "end": 28.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is medicine!"
+      },
+      {
+        "start": 28.9,
+        "end": 31.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine smiling condescendingly."
+      },
+      {
+        "start": 30.4,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Of course."
+      },
+      {
+        "start": 31.9,
+        "end": 37.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations."
+      },
+      {
+        "start": 31.9,
+        "end": 37.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand."
+      },
+      {
+        "start": 37.4,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The magistrate will call it witchcraft."
+      },
+      {
+        "start": 40.0,
+        "end": 41.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation."
+      },
+      {
+        "start": 40.1,
+        "end": 41.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You know that is a lie!"
+      },
+      {
+        "start": 41.9,
+        "end": 44.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine lifting her chin arrogantly against the stone backdrop."
+      },
+      {
+        "start": 42.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I know exactly what I need him to believe."
+      },
+      {
+        "start": 44.3,
+        "end": 46.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the two guards."
+      },
+      {
+        "start": 44.4,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot just destroy it!"
+      }
+    ],
+    "final_score": 8.12,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 106
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 7.4,
+        "end": 28.7,
+        "duration": 21.3,
+        "start_time_fmt": "00:07.40",
+        "end_time_fmt": "00:28.70"
+      }
+    ],
+    "total_duration": 21.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Catherine! Please! That book is my mother's only legacy!\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"It is medicine!\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 7.4,
+        "end": 11.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's tearful face as she reaches an arm out toward Catherine in anguish."
+      },
+      {
+        "start": 7.4,
+        "end": 11.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Catherine! Please! That book is my mother's only legacy!"
+      },
+      {
+        "start": 11.7,
+        "end": 13.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot from behind Catherine as she stands motionless, watching Juliana being dragged away."
+      },
+      {
+        "start": 13.2,
+        "end": 17.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana turning her head back toward Catherine, screaming through tears."
+      },
+      {
+        "start": 13.2,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It contains years of her work! Her knowledge! Everything she left me!"
+      },
+      {
+        "start": 17.3,
+        "end": 20.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Catherine turning gracefully on the dungeon steps, holding the book loosely at her side."
+      },
+      {
+        "start": 20.1,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up pushing in on Catherine as she presents the worn botanical book with both gloved hands."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your mother's little book of weeds?"
+      },
+      {
+        "start": 24.8,
+        "end": 26.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You still call this a legacy?"
+      },
+      {
+        "start": 26.8,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana held firmly between the guards, glaring back with fierce defiance."
+      },
+      {
+        "start": 27.1,
+        "end": 28.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is medicine!"
+      }
+    ],
+    "final_score": 8.07,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 122
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 20.1,
+        "end": 59.0,
+        "duration": 38.9,
+        "start_time_fmt": "00:20.10",
+        "end_time_fmt": "00:59.00"
+      }
+    ],
+    "total_duration": 38.9,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Your mother's little book of weeds?\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"You are doing this because I saved the Duchess!\", leaving the outcome hanging.",
+    "why_it_works": "At 39s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 20.1,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up pushing in on Catherine as she presents the worn botanical book with both gloved hands."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your mother's little book of weeds?"
+      },
+      {
+        "start": 24.8,
+        "end": 26.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You still call this a legacy?"
+      },
+      {
+        "start": 26.8,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana held firmly between the guards, glaring back with fierce defiance."
+      },
+      {
+        "start": 27.1,
+        "end": 28.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It is medicine!"
+      },
+      {
+        "start": 28.9,
+        "end": 31.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine smiling condescendingly."
+      },
+      {
+        "start": 30.4,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Of course."
+      },
+      {
+        "start": 31.9,
+        "end": 37.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations."
+      },
+      {
+        "start": 31.9,
+        "end": 37.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand."
+      },
+      {
+        "start": 37.4,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The magistrate will call it witchcraft."
+      },
+      {
+        "start": 40.0,
+        "end": 41.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation."
+      },
+      {
+        "start": 40.1,
+        "end": 41.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You know that is a lie!"
+      },
+      {
+        "start": 41.9,
+        "end": 44.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine lifting her chin arrogantly against the stone backdrop."
+      },
+      {
+        "start": 42.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I know exactly what I need him to believe."
+      },
+      {
+        "start": 44.3,
+        "end": 46.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the two guards."
+      },
+      {
+        "start": 44.4,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot just destroy it!"
+      },
+      {
+        "start": 46.9,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze."
+      },
+      {
+        "start": 47.3,
+        "end": 49.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I can burn it."
+      },
+      {
+        "start": 49.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's stricken expression, her eyes widening in horror."
+      },
+      {
+        "start": 50.1,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And when they find your corpse at the end of the rope..."
+      },
+      {
+        "start": 53.6,
+        "end": 56.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side close-up of Catherine leaning slightly forward, her voice low and merciless."
+      },
+      {
+        "start": 53.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...no one will remember what was written inside."
+      },
+      {
+        "start": 56.6,
+        "end": 59.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana screaming back in raw outrage."
+      },
+      {
+        "start": 56.7,
+        "end": 59.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are doing this because I saved the Duchess!"
+      }
+    ],
+    "final_score": 8.07,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 123
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 44.3,
+        "end": 102.3,
+        "duration": 58.0,
+        "start_time_fmt": "00:44.30",
+        "end_time_fmt": "01:42.30"
+      }
+    ],
+    "total_duration": 58.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You cannot just destroy it!\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I saved her! I healed her!\", leaving the outcome hanging.",
+    "why_it_works": "At 58s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 44.3,
+        "end": 46.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the two guards."
+      },
+      {
+        "start": 44.4,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot just destroy it!"
+      },
+      {
+        "start": 46.9,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze."
+      },
+      {
+        "start": 47.3,
+        "end": 49.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I can burn it."
+      },
+      {
+        "start": 49.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's stricken expression, her eyes widening in horror."
+      },
+      {
+        "start": 50.1,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And when they find your corpse at the end of the rope..."
+      },
+      {
+        "start": 53.6,
+        "end": 56.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side close-up of Catherine leaning slightly forward, her voice low and merciless."
+      },
+      {
+        "start": 53.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...no one will remember what was written inside."
+      },
+      {
+        "start": 56.6,
+        "end": 59.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana screaming back in raw outrage."
+      },
+      {
+        "start": 56.7,
+        "end": 59.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are doing this because I saved the Duchess!"
+      },
+      {
+        "start": 59.2,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features."
+      },
+      {
+        "start": 59.3,
+        "end": 63.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I am doing this because women like you forget their place."
+      },
+      {
+        "start": 63.8,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick pan from Juliana's apron up to Catherine's face."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You were cast out once."
+      },
+      {
+        "start": 67.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Catherine's smiling lips and cold blue eyes."
+      },
+      {
+        "start": 67.2,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You should have stayed forgotten."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears."
+      },
+      {
+        "start": 69.8,
+        "end": 71.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My husband will find me."
+      },
+      {
+        "start": 71.8,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine letting out a scornful laugh, tilting her head."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your scarred soldier?"
+      },
+      {
+        "start": 74.3,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into sharp mockery."
+      },
+      {
+        "start": 74.7,
+        "end": 78.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What exactly do you think a penniless veteran can do against Ashbrook?"
+      },
+      {
+        "start": 78.5,
+        "end": 80.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the guard clamps a heavy hand on Juliana's shoulder, shoving her forward."
+      },
+      {
+        "start": 78.7,
+        "end": 80.6,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Move along, girl."
+      },
+      {
+        "start": 80.9,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot tracking behind the guards as they march Juliana down the vaulted, puddle-strewn corridor toward the heavy iron cell door."
+      },
+      {
+        "start": 83.0,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot inside the pitch-dark cell as the heavy iron door swings open."
+      },
+      {
+        "start": 84.0,
+        "end": 86.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor."
+      },
+      {
+        "start": 85.7,
+        "end": 86.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please!"
+      },
+      {
+        "start": 86.5,
+        "end": 88.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the locked iron door, deadlocked in total isolation."
+      },
+      {
+        "start": 88.8,
+        "end": 93.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana kneeling on the floor, clutching her chest as hyperventilation overtakes her."
+      },
+      {
+        "start": 89.5,
+        "end": 93.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her."
+      },
+      {
+        "start": 93.7,
+        "end": 96.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's tear-drenched face crumpling in overwhelming grief."
+      },
+      {
+        "start": 94.2,
+        "end": 95.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother..."
+      },
+      {
+        "start": 96.1,
+        "end": 99.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana pushes herself off the wet stone floor and dashes toward the barred wicket of the heavy door."
+      },
+      {
+        "start": 97.3,
+        "end": 99.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have done nothing!"
+      },
+      {
+        "start": 99.6,
+        "end": 102.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up of Juliana gripping the rusted iron bars, screaming out into the empty stone corridor."
+      },
+      {
+        "start": 99.7,
+        "end": 102.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved her! I healed her!"
+      }
+    ],
+    "final_score": 8.07,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 124
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 69.5,
+        "end": 99.5,
+        "duration": 30.0,
+        "start_time_fmt": "01:09.50",
+        "end_time_fmt": "01:39.50"
+      }
+    ],
+    "total_duration": 30.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.92,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"My husband will find me.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I have done nothing!\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears."
+      },
+      {
+        "start": 69.8,
+        "end": 71.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My husband will find me."
+      },
+      {
+        "start": 71.8,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine letting out a scornful laugh, tilting her head."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your scarred soldier?"
+      },
+      {
+        "start": 74.3,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into sharp mockery."
+      },
+      {
+        "start": 74.7,
+        "end": 78.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What exactly do you think a penniless veteran can do against Ashbrook?"
+      },
+      {
+        "start": 78.5,
+        "end": 80.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the guard clamps a heavy hand on Juliana's shoulder, shoving her forward."
+      },
+      {
+        "start": 78.7,
+        "end": 80.6,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Move along, girl."
+      },
+      {
+        "start": 80.9,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot tracking behind the guards as they march Juliana down the vaulted, puddle-strewn corridor toward the heavy iron cell door."
+      },
+      {
+        "start": 83.0,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot inside the pitch-dark cell as the heavy iron door swings open."
+      },
+      {
+        "start": 84.0,
+        "end": 86.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor."
+      },
+      {
+        "start": 85.7,
+        "end": 86.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please!"
+      },
+      {
+        "start": 86.5,
+        "end": 88.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the locked iron door, deadlocked in total isolation."
+      },
+      {
+        "start": 88.8,
+        "end": 93.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana kneeling on the floor, clutching her chest as hyperventilation overtakes her."
+      },
+      {
+        "start": 89.5,
+        "end": 93.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her."
+      },
+      {
+        "start": 93.7,
+        "end": 96.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's tear-drenched face crumpling in overwhelming grief."
+      },
+      {
+        "start": 94.2,
+        "end": 95.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother..."
+      },
+      {
+        "start": 96.1,
+        "end": 99.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana pushes herself off the wet stone floor and dashes toward the barred wicket of the heavy door."
+      },
+      {
+        "start": 97.3,
+        "end": 99.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have done nothing!"
+      }
+    ],
+    "final_score": 7.92,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 184
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 37.4,
+        "end": 59.0,
+        "duration": 21.6,
+        "start_time_fmt": "00:37.40",
+        "end_time_fmt": "00:59.00"
+      }
+    ],
+    "total_duration": 21.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.77,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"The magistrate will call it witchcraft.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"You are doing this because I saved the Duchess!\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 37.4,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The magistrate will call it witchcraft."
+      },
+      {
+        "start": 40.0,
+        "end": 41.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation."
+      },
+      {
+        "start": 40.1,
+        "end": 41.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You know that is a lie!"
+      },
+      {
+        "start": 41.9,
+        "end": 44.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine lifting her chin arrogantly against the stone backdrop."
+      },
+      {
+        "start": 42.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I know exactly what I need him to believe."
+      },
+      {
+        "start": 44.3,
+        "end": 46.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the two guards."
+      },
+      {
+        "start": 44.4,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot just destroy it!"
+      },
+      {
+        "start": 46.9,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze."
+      },
+      {
+        "start": 47.3,
+        "end": 49.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I can burn it."
+      },
+      {
+        "start": 49.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's stricken expression, her eyes widening in horror."
+      },
+      {
+        "start": 50.1,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And when they find your corpse at the end of the rope..."
+      },
+      {
+        "start": 53.6,
+        "end": 56.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side close-up of Catherine leaning slightly forward, her voice low and merciless."
+      },
+      {
+        "start": 53.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...no one will remember what was written inside."
+      },
+      {
+        "start": 56.6,
+        "end": 59.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana screaming back in raw outrage."
+      },
+      {
+        "start": 56.7,
+        "end": 59.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are doing this because I saved the Duchess!"
+      }
+    ],
+    "final_score": 7.77,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 240
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 84.0,
+        "end": 105.3,
+        "duration": 21.3,
+        "start_time_fmt": "01:24.00",
+        "end_time_fmt": "01:45.30"
+      }
+    ],
+    "total_duration": 21.3,
+    "hook_strength": 7.3,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 8.3,
+    "emotional_impact": 9.0,
+    "composite_score": 7.72,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Please!\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I saved the Duchess!\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 84.0,
+        "end": 86.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor."
+      },
+      {
+        "start": 85.7,
+        "end": 86.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please!"
+      },
+      {
+        "start": 86.5,
+        "end": 88.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the locked iron door, deadlocked in total isolation."
+      },
+      {
+        "start": 88.8,
+        "end": 93.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana kneeling on the floor, clutching her chest as hyperventilation overtakes her."
+      },
+      {
+        "start": 89.5,
+        "end": 93.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her."
+      },
+      {
+        "start": 93.7,
+        "end": 96.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's tear-drenched face crumpling in overwhelming grief."
+      },
+      {
+        "start": 94.2,
+        "end": 95.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother..."
+      },
+      {
+        "start": 96.1,
+        "end": 99.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana pushes herself off the wet stone floor and dashes toward the barred wicket of the heavy door."
+      },
+      {
+        "start": 97.3,
+        "end": 99.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have done nothing!"
+      },
+      {
+        "start": 99.6,
+        "end": 102.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up of Juliana gripping the rusted iron bars, screaming out into the empty stone corridor."
+      },
+      {
+        "start": 99.7,
+        "end": 102.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved her! I healed her!"
+      },
+      {
+        "start": 102.5,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot from inside the cell as Juliana pounds her fists rhythmically against the reinforced iron door."
+      },
+      {
+        "start": 102.5,
+        "end": 105.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Muffled, dull metallic clanging reverberates as Juliana hammers against the iron door."
+      },
+      {
+        "start": 102.6,
+        "end": 105.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved the Duchess!"
+      }
+    ],
+    "final_score": 7.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 263
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 63.8,
+        "end": 86.5,
+        "duration": 22.7,
+        "start_time_fmt": "01:03.80",
+        "end_time_fmt": "01:26.50"
+      }
+    ],
+    "total_duration": 22.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.67,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"You were cast out once.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 63.8,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick pan from Juliana's apron up to Catherine's face."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You were cast out once."
+      },
+      {
+        "start": 67.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Catherine's smiling lips and cold blue eyes."
+      },
+      {
+        "start": 67.2,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You should have stayed forgotten."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears."
+      },
+      {
+        "start": 69.8,
+        "end": 71.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My husband will find me."
+      },
+      {
+        "start": 71.8,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine letting out a scornful laugh, tilting her head."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your scarred soldier?"
+      },
+      {
+        "start": 74.3,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into sharp mockery."
+      },
+      {
+        "start": 74.7,
+        "end": 78.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What exactly do you think a penniless veteran can do against Ashbrook?"
+      },
+      {
+        "start": 78.5,
+        "end": 80.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the guard clamps a heavy hand on Juliana's shoulder, shoving her forward."
+      },
+      {
+        "start": 78.7,
+        "end": 80.6,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Move along, girl."
+      },
+      {
+        "start": 80.9,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot tracking behind the guards as they march Juliana down the vaulted, puddle-strewn corridor toward the heavy iron cell door."
+      },
+      {
+        "start": 83.0,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot inside the pitch-dark cell as the heavy iron door swings open."
+      },
+      {
+        "start": 84.0,
+        "end": 86.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor."
+      }
+    ],
+    "final_score": 7.67,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 286
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 0.0,
+        "end": 24.0,
+        "duration": 24.0,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:24.00"
+      }
+    ],
+    "total_duration": 24.0,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.5,
+    "composite_score": 7.38,
+    "hook": "Opens with immediate physical drama: Juliana resists furiously, her feet stumbling on the wet flagstones as the guards forcibly propel her forward.",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Your mother's little book of weeds?\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 2.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High angle tracking shot descending a spiral stone staircase illuminated by flickering wall torches and damp, glistening masonry."
+      },
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Dripping water echoes hollowly against stone steps alongside the shuffling scuffle of boots."
+      },
+      {
+        "start": 2.8,
+        "end": 5.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking shot facing two stern uniform guards hauling a struggling Juliana down the dark corridor by her arms."
+      },
+      {
+        "start": 2.9,
+        "end": 5.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana resists furiously, her feet stumbling on the wet flagstones as the guards forcibly propel her forward."
+      },
+      {
+        "start": 5.1,
+        "end": 7.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Catherine standing regally under an arched stone doorway, clutching the leather-bound herbarium."
+      },
+      {
+        "start": 7.4,
+        "end": 11.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's tearful face as she reaches an arm out toward Catherine in anguish."
+      },
+      {
+        "start": 7.4,
+        "end": 11.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Catherine! Please! That book is my mother's only legacy!"
+      },
+      {
+        "start": 11.7,
+        "end": 13.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot from behind Catherine as she stands motionless, watching Juliana being dragged away."
+      },
+      {
+        "start": 13.2,
+        "end": 17.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana turning her head back toward Catherine, screaming through tears."
+      },
+      {
+        "start": 13.2,
+        "end": 17.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "It contains years of her work! Her knowledge! Everything she left me!"
+      },
+      {
+        "start": 17.3,
+        "end": 20.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Catherine turning gracefully on the dungeon steps, holding the book loosely at her side."
+      },
+      {
+        "start": 20.1,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up pushing in on Catherine as she presents the worn botanical book with both gloved hands."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your mother's little book of weeds?"
+      }
+    ],
+    "final_score": 7.38,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 423
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 44.3,
+        "end": 66.5,
+        "duration": 22.2,
+        "start_time_fmt": "00:44.30",
+        "end_time_fmt": "01:06.50"
+      }
+    ],
+    "total_duration": 22.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.35,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You cannot just destroy it!\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"You were cast out once.\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 44.3,
+        "end": 46.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the two guards."
+      },
+      {
+        "start": 44.4,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot just destroy it!"
+      },
+      {
+        "start": 46.9,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze."
+      },
+      {
+        "start": 47.3,
+        "end": 49.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I can burn it."
+      },
+      {
+        "start": 49.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's stricken expression, her eyes widening in horror."
+      },
+      {
+        "start": 50.1,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And when they find your corpse at the end of the rope..."
+      },
+      {
+        "start": 53.6,
+        "end": 56.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side close-up of Catherine leaning slightly forward, her voice low and merciless."
+      },
+      {
+        "start": 53.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...no one will remember what was written inside."
+      },
+      {
+        "start": 56.6,
+        "end": 59.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana screaming back in raw outrage."
+      },
+      {
+        "start": 56.7,
+        "end": 59.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are doing this because I saved the Duchess!"
+      },
+      {
+        "start": 59.2,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features."
+      },
+      {
+        "start": 59.3,
+        "end": 63.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I am doing this because women like you forget their place."
+      },
+      {
+        "start": 63.8,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick pan from Juliana's apron up to Catherine's face."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You were cast out once."
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 436
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 59.2,
+        "end": 116.69,
+        "duration": 57.49,
+        "start_time_fmt": "00:59.20",
+        "end_time_fmt": "01:56.69"
+      }
+    ],
+    "total_duration": 57.49,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.32,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"I am doing this because women like you forget their place.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazing upward toward the overhead grate where faint beams of moonlight filter down, cutting sharply to black.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 57s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 59.2,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features."
+      },
+      {
+        "start": 59.3,
+        "end": 63.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I am doing this because women like you forget their place."
+      },
+      {
+        "start": 63.8,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick pan from Juliana's apron up to Catherine's face."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You were cast out once."
+      },
+      {
+        "start": 67.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Catherine's smiling lips and cold blue eyes."
+      },
+      {
+        "start": 67.2,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You should have stayed forgotten."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears."
+      },
+      {
+        "start": 69.8,
+        "end": 71.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "My husband will find me."
+      },
+      {
+        "start": 71.8,
+        "end": 74.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine letting out a scornful laugh, tilting her head."
+      },
+      {
+        "start": 72.1,
+        "end": 74.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Your scarred soldier?"
+      },
+      {
+        "start": 74.3,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into sharp mockery."
+      },
+      {
+        "start": 74.7,
+        "end": 78.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "What exactly do you think a penniless veteran can do against Ashbrook?"
+      },
+      {
+        "start": 78.5,
+        "end": 80.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as the guard clamps a heavy hand on Juliana's shoulder, shoving her forward."
+      },
+      {
+        "start": 78.7,
+        "end": 80.6,
+        "type": "DIALOGUE",
+        "speaker": "GUARD",
+        "content": "Move along, girl."
+      },
+      {
+        "start": 80.9,
+        "end": 83.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot tracking behind the guards as they march Juliana down the vaulted, puddle-strewn corridor toward the heavy iron cell door."
+      },
+      {
+        "start": 83.0,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot inside the pitch-dark cell as the heavy iron door swings open."
+      },
+      {
+        "start": 84.0,
+        "end": 86.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor."
+      },
+      {
+        "start": 85.7,
+        "end": 86.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please!"
+      },
+      {
+        "start": 86.5,
+        "end": 88.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked."
+      },
+      {
+        "start": 86.5,
+        "end": 88.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Static shot of the locked iron door, deadlocked in total isolation."
+      },
+      {
+        "start": 88.8,
+        "end": 93.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana kneeling on the floor, clutching her chest as hyperventilation overtakes her."
+      },
+      {
+        "start": 89.5,
+        "end": 93.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her."
+      },
+      {
+        "start": 93.7,
+        "end": 96.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's tear-drenched face crumpling in overwhelming grief."
+      },
+      {
+        "start": 94.2,
+        "end": 95.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother..."
+      },
+      {
+        "start": 96.1,
+        "end": 99.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana pushes herself off the wet stone floor and dashes toward the barred wicket of the heavy door."
+      },
+      {
+        "start": 97.3,
+        "end": 99.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have done nothing!"
+      },
+      {
+        "start": 99.6,
+        "end": 102.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up of Juliana gripping the rusted iron bars, screaming out into the empty stone corridor."
+      },
+      {
+        "start": 99.7,
+        "end": 102.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved her! I healed her!"
+      },
+      {
+        "start": 102.5,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot from inside the cell as Juliana pounds her fists rhythmically against the reinforced iron door."
+      },
+      {
+        "start": 102.5,
+        "end": 105.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Muffled, dull metallic clanging reverberates as Juliana hammers against the iron door."
+      },
+      {
+        "start": 102.6,
+        "end": 105.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved the Duchess!"
+      },
+      {
+        "start": 105.9,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana slumping down against the rough stone wall, pulling her knees to her chest while weeping softly."
+      },
+      {
+        "start": 106.5,
+        "end": 108.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "They took my mother's ledger..."
+      },
+      {
+        "start": 109.0,
+        "end": 112.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Front medium shot of Juliana slowly rising to her feet, crossing her arms firmly across her chest as her tears stop and her expression hardens into steely resolve."
+      },
+      {
+        "start": 109.0,
+        "end": 112.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "They took her locket. But they will not take Alexander from me."
+      },
+      {
+        "start": 112.8,
+        "end": 115.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the dungeon's massive iron portcullis bars dropping down with finality."
+      },
+      {
+        "start": 112.8,
+        "end": 114.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A heavy iron portcullis crashes down with a massive echoing bang."
+      },
+      {
+        "start": 115.5,
+        "end": 116.69,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazing upward toward the overhead grate where faint beams of moonlight filter down, cutting sharply to black.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 7.32,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 452
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 96.1,
+        "end": 116.69,
+        "duration": 20.59,
+        "start_time_fmt": "01:36.10",
+        "end_time_fmt": "01:56.69"
+      }
+    ],
+    "total_duration": 20.59,
+    "hook_strength": 7.3,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 8.3,
+    "emotional_impact": 9.0,
+    "composite_score": 7.12,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I have done nothing!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazing upward toward the overhead grate where faint beams of moonlight filter down, cutting sharply to black.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 96.1,
+        "end": 99.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana pushes herself off the wet stone floor and dashes toward the barred wicket of the heavy door."
+      },
+      {
+        "start": 97.3,
+        "end": 99.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have done nothing!"
+      },
+      {
+        "start": 99.6,
+        "end": 102.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up of Juliana gripping the rusted iron bars, screaming out into the empty stone corridor."
+      },
+      {
+        "start": 99.7,
+        "end": 102.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved her! I healed her!"
+      },
+      {
+        "start": 102.5,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot from inside the cell as Juliana pounds her fists rhythmically against the reinforced iron door."
+      },
+      {
+        "start": 102.5,
+        "end": 105.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Muffled, dull metallic clanging reverberates as Juliana hammers against the iron door."
+      },
+      {
+        "start": 102.6,
+        "end": 105.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved the Duchess!"
+      },
+      {
+        "start": 105.9,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana slumping down against the rough stone wall, pulling her knees to her chest while weeping softly."
+      },
+      {
+        "start": 106.5,
+        "end": 108.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "They took my mother's ledger..."
+      },
+      {
+        "start": 109.0,
+        "end": 112.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Front medium shot of Juliana slowly rising to her feet, crossing her arms firmly across her chest as her tears stop and her expression hardens into steely resolve."
+      },
+      {
+        "start": 109.0,
+        "end": 112.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "They took her locket. But they will not take Alexander from me."
+      },
+      {
+        "start": 112.8,
+        "end": 115.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the dungeon's massive iron portcullis bars dropping down with finality."
+      },
+      {
+        "start": 112.8,
+        "end": 114.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A heavy iron portcullis crashes down with a massive echoing bang."
+      },
+      {
+        "start": 115.5,
+        "end": 116.69,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazing upward toward the overhead grate where faint beams of moonlight filter down, cutting sharply to black.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 7.12,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 561
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 30.4,
+        "end": 53.6,
+        "duration": 23.2,
+        "start_time_fmt": "00:30.40",
+        "end_time_fmt": "00:53.60"
+      }
+    ],
+    "total_duration": 23.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.03,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Of course.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"And when they find your corpse at the end of the rope...\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 30.4,
+        "end": 31.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Of course."
+      },
+      {
+        "start": 31.9,
+        "end": 37.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations."
+      },
+      {
+        "start": 31.9,
+        "end": 37.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand."
+      },
+      {
+        "start": 37.4,
+        "end": 40.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent."
+      },
+      {
+        "start": 37.7,
+        "end": 40.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The magistrate will call it witchcraft."
+      },
+      {
+        "start": 40.0,
+        "end": 41.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation."
+      },
+      {
+        "start": 40.1,
+        "end": 41.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You know that is a lie!"
+      },
+      {
+        "start": 41.9,
+        "end": 44.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine lifting her chin arrogantly against the stone backdrop."
+      },
+      {
+        "start": 42.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I know exactly what I need him to believe."
+      },
+      {
+        "start": 44.3,
+        "end": 46.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana thrashing frantically against the two guards."
+      },
+      {
+        "start": 44.4,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot just destroy it!"
+      },
+      {
+        "start": 46.9,
+        "end": 49.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze."
+      },
+      {
+        "start": 47.3,
+        "end": 49.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I can burn it."
+      },
+      {
+        "start": 49.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's stricken expression, her eyes widening in horror."
+      },
+      {
+        "start": 50.1,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And when they find your corpse at the end of the rope..."
+      }
+    ],
+    "final_score": 7.03,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 595
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 88.8,
+        "end": 112.8,
+        "duration": 24.0,
+        "start_time_fmt": "01:28.80",
+        "end_time_fmt": "01:52.80"
+      }
+    ],
+    "total_duration": 24.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 8.3,
+    "emotional_impact": 9.0,
+    "composite_score": 6.88,
+    "hook": "Opens with immediate physical drama: Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her.",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Front medium shot of Juliana slowly rising to her feet, crossing her arms firmly across her chest as her tears stop and her expression hardens into steely resolve.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 88.8,
+        "end": 93.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana kneeling on the floor, clutching her chest as hyperventilation overtakes her."
+      },
+      {
+        "start": 89.5,
+        "end": 93.7,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her."
+      },
+      {
+        "start": 93.7,
+        "end": 96.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's tear-drenched face crumpling in overwhelming grief."
+      },
+      {
+        "start": 94.2,
+        "end": 95.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Mother..."
+      },
+      {
+        "start": 96.1,
+        "end": 99.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Juliana pushes herself off the wet stone floor and dashes toward the barred wicket of the heavy door."
+      },
+      {
+        "start": 97.3,
+        "end": 99.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have done nothing!"
+      },
+      {
+        "start": 99.6,
+        "end": 102.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight profile close-up of Juliana gripping the rusted iron bars, screaming out into the empty stone corridor."
+      },
+      {
+        "start": 99.7,
+        "end": 102.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved her! I healed her!"
+      },
+      {
+        "start": 102.5,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot from inside the cell as Juliana pounds her fists rhythmically against the reinforced iron door."
+      },
+      {
+        "start": 102.5,
+        "end": 105.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Muffled, dull metallic clanging reverberates as Juliana hammers against the iron door."
+      },
+      {
+        "start": 102.6,
+        "end": 105.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I saved the Duchess!"
+      },
+      {
+        "start": 105.9,
+        "end": 109.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana slumping down against the rough stone wall, pulling her knees to her chest while weeping softly."
+      },
+      {
+        "start": 106.5,
+        "end": 108.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "They took my mother's ledger..."
+      },
+      {
+        "start": 109.0,
+        "end": 112.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Front medium shot of Juliana slowly rising to her feet, crossing her arms firmly across her chest as her tears stop and her expression hardens into steely resolve."
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 676
+  },
+  {
+    "episode": 29,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 29,
+        "start": 50.1,
+        "end": 71.8,
+        "duration": 21.7,
+        "start_time_fmt": "00:50.10",
+        "end_time_fmt": "01:11.80"
+      }
+    ],
+    "total_duration": 21.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 6.72,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"And when they find your corpse at the end of the rope...\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Juliana raising her chin, unwavering pride breaking through her tears.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 50.1,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And when they find your corpse at the end of the rope..."
+      },
+      {
+        "start": 53.6,
+        "end": 56.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side close-up of Catherine leaning slightly forward, her voice low and merciless."
+      },
+      {
+        "start": 53.8,
+        "end": 56.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...no one will remember what was written inside."
+      },
+      {
+        "start": 56.6,
+        "end": 59.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana screaming back in raw outrage."
+      },
+      {
+        "start": 56.7,
+        "end": 59.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You are doing this because I saved the Duchess!"
+      },
+      {
+        "start": 59.2,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features."
+      },
+      {
+        "start": 59.3,
+        "end": 63.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I am doing this because women like you forget their place."
+      },
+      {
+        "start": 63.8,
+        "end": 67.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Quick pan from Juliana's apron up to Catherine's face."
+      },
+      {
+        "start": 64.5,
+        "end": 66.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You were cast out once."
+      },
+      {
+        "start": 67.0,
+        "end": 69.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up on Catherine's smiling lips and cold blue eyes."
+      },
+      {
+        "start": 67.2,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You should have stayed forgotten."
+      },
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 746
+  }
+]

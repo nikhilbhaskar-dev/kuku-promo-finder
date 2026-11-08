@@ -1,0 +1,3870 @@
+[
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 41.0,
+        "end": 84.0,
+        "duration": 43.0,
+        "start_time_fmt": "00:41.00",
+        "end_time_fmt": "01:24.00"
+      }
+    ],
+    "total_duration": 43.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.35,
+    "hook": "CONSTABLE shocks the viewer with an immediate confrontation: \"Then a search will settle the matter.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"What is it, soldier? Going to strike a gentleman in front of his wife?\", leaving the outcome hanging.",
+    "why_it_works": "At 43s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 41.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+      },
+      {
+        "start": 41.4,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then a search will settle the matter."
+      },
+      {
+        "start": 43.3,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance."
+      },
+      {
+        "start": 43.5,
+        "end": 46.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot simply invade our home because this man makes an accusation!"
+      },
+      {
+        "start": 46.0,
+        "end": 47.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald crossing his arms smugly."
+      },
+      {
+        "start": 46.8,
+        "end": 48.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "If he has nothing to hide..."
+      },
+      {
+        "start": 47.8,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+      },
+      {
+        "start": 48.4,
+        "end": 50.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "...let the constable search."
+      },
+      {
+        "start": 50.1,
+        "end": 51.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Search it."
+      },
+      {
+        "start": 50.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana looking up at Alexander in panicked confusion."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Let them."
+      },
+      {
+        "start": 54.0,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage."
+      },
+      {
+        "start": 54.5,
+        "end": 56.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable begins violently overturning crates and dumping contents across the floor."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards."
+      },
+      {
+        "start": 58.0,
+        "end": 60.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Stop! Those are my mother's medicines!"
+      },
+      {
+        "start": 60.0,
+        "end": 61.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor."
+      },
+      {
+        "start": 61.8,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks."
+      },
+      {
+        "start": 61.8,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! There is nothing here!"
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table."
+      },
+      {
+        "start": 63.9,
+        "end": 65.7,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then you have nothing to fear."
+      },
+      {
+        "start": 65.5,
+        "end": 67.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Those are all I have left!"
+      },
+      {
+        "start": 67.4,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust."
+      },
+      {
+        "start": 67.5,
+        "end": 71.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Stand aside. Look at this place. A perfect hiding hole for a thief."
+      },
+      {
+        "start": 71.5,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage."
+      },
+      {
+        "start": 72.1,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You planted this accusation because you cannot bear that I am happy without you!"
+      },
+      {
+        "start": 74.8,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald's face chilling into a cold sneer."
+      },
+      {
+        "start": 75.5,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Happy?"
+      },
+      {
+        "start": 76.8,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald."
+      },
+      {
+        "start": 79.5,
+        "end": 81.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What is it, soldier? Going to strike a gentleman in front of his wife?"
+      }
+    ],
+    "final_score": 8.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 59
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 61.8,
+        "end": 84.0,
+        "duration": 22.2,
+        "start_time_fmt": "01:01.80",
+        "end_time_fmt": "01:24.00"
+      }
+    ],
+    "total_duration": 22.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.35,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Please! There is nothing here!\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"What is it, soldier? Going to strike a gentleman in front of his wife?\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 61.8,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks."
+      },
+      {
+        "start": 61.8,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! There is nothing here!"
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table."
+      },
+      {
+        "start": 63.9,
+        "end": 65.7,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then you have nothing to fear."
+      },
+      {
+        "start": 65.5,
+        "end": 67.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Those are all I have left!"
+      },
+      {
+        "start": 67.4,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust."
+      },
+      {
+        "start": 67.5,
+        "end": 71.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Stand aside. Look at this place. A perfect hiding hole for a thief."
+      },
+      {
+        "start": 71.5,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage."
+      },
+      {
+        "start": 72.1,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You planted this accusation because you cannot bear that I am happy without you!"
+      },
+      {
+        "start": 74.8,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald's face chilling into a cold sneer."
+      },
+      {
+        "start": 75.5,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Happy?"
+      },
+      {
+        "start": 76.8,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald."
+      },
+      {
+        "start": 79.5,
+        "end": 81.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What is it, soldier? Going to strike a gentleman in front of his wife?"
+      }
+    ],
+    "final_score": 8.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 60
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 41.0,
+        "end": 63.8,
+        "duration": 22.8,
+        "start_time_fmt": "00:41.00",
+        "end_time_fmt": "01:03.80"
+      }
+    ],
+    "total_duration": 22.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "CONSTABLE shocks the viewer with an immediate confrontation: \"Then a search will settle the matter.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Please! There is nothing here!\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 41.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+      },
+      {
+        "start": 41.4,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then a search will settle the matter."
+      },
+      {
+        "start": 43.3,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance."
+      },
+      {
+        "start": 43.5,
+        "end": 46.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot simply invade our home because this man makes an accusation!"
+      },
+      {
+        "start": 46.0,
+        "end": 47.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald crossing his arms smugly."
+      },
+      {
+        "start": 46.8,
+        "end": 48.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "If he has nothing to hide..."
+      },
+      {
+        "start": 47.8,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+      },
+      {
+        "start": 48.4,
+        "end": 50.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "...let the constable search."
+      },
+      {
+        "start": 50.1,
+        "end": 51.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Search it."
+      },
+      {
+        "start": 50.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana looking up at Alexander in panicked confusion."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Let them."
+      },
+      {
+        "start": 54.0,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage."
+      },
+      {
+        "start": 54.5,
+        "end": 56.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable begins violently overturning crates and dumping contents across the floor."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards."
+      },
+      {
+        "start": 58.0,
+        "end": 60.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Stop! Those are my mother's medicines!"
+      },
+      {
+        "start": 60.0,
+        "end": 61.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor."
+      },
+      {
+        "start": 61.8,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks."
+      },
+      {
+        "start": 61.8,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! There is nothing here!"
+      }
+    ],
+    "final_score": 8.07,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 113
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 10.8,
+        "end": 48.3,
+        "duration": 37.5,
+        "start_time_fmt": "00:10.80",
+        "end_time_fmt": "00:48.30"
+      }
+    ],
+    "total_duration": 37.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.98,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"I came for something that belongs to me.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"If he has nothing to hide...\", leaving the outcome hanging.",
+    "why_it_works": "At 38s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 10.8,
+        "end": 13.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape."
+      },
+      {
+        "start": 11.1,
+        "end": 13.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I came for something that belongs to me."
+      },
+      {
+        "start": 13.0,
+        "end": 14.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips."
+      },
+      {
+        "start": 14.3,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her anger flaring as she gestures sharply."
+      },
+      {
+        "start": 14.4,
+        "end": 16.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have already taken enough from me. Leave!"
+      },
+      {
+        "start": 16.8,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger."
+      },
+      {
+        "start": 16.8,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Your husband stole my gold pocket watch!"
+      },
+      {
+        "start": 18.5,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling in utter disbelief."
+      },
+      {
+        "start": 19.0,
+        "end": 20.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What? When?"
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald narrowing his eyes vindictively."
+      },
+      {
+        "start": 20.9,
+        "end": 22.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "The last time I came here."
+      },
+      {
+        "start": 22.0,
+        "end": 24.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her."
+      },
+      {
+        "start": 23.0,
+        "end": 24.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You never even entered the cottage!"
+      },
+      {
+        "start": 24.6,
+        "end": 26.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald smirking with condescending amusement."
+      },
+      {
+        "start": 25.2,
+        "end": 27.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Then you should have nothing to fear from a search."
+      },
+      {
+        "start": 26.9,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+      },
+      {
+        "start": 27.3,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander would never steal from you."
+      },
+      {
+        "start": 28.9,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+      },
+      {
+        "start": 29.3,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Of course you would defend him. You married a beggar!"
+      },
+      {
+        "start": 32.4,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid."
+      },
+      {
+        "start": 33.0,
+        "end": 34.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Choose your next words carefully."
+      },
+      {
+        "start": 34.9,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+      },
+      {
+        "start": 35.1,
+        "end": 37.1,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You hear that? He threatens me again!"
+      },
+      {
+        "start": 37.0,
+        "end": 39.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally."
+      },
+      {
+        "start": 37.4,
+        "end": 39.2,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "I have received a complaint of theft."
+      },
+      {
+        "start": 39.1,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana, defiant and resolute."
+      },
+      {
+        "start": 39.7,
+        "end": 41.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A complaint is not proof."
+      },
+      {
+        "start": 41.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+      },
+      {
+        "start": 41.4,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then a search will settle the matter."
+      },
+      {
+        "start": 43.3,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance."
+      },
+      {
+        "start": 43.5,
+        "end": 46.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot simply invade our home because this man makes an accusation!"
+      },
+      {
+        "start": 46.0,
+        "end": 47.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald crossing his arms smugly."
+      },
+      {
+        "start": 46.8,
+        "end": 48.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "If he has nothing to hide..."
+      }
+    ],
+    "final_score": 7.98,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 157
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 26.9,
+        "end": 75.0,
+        "duration": 48.1,
+        "start_time_fmt": "00:26.90",
+        "end_time_fmt": "01:15.00"
+      }
+    ],
+    "total_duration": 48.1,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.98,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Alexander would never steal from you.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"You planted this accusation because you cannot bear that I am happy without you!\", leaving the outcome hanging.",
+    "why_it_works": "At 48s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 26.9,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+      },
+      {
+        "start": 27.3,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander would never steal from you."
+      },
+      {
+        "start": 28.9,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+      },
+      {
+        "start": 29.3,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Of course you would defend him. You married a beggar!"
+      },
+      {
+        "start": 32.4,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid."
+      },
+      {
+        "start": 33.0,
+        "end": 34.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Choose your next words carefully."
+      },
+      {
+        "start": 34.9,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+      },
+      {
+        "start": 35.1,
+        "end": 37.1,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You hear that? He threatens me again!"
+      },
+      {
+        "start": 37.0,
+        "end": 39.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally."
+      },
+      {
+        "start": 37.4,
+        "end": 39.2,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "I have received a complaint of theft."
+      },
+      {
+        "start": 39.1,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana, defiant and resolute."
+      },
+      {
+        "start": 39.7,
+        "end": 41.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A complaint is not proof."
+      },
+      {
+        "start": 41.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+      },
+      {
+        "start": 41.4,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then a search will settle the matter."
+      },
+      {
+        "start": 43.3,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance."
+      },
+      {
+        "start": 43.5,
+        "end": 46.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot simply invade our home because this man makes an accusation!"
+      },
+      {
+        "start": 46.0,
+        "end": 47.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald crossing his arms smugly."
+      },
+      {
+        "start": 46.8,
+        "end": 48.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "If he has nothing to hide..."
+      },
+      {
+        "start": 47.8,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+      },
+      {
+        "start": 48.4,
+        "end": 50.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "...let the constable search."
+      },
+      {
+        "start": 50.1,
+        "end": 51.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Search it."
+      },
+      {
+        "start": 50.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana looking up at Alexander in panicked confusion."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Let them."
+      },
+      {
+        "start": 54.0,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage."
+      },
+      {
+        "start": 54.5,
+        "end": 56.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable begins violently overturning crates and dumping contents across the floor."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards."
+      },
+      {
+        "start": 58.0,
+        "end": 60.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Stop! Those are my mother's medicines!"
+      },
+      {
+        "start": 60.0,
+        "end": 61.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor."
+      },
+      {
+        "start": 61.8,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks."
+      },
+      {
+        "start": 61.8,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! There is nothing here!"
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table."
+      },
+      {
+        "start": 63.9,
+        "end": 65.7,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then you have nothing to fear."
+      },
+      {
+        "start": 65.5,
+        "end": 67.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Those are all I have left!"
+      },
+      {
+        "start": 67.4,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust."
+      },
+      {
+        "start": 67.5,
+        "end": 71.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Stand aside. Look at this place. A perfect hiding hole for a thief."
+      },
+      {
+        "start": 71.5,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage."
+      },
+      {
+        "start": 72.1,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You planted this accusation because you cannot bear that I am happy without you!"
+      }
+    ],
+    "final_score": 7.98,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 158
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 67.4,
+        "end": 93.2,
+        "duration": 25.8,
+        "start_time_fmt": "01:07.40",
+        "end_time_fmt": "01:33.20"
+      }
+    ],
+    "total_duration": 25.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.92,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"Stand aside. Look at this place. A perfect hiding hole for a thief.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"That is his coat!\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 67.4,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust."
+      },
+      {
+        "start": 67.5,
+        "end": 71.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Stand aside. Look at this place. A perfect hiding hole for a thief."
+      },
+      {
+        "start": 71.5,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage."
+      },
+      {
+        "start": 72.1,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You planted this accusation because you cannot bear that I am happy without you!"
+      },
+      {
+        "start": 74.8,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald's face chilling into a cold sneer."
+      },
+      {
+        "start": 75.5,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Happy?"
+      },
+      {
+        "start": 76.8,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald."
+      },
+      {
+        "start": 79.5,
+        "end": 81.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What is it, soldier? Going to strike a gentleman in front of his wife?"
+      },
+      {
+        "start": 84.2,
+        "end": 85.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Don't!"
+      },
+      {
+        "start": 85.0,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana clutching her dress collar in acute panic."
+      },
+      {
+        "start": 86.0,
+        "end": 87.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "One blow would end this."
+      },
+      {
+        "start": 86.5,
+        "end": 89.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes."
+      },
+      {
+        "start": 88.0,
+        "end": 90.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "But one blow would destroy her life."
+      },
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace."
+      },
+      {
+        "start": 91.0,
+        "end": 92.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets."
+      },
+      {
+        "start": 92.1,
+        "end": 93.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is his coat!"
+      }
+    ],
+    "final_score": 7.92,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 178
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 26.9,
+        "end": 48.3,
+        "duration": 21.4,
+        "start_time_fmt": "00:26.90",
+        "end_time_fmt": "00:48.30"
+      }
+    ],
+    "total_duration": 21.4,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.89,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Alexander would never steal from you.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"If he has nothing to hide...\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 26.9,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+      },
+      {
+        "start": 27.3,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander would never steal from you."
+      },
+      {
+        "start": 28.9,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+      },
+      {
+        "start": 29.3,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Of course you would defend him. You married a beggar!"
+      },
+      {
+        "start": 32.4,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid."
+      },
+      {
+        "start": 33.0,
+        "end": 34.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Choose your next words carefully."
+      },
+      {
+        "start": 34.9,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+      },
+      {
+        "start": 35.1,
+        "end": 37.1,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You hear that? He threatens me again!"
+      },
+      {
+        "start": 37.0,
+        "end": 39.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally."
+      },
+      {
+        "start": 37.4,
+        "end": 39.2,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "I have received a complaint of theft."
+      },
+      {
+        "start": 39.1,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana, defiant and resolute."
+      },
+      {
+        "start": 39.7,
+        "end": 41.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A complaint is not proof."
+      },
+      {
+        "start": 41.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+      },
+      {
+        "start": 41.4,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then a search will settle the matter."
+      },
+      {
+        "start": 43.3,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance."
+      },
+      {
+        "start": 43.5,
+        "end": 46.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot simply invade our home because this man makes an accusation!"
+      },
+      {
+        "start": 46.0,
+        "end": 47.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald crossing his arms smugly."
+      },
+      {
+        "start": 46.8,
+        "end": 48.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "If he has nothing to hide..."
+      }
+    ],
+    "final_score": 7.89,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 201
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 56.0,
+        "end": 76.8,
+        "duration": 20.8,
+        "start_time_fmt": "00:56.00",
+        "end_time_fmt": "01:16.80"
+      }
+    ],
+    "total_duration": 20.8,
+    "hook_strength": 7.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.7,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Stop! Those are my mother's medicines!\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"Happy?\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable begins violently overturning crates and dumping contents across the floor."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards."
+      },
+      {
+        "start": 58.0,
+        "end": 60.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Stop! Those are my mother's medicines!"
+      },
+      {
+        "start": 60.0,
+        "end": 61.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor."
+      },
+      {
+        "start": 61.8,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks."
+      },
+      {
+        "start": 61.8,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! There is nothing here!"
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table."
+      },
+      {
+        "start": 63.9,
+        "end": 65.7,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then you have nothing to fear."
+      },
+      {
+        "start": 65.5,
+        "end": 67.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Those are all I have left!"
+      },
+      {
+        "start": 67.4,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust."
+      },
+      {
+        "start": 67.5,
+        "end": 71.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Stand aside. Look at this place. A perfect hiding hole for a thief."
+      },
+      {
+        "start": 71.5,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage."
+      },
+      {
+        "start": 72.1,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You planted this accusation because you cannot bear that I am happy without you!"
+      },
+      {
+        "start": 74.8,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald's face chilling into a cold sneer."
+      },
+      {
+        "start": 75.5,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Happy?"
+      }
+    ],
+    "final_score": 7.7,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 268
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 10.8,
+        "end": 32.8,
+        "duration": 22.0,
+        "start_time_fmt": "00:10.80",
+        "end_time_fmt": "00:32.80"
+      }
+    ],
+    "total_duration": 22.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.62,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"I came for something that belongs to me.\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"Of course you would defend him. You married a beggar!\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 10.8,
+        "end": 13.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape."
+      },
+      {
+        "start": 11.1,
+        "end": 13.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I came for something that belongs to me."
+      },
+      {
+        "start": 13.0,
+        "end": 14.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips."
+      },
+      {
+        "start": 14.3,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her anger flaring as she gestures sharply."
+      },
+      {
+        "start": 14.4,
+        "end": 16.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have already taken enough from me. Leave!"
+      },
+      {
+        "start": 16.8,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger."
+      },
+      {
+        "start": 16.8,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Your husband stole my gold pocket watch!"
+      },
+      {
+        "start": 18.5,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling in utter disbelief."
+      },
+      {
+        "start": 19.0,
+        "end": 20.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What? When?"
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald narrowing his eyes vindictively."
+      },
+      {
+        "start": 20.9,
+        "end": 22.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "The last time I came here."
+      },
+      {
+        "start": 22.0,
+        "end": 24.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her."
+      },
+      {
+        "start": 23.0,
+        "end": 24.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You never even entered the cottage!"
+      },
+      {
+        "start": 24.6,
+        "end": 26.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald smirking with condescending amusement."
+      },
+      {
+        "start": 25.2,
+        "end": 27.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Then you should have nothing to fear from a search."
+      },
+      {
+        "start": 26.9,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+      },
+      {
+        "start": 27.3,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander would never steal from you."
+      },
+      {
+        "start": 28.9,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+      },
+      {
+        "start": 29.3,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Of course you would defend him. You married a beggar!"
+      }
+    ],
+    "final_score": 7.62,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 306
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 46.8,
+        "end": 106.6,
+        "duration": 59.8,
+        "start_time_fmt": "00:46.80",
+        "end_time_fmt": "01:46.60"
+      }
+    ],
+    "total_duration": 59.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.57,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"If he has nothing to hide...\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"There it is. Ha!\", leaving the outcome hanging.",
+    "why_it_works": "At 60s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 46.8,
+        "end": 48.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "If he has nothing to hide..."
+      },
+      {
+        "start": 47.8,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+      },
+      {
+        "start": 48.4,
+        "end": 50.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "...let the constable search."
+      },
+      {
+        "start": 50.1,
+        "end": 51.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Search it."
+      },
+      {
+        "start": 50.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana looking up at Alexander in panicked confusion."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Let them."
+      },
+      {
+        "start": 54.0,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage."
+      },
+      {
+        "start": 54.5,
+        "end": 56.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable begins violently overturning crates and dumping contents across the floor."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards."
+      },
+      {
+        "start": 58.0,
+        "end": 60.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Stop! Those are my mother's medicines!"
+      },
+      {
+        "start": 60.0,
+        "end": 61.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor."
+      },
+      {
+        "start": 61.8,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks."
+      },
+      {
+        "start": 61.8,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! There is nothing here!"
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table."
+      },
+      {
+        "start": 63.9,
+        "end": 65.7,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then you have nothing to fear."
+      },
+      {
+        "start": 65.5,
+        "end": 67.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Those are all I have left!"
+      },
+      {
+        "start": 67.4,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust."
+      },
+      {
+        "start": 67.5,
+        "end": 71.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Stand aside. Look at this place. A perfect hiding hole for a thief."
+      },
+      {
+        "start": 71.5,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage."
+      },
+      {
+        "start": 72.1,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You planted this accusation because you cannot bear that I am happy without you!"
+      },
+      {
+        "start": 74.8,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald's face chilling into a cold sneer."
+      },
+      {
+        "start": 75.5,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Happy?"
+      },
+      {
+        "start": 76.8,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald."
+      },
+      {
+        "start": 79.5,
+        "end": 81.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What is it, soldier? Going to strike a gentleman in front of his wife?"
+      },
+      {
+        "start": 84.2,
+        "end": 85.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Don't!"
+      },
+      {
+        "start": 85.0,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana clutching her dress collar in acute panic."
+      },
+      {
+        "start": 86.0,
+        "end": 87.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "One blow would end this."
+      },
+      {
+        "start": 86.5,
+        "end": 89.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes."
+      },
+      {
+        "start": 88.0,
+        "end": 90.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "But one blow would destroy her life."
+      },
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace."
+      },
+      {
+        "start": 91.0,
+        "end": 92.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets."
+      },
+      {
+        "start": 92.1,
+        "end": 93.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is his coat!"
+      },
+      {
+        "start": 93.2,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain."
+      },
+      {
+        "start": 95.8,
+        "end": 97.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clinking of the gold chain sliding against fabric."
+      },
+      {
+        "start": 96.8,
+        "end": 99.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief."
+      },
+      {
+        "start": 97.2,
+        "end": 99.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana draws a sharp, terrified breath as her face pales completely."
+      },
+      {
+        "start": 99.2,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up."
+      },
+      {
+        "start": 102.0,
+        "end": 106.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter."
+      },
+      {
+        "start": 104.2,
+        "end": 106.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "There it is. Ha!"
+      }
+    ],
+    "final_score": 7.57,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 338
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 71.5,
+        "end": 106.6,
+        "duration": 35.1,
+        "start_time_fmt": "01:11.50",
+        "end_time_fmt": "01:46.60"
+      }
+    ],
+    "total_duration": 35.1,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.57,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You planted this accusation because you cannot bear that I am happy without you!\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"There it is. Ha!\", leaving the outcome hanging.",
+    "why_it_works": "At 35s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 71.5,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage."
+      },
+      {
+        "start": 72.1,
+        "end": 75.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You planted this accusation because you cannot bear that I am happy without you!"
+      },
+      {
+        "start": 74.8,
+        "end": 76.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Gerald's face chilling into a cold sneer."
+      },
+      {
+        "start": 75.5,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Happy?"
+      },
+      {
+        "start": 76.8,
+        "end": 79.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald."
+      },
+      {
+        "start": 79.5,
+        "end": 81.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What is it, soldier? Going to strike a gentleman in front of his wife?"
+      },
+      {
+        "start": 84.2,
+        "end": 85.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Don't!"
+      },
+      {
+        "start": 85.0,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana clutching her dress collar in acute panic."
+      },
+      {
+        "start": 86.0,
+        "end": 87.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "One blow would end this."
+      },
+      {
+        "start": 86.5,
+        "end": 89.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes."
+      },
+      {
+        "start": 88.0,
+        "end": 90.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "But one blow would destroy her life."
+      },
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace."
+      },
+      {
+        "start": 91.0,
+        "end": 92.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets."
+      },
+      {
+        "start": 92.1,
+        "end": 93.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is his coat!"
+      },
+      {
+        "start": 93.2,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain."
+      },
+      {
+        "start": 95.8,
+        "end": 97.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clinking of the gold chain sliding against fabric."
+      },
+      {
+        "start": 96.8,
+        "end": 99.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief."
+      },
+      {
+        "start": 97.2,
+        "end": 99.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana draws a sharp, terrified breath as her face pales completely."
+      },
+      {
+        "start": 99.2,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up."
+      },
+      {
+        "start": 102.0,
+        "end": 106.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter."
+      },
+      {
+        "start": 104.2,
+        "end": 106.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "There it is. Ha!"
+      }
+    ],
+    "final_score": 7.57,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 339
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 46.0,
+        "end": 71.6,
+        "duration": 25.6,
+        "start_time_fmt": "00:46.00",
+        "end_time_fmt": "01:11.60"
+      }
+    ],
+    "total_duration": 25.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.5,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"If he has nothing to hide...\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"Stand aside. Look at this place. A perfect hiding hole for a thief.\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 46.0,
+        "end": 47.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald crossing his arms smugly."
+      },
+      {
+        "start": 46.8,
+        "end": 48.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "If he has nothing to hide..."
+      },
+      {
+        "start": 47.8,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+      },
+      {
+        "start": 48.4,
+        "end": 50.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "...let the constable search."
+      },
+      {
+        "start": 50.1,
+        "end": 51.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Search it."
+      },
+      {
+        "start": 50.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana looking up at Alexander in panicked confusion."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Let them."
+      },
+      {
+        "start": 54.0,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage."
+      },
+      {
+        "start": 54.5,
+        "end": 56.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable begins violently overturning crates and dumping contents across the floor."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards."
+      },
+      {
+        "start": 58.0,
+        "end": 60.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Stop! Those are my mother's medicines!"
+      },
+      {
+        "start": 60.0,
+        "end": 61.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor."
+      },
+      {
+        "start": 61.8,
+        "end": 63.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks."
+      },
+      {
+        "start": 61.8,
+        "end": 63.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! There is nothing here!"
+      },
+      {
+        "start": 63.5,
+        "end": 65.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table."
+      },
+      {
+        "start": 63.9,
+        "end": 65.7,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then you have nothing to fear."
+      },
+      {
+        "start": 65.5,
+        "end": 67.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Those are all I have left!"
+      },
+      {
+        "start": 67.4,
+        "end": 71.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust."
+      },
+      {
+        "start": 67.5,
+        "end": 71.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Stand aside. Look at this place. A perfect hiding hole for a thief."
+      }
+    ],
+    "final_score": 7.5,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 368
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 20.9,
+        "end": 43.3,
+        "duration": 22.4,
+        "start_time_fmt": "00:20.90",
+        "end_time_fmt": "00:43.30"
+      }
+    ],
+    "total_duration": 22.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.2,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"The last time I came here.\"",
+    "cliffhanger": "Cuts sharply on CONSTABLE's unresolved words: \"Then a search will settle the matter.\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 20.9,
+        "end": 22.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "The last time I came here."
+      },
+      {
+        "start": 22.0,
+        "end": 24.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her."
+      },
+      {
+        "start": 23.0,
+        "end": 24.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You never even entered the cottage!"
+      },
+      {
+        "start": 24.6,
+        "end": 26.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald smirking with condescending amusement."
+      },
+      {
+        "start": 25.2,
+        "end": 27.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Then you should have nothing to fear from a search."
+      },
+      {
+        "start": 26.9,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+      },
+      {
+        "start": 27.3,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander would never steal from you."
+      },
+      {
+        "start": 28.9,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+      },
+      {
+        "start": 29.3,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Of course you would defend him. You married a beggar!"
+      },
+      {
+        "start": 32.4,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid."
+      },
+      {
+        "start": 33.0,
+        "end": 34.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Choose your next words carefully."
+      },
+      {
+        "start": 34.9,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+      },
+      {
+        "start": 35.1,
+        "end": 37.1,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You hear that? He threatens me again!"
+      },
+      {
+        "start": 37.0,
+        "end": 39.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally."
+      },
+      {
+        "start": 37.4,
+        "end": 39.2,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "I have received a complaint of theft."
+      },
+      {
+        "start": 39.1,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana, defiant and resolute."
+      },
+      {
+        "start": 39.7,
+        "end": 41.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A complaint is not proof."
+      },
+      {
+        "start": 41.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+      },
+      {
+        "start": 41.4,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then a search will settle the matter."
+      }
+    ],
+    "final_score": 7.2,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 515
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 89.8,
+        "end": 112.75,
+        "duration": 22.95,
+        "start_time_fmt": "01:29.80",
+        "end_time_fmt": "01:52.75"
+      }
+    ],
+    "total_duration": 22.95,
+    "hook_strength": 8.8,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.5,
+    "composite_score": 7.19,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"That is his coat!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace."
+      },
+      {
+        "start": 91.0,
+        "end": 92.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets."
+      },
+      {
+        "start": 92.1,
+        "end": 93.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is his coat!"
+      },
+      {
+        "start": 93.2,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain."
+      },
+      {
+        "start": 95.8,
+        "end": 97.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clinking of the gold chain sliding against fabric."
+      },
+      {
+        "start": 96.8,
+        "end": 99.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief."
+      },
+      {
+        "start": 97.2,
+        "end": 99.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana draws a sharp, terrified breath as her face pales completely."
+      },
+      {
+        "start": 99.2,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up."
+      },
+      {
+        "start": 102.0,
+        "end": 106.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter."
+      },
+      {
+        "start": 104.2,
+        "end": 106.6,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "There it is. Ha!"
+      },
+      {
+        "start": 106.8,
+        "end": 112.75,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 7.19,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 523
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 19.0,
+        "end": 60.1,
+        "duration": 41.1,
+        "start_time_fmt": "00:19.00",
+        "end_time_fmt": "01:00.10"
+      }
+    ],
+    "total_duration": 41.1,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.12,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"What? When?\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Stop! Those are my mother's medicines!\", leaving the outcome hanging.",
+    "why_it_works": "At 41s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 19.0,
+        "end": 20.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What? When?"
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald narrowing his eyes vindictively."
+      },
+      {
+        "start": 20.9,
+        "end": 22.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "The last time I came here."
+      },
+      {
+        "start": 22.0,
+        "end": 24.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her."
+      },
+      {
+        "start": 23.0,
+        "end": 24.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You never even entered the cottage!"
+      },
+      {
+        "start": 24.6,
+        "end": 26.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald smirking with condescending amusement."
+      },
+      {
+        "start": 25.2,
+        "end": 27.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Then you should have nothing to fear from a search."
+      },
+      {
+        "start": 26.9,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+      },
+      {
+        "start": 27.3,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander would never steal from you."
+      },
+      {
+        "start": 28.9,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+      },
+      {
+        "start": 29.3,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Of course you would defend him. You married a beggar!"
+      },
+      {
+        "start": 32.4,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid."
+      },
+      {
+        "start": 33.0,
+        "end": 34.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Choose your next words carefully."
+      },
+      {
+        "start": 34.9,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+      },
+      {
+        "start": 35.1,
+        "end": 37.1,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You hear that? He threatens me again!"
+      },
+      {
+        "start": 37.0,
+        "end": 39.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally."
+      },
+      {
+        "start": 37.4,
+        "end": 39.2,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "I have received a complaint of theft."
+      },
+      {
+        "start": 39.1,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana, defiant and resolute."
+      },
+      {
+        "start": 39.7,
+        "end": 41.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A complaint is not proof."
+      },
+      {
+        "start": 41.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+      },
+      {
+        "start": 41.4,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then a search will settle the matter."
+      },
+      {
+        "start": 43.3,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance."
+      },
+      {
+        "start": 43.5,
+        "end": 46.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot simply invade our home because this man makes an accusation!"
+      },
+      {
+        "start": 46.0,
+        "end": 47.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald crossing his arms smugly."
+      },
+      {
+        "start": 46.8,
+        "end": 48.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "If he has nothing to hide..."
+      },
+      {
+        "start": 47.8,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+      },
+      {
+        "start": 48.4,
+        "end": 50.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "...let the constable search."
+      },
+      {
+        "start": 50.1,
+        "end": 51.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Search it."
+      },
+      {
+        "start": 50.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana looking up at Alexander in panicked confusion."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Let them."
+      },
+      {
+        "start": 54.0,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage."
+      },
+      {
+        "start": 54.5,
+        "end": 56.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture."
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable begins violently overturning crates and dumping contents across the floor."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards."
+      },
+      {
+        "start": 58.0,
+        "end": 60.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Stop! Those are my mother's medicines!"
+      }
+    ],
+    "final_score": 7.12,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 558
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 81.3,
+        "end": 102.0,
+        "duration": 20.7,
+        "start_time_fmt": "01:21.30",
+        "end_time_fmt": "01:42.00"
+      }
+    ],
+    "total_duration": 20.7,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.08,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"What is it, soldier? Going to strike a gentleman in front of his wife?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander."
+      },
+      {
+        "start": 81.3,
+        "end": 84.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What is it, soldier? Going to strike a gentleman in front of his wife?"
+      },
+      {
+        "start": 84.2,
+        "end": 85.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Don't!"
+      },
+      {
+        "start": 85.0,
+        "end": 86.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana clutching her dress collar in acute panic."
+      },
+      {
+        "start": 86.0,
+        "end": 87.5,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "One blow would end this."
+      },
+      {
+        "start": 86.5,
+        "end": 89.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes."
+      },
+      {
+        "start": 88.0,
+        "end": 90.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "But one blow would destroy her life."
+      },
+      {
+        "start": 89.8,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace."
+      },
+      {
+        "start": 91.0,
+        "end": 92.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets."
+      },
+      {
+        "start": 92.1,
+        "end": 93.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "That is his coat!"
+      },
+      {
+        "start": 93.2,
+        "end": 96.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain."
+      },
+      {
+        "start": 95.8,
+        "end": 97.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Metallic clinking of the gold chain sliding against fabric."
+      },
+      {
+        "start": 96.8,
+        "end": 99.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief."
+      },
+      {
+        "start": 97.2,
+        "end": 99.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana draws a sharp, terrified breath as her face pales completely."
+      },
+      {
+        "start": 99.2,
+        "end": 102.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up."
+      }
+    ],
+    "final_score": 7.08,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 572
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 34.9,
+        "end": 56.0,
+        "duration": 21.1,
+        "start_time_fmt": "00:34.90",
+        "end_time_fmt": "00:56.00"
+      }
+    ],
+    "total_duration": 21.1,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.02,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"You hear that? He threatens me again!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 34.9,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+      },
+      {
+        "start": 35.1,
+        "end": 37.1,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You hear that? He threatens me again!"
+      },
+      {
+        "start": 37.0,
+        "end": 39.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally."
+      },
+      {
+        "start": 37.4,
+        "end": 39.2,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "I have received a complaint of theft."
+      },
+      {
+        "start": 39.1,
+        "end": 41.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana, defiant and resolute."
+      },
+      {
+        "start": 39.7,
+        "end": 41.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "A complaint is not proof."
+      },
+      {
+        "start": 41.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+      },
+      {
+        "start": 41.4,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "CONSTABLE",
+        "content": "Then a search will settle the matter."
+      },
+      {
+        "start": 43.3,
+        "end": 46.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance."
+      },
+      {
+        "start": 43.5,
+        "end": 46.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You cannot simply invade our home because this man makes an accusation!"
+      },
+      {
+        "start": 46.0,
+        "end": 47.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald crossing his arms smugly."
+      },
+      {
+        "start": 46.8,
+        "end": 48.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "If he has nothing to hide..."
+      },
+      {
+        "start": 47.8,
+        "end": 50.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+      },
+      {
+        "start": 48.4,
+        "end": 50.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "...let the constable search."
+      },
+      {
+        "start": 50.1,
+        "end": 51.0,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Search it."
+      },
+      {
+        "start": 50.8,
+        "end": 53.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana looking up at Alexander in panicked confusion."
+      },
+      {
+        "start": 52.8,
+        "end": 53.6,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Let them."
+      },
+      {
+        "start": 54.0,
+        "end": 56.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage."
+      }
+    ],
+    "final_score": 7.02,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 599
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 0.0,
+        "end": 20.0,
+        "duration": 20.0,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:20.00"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.0,
+    "hook": "Opens with immediate physical drama: Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her.",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"What? When?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle tracking shot of heavy carriage wheels churning violently through the muddy, waterlogged track."
+      },
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Squelch of mud and the grinding rattle of carriage wheels under heavy rain."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana and Alexander standing outside the rustic stone cottage, watching the incoming carriage with tense apprehension."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her."
+      },
+      {
+        "start": 4.0,
+        "end": 6.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot tilting up as polished black boots step down directly into the muck, revealing Gerald clad in an opulent burgundy double-breasted coat."
+      },
+      {
+        "start": 5.5,
+        "end": 7.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald buttons his coat, smug self-satisfaction radiating from his expression."
+      },
+      {
+        "start": 7.0,
+        "end": 8.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of a uniformed Constable descending from the carriage, firmly gripping a wooden truncheon."
+      },
+      {
+        "start": 8.2,
+        "end": 10.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot as Juliana steps defensively toward Gerald, her face full of shock and anger."
+      },
+      {
+        "start": 8.3,
+        "end": 10.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Gerald? What are you doing here?"
+      },
+      {
+        "start": 10.8,
+        "end": 13.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape."
+      },
+      {
+        "start": 11.1,
+        "end": 13.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I came for something that belongs to me."
+      },
+      {
+        "start": 13.0,
+        "end": 14.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips."
+      },
+      {
+        "start": 14.3,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her anger flaring as she gestures sharply."
+      },
+      {
+        "start": 14.4,
+        "end": 16.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have already taken enough from me. Leave!"
+      },
+      {
+        "start": 16.8,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger."
+      },
+      {
+        "start": 16.8,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Your husband stole my gold pocket watch!"
+      },
+      {
+        "start": 18.5,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling in utter disbelief."
+      },
+      {
+        "start": 19.0,
+        "end": 20.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What? When?"
+      }
+    ],
+    "final_score": 7.0,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 617
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 0.0,
+        "end": 37.1,
+        "duration": 37.1,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:37.10"
+      }
+    ],
+    "total_duration": 37.1,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 6.72,
+    "hook": "Opens with immediate physical drama: Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her.",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"You hear that? He threatens me again!\", leaving the outcome hanging.",
+    "why_it_works": "At 37s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle tracking shot of heavy carriage wheels churning violently through the muddy, waterlogged track."
+      },
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Squelch of mud and the grinding rattle of carriage wheels under heavy rain."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana and Alexander standing outside the rustic stone cottage, watching the incoming carriage with tense apprehension."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her."
+      },
+      {
+        "start": 4.0,
+        "end": 6.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight shot tilting up as polished black boots step down directly into the muck, revealing Gerald clad in an opulent burgundy double-breasted coat."
+      },
+      {
+        "start": 5.5,
+        "end": 7.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald buttons his coat, smug self-satisfaction radiating from his expression."
+      },
+      {
+        "start": 7.0,
+        "end": 8.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of a uniformed Constable descending from the carriage, firmly gripping a wooden truncheon."
+      },
+      {
+        "start": 8.2,
+        "end": 10.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot as Juliana steps defensively toward Gerald, her face full of shock and anger."
+      },
+      {
+        "start": 8.3,
+        "end": 10.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Gerald? What are you doing here?"
+      },
+      {
+        "start": 10.8,
+        "end": 13.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape."
+      },
+      {
+        "start": 11.1,
+        "end": 13.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I came for something that belongs to me."
+      },
+      {
+        "start": 13.0,
+        "end": 14.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips."
+      },
+      {
+        "start": 14.3,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her anger flaring as she gestures sharply."
+      },
+      {
+        "start": 14.4,
+        "end": 16.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have already taken enough from me. Leave!"
+      },
+      {
+        "start": 16.8,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger."
+      },
+      {
+        "start": 16.8,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Your husband stole my gold pocket watch!"
+      },
+      {
+        "start": 18.5,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling in utter disbelief."
+      },
+      {
+        "start": 19.0,
+        "end": 20.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What? When?"
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald narrowing his eyes vindictively."
+      },
+      {
+        "start": 20.9,
+        "end": 22.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "The last time I came here."
+      },
+      {
+        "start": 22.0,
+        "end": 24.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her."
+      },
+      {
+        "start": 23.0,
+        "end": 24.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You never even entered the cottage!"
+      },
+      {
+        "start": 24.6,
+        "end": 26.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald smirking with condescending amusement."
+      },
+      {
+        "start": 25.2,
+        "end": 27.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Then you should have nothing to fear from a search."
+      },
+      {
+        "start": 26.9,
+        "end": 28.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+      },
+      {
+        "start": 27.3,
+        "end": 29.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Alexander would never steal from you."
+      },
+      {
+        "start": 28.9,
+        "end": 32.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+      },
+      {
+        "start": 29.3,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Of course you would defend him. You married a beggar!"
+      },
+      {
+        "start": 32.4,
+        "end": 34.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid."
+      },
+      {
+        "start": 33.0,
+        "end": 34.9,
+        "type": "DIALOGUE",
+        "speaker": "ALEXANDER",
+        "content": "Choose your next words carefully."
+      },
+      {
+        "start": 34.9,
+        "end": 37.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+      },
+      {
+        "start": 35.1,
+        "end": 37.1,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "You hear that? He threatens me again!"
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 735
+  },
+  {
+    "episode": 11,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 11,
+        "start": 5.5,
+        "end": 26.9,
+        "duration": 21.4,
+        "start_time_fmt": "00:05.50",
+        "end_time_fmt": "00:26.90"
+      }
+    ],
+    "total_duration": 21.4,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 6.12,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Gerald? What are you doing here?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Gerald smirking with condescending amusement.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 5.5,
+        "end": 7.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Gerald buttons his coat, smug self-satisfaction radiating from his expression."
+      },
+      {
+        "start": 7.0,
+        "end": 8.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of a uniformed Constable descending from the carriage, firmly gripping a wooden truncheon."
+      },
+      {
+        "start": 8.2,
+        "end": 10.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot as Juliana steps defensively toward Gerald, her face full of shock and anger."
+      },
+      {
+        "start": 8.3,
+        "end": 10.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Gerald? What are you doing here?"
+      },
+      {
+        "start": 10.8,
+        "end": 13.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape."
+      },
+      {
+        "start": 11.1,
+        "end": 13.2,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "I came for something that belongs to me."
+      },
+      {
+        "start": 13.0,
+        "end": 14.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips."
+      },
+      {
+        "start": 14.3,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana, her anger flaring as she gestures sharply."
+      },
+      {
+        "start": 14.4,
+        "end": 16.7,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You have already taken enough from me. Leave!"
+      },
+      {
+        "start": 16.8,
+        "end": 18.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger."
+      },
+      {
+        "start": 16.8,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "Your husband stole my gold pocket watch!"
+      },
+      {
+        "start": 18.5,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling in utter disbelief."
+      },
+      {
+        "start": 19.0,
+        "end": 20.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "What? When?"
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald narrowing his eyes vindictively."
+      },
+      {
+        "start": 20.9,
+        "end": 22.3,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "The last time I came here."
+      },
+      {
+        "start": 22.0,
+        "end": 24.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her."
+      },
+      {
+        "start": 23.0,
+        "end": 24.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You never even entered the cottage!"
+      },
+      {
+        "start": 24.6,
+        "end": 26.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Gerald smirking with condescending amusement."
+      }
+    ],
+    "final_score": 6.12,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 872
+  }
+]

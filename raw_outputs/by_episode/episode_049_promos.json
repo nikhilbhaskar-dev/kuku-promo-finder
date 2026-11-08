@@ -1,0 +1,2466 @@
+[
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 53.0,
+        "end": 112.8,
+        "duration": 59.8,
+        "start_time_fmt": "00:53.00",
+        "end_time_fmt": "01:52.80"
+      }
+    ],
+    "total_duration": 59.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.6,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\", leaving the outcome hanging.",
+    "why_it_works": "At 60s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 53.0,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+      },
+      {
+        "start": 53.2,
+        "end": 59.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Fitting choice, this room. A place the family forgot for a conversation they mustn't remember."
+      },
+      {
+        "start": 59.8,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+      },
+      {
+        "start": 60.0,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You always did have a taste for symbolism."
+      },
+      {
+        "start": 62.8,
+        "end": 67.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+      },
+      {
+        "start": 63.0,
+        "end": 67.1,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "And you always did have a taste for using me. It's why we suit each other."
+      },
+      {
+        "start": 67.2,
+        "end": 72.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her expression turning razor-sharp and commanding."
+      },
+      {
+        "start": 67.4,
+        "end": 72.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then make certain the council remembers that for the full ten days, not just the first hour."
+      },
+      {
+        "start": 72.4,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve."
+      },
+      {
+        "start": 72.6,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "What is it you actually need from me, Catherine? Say it plainly, for once."
+      },
+      {
+        "start": 77.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms."
+      },
+      {
+        "start": 77.2,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene."
+      },
+      {
+        "start": 84.0,
+        "end": 91.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent."
+      },
+      {
+        "start": 84.2,
+        "end": 91.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her."
+      },
+      {
+        "start": 91.4,
+        "end": 94.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas absorbing the audacity of her demand."
+      },
+      {
+        "start": 91.6,
+        "end": 94.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "You want eyes inside the council chamber itself?"
+      },
+      {
+        "start": 94.2,
+        "end": 98.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up low angle on Catherine, tilting her chin up in defiant pride."
+      },
+      {
+        "start": 94.4,
+        "end": 97.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I want eyes and ears everywhere that decides my future."
+      },
+      {
+        "start": 98.0,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway."
+      },
+      {
+        "start": 98.2,
+        "end": 102.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words."
+      },
+      {
+        "start": 98.3,
+        "end": 103.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?"
+      },
+      {
+        "start": 103.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern."
+      },
+      {
+        "start": 104.2,
+        "end": 112.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?"
+      }
+    ],
+    "final_score": 7.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 332
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 77.0,
+        "end": 112.8,
+        "duration": 35.8,
+        "start_time_fmt": "01:17.00",
+        "end_time_fmt": "01:52.80"
+      }
+    ],
+    "total_duration": 35.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.6,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene.\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\", leaving the outcome hanging.",
+    "why_it_works": "At 36s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 77.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms."
+      },
+      {
+        "start": 77.2,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene."
+      },
+      {
+        "start": 84.0,
+        "end": 91.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent."
+      },
+      {
+        "start": 84.2,
+        "end": 91.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her."
+      },
+      {
+        "start": 91.4,
+        "end": 94.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas absorbing the audacity of her demand."
+      },
+      {
+        "start": 91.6,
+        "end": 94.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "You want eyes inside the council chamber itself?"
+      },
+      {
+        "start": 94.2,
+        "end": 98.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up low angle on Catherine, tilting her chin up in defiant pride."
+      },
+      {
+        "start": 94.4,
+        "end": 97.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I want eyes and ears everywhere that decides my future."
+      },
+      {
+        "start": 98.0,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway."
+      },
+      {
+        "start": 98.2,
+        "end": 102.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words."
+      },
+      {
+        "start": 98.3,
+        "end": 103.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?"
+      },
+      {
+        "start": 103.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern."
+      },
+      {
+        "start": 104.2,
+        "end": 112.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?"
+      }
+    ],
+    "final_score": 7.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 333
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 91.4,
+        "end": 112.8,
+        "duration": 21.4,
+        "start_time_fmt": "01:31.40",
+        "end_time_fmt": "01:52.80"
+      }
+    ],
+    "total_duration": 21.4,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 7.52,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"You want eyes inside the council chamber itself?\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 91.4,
+        "end": 94.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas absorbing the audacity of her demand."
+      },
+      {
+        "start": 91.6,
+        "end": 94.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "You want eyes inside the council chamber itself?"
+      },
+      {
+        "start": 94.2,
+        "end": 98.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up low angle on Catherine, tilting her chin up in defiant pride."
+      },
+      {
+        "start": 94.4,
+        "end": 97.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I want eyes and ears everywhere that decides my future."
+      },
+      {
+        "start": 98.0,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway."
+      },
+      {
+        "start": 98.2,
+        "end": 102.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words."
+      },
+      {
+        "start": 98.3,
+        "end": 103.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?"
+      },
+      {
+        "start": 103.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern."
+      },
+      {
+        "start": 104.2,
+        "end": 112.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?"
+      }
+    ],
+    "final_score": 7.52,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 362
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 15.5,
+        "end": 59.5,
+        "duration": 44.0,
+        "start_time_fmt": "00:15.50",
+        "end_time_fmt": "00:59.50"
+      }
+    ],
+    "total_duration": 44.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.35,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Good. That's what I pay her for.\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.\", leaving the outcome hanging.",
+    "why_it_works": "At 44s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 15.5,
+        "end": 19.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Catherine, turning with a slight, knowing smirk."
+      },
+      {
+        "start": 15.8,
+        "end": 18.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. That's what I pay her for."
+      },
+      {
+        "start": 19.8,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them."
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine sets down the brass candleholder, the flame flickering across their faces."
+      },
+      {
+        "start": 22.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes."
+      },
+      {
+        "start": 22.2,
+        "end": 27.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "No shadows tonight, Catherine. Just us and an empty wing."
+      },
+      {
+        "start": 27.5,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly."
+      },
+      {
+        "start": 27.8,
+        "end": 33.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You didn't need them the first time, either. I just prefer my secrets thorough."
+      },
+      {
+        "start": 33.2,
+        "end": 41.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her."
+      },
+      {
+        "start": 33.5,
+        "end": 41.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well."
+      },
+      {
+        "start": 41.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into a stern, focused expression."
+      },
+      {
+        "start": 42.0,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way."
+      },
+      {
+        "start": 46.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas listening impassively."
+      },
+      {
+        "start": 48.5,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward."
+      },
+      {
+        "start": 48.8,
+        "end": 52.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Today went better than either of us planned for. The whole court watched you humiliate her."
+      },
+      {
+        "start": 53.0,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+      },
+      {
+        "start": 53.2,
+        "end": 59.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Fitting choice, this room. A place the family forgot for a conversation they mustn't remember."
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 444
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 33.2,
+        "end": 67.1,
+        "duration": 33.9,
+        "start_time_fmt": "00:33.20",
+        "end_time_fmt": "01:07.10"
+      }
+    ],
+    "total_duration": 33.9,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.26,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"And you always did have a taste for using me. It's why we suit each other.\", leaving the outcome hanging.",
+    "why_it_works": "At 34s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 33.2,
+        "end": 41.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her."
+      },
+      {
+        "start": 33.5,
+        "end": 41.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well."
+      },
+      {
+        "start": 41.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into a stern, focused expression."
+      },
+      {
+        "start": 42.0,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way."
+      },
+      {
+        "start": 46.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas listening impassively."
+      },
+      {
+        "start": 48.5,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward."
+      },
+      {
+        "start": 48.8,
+        "end": 52.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Today went better than either of us planned for. The whole court watched you humiliate her."
+      },
+      {
+        "start": 53.0,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+      },
+      {
+        "start": 53.2,
+        "end": 59.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Fitting choice, this room. A place the family forgot for a conversation they mustn't remember."
+      },
+      {
+        "start": 59.8,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+      },
+      {
+        "start": 60.0,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You always did have a taste for symbolism."
+      },
+      {
+        "start": 62.8,
+        "end": 67.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+      },
+      {
+        "start": 63.0,
+        "end": 67.1,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "And you always did have a taste for using me. It's why we suit each other."
+      }
+    ],
+    "final_score": 7.26,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 486
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 33.2,
+        "end": 91.2,
+        "duration": 58.0,
+        "start_time_fmt": "00:33.20",
+        "end_time_fmt": "01:31.20"
+      }
+    ],
+    "total_duration": 58.0,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.26,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.\", leaving the outcome hanging.",
+    "why_it_works": "At 58s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 33.2,
+        "end": 41.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her."
+      },
+      {
+        "start": 33.5,
+        "end": 41.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well."
+      },
+      {
+        "start": 41.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into a stern, focused expression."
+      },
+      {
+        "start": 42.0,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way."
+      },
+      {
+        "start": 46.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas listening impassively."
+      },
+      {
+        "start": 48.5,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward."
+      },
+      {
+        "start": 48.8,
+        "end": 52.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Today went better than either of us planned for. The whole court watched you humiliate her."
+      },
+      {
+        "start": 53.0,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+      },
+      {
+        "start": 53.2,
+        "end": 59.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Fitting choice, this room. A place the family forgot for a conversation they mustn't remember."
+      },
+      {
+        "start": 59.8,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+      },
+      {
+        "start": 60.0,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You always did have a taste for symbolism."
+      },
+      {
+        "start": 62.8,
+        "end": 67.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+      },
+      {
+        "start": 63.0,
+        "end": 67.1,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "And you always did have a taste for using me. It's why we suit each other."
+      },
+      {
+        "start": 67.2,
+        "end": 72.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her expression turning razor-sharp and commanding."
+      },
+      {
+        "start": 67.4,
+        "end": 72.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then make certain the council remembers that for the full ten days, not just the first hour."
+      },
+      {
+        "start": 72.4,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve."
+      },
+      {
+        "start": 72.6,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "What is it you actually need from me, Catherine? Say it plainly, for once."
+      },
+      {
+        "start": 77.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms."
+      },
+      {
+        "start": 77.2,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene."
+      },
+      {
+        "start": 84.0,
+        "end": 91.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent."
+      },
+      {
+        "start": 84.2,
+        "end": 91.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her."
+      }
+    ],
+    "final_score": 7.26,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 487
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 103.8,
+        "end": 139.5,
+        "duration": 35.7,
+        "start_time_fmt": "01:43.80",
+        "end_time_fmt": "02:19.50"
+      }
+    ],
+    "total_duration": 35.7,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.26,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"The rest depends on how well you keep your part of this quiet.\", leaving the outcome hanging.",
+    "why_it_works": "At 36s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 103.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern."
+      },
+      {
+        "start": 104.2,
+        "end": 112.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?"
+      },
+      {
+        "start": 113.0,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot tracking closer as Catherine steps closer toward him."
+      },
+      {
+        "start": 113.2,
+        "end": 117.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then make certain he doesn't find out. You're careful. I've seen how careful."
+      },
+      {
+        "start": 118.0,
+        "end": 124.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Father Thomas's intense, brooding face."
+      },
+      {
+        "start": 118.2,
+        "end": 124.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored."
+      },
+      {
+        "start": 124.8,
+        "end": 128.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips parting into an alluring, promising smile."
+      },
+      {
+        "start": 125.0,
+        "end": 128.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Careful men who help me also get remembered."
+      },
+      {
+        "start": 128.8,
+        "end": 134.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Split focus close-up between Father Thomas's intense gaze and Catherine leaning in close, whispering with lethal conviction."
+      },
+      {
+        "start": 129.2,
+        "end": 134.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "A grateful Duchess collects debts differently than a desperate one."
+      },
+      {
+        "start": 134.5,
+        "end": 139.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Father Thomas extends his open right hand between them."
+      },
+      {
+        "start": 135.0,
+        "end": 139.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Father Thomas slowly raises his right hand, palm turned upward in invitation and pact."
+      },
+      {
+        "start": 135.2,
+        "end": 139.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "The rest depends on how well you keep your part of this quiet."
+      }
+    ],
+    "final_score": 7.26,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 488
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 15.5,
+        "end": 41.8,
+        "duration": 26.3,
+        "start_time_fmt": "00:15.50",
+        "end_time_fmt": "00:41.80"
+      }
+    ],
+    "total_duration": 26.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.5,
+    "composite_score": 7.25,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Good. That's what I pay her for.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 15.5,
+        "end": 19.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Catherine, turning with a slight, knowing smirk."
+      },
+      {
+        "start": 15.8,
+        "end": 18.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. That's what I pay her for."
+      },
+      {
+        "start": 19.8,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them."
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine sets down the brass candleholder, the flame flickering across their faces."
+      },
+      {
+        "start": 22.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes."
+      },
+      {
+        "start": 22.2,
+        "end": 27.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "No shadows tonight, Catherine. Just us and an empty wing."
+      },
+      {
+        "start": 27.5,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly."
+      },
+      {
+        "start": 27.8,
+        "end": 33.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You didn't need them the first time, either. I just prefer my secrets thorough."
+      },
+      {
+        "start": 33.2,
+        "end": 41.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her."
+      }
+    ],
+    "final_score": 7.25,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 506
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 59.8,
+        "end": 94.0,
+        "duration": 34.2,
+        "start_time_fmt": "00:59.80",
+        "end_time_fmt": "01:34.00"
+      }
+    ],
+    "total_duration": 34.2,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.25,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"You always did have a taste for symbolism.\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"You want eyes inside the council chamber itself?\", leaving the outcome hanging.",
+    "why_it_works": "At 34s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 59.8,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+      },
+      {
+        "start": 60.0,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You always did have a taste for symbolism."
+      },
+      {
+        "start": 62.8,
+        "end": 67.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+      },
+      {
+        "start": 63.0,
+        "end": 67.1,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "And you always did have a taste for using me. It's why we suit each other."
+      },
+      {
+        "start": 67.2,
+        "end": 72.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her expression turning razor-sharp and commanding."
+      },
+      {
+        "start": 67.4,
+        "end": 72.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then make certain the council remembers that for the full ten days, not just the first hour."
+      },
+      {
+        "start": 72.4,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve."
+      },
+      {
+        "start": 72.6,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "What is it you actually need from me, Catherine? Say it plainly, for once."
+      },
+      {
+        "start": 77.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms."
+      },
+      {
+        "start": 77.2,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene."
+      },
+      {
+        "start": 84.0,
+        "end": 91.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent."
+      },
+      {
+        "start": 84.2,
+        "end": 91.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her."
+      },
+      {
+        "start": 91.4,
+        "end": 94.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas absorbing the audacity of her demand."
+      },
+      {
+        "start": 91.6,
+        "end": 94.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "You want eyes inside the council chamber itself?"
+      }
+    ],
+    "final_score": 7.25,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 507
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 103.8,
+        "end": 124.5,
+        "duration": 20.7,
+        "start_time_fmt": "01:43.80",
+        "end_time_fmt": "02:04.50"
+      }
+    ],
+    "total_duration": 20.7,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 7.18,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 103.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern."
+      },
+      {
+        "start": 104.2,
+        "end": 112.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?"
+      },
+      {
+        "start": 113.0,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot tracking closer as Catherine steps closer toward him."
+      },
+      {
+        "start": 113.2,
+        "end": 117.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then make certain he doesn't find out. You're careful. I've seen how careful."
+      },
+      {
+        "start": 118.0,
+        "end": 124.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Father Thomas's intense, brooding face."
+      },
+      {
+        "start": 118.2,
+        "end": 124.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored."
+      }
+    ],
+    "final_score": 7.18,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 534
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 118.2,
+        "end": 139.5,
+        "duration": 21.3,
+        "start_time_fmt": "01:58.20",
+        "end_time_fmt": "02:19.50"
+      }
+    ],
+    "total_duration": 21.3,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 7.18,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"The rest depends on how well you keep your part of this quiet.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 118.2,
+        "end": 124.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored."
+      },
+      {
+        "start": 124.8,
+        "end": 128.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips parting into an alluring, promising smile."
+      },
+      {
+        "start": 125.0,
+        "end": 128.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Careful men who help me also get remembered."
+      },
+      {
+        "start": 128.8,
+        "end": 134.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Split focus close-up between Father Thomas's intense gaze and Catherine leaning in close, whispering with lethal conviction."
+      },
+      {
+        "start": 129.2,
+        "end": 134.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "A grateful Duchess collects debts differently than a desperate one."
+      },
+      {
+        "start": 134.5,
+        "end": 139.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Father Thomas extends his open right hand between them."
+      },
+      {
+        "start": 135.0,
+        "end": 139.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Father Thomas slowly raises his right hand, palm turned upward in invitation and pact."
+      },
+      {
+        "start": 135.2,
+        "end": 139.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "The rest depends on how well you keep your part of this quiet."
+      }
+    ],
+    "final_score": 7.18,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 535
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 8.8,
+        "end": 33.2,
+        "duration": 24.4,
+        "start_time_fmt": "00:08.80",
+        "end_time_fmt": "00:33.20"
+      }
+    ],
+    "total_duration": 24.4,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.5,
+    "composite_score": 7.16,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 8.8,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Father Thomas under his black hood, his stern face framed by the clerical collar and silver crucifix resting on his chest."
+      },
+      {
+        "start": 9.0,
+        "end": 15.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables."
+      },
+      {
+        "start": 15.5,
+        "end": 19.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Catherine, turning with a slight, knowing smirk."
+      },
+      {
+        "start": 15.8,
+        "end": 18.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. That's what I pay her for."
+      },
+      {
+        "start": 19.8,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them."
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine sets down the brass candleholder, the flame flickering across their faces."
+      },
+      {
+        "start": 22.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes."
+      },
+      {
+        "start": 22.2,
+        "end": 27.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "No shadows tonight, Catherine. Just us and an empty wing."
+      },
+      {
+        "start": 27.5,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly."
+      }
+    ],
+    "final_score": 7.16,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 550
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 42.0,
+        "end": 76.8,
+        "duration": 34.8,
+        "start_time_fmt": "00:42.00",
+        "end_time_fmt": "01:16.80"
+      }
+    ],
+    "total_duration": 34.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"What is it you actually need from me, Catherine? Say it plainly, for once.\", leaving the outcome hanging.",
+    "why_it_works": "At 35s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 42.0,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way."
+      },
+      {
+        "start": 46.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas listening impassively."
+      },
+      {
+        "start": 48.5,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward."
+      },
+      {
+        "start": 48.8,
+        "end": 52.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Today went better than either of us planned for. The whole court watched you humiliate her."
+      },
+      {
+        "start": 53.0,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+      },
+      {
+        "start": 53.2,
+        "end": 59.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Fitting choice, this room. A place the family forgot for a conversation they mustn't remember."
+      },
+      {
+        "start": 59.8,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+      },
+      {
+        "start": 60.0,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You always did have a taste for symbolism."
+      },
+      {
+        "start": 62.8,
+        "end": 67.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+      },
+      {
+        "start": 63.0,
+        "end": 67.1,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "And you always did have a taste for using me. It's why we suit each other."
+      },
+      {
+        "start": 67.2,
+        "end": 72.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her expression turning razor-sharp and commanding."
+      },
+      {
+        "start": 67.4,
+        "end": 72.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then make certain the council remembers that for the full ten days, not just the first hour."
+      },
+      {
+        "start": 72.4,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve."
+      },
+      {
+        "start": 72.6,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "What is it you actually need from me, Catherine? Say it plainly, for once."
+      }
+    ],
+    "final_score": 6.9,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 668
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 84.0,
+        "end": 128.5,
+        "duration": 44.5,
+        "start_time_fmt": "01:24.00",
+        "end_time_fmt": "02:08.50"
+      }
+    ],
+    "total_duration": 44.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.9,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Careful men who help me also get remembered.\", leaving the outcome hanging.",
+    "why_it_works": "At 44s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 84.0,
+        "end": 91.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent."
+      },
+      {
+        "start": 84.2,
+        "end": 91.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her."
+      },
+      {
+        "start": 91.4,
+        "end": 94.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas absorbing the audacity of her demand."
+      },
+      {
+        "start": 91.6,
+        "end": 94.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "You want eyes inside the council chamber itself?"
+      },
+      {
+        "start": 94.2,
+        "end": 98.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up low angle on Catherine, tilting her chin up in defiant pride."
+      },
+      {
+        "start": 94.4,
+        "end": 97.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I want eyes and ears everywhere that decides my future."
+      },
+      {
+        "start": 98.0,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway."
+      },
+      {
+        "start": 98.2,
+        "end": 102.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words."
+      },
+      {
+        "start": 98.3,
+        "end": 103.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?"
+      },
+      {
+        "start": 103.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern."
+      },
+      {
+        "start": 104.2,
+        "end": 112.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?"
+      },
+      {
+        "start": 113.0,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot tracking closer as Catherine steps closer toward him."
+      },
+      {
+        "start": 113.2,
+        "end": 117.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then make certain he doesn't find out. You're careful. I've seen how careful."
+      },
+      {
+        "start": 118.0,
+        "end": 124.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Father Thomas's intense, brooding face."
+      },
+      {
+        "start": 118.2,
+        "end": 124.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored."
+      },
+      {
+        "start": 124.8,
+        "end": 128.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips parting into an alluring, promising smile."
+      },
+      {
+        "start": 125.0,
+        "end": 128.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Careful men who help me also get remembered."
+      }
+    ],
+    "final_score": 6.9,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 669
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 53.0,
+        "end": 84.0,
+        "duration": 31.0,
+        "start_time_fmt": "00:53.00",
+        "end_time_fmt": "01:24.00"
+      }
+    ],
+    "total_duration": 31.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium close-up of Catherine raising one hand slightly, emphasizing her terms.",
+    "why_it_works": "At 31s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 53.0,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+      },
+      {
+        "start": 53.2,
+        "end": 59.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Fitting choice, this room. A place the family forgot for a conversation they mustn't remember."
+      },
+      {
+        "start": 59.8,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+      },
+      {
+        "start": 60.0,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You always did have a taste for symbolism."
+      },
+      {
+        "start": 62.8,
+        "end": 67.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+      },
+      {
+        "start": 63.0,
+        "end": 67.1,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "And you always did have a taste for using me. It's why we suit each other."
+      },
+      {
+        "start": 67.2,
+        "end": 72.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her expression turning razor-sharp and commanding."
+      },
+      {
+        "start": 67.4,
+        "end": 72.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Then make certain the council remembers that for the full ten days, not just the first hour."
+      },
+      {
+        "start": 72.4,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve."
+      },
+      {
+        "start": 72.6,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "What is it you actually need from me, Catherine? Say it plainly, for once."
+      },
+      {
+        "start": 77.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms."
+      }
+    ],
+    "final_score": 6.72,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 757
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 22.2,
+        "end": 48.5,
+        "duration": 26.3,
+        "start_time_fmt": "00:22.20",
+        "end_time_fmt": "00:48.50"
+      }
+    ],
+    "total_duration": 26.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 6.65,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"No shadows tonight, Catherine. Just us and an empty wing.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on Father Thomas listening impassively.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 22.2,
+        "end": 27.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "No shadows tonight, Catherine. Just us and an empty wing."
+      },
+      {
+        "start": 27.5,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly."
+      },
+      {
+        "start": 27.8,
+        "end": 33.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You didn't need them the first time, either. I just prefer my secrets thorough."
+      },
+      {
+        "start": 33.2,
+        "end": 41.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her."
+      },
+      {
+        "start": 33.5,
+        "end": 41.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well."
+      },
+      {
+        "start": 41.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into a stern, focused expression."
+      },
+      {
+        "start": 42.0,
+        "end": 46.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way."
+      },
+      {
+        "start": 46.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas listening impassively."
+      }
+    ],
+    "final_score": 6.65,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 770
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 72.4,
+        "end": 98.0,
+        "duration": 25.6,
+        "start_time_fmt": "01:12.40",
+        "end_time_fmt": "01:38.00"
+      }
+    ],
+    "total_duration": 25.6,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 6.65,
+    "hook": "FATHER THOMAS shocks the viewer with an immediate confrontation: \"What is it you actually need from me, Catherine? Say it plainly, for once.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up low angle on Catherine, tilting her chin up in defiant pride.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 72.4,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve."
+      },
+      {
+        "start": 72.6,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "What is it you actually need from me, Catherine? Say it plainly, for once."
+      },
+      {
+        "start": 77.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms."
+      },
+      {
+        "start": 77.2,
+        "end": 83.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene."
+      },
+      {
+        "start": 84.0,
+        "end": 91.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent."
+      },
+      {
+        "start": 84.2,
+        "end": 91.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her."
+      },
+      {
+        "start": 91.4,
+        "end": 94.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas absorbing the audacity of her demand."
+      },
+      {
+        "start": 91.6,
+        "end": 94.0,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "You want eyes inside the council chamber itself?"
+      },
+      {
+        "start": 94.2,
+        "end": 98.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up low angle on Catherine, tilting her chin up in defiant pride."
+      }
+    ],
+    "final_score": 6.65,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 771
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 46.8,
+        "end": 67.1,
+        "duration": 20.3,
+        "start_time_fmt": "00:46.80",
+        "end_time_fmt": "01:07.10"
+      }
+    ],
+    "total_duration": 20.3,
+    "hook_strength": 5.8,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 6.5,
+    "composite_score": 6.61,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Today went better than either of us planned for. The whole court watched you humiliate her.\"",
+    "cliffhanger": "Cuts sharply on FATHER THOMAS's unresolved words: \"And you always did have a taste for using me. It's why we suit each other.\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 46.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Father Thomas listening impassively."
+      },
+      {
+        "start": 48.5,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward."
+      },
+      {
+        "start": 48.8,
+        "end": 52.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Today went better than either of us planned for. The whole court watched you humiliate her."
+      },
+      {
+        "start": 53.0,
+        "end": 59.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+      },
+      {
+        "start": 53.2,
+        "end": 59.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Fitting choice, this room. A place the family forgot for a conversation they mustn't remember."
+      },
+      {
+        "start": 59.8,
+        "end": 62.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+      },
+      {
+        "start": 60.0,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You always did have a taste for symbolism."
+      },
+      {
+        "start": 62.8,
+        "end": 67.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+      },
+      {
+        "start": 63.0,
+        "end": 67.1,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "And you always did have a taste for using me. It's why we suit each other."
+      }
+    ],
+    "final_score": 6.61,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 772
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 98.0,
+        "end": 118.0,
+        "duration": 20.0,
+        "start_time_fmt": "01:38.00",
+        "end_time_fmt": "01:58.00"
+      }
+    ],
+    "total_duration": 20.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 5.5,
+    "composite_score": 6.5,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium two-shot tracking closer as Catherine steps closer toward him.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 98.0,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway."
+      },
+      {
+        "start": 98.2,
+        "end": 102.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words."
+      },
+      {
+        "start": 98.3,
+        "end": 103.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?"
+      },
+      {
+        "start": 103.8,
+        "end": 113.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern."
+      },
+      {
+        "start": 104.2,
+        "end": 112.8,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?"
+      },
+      {
+        "start": 113.0,
+        "end": 118.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot tracking closer as Catherine steps closer toward him."
+      }
+    ],
+    "final_score": 6.5,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 806
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 0.0,
+        "end": 22.0,
+        "duration": 22.0,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:22.00"
+      }
+    ],
+    "total_duration": 22.0,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.5,
+    "composite_score": 6.35,
+    "hook": "Opens with immediate physical drama: Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor.",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 5.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in."
+      },
+      {
+        "start": 1.0,
+        "end": 4.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Hinges creaking softly followed by the muffled thud of a heavy wooden door clicking shut."
+      },
+      {
+        "start": 1.8,
+        "end": 5.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor."
+      },
+      {
+        "start": 5.2,
+        "end": 7.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Catherine, draped in a dark hooded cloak over a lavish crimson bodice, holding a brass candlestick aloft."
+      },
+      {
+        "start": 5.4,
+        "end": 6.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You took your time."
+      },
+      {
+        "start": 7.0,
+        "end": 8.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot past Father Thomas's cloaked back looking toward Catherine illuminated in warm candlelight."
+      },
+      {
+        "start": 8.8,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Father Thomas under his black hood, his stern face framed by the clerical collar and silver crucifix resting on his chest."
+      },
+      {
+        "start": 9.0,
+        "end": 15.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables."
+      },
+      {
+        "start": 15.5,
+        "end": 19.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Catherine, turning with a slight, knowing smirk."
+      },
+      {
+        "start": 15.8,
+        "end": 18.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. That's what I pay her for."
+      },
+      {
+        "start": 19.8,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them."
+      }
+    ],
+    "final_score": 6.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 853
+  },
+  {
+    "episode": 49,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 49,
+        "start": 0.0,
+        "end": 46.8,
+        "duration": 46.8,
+        "start_time_fmt": "00:00.00",
+        "end_time_fmt": "00:46.80"
+      }
+    ],
+    "total_duration": 46.8,
+    "hook_strength": 5.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.27,
+    "hook": "Opens with immediate physical drama: Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor.",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Catherine's face hardening into a stern, focused expression.",
+    "why_it_works": "At 47s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 0.0,
+        "end": 5.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in."
+      },
+      {
+        "start": 1.0,
+        "end": 4.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Hinges creaking softly followed by the muffled thud of a heavy wooden door clicking shut."
+      },
+      {
+        "start": 1.8,
+        "end": 5.2,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor."
+      },
+      {
+        "start": 5.2,
+        "end": 7.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Catherine, draped in a dark hooded cloak over a lavish crimson bodice, holding a brass candlestick aloft."
+      },
+      {
+        "start": 5.4,
+        "end": 6.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You took your time."
+      },
+      {
+        "start": 7.0,
+        "end": 8.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder shot past Father Thomas's cloaked back looking toward Catherine illuminated in warm candlelight."
+      },
+      {
+        "start": 8.8,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Father Thomas under his black hood, his stern face framed by the clerical collar and silver crucifix resting on his chest."
+      },
+      {
+        "start": 9.0,
+        "end": 15.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables."
+      },
+      {
+        "start": 15.5,
+        "end": 19.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Catherine, turning with a slight, knowing smirk."
+      },
+      {
+        "start": 15.8,
+        "end": 18.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. That's what I pay her for."
+      },
+      {
+        "start": 19.8,
+        "end": 22.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them."
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine sets down the brass candleholder, the flame flickering across their faces."
+      },
+      {
+        "start": 22.0,
+        "end": 27.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes."
+      },
+      {
+        "start": 22.2,
+        "end": 27.2,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "No shadows tonight, Catherine. Just us and an empty wing."
+      },
+      {
+        "start": 27.5,
+        "end": 33.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly."
+      },
+      {
+        "start": 27.8,
+        "end": 33.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "You didn't need them the first time, either. I just prefer my secrets thorough."
+      },
+      {
+        "start": 33.2,
+        "end": 41.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her."
+      },
+      {
+        "start": 33.5,
+        "end": 41.5,
+        "type": "DIALOGUE",
+        "speaker": "FATHER THOMAS",
+        "content": "A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well."
+      },
+      {
+        "start": 41.8,
+        "end": 46.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face hardening into a stern, focused expression."
+      }
+    ],
+    "final_score": 6.27,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 857
+  }
+]

@@ -1,0 +1,1980 @@
+[
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 1.8,
+        "end": 60.5,
+        "duration": 58.7,
+        "start_time_fmt": "00:01.80",
+        "end_time_fmt": "01:00.50"
+      }
+    ],
+    "total_duration": 58.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.35,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Wait.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"You needed an entire chapel to feel powerful over one chained woman?\", leaving the outcome hanging.",
+    "why_it_works": "At 59s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 1.8,
+        "end": 4.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commanding silence from the congregation."
+      },
+      {
+        "start": 1.8,
+        "end": 2.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Wait."
+      },
+      {
+        "start": 4.5,
+        "end": 8.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Catherine as she pivots toward the seated aristocracy, her veil floating gracefully behind her."
+      },
+      {
+        "start": 4.9,
+        "end": 8.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Before I become Duchess of Ashburgh..."
+      },
+      {
+        "start": 8.5,
+        "end": 13.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face, her lips curling into a sadistic, triumphant sneer."
+      },
+      {
+        "start": 8.5,
+        "end": 12.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...I want everyone to see what happens to a woman who dares defy this family."
+      },
+      {
+        "start": 13.0,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Rupert and Catherine. Rupert turns to her with mild caution."
+      },
+      {
+        "start": 13.2,
+        "end": 14.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Catherine..."
+      },
+      {
+        "start": 14.0,
+        "end": 15.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Bring her in."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden creak of the cathedral double doors swinging open."
+      },
+      {
+        "start": 15.5,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight."
+      },
+      {
+        "start": 17.5,
+        "end": 20.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms."
+      },
+      {
+        "start": 20.0,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles."
+      },
+      {
+        "start": 22.8,
+        "end": 26.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state."
+      },
+      {
+        "start": 26.0,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction."
+      },
+      {
+        "start": 26.8,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "There she is."
+      },
+      {
+        "start": 28.8,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar."
+      },
+      {
+        "start": 30.0,
+        "end": 34.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan."
+      },
+      {
+        "start": 30.5,
+        "end": 31.6,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Look at her."
+      },
+      {
+        "start": 31.7,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEMAN",
+        "content": "She actually came back to the chapel."
+      },
+      {
+        "start": 34.0,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride."
+      },
+      {
+        "start": 34.8,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not as a bride this time."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement."
+      },
+      {
+        "start": 39.8,
+        "end": 43.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers."
+      },
+      {
+        "start": 41.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft. Look around."
+      },
+      {
+        "start": 43.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral."
+      },
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This is the world you thought you belonged to."
+      },
+      {
+        "start": 48.5,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+      },
+      {
+        "start": 48.6,
+        "end": 52.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And now they can all see what you truly are."
+      },
+      {
+        "start": 52.8,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+      },
+      {
+        "start": 54.8,
+        "end": 57.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain."
+      },
+      {
+        "start": 57.8,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's bruised, unshaken face."
+      },
+      {
+        "start": 58.0,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You needed an entire chapel to feel powerful over one chained woman?"
+      }
+    ],
+    "final_score": 8.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 63
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 26.0,
+        "end": 60.5,
+        "duration": 34.5,
+        "start_time_fmt": "00:26.00",
+        "end_time_fmt": "01:00.50"
+      }
+    ],
+    "total_duration": 34.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.35,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"There she is.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"You needed an entire chapel to feel powerful over one chained woman?\", leaving the outcome hanging.",
+    "why_it_works": "At 34s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 26.0,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction."
+      },
+      {
+        "start": 26.8,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "There she is."
+      },
+      {
+        "start": 28.8,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar."
+      },
+      {
+        "start": 30.0,
+        "end": 34.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan."
+      },
+      {
+        "start": 30.5,
+        "end": 31.6,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Look at her."
+      },
+      {
+        "start": 31.7,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEMAN",
+        "content": "She actually came back to the chapel."
+      },
+      {
+        "start": 34.0,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride."
+      },
+      {
+        "start": 34.8,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not as a bride this time."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement."
+      },
+      {
+        "start": 39.8,
+        "end": 43.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers."
+      },
+      {
+        "start": 41.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft. Look around."
+      },
+      {
+        "start": 43.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral."
+      },
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This is the world you thought you belonged to."
+      },
+      {
+        "start": 48.5,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+      },
+      {
+        "start": 48.6,
+        "end": 52.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And now they can all see what you truly are."
+      },
+      {
+        "start": 52.8,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+      },
+      {
+        "start": 54.8,
+        "end": 57.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain."
+      },
+      {
+        "start": 57.8,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's bruised, unshaken face."
+      },
+      {
+        "start": 58.0,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You needed an entire chapel to feel powerful over one chained woman?"
+      }
+    ],
+    "final_score": 8.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 64
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 31.7,
+        "end": 52.4,
+        "duration": 20.7,
+        "start_time_fmt": "00:31.70",
+        "end_time_fmt": "00:52.40"
+      }
+    ],
+    "total_duration": 20.7,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.0,
+    "hook": "NOBLEMAN shocks the viewer with an immediate confrontation: \"She actually came back to the chapel.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"And now they can all see what you truly are.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 31.7,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEMAN",
+        "content": "She actually came back to the chapel."
+      },
+      {
+        "start": 34.0,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride."
+      },
+      {
+        "start": 34.8,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not as a bride this time."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement."
+      },
+      {
+        "start": 39.8,
+        "end": 43.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers."
+      },
+      {
+        "start": 41.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft. Look around."
+      },
+      {
+        "start": 43.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral."
+      },
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This is the world you thought you belonged to."
+      },
+      {
+        "start": 48.5,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+      },
+      {
+        "start": 48.6,
+        "end": 52.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And now they can all see what you truly are."
+      }
+    ],
+    "final_score": 8.0,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 155
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 31.7,
+        "end": 79.3,
+        "duration": 47.6,
+        "start_time_fmt": "00:31.70",
+        "end_time_fmt": "01:19.30"
+      }
+    ],
+    "total_duration": 47.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.85,
+    "hook": "NOBLEMAN shocks the viewer with an immediate confrontation: \"She actually came back to the chapel.\"",
+    "cliffhanger": "Cuts sharply on PRIEST's unresolved words: \"Shall we?\", leaving the outcome hanging.",
+    "why_it_works": "At 48s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 31.7,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEMAN",
+        "content": "She actually came back to the chapel."
+      },
+      {
+        "start": 34.0,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride."
+      },
+      {
+        "start": 34.8,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not as a bride this time."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement."
+      },
+      {
+        "start": 39.8,
+        "end": 43.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers."
+      },
+      {
+        "start": 41.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft. Look around."
+      },
+      {
+        "start": 43.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral."
+      },
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This is the world you thought you belonged to."
+      },
+      {
+        "start": 48.5,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+      },
+      {
+        "start": 48.6,
+        "end": 52.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And now they can all see what you truly are."
+      },
+      {
+        "start": 52.8,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+      },
+      {
+        "start": 54.8,
+        "end": 57.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain."
+      },
+      {
+        "start": 57.8,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's bruised, unshaken face."
+      },
+      {
+        "start": 58.0,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You needed an entire chapel to feel powerful over one chained woman?"
+      },
+      {
+        "start": 60.8,
+        "end": 64.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains."
+      },
+      {
+        "start": 61.0,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Still arrogant. Still standing."
+      },
+      {
+        "start": 64.0,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her."
+      },
+      {
+        "start": 64.5,
+        "end": 65.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Come."
+      },
+      {
+        "start": 68.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion."
+      },
+      {
+        "start": 70.5,
+        "end": 75.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate."
+      },
+      {
+        "start": 70.5,
+        "end": 74.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Soon, there will be nothing left between us and the Ashburgh title."
+      },
+      {
+        "start": 75.0,
+        "end": 77.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Rupert's face breaking into a calculating, ambitious grin."
+      },
+      {
+        "start": 75.8,
+        "end": 77.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Nothing."
+      },
+      {
+        "start": 77.5,
+        "end": 80.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine."
+      },
+      {
+        "start": 78.0,
+        "end": 79.3,
+        "type": "DIALOGUE",
+        "speaker": "PRIEST",
+        "content": "Shall we?"
+      }
+    ],
+    "final_score": 7.85,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 216
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 1.8,
+        "end": 28.4,
+        "duration": 26.6,
+        "start_time_fmt": "00:01.80",
+        "end_time_fmt": "00:28.40"
+      }
+    ],
+    "total_duration": 26.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.65,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Wait.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"There she is.\", leaving the outcome hanging.",
+    "why_it_works": "At 27s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 1.8,
+        "end": 4.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commanding silence from the congregation."
+      },
+      {
+        "start": 1.8,
+        "end": 2.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Wait."
+      },
+      {
+        "start": 4.5,
+        "end": 8.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Catherine as she pivots toward the seated aristocracy, her veil floating gracefully behind her."
+      },
+      {
+        "start": 4.9,
+        "end": 8.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Before I become Duchess of Ashburgh..."
+      },
+      {
+        "start": 8.5,
+        "end": 13.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face, her lips curling into a sadistic, triumphant sneer."
+      },
+      {
+        "start": 8.5,
+        "end": 12.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...I want everyone to see what happens to a woman who dares defy this family."
+      },
+      {
+        "start": 13.0,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Rupert and Catherine. Rupert turns to her with mild caution."
+      },
+      {
+        "start": 13.2,
+        "end": 14.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Catherine..."
+      },
+      {
+        "start": 14.0,
+        "end": 15.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Bring her in."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden creak of the cathedral double doors swinging open."
+      },
+      {
+        "start": 15.5,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight."
+      },
+      {
+        "start": 17.5,
+        "end": 20.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms."
+      },
+      {
+        "start": 20.0,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles."
+      },
+      {
+        "start": 22.8,
+        "end": 26.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state."
+      },
+      {
+        "start": 26.0,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction."
+      },
+      {
+        "start": 26.8,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "There she is."
+      }
+    ],
+    "final_score": 7.65,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 296
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 57.8,
+        "end": 79.3,
+        "duration": 21.5,
+        "start_time_fmt": "00:57.80",
+        "end_time_fmt": "01:19.30"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.55,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You needed an entire chapel to feel powerful over one chained woman?\"",
+    "cliffhanger": "Cuts sharply on PRIEST's unresolved words: \"Shall we?\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 57.8,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's bruised, unshaken face."
+      },
+      {
+        "start": 58.0,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You needed an entire chapel to feel powerful over one chained woman?"
+      },
+      {
+        "start": 60.8,
+        "end": 64.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains."
+      },
+      {
+        "start": 61.0,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Still arrogant. Still standing."
+      },
+      {
+        "start": 64.0,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her."
+      },
+      {
+        "start": 64.5,
+        "end": 65.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Come."
+      },
+      {
+        "start": 68.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion."
+      },
+      {
+        "start": 70.5,
+        "end": 75.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate."
+      },
+      {
+        "start": 70.5,
+        "end": 74.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Soon, there will be nothing left between us and the Ashburgh title."
+      },
+      {
+        "start": 75.0,
+        "end": 77.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Rupert's face breaking into a calculating, ambitious grin."
+      },
+      {
+        "start": 75.8,
+        "end": 77.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Nothing."
+      },
+      {
+        "start": 77.5,
+        "end": 80.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine."
+      },
+      {
+        "start": 78.0,
+        "end": 79.3,
+        "type": "DIALOGUE",
+        "speaker": "PRIEST",
+        "content": "Shall we?"
+      }
+    ],
+    "final_score": 7.55,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 350
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 8.5,
+        "end": 36.8,
+        "duration": 28.3,
+        "start_time_fmt": "00:08.50",
+        "end_time_fmt": "00:36.80"
+      }
+    ],
+    "total_duration": 28.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.47,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"...I want everyone to see what happens to a woman who dares defy this family.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride.",
+    "why_it_works": "At 28s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 8.5,
+        "end": 13.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's face, her lips curling into a sadistic, triumphant sneer."
+      },
+      {
+        "start": 8.5,
+        "end": 12.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...I want everyone to see what happens to a woman who dares defy this family."
+      },
+      {
+        "start": 13.0,
+        "end": 15.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of Rupert and Catherine. Rupert turns to her with mild caution."
+      },
+      {
+        "start": 13.2,
+        "end": 14.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Catherine..."
+      },
+      {
+        "start": 14.0,
+        "end": 15.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Bring her in."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden creak of the cathedral double doors swinging open."
+      },
+      {
+        "start": 15.5,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight."
+      },
+      {
+        "start": 17.5,
+        "end": 20.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms."
+      },
+      {
+        "start": 20.0,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles."
+      },
+      {
+        "start": 22.8,
+        "end": 26.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state."
+      },
+      {
+        "start": 26.0,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction."
+      },
+      {
+        "start": 26.8,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "There she is."
+      },
+      {
+        "start": 28.8,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar."
+      },
+      {
+        "start": 30.0,
+        "end": 34.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan."
+      },
+      {
+        "start": 30.5,
+        "end": 31.6,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Look at her."
+      },
+      {
+        "start": 31.7,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEMAN",
+        "content": "She actually came back to the chapel."
+      },
+      {
+        "start": 34.0,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride."
+      }
+    ],
+    "final_score": 7.47,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 383
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 45.0,
+        "end": 70.5,
+        "duration": 25.5,
+        "start_time_fmt": "00:45.00",
+        "end_time_fmt": "01:10.50"
+      }
+    ],
+    "total_duration": 25.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.17,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"This is the world you thought you belonged to.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This is the world you thought you belonged to."
+      },
+      {
+        "start": 48.5,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+      },
+      {
+        "start": 48.6,
+        "end": 52.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And now they can all see what you truly are."
+      },
+      {
+        "start": 52.8,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+      },
+      {
+        "start": 54.8,
+        "end": 57.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain."
+      },
+      {
+        "start": 57.8,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's bruised, unshaken face."
+      },
+      {
+        "start": 58.0,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You needed an entire chapel to feel powerful over one chained woman?"
+      },
+      {
+        "start": 60.8,
+        "end": 64.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains."
+      },
+      {
+        "start": 61.0,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Still arrogant. Still standing."
+      },
+      {
+        "start": 64.0,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her."
+      },
+      {
+        "start": 64.5,
+        "end": 65.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Come."
+      },
+      {
+        "start": 68.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion."
+      }
+    ],
+    "final_score": 7.17,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 546
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 45.0,
+        "end": 92.0,
+        "duration": 47.0,
+        "start_time_fmt": "00:45.00",
+        "end_time_fmt": "01:32.00"
+      }
+    ],
+    "total_duration": 47.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.17,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"This is the world you thought you belonged to.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her.",
+    "why_it_works": "At 47s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This is the world you thought you belonged to."
+      },
+      {
+        "start": 48.5,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+      },
+      {
+        "start": 48.6,
+        "end": 52.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And now they can all see what you truly are."
+      },
+      {
+        "start": 52.8,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+      },
+      {
+        "start": 54.8,
+        "end": 57.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain."
+      },
+      {
+        "start": 57.8,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's bruised, unshaken face."
+      },
+      {
+        "start": 58.0,
+        "end": 60.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You needed an entire chapel to feel powerful over one chained woman?"
+      },
+      {
+        "start": 60.8,
+        "end": 64.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains."
+      },
+      {
+        "start": 61.0,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Still arrogant. Still standing."
+      },
+      {
+        "start": 64.0,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her."
+      },
+      {
+        "start": 64.5,
+        "end": 65.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Come."
+      },
+      {
+        "start": 68.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion."
+      },
+      {
+        "start": 70.5,
+        "end": 75.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate."
+      },
+      {
+        "start": 70.5,
+        "end": 74.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Soon, there will be nothing left between us and the Ashburgh title."
+      },
+      {
+        "start": 75.0,
+        "end": 77.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Rupert's face breaking into a calculating, ambitious grin."
+      },
+      {
+        "start": 75.8,
+        "end": 77.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Nothing."
+      },
+      {
+        "start": 77.5,
+        "end": 80.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine."
+      },
+      {
+        "start": 78.0,
+        "end": 79.3,
+        "type": "DIALOGUE",
+        "speaker": "PRIEST",
+        "content": "Shall we?"
+      },
+      {
+        "start": 80.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot centered down the aisle toward the massive closed entrance doors."
+      },
+      {
+        "start": 81.0,
+        "end": 85.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation."
+      },
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke."
+      },
+      {
+        "start": 81.8,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down."
+      },
+      {
+        "start": 84.5,
+        "end": 88.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock."
+      },
+      {
+        "start": 88.5,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her."
+      }
+    ],
+    "final_score": 7.17,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 547
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 13.2,
+        "end": 48.0,
+        "duration": 34.8,
+        "start_time_fmt": "00:13.20",
+        "end_time_fmt": "00:48.00"
+      }
+    ],
+    "total_duration": 34.8,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.05,
+    "hook": "BLOND NOBLEMAN shocks the viewer with an immediate confrontation: \"Catherine...\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"This is the world you thought you belonged to.\", leaving the outcome hanging.",
+    "why_it_works": "At 35s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 13.2,
+        "end": 14.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Catherine..."
+      },
+      {
+        "start": 14.0,
+        "end": 15.3,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Bring her in."
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Heavy wooden creak of the cathedral double doors swinging open."
+      },
+      {
+        "start": 15.5,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight."
+      },
+      {
+        "start": 17.5,
+        "end": 20.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms."
+      },
+      {
+        "start": 20.0,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles."
+      },
+      {
+        "start": 22.8,
+        "end": 26.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state."
+      },
+      {
+        "start": 26.0,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction."
+      },
+      {
+        "start": 26.8,
+        "end": 28.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "There she is."
+      },
+      {
+        "start": 28.8,
+        "end": 30.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar."
+      },
+      {
+        "start": 30.0,
+        "end": 34.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan."
+      },
+      {
+        "start": 30.5,
+        "end": 31.6,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Look at her."
+      },
+      {
+        "start": 31.7,
+        "end": 33.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEMAN",
+        "content": "She actually came back to the chapel."
+      },
+      {
+        "start": 34.0,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride."
+      },
+      {
+        "start": 34.8,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not as a bride this time."
+      },
+      {
+        "start": 36.8,
+        "end": 39.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement."
+      },
+      {
+        "start": 39.8,
+        "end": 43.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers."
+      },
+      {
+        "start": 41.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft. Look around."
+      },
+      {
+        "start": 43.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral."
+      },
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This is the world you thought you belonged to."
+      }
+    ],
+    "final_score": 7.05,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 589
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 61.0,
+        "end": 88.5,
+        "duration": 27.5,
+        "start_time_fmt": "01:01.00",
+        "end_time_fmt": "01:28.50"
+      }
+    ],
+    "total_duration": 27.5,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.87,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Still arrogant. Still standing.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock.",
+    "why_it_works": "At 28s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 61.0,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Still arrogant. Still standing."
+      },
+      {
+        "start": 64.0,
+        "end": 68.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her."
+      },
+      {
+        "start": 64.5,
+        "end": 65.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Come."
+      },
+      {
+        "start": 68.5,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion."
+      },
+      {
+        "start": 70.5,
+        "end": 75.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate."
+      },
+      {
+        "start": 70.5,
+        "end": 74.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Soon, there will be nothing left between us and the Ashburgh title."
+      },
+      {
+        "start": 75.0,
+        "end": 77.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Rupert's face breaking into a calculating, ambitious grin."
+      },
+      {
+        "start": 75.8,
+        "end": 77.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Nothing."
+      },
+      {
+        "start": 77.5,
+        "end": 80.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine."
+      },
+      {
+        "start": 78.0,
+        "end": 79.3,
+        "type": "DIALOGUE",
+        "speaker": "PRIEST",
+        "content": "Shall we?"
+      },
+      {
+        "start": 80.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot centered down the aisle toward the massive closed entrance doors."
+      },
+      {
+        "start": 81.0,
+        "end": 85.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation."
+      },
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke."
+      },
+      {
+        "start": 81.8,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down."
+      },
+      {
+        "start": 84.5,
+        "end": 88.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock."
+      }
+    ],
+    "final_score": 6.87,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 691
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 70.5,
+        "end": 92.0,
+        "duration": 21.5,
+        "start_time_fmt": "01:10.50",
+        "end_time_fmt": "01:32.00"
+      }
+    ],
+    "total_duration": 21.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.35,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Soon, there will be nothing left between us and the Ashburgh title.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 70.5,
+        "end": 75.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate."
+      },
+      {
+        "start": 70.5,
+        "end": 74.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Soon, there will be nothing left between us and the Ashburgh title."
+      },
+      {
+        "start": 75.0,
+        "end": 77.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Rupert's face breaking into a calculating, ambitious grin."
+      },
+      {
+        "start": 75.8,
+        "end": 77.0,
+        "type": "DIALOGUE",
+        "speaker": "BLOND NOBLEMAN",
+        "content": "Nothing."
+      },
+      {
+        "start": 77.5,
+        "end": 80.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine."
+      },
+      {
+        "start": 78.0,
+        "end": 79.3,
+        "type": "DIALOGUE",
+        "speaker": "PRIEST",
+        "content": "Shall we?"
+      },
+      {
+        "start": 80.5,
+        "end": 81.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot centered down the aisle toward the massive closed entrance doors."
+      },
+      {
+        "start": 81.0,
+        "end": 85.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation."
+      },
+      {
+        "start": 81.8,
+        "end": 84.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke."
+      },
+      {
+        "start": 81.8,
+        "end": 84.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down."
+      },
+      {
+        "start": 84.5,
+        "end": 88.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock."
+      },
+      {
+        "start": 88.5,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her."
+      }
+    ],
+    "final_score": 6.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 852
+  },
+  {
+    "episode": 41,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 41,
+        "start": 39.8,
+        "end": 60.8,
+        "duration": 21.0,
+        "start_time_fmt": "00:39.80",
+        "end_time_fmt": "01:00.80"
+      }
+    ],
+    "total_duration": 21.0,
+    "hook_strength": 5.8,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 6.8,
+    "emotional_impact": 8.5,
+    "composite_score": 6.3,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Lady Juliana Ashcroft. Look around.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Tight close-up on Juliana's bruised, unshaken face.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Assumes some prior familiarity with character relationships or off-screen backstory. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 39.8,
+        "end": 43.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers."
+      },
+      {
+        "start": 41.0,
+        "end": 44.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Lady Juliana Ashcroft. Look around."
+      },
+      {
+        "start": 43.8,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral."
+      },
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This is the world you thought you belonged to."
+      },
+      {
+        "start": 48.5,
+        "end": 52.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+      },
+      {
+        "start": 48.6,
+        "end": 52.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And now they can all see what you truly are."
+      },
+      {
+        "start": 52.8,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+      },
+      {
+        "start": 54.8,
+        "end": 57.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain."
+      },
+      {
+        "start": 57.8,
+        "end": 60.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up on Juliana's bruised, unshaken face."
+      }
+    ],
+    "final_score": 6.3,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 855
+  }
+]

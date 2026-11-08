@@ -1,0 +1,2786 @@
+[
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 15.2,
+        "end": 39.1,
+        "duration": 23.9,
+        "start_time_fmt": "00:15.20",
+        "end_time_fmt": "00:39.10"
+      }
+    ],
+    "total_duration": 23.9,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 8.41,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Practically' is a word for beggars. I do not marry a practical Duke.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"How much longer can the frail thing survive?\", leaving the outcome hanging.",
+    "why_it_works": "At 24s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 15.2,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive."
+      },
+      {
+        "start": 15.4,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Practically' is a word for beggars. I do not marry a practical Duke."
+      },
+      {
+        "start": 18.8,
+        "end": 20.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I marry the Lord of Ashbury."
+      },
+      {
+        "start": 20.0,
+        "end": 25.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction."
+      },
+      {
+        "start": 20.1,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "And so you shall."
+      },
+      {
+        "start": 21.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Once my cousin Alexander's death is formally sealed by the Crown..."
+      },
+      {
+        "start": 24.3,
+        "end": 25.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "...the title is mine."
+      },
+      {
+        "start": 25.5,
+        "end": 30.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern."
+      },
+      {
+        "start": 25.5,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And what of the Dowager? The old woman still breathes."
+      },
+      {
+        "start": 28.3,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Her shadow still hangs over this house."
+      },
+      {
+        "start": 30.2,
+        "end": 34.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Rupert's face as a sinister grin spreads across his features."
+      },
+      {
+        "start": 30.2,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Her health fails more each day. The physicians are baffled."
+      },
+      {
+        "start": 32.9,
+        "end": 34.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They call it a wasting of the lungs."
+      },
+      {
+        "start": 34.1,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment."
+      },
+      {
+        "start": 34.2,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How tragic. The slow, quiet decline."
+      },
+      {
+        "start": 36.9,
+        "end": 39.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How much longer can the frail thing survive?"
+      }
+    ],
+    "final_score": 8.41,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 51
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 34.1,
+        "end": 72.3,
+        "duration": 38.2,
+        "start_time_fmt": "00:34.10",
+        "end_time_fmt": "01:12.30"
+      }
+    ],
+    "total_duration": 38.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.92,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"How tragic. The slow, quiet decline.\"",
+    "cliffhanger": "Cuts sharply on SEAMUS's unresolved words: \"You are a viscount's daughter!\", leaving the outcome hanging.",
+    "why_it_works": "At 38s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 34.1,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment."
+      },
+      {
+        "start": 34.2,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How tragic. The slow, quiet decline."
+      },
+      {
+        "start": 36.9,
+        "end": 39.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How much longer can the frail thing survive?"
+      },
+      {
+        "start": 39.3,
+        "end": 42.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile of Rupert looking out the window, hands clasped behind him."
+      },
+      {
+        "start": 39.4,
+        "end": 42.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Not through the winter. I've ensured her quiet comfort."
+      },
+      {
+        "start": 42.5,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust."
+      },
+      {
+        "start": 42.6,
+        "end": 44.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. The village is already whispering about her."
+      },
+      {
+        "start": 45.0,
+        "end": 48.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The local peasants are like dogs, barking at every carriage that passes."
+      },
+      {
+        "start": 48.5,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "They disgust me."
+      },
+      {
+        "start": 50.0,
+        "end": 56.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder."
+      },
+      {
+        "start": 50.2,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They are nothing. Dirt beneath our boots."
+      },
+      {
+        "start": 52.8,
+        "end": 56.0,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They will learn their place when you wear the ducal crown."
+      },
+      {
+        "start": 56.5,
+        "end": 60.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire."
+      },
+      {
+        "start": 60.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let me take that basket, Lady Juliana."
+      },
+      {
+        "start": 62.6,
+        "end": 66.6,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Your palms are still raw from the fire. You shouldn't be working in this freezing draft."
+      },
+      {
+        "start": 64.8,
+        "end": 66.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Seamus reaches down to take the handle of the basket from her."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket."
+      },
+      {
+        "start": 66.7,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop, Seamus, the lung fever in the valley wins."
+      },
+      {
+        "start": 69.2,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I do not yield to a cold draft."
+      },
+      {
+        "start": 70.5,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Seamus, his face agonizingly strained with grief for her lost status."
+      },
+      {
+        "start": 70.6,
+        "end": 72.3,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "You are a viscount's daughter!"
+      }
+    ],
+    "final_score": 7.92,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 180
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 50.0,
+        "end": 72.3,
+        "duration": 22.3,
+        "start_time_fmt": "00:50.00",
+        "end_time_fmt": "01:12.30"
+      }
+    ],
+    "total_duration": 22.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.92,
+    "hook": "RUPERT shocks the viewer with an immediate confrontation: \"They are nothing. Dirt beneath our boots.\"",
+    "cliffhanger": "Cuts sharply on SEAMUS's unresolved words: \"You are a viscount's daughter!\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 50.0,
+        "end": 56.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder."
+      },
+      {
+        "start": 50.2,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They are nothing. Dirt beneath our boots."
+      },
+      {
+        "start": 52.8,
+        "end": 56.0,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They will learn their place when you wear the ducal crown."
+      },
+      {
+        "start": 56.5,
+        "end": 60.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire."
+      },
+      {
+        "start": 60.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let me take that basket, Lady Juliana."
+      },
+      {
+        "start": 62.6,
+        "end": 66.6,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Your palms are still raw from the fire. You shouldn't be working in this freezing draft."
+      },
+      {
+        "start": 64.8,
+        "end": 66.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Seamus reaches down to take the handle of the basket from her."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket."
+      },
+      {
+        "start": 66.7,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop, Seamus, the lung fever in the valley wins."
+      },
+      {
+        "start": 69.2,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I do not yield to a cold draft."
+      },
+      {
+        "start": 70.5,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Seamus, his face agonizingly strained with grief for her lost status."
+      },
+      {
+        "start": 70.6,
+        "end": 72.3,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "You are a viscount's daughter!"
+      }
+    ],
+    "final_score": 7.92,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 181
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 50.0,
+        "end": 101.4,
+        "duration": 51.4,
+        "start_time_fmt": "00:50.00",
+        "end_time_fmt": "01:41.40"
+      }
+    ],
+    "total_duration": 51.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.78,
+    "hook": "RUPERT shocks the viewer with an immediate confrontation: \"They are nothing. Dirt beneath our boots.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Once the old Duchess is gone...\", leaving the outcome hanging.",
+    "why_it_works": "At 51s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 50.0,
+        "end": 56.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder."
+      },
+      {
+        "start": 50.2,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They are nothing. Dirt beneath our boots."
+      },
+      {
+        "start": 52.8,
+        "end": 56.0,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They will learn their place when you wear the ducal crown."
+      },
+      {
+        "start": 56.5,
+        "end": 60.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire."
+      },
+      {
+        "start": 60.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let me take that basket, Lady Juliana."
+      },
+      {
+        "start": 62.6,
+        "end": 66.6,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Your palms are still raw from the fire. You shouldn't be working in this freezing draft."
+      },
+      {
+        "start": 64.8,
+        "end": 66.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Seamus reaches down to take the handle of the basket from her."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket."
+      },
+      {
+        "start": 66.7,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop, Seamus, the lung fever in the valley wins."
+      },
+      {
+        "start": 69.2,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I do not yield to a cold draft."
+      },
+      {
+        "start": 70.5,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Seamus, his face agonizingly strained with grief for her lost status."
+      },
+      {
+        "start": 70.6,
+        "end": 72.3,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "You are a viscount's daughter!"
+      },
+      {
+        "start": 72.4,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Sleeping on straw, sorting weeds!"
+      },
+      {
+        "start": 74.3,
+        "end": 76.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let the village tend to itself for once!"
+      },
+      {
+        "start": 76.2,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, her jaw set with unwavering moral strength."
+      },
+      {
+        "start": 76.3,
+        "end": 79.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The chapel is gone, Seamus. I am the only healer these people have left."
+      },
+      {
+        "start": 79.9,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I keep the basket."
+      },
+      {
+        "start": 81.0,
+        "end": 88.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them."
+      },
+      {
+        "start": 82.0,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "They have reduced you to a peasant."
+      },
+      {
+        "start": 84.8,
+        "end": 86.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "They have reduced me to myself."
+      },
+      {
+        "start": 86.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I am not finished."
+      },
+      {
+        "start": 88.2,
+        "end": 90.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter."
+      },
+      {
+        "start": 88.4,
+        "end": 89.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp porcelain chime of teacup meeting saucer."
+      },
+      {
+        "start": 89.8,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine looking up, her face twisting into venomous arrogance."
+      },
+      {
+        "start": 89.9,
+        "end": 92.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Let the peasants rot in their barns."
+      },
+      {
+        "start": 92.6,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Let them pray to their weeds."
+      },
+      {
+        "start": 94.8,
+        "end": 99.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively."
+      },
+      {
+        "start": 94.9,
+        "end": 97.3,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "You have no rival here, Catherine."
+      },
+      {
+        "start": 97.4,
+        "end": 99.1,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "No one to stand in your way."
+      },
+      {
+        "start": 99.2,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold."
+      },
+      {
+        "start": 99.3,
+        "end": 101.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Once the old Duchess is gone..."
+      }
+    ],
+    "final_score": 7.78,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 233
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 70.6,
+        "end": 101.4,
+        "duration": 30.8,
+        "start_time_fmt": "01:10.60",
+        "end_time_fmt": "01:41.40"
+      }
+    ],
+    "total_duration": 30.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.78,
+    "hook": "SEAMUS shocks the viewer with an immediate confrontation: \"You are a viscount's daughter!\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Once the old Duchess is gone...\", leaving the outcome hanging.",
+    "why_it_works": "At 31s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 70.6,
+        "end": 72.3,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "You are a viscount's daughter!"
+      },
+      {
+        "start": 72.4,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Sleeping on straw, sorting weeds!"
+      },
+      {
+        "start": 74.3,
+        "end": 76.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let the village tend to itself for once!"
+      },
+      {
+        "start": 76.2,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, her jaw set with unwavering moral strength."
+      },
+      {
+        "start": 76.3,
+        "end": 79.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The chapel is gone, Seamus. I am the only healer these people have left."
+      },
+      {
+        "start": 79.9,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I keep the basket."
+      },
+      {
+        "start": 81.0,
+        "end": 88.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them."
+      },
+      {
+        "start": 82.0,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "They have reduced you to a peasant."
+      },
+      {
+        "start": 84.8,
+        "end": 86.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "They have reduced me to myself."
+      },
+      {
+        "start": 86.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I am not finished."
+      },
+      {
+        "start": 88.2,
+        "end": 90.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter."
+      },
+      {
+        "start": 88.4,
+        "end": 89.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp porcelain chime of teacup meeting saucer."
+      },
+      {
+        "start": 89.8,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine looking up, her face twisting into venomous arrogance."
+      },
+      {
+        "start": 89.9,
+        "end": 92.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Let the peasants rot in their barns."
+      },
+      {
+        "start": 92.6,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Let them pray to their weeds."
+      },
+      {
+        "start": 94.8,
+        "end": 99.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively."
+      },
+      {
+        "start": 94.9,
+        "end": 97.3,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "You have no rival here, Catherine."
+      },
+      {
+        "start": 97.4,
+        "end": 99.1,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "No one to stand in your way."
+      },
+      {
+        "start": 99.2,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold."
+      },
+      {
+        "start": 99.3,
+        "end": 101.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Once the old Duchess is gone..."
+      }
+    ],
+    "final_score": 7.78,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 234
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 15.2,
+        "end": 56.5,
+        "duration": 41.3,
+        "start_time_fmt": "00:15.20",
+        "end_time_fmt": "00:56.50"
+      }
+    ],
+    "total_duration": 41.3,
+    "hook_strength": 9.2,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.53,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Practically' is a word for beggars. I do not marry a practical Duke.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder.",
+    "why_it_works": "At 41s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 15.2,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive."
+      },
+      {
+        "start": 15.4,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Practically' is a word for beggars. I do not marry a practical Duke."
+      },
+      {
+        "start": 18.8,
+        "end": 20.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I marry the Lord of Ashbury."
+      },
+      {
+        "start": 20.0,
+        "end": 25.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction."
+      },
+      {
+        "start": 20.1,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "And so you shall."
+      },
+      {
+        "start": 21.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Once my cousin Alexander's death is formally sealed by the Crown..."
+      },
+      {
+        "start": 24.3,
+        "end": 25.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "...the title is mine."
+      },
+      {
+        "start": 25.5,
+        "end": 30.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern."
+      },
+      {
+        "start": 25.5,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And what of the Dowager? The old woman still breathes."
+      },
+      {
+        "start": 28.3,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Her shadow still hangs over this house."
+      },
+      {
+        "start": 30.2,
+        "end": 34.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Rupert's face as a sinister grin spreads across his features."
+      },
+      {
+        "start": 30.2,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Her health fails more each day. The physicians are baffled."
+      },
+      {
+        "start": 32.9,
+        "end": 34.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They call it a wasting of the lungs."
+      },
+      {
+        "start": 34.1,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment."
+      },
+      {
+        "start": 34.2,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How tragic. The slow, quiet decline."
+      },
+      {
+        "start": 36.9,
+        "end": 39.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How much longer can the frail thing survive?"
+      },
+      {
+        "start": 39.3,
+        "end": 42.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile of Rupert looking out the window, hands clasped behind him."
+      },
+      {
+        "start": 39.4,
+        "end": 42.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Not through the winter. I've ensured her quiet comfort."
+      },
+      {
+        "start": 42.5,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust."
+      },
+      {
+        "start": 42.6,
+        "end": 44.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. The village is already whispering about her."
+      },
+      {
+        "start": 45.0,
+        "end": 48.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The local peasants are like dogs, barking at every carriage that passes."
+      },
+      {
+        "start": 48.5,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "They disgust me."
+      },
+      {
+        "start": 50.0,
+        "end": 56.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder."
+      }
+    ],
+    "final_score": 7.53,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 353
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 66.8,
+        "end": 88.0,
+        "duration": 21.2,
+        "start_time_fmt": "01:06.80",
+        "end_time_fmt": "01:28.00"
+      }
+    ],
+    "total_duration": 21.2,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.41,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"If I stop, Seamus, the lung fever in the valley wins.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"And I am not finished.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket."
+      },
+      {
+        "start": 66.7,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop, Seamus, the lung fever in the valley wins."
+      },
+      {
+        "start": 69.2,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I do not yield to a cold draft."
+      },
+      {
+        "start": 70.5,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Seamus, his face agonizingly strained with grief for her lost status."
+      },
+      {
+        "start": 70.6,
+        "end": 72.3,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "You are a viscount's daughter!"
+      },
+      {
+        "start": 72.4,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Sleeping on straw, sorting weeds!"
+      },
+      {
+        "start": 74.3,
+        "end": 76.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let the village tend to itself for once!"
+      },
+      {
+        "start": 76.2,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, her jaw set with unwavering moral strength."
+      },
+      {
+        "start": 76.3,
+        "end": 79.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The chapel is gone, Seamus. I am the only healer these people have left."
+      },
+      {
+        "start": 79.9,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I keep the basket."
+      },
+      {
+        "start": 81.0,
+        "end": 88.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them."
+      },
+      {
+        "start": 82.0,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "They have reduced you to a peasant."
+      },
+      {
+        "start": 84.8,
+        "end": 86.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "They have reduced me to myself."
+      },
+      {
+        "start": 86.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I am not finished."
+      }
+    ],
+    "final_score": 7.41,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 395
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 4.6,
+        "end": 25.4,
+        "duration": 20.8,
+        "start_time_fmt": "00:04.60",
+        "end_time_fmt": "00:25.40"
+      }
+    ],
+    "total_duration": 20.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.35,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Or has your sudden climb to power sweetened your taste already?\"",
+    "cliffhanger": "Cuts sharply on RUPERT's unresolved words: \"...the title is mine.\", leaving the outcome hanging.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 4.6,
+        "end": 7.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Or has your sudden climb to power sweetened your taste already?"
+      },
+      {
+        "start": 6.9,
+        "end": 9.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk."
+      },
+      {
+        "start": 8.2,
+        "end": 10.8,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Only if it sweetens your disposition, Catherine."
+      },
+      {
+        "start": 9.6,
+        "end": 15.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph."
+      },
+      {
+        "start": 10.9,
+        "end": 12.7,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "The estate is practically ours."
+      },
+      {
+        "start": 12.8,
+        "end": 15.1,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "The succession papers are being finalized as we speak."
+      },
+      {
+        "start": 15.2,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive."
+      },
+      {
+        "start": 15.4,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Practically' is a word for beggars. I do not marry a practical Duke."
+      },
+      {
+        "start": 18.8,
+        "end": 20.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I marry the Lord of Ashbury."
+      },
+      {
+        "start": 20.0,
+        "end": 25.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction."
+      },
+      {
+        "start": 20.1,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "And so you shall."
+      },
+      {
+        "start": 21.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Once my cousin Alexander's death is formally sealed by the Crown..."
+      },
+      {
+        "start": 24.3,
+        "end": 25.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "...the title is mine."
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 432
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 86.6,
+        "end": 109.2,
+        "duration": 22.6,
+        "start_time_fmt": "01:26.60",
+        "end_time_fmt": "01:49.20"
+      }
+    ],
+    "total_duration": 22.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.35,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"And I am not finished.\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"This house will only bow to me.\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 86.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I am not finished."
+      },
+      {
+        "start": 88.2,
+        "end": 90.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter."
+      },
+      {
+        "start": 88.4,
+        "end": 89.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp porcelain chime of teacup meeting saucer."
+      },
+      {
+        "start": 89.8,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine looking up, her face twisting into venomous arrogance."
+      },
+      {
+        "start": 89.9,
+        "end": 92.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Let the peasants rot in their barns."
+      },
+      {
+        "start": 92.6,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Let them pray to their weeds."
+      },
+      {
+        "start": 94.8,
+        "end": 99.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively."
+      },
+      {
+        "start": 94.9,
+        "end": 97.3,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "You have no rival here, Catherine."
+      },
+      {
+        "start": 97.4,
+        "end": 99.1,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "No one to stand in your way."
+      },
+      {
+        "start": 99.2,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold."
+      },
+      {
+        "start": 99.3,
+        "end": 101.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Once the old Duchess is gone..."
+      },
+      {
+        "start": 101.5,
+        "end": 103.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...Ashbury will finally belong to us."
+      },
+      {
+        "start": 103.8,
+        "end": 109.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds."
+      },
+      {
+        "start": 104.0,
+        "end": 109.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette."
+      },
+      {
+        "start": 106.8,
+        "end": 109.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This house will only bow to me."
+      }
+    ],
+    "final_score": 7.35,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 433
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 34.1,
+        "end": 56.5,
+        "duration": 22.4,
+        "start_time_fmt": "00:34.10",
+        "end_time_fmt": "00:56.50"
+      }
+    ],
+    "total_duration": 22.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.02,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"How tragic. The slow, quiet decline.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 34.1,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment."
+      },
+      {
+        "start": 34.2,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How tragic. The slow, quiet decline."
+      },
+      {
+        "start": 36.9,
+        "end": 39.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How much longer can the frail thing survive?"
+      },
+      {
+        "start": 39.3,
+        "end": 42.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile of Rupert looking out the window, hands clasped behind him."
+      },
+      {
+        "start": 39.4,
+        "end": 42.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Not through the winter. I've ensured her quiet comfort."
+      },
+      {
+        "start": 42.5,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust."
+      },
+      {
+        "start": 42.6,
+        "end": 44.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. The village is already whispering about her."
+      },
+      {
+        "start": 45.0,
+        "end": 48.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The local peasants are like dogs, barking at every carriage that passes."
+      },
+      {
+        "start": 48.5,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "They disgust me."
+      },
+      {
+        "start": 50.0,
+        "end": 56.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder."
+      }
+    ],
+    "final_score": 7.02,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 602
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 92.6,
+        "end": 114.75,
+        "duration": 22.15,
+        "start_time_fmt": "01:32.60",
+        "end_time_fmt": "01:54.75"
+      }
+    ],
+    "total_duration": 22.15,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.02,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Let them pray to their weeds.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 92.6,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Let them pray to their weeds."
+      },
+      {
+        "start": 94.8,
+        "end": 99.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively."
+      },
+      {
+        "start": 94.9,
+        "end": 97.3,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "You have no rival here, Catherine."
+      },
+      {
+        "start": 97.4,
+        "end": 99.1,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "No one to stand in your way."
+      },
+      {
+        "start": 99.2,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold."
+      },
+      {
+        "start": 99.3,
+        "end": 101.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Once the old Duchess is gone..."
+      },
+      {
+        "start": 101.5,
+        "end": 103.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...Ashbury will finally belong to us."
+      },
+      {
+        "start": 103.8,
+        "end": 109.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds."
+      },
+      {
+        "start": 104.0,
+        "end": 109.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette."
+      },
+      {
+        "start": 106.8,
+        "end": 109.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This house will only bow to me."
+      },
+      {
+        "start": 109.5,
+        "end": 114.75,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 7.02,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 603
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 4.6,
+        "end": 44.9,
+        "duration": 40.3,
+        "start_time_fmt": "00:04.60",
+        "end_time_fmt": "00:44.90"
+      }
+    ],
+    "total_duration": 40.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.0,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Or has your sudden climb to power sweetened your taste already?\"",
+    "cliffhanger": "Cuts sharply on CATHERINE's unresolved words: \"Good. The village is already whispering about her.\", leaving the outcome hanging.",
+    "why_it_works": "At 40s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 4.6,
+        "end": 7.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Or has your sudden climb to power sweetened your taste already?"
+      },
+      {
+        "start": 6.9,
+        "end": 9.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk."
+      },
+      {
+        "start": 8.2,
+        "end": 10.8,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Only if it sweetens your disposition, Catherine."
+      },
+      {
+        "start": 9.6,
+        "end": 15.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph."
+      },
+      {
+        "start": 10.9,
+        "end": 12.7,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "The estate is practically ours."
+      },
+      {
+        "start": 12.8,
+        "end": 15.1,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "The succession papers are being finalized as we speak."
+      },
+      {
+        "start": 15.2,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive."
+      },
+      {
+        "start": 15.4,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Practically' is a word for beggars. I do not marry a practical Duke."
+      },
+      {
+        "start": 18.8,
+        "end": 20.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I marry the Lord of Ashbury."
+      },
+      {
+        "start": 20.0,
+        "end": 25.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction."
+      },
+      {
+        "start": 20.1,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "And so you shall."
+      },
+      {
+        "start": 21.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Once my cousin Alexander's death is formally sealed by the Crown..."
+      },
+      {
+        "start": 24.3,
+        "end": 25.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "...the title is mine."
+      },
+      {
+        "start": 25.5,
+        "end": 30.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern."
+      },
+      {
+        "start": 25.5,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And what of the Dowager? The old woman still breathes."
+      },
+      {
+        "start": 28.3,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Her shadow still hangs over this house."
+      },
+      {
+        "start": 30.2,
+        "end": 34.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Rupert's face as a sinister grin spreads across his features."
+      },
+      {
+        "start": 30.2,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Her health fails more each day. The physicians are baffled."
+      },
+      {
+        "start": 32.9,
+        "end": 34.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They call it a wasting of the lungs."
+      },
+      {
+        "start": 34.1,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment."
+      },
+      {
+        "start": 34.2,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How tragic. The slow, quiet decline."
+      },
+      {
+        "start": 36.9,
+        "end": 39.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How much longer can the frail thing survive?"
+      },
+      {
+        "start": 39.3,
+        "end": 42.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile of Rupert looking out the window, hands clasped behind him."
+      },
+      {
+        "start": 39.4,
+        "end": 42.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Not through the winter. I've ensured her quiet comfort."
+      },
+      {
+        "start": 42.5,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust."
+      },
+      {
+        "start": 42.6,
+        "end": 44.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. The village is already whispering about her."
+      }
+    ],
+    "final_score": 7.0,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 618
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 60.0,
+        "end": 81.0,
+        "duration": 21.0,
+        "start_time_fmt": "01:00.00",
+        "end_time_fmt": "01:21.00"
+      }
+    ],
+    "total_duration": 21.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.88,
+    "hook": "SEAMUS shocks the viewer with an immediate confrontation: \"Let me take that basket, Lady Juliana.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium close-up of Juliana, her jaw set with unwavering moral strength.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 60.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let me take that basket, Lady Juliana."
+      },
+      {
+        "start": 62.6,
+        "end": 66.6,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Your palms are still raw from the fire. You shouldn't be working in this freezing draft."
+      },
+      {
+        "start": 64.8,
+        "end": 66.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Seamus reaches down to take the handle of the basket from her."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket."
+      },
+      {
+        "start": 66.7,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop, Seamus, the lung fever in the valley wins."
+      },
+      {
+        "start": 69.2,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I do not yield to a cold draft."
+      },
+      {
+        "start": 70.5,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Seamus, his face agonizingly strained with grief for her lost status."
+      },
+      {
+        "start": 70.6,
+        "end": 72.3,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "You are a viscount's daughter!"
+      },
+      {
+        "start": 72.4,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Sleeping on straw, sorting weeds!"
+      },
+      {
+        "start": 74.3,
+        "end": 76.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let the village tend to itself for once!"
+      },
+      {
+        "start": 76.2,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, her jaw set with unwavering moral strength."
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 672
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 62.6,
+        "end": 114.75,
+        "duration": 52.15,
+        "start_time_fmt": "01:02.60",
+        "end_time_fmt": "01:54.75"
+      }
+    ],
+    "total_duration": 52.15,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 6.88,
+    "hook": "SEAMUS shocks the viewer with an immediate confrontation: \"Your palms are still raw from the fire. You shouldn't be working in this freezing draft.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.\n\n--- SCRIPT END ---",
+    "why_it_works": "At 52s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 62.6,
+        "end": 66.6,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Your palms are still raw from the fire. You shouldn't be working in this freezing draft."
+      },
+      {
+        "start": 64.8,
+        "end": 66.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Seamus reaches down to take the handle of the basket from her."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket."
+      },
+      {
+        "start": 66.7,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop, Seamus, the lung fever in the valley wins."
+      },
+      {
+        "start": 69.2,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I do not yield to a cold draft."
+      },
+      {
+        "start": 70.5,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Seamus, his face agonizingly strained with grief for her lost status."
+      },
+      {
+        "start": 70.6,
+        "end": 72.3,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "You are a viscount's daughter!"
+      },
+      {
+        "start": 72.4,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Sleeping on straw, sorting weeds!"
+      },
+      {
+        "start": 74.3,
+        "end": 76.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let the village tend to itself for once!"
+      },
+      {
+        "start": 76.2,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, her jaw set with unwavering moral strength."
+      },
+      {
+        "start": 76.3,
+        "end": 79.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The chapel is gone, Seamus. I am the only healer these people have left."
+      },
+      {
+        "start": 79.9,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I keep the basket."
+      },
+      {
+        "start": 81.0,
+        "end": 88.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them."
+      },
+      {
+        "start": 82.0,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "They have reduced you to a peasant."
+      },
+      {
+        "start": 84.8,
+        "end": 86.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "They have reduced me to myself."
+      },
+      {
+        "start": 86.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And I am not finished."
+      },
+      {
+        "start": 88.2,
+        "end": 90.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter."
+      },
+      {
+        "start": 88.4,
+        "end": 89.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Sharp porcelain chime of teacup meeting saucer."
+      },
+      {
+        "start": 89.8,
+        "end": 94.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine looking up, her face twisting into venomous arrogance."
+      },
+      {
+        "start": 89.9,
+        "end": 92.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Let the peasants rot in their barns."
+      },
+      {
+        "start": 92.6,
+        "end": 94.5,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Let them pray to their weeds."
+      },
+      {
+        "start": 94.8,
+        "end": 99.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively."
+      },
+      {
+        "start": 94.9,
+        "end": 97.3,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "You have no rival here, Catherine."
+      },
+      {
+        "start": 97.4,
+        "end": 99.1,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "No one to stand in your way."
+      },
+      {
+        "start": 99.2,
+        "end": 103.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold."
+      },
+      {
+        "start": 99.3,
+        "end": 101.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Once the old Duchess is gone..."
+      },
+      {
+        "start": 101.5,
+        "end": 103.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "...Ashbury will finally belong to us."
+      },
+      {
+        "start": 103.8,
+        "end": 109.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds."
+      },
+      {
+        "start": 104.0,
+        "end": 109.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette."
+      },
+      {
+        "start": 106.8,
+        "end": 109.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "This house will only bow to me."
+      },
+      {
+        "start": 109.5,
+        "end": 114.75,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 6.88,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 673
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 25.5,
+        "end": 50.0,
+        "duration": 24.5,
+        "start_time_fmt": "00:25.50",
+        "end_time_fmt": "00:50.00"
+      }
+    ],
+    "total_duration": 24.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 6.58,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"And what of the Dowager? The old woman still breathes.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust.",
+    "why_it_works": "At 24s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 25.5,
+        "end": 30.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern."
+      },
+      {
+        "start": 25.5,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And what of the Dowager? The old woman still breathes."
+      },
+      {
+        "start": 28.3,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Her shadow still hangs over this house."
+      },
+      {
+        "start": 30.2,
+        "end": 34.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Rupert's face as a sinister grin spreads across his features."
+      },
+      {
+        "start": 30.2,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Her health fails more each day. The physicians are baffled."
+      },
+      {
+        "start": 32.9,
+        "end": 34.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They call it a wasting of the lungs."
+      },
+      {
+        "start": 34.1,
+        "end": 39.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment."
+      },
+      {
+        "start": 34.2,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How tragic. The slow, quiet decline."
+      },
+      {
+        "start": 36.9,
+        "end": 39.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "How much longer can the frail thing survive?"
+      },
+      {
+        "start": 39.3,
+        "end": 42.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile of Rupert looking out the window, hands clasped behind him."
+      },
+      {
+        "start": 39.4,
+        "end": 42.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Not through the winter. I've ensured her quiet comfort."
+      },
+      {
+        "start": 42.5,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust."
+      }
+    ],
+    "final_score": 6.58,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 783
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 42.5,
+        "end": 84.4,
+        "duration": 41.9,
+        "start_time_fmt": "00:42.50",
+        "end_time_fmt": "01:24.40"
+      }
+    ],
+    "total_duration": 41.9,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.55,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Good. The village is already whispering about her.\"",
+    "cliffhanger": "Cuts sharply on SEAMUS's unresolved words: \"They have reduced you to a peasant.\", leaving the outcome hanging.",
+    "why_it_works": "At 42s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 42.5,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust."
+      },
+      {
+        "start": 42.6,
+        "end": 44.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. The village is already whispering about her."
+      },
+      {
+        "start": 45.0,
+        "end": 48.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The local peasants are like dogs, barking at every carriage that passes."
+      },
+      {
+        "start": 48.5,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "They disgust me."
+      },
+      {
+        "start": 50.0,
+        "end": 56.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder."
+      },
+      {
+        "start": 50.2,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They are nothing. Dirt beneath our boots."
+      },
+      {
+        "start": 52.8,
+        "end": 56.0,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They will learn their place when you wear the ducal crown."
+      },
+      {
+        "start": 56.5,
+        "end": 60.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire."
+      },
+      {
+        "start": 60.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let me take that basket, Lady Juliana."
+      },
+      {
+        "start": 62.6,
+        "end": 66.6,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Your palms are still raw from the fire. You shouldn't be working in this freezing draft."
+      },
+      {
+        "start": 64.8,
+        "end": 66.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Seamus reaches down to take the handle of the basket from her."
+      },
+      {
+        "start": 66.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket."
+      },
+      {
+        "start": 66.7,
+        "end": 69.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "If I stop, Seamus, the lung fever in the valley wins."
+      },
+      {
+        "start": 69.2,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I do not yield to a cold draft."
+      },
+      {
+        "start": 70.5,
+        "end": 76.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Seamus, his face agonizingly strained with grief for her lost status."
+      },
+      {
+        "start": 70.6,
+        "end": 72.3,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "You are a viscount's daughter!"
+      },
+      {
+        "start": 72.4,
+        "end": 74.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Sleeping on straw, sorting weeds!"
+      },
+      {
+        "start": 74.3,
+        "end": 76.2,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "Let the village tend to itself for once!"
+      },
+      {
+        "start": 76.2,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, her jaw set with unwavering moral strength."
+      },
+      {
+        "start": 76.3,
+        "end": 79.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "The chapel is gone, Seamus. I am the only healer these people have left."
+      },
+      {
+        "start": 79.9,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I keep the basket."
+      },
+      {
+        "start": 81.0,
+        "end": 88.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them."
+      },
+      {
+        "start": 82.0,
+        "end": 84.4,
+        "type": "DIALOGUE",
+        "speaker": "SEAMUS",
+        "content": "They have reduced you to a peasant."
+      }
+    ],
+    "final_score": 6.55,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 791
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 9.6,
+        "end": 32.8,
+        "duration": 23.2,
+        "start_time_fmt": "00:09.60",
+        "end_time_fmt": "00:32.80"
+      }
+    ],
+    "total_duration": 23.2,
+    "hook_strength": 5.8,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.34,
+    "hook": "RUPERT shocks the viewer with an immediate confrontation: \"The estate is practically ours.\"",
+    "cliffhanger": "Cuts sharply on RUPERT's unresolved words: \"Her health fails more each day. The physicians are baffled.\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 9.6,
+        "end": 15.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph."
+      },
+      {
+        "start": 10.9,
+        "end": 12.7,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "The estate is practically ours."
+      },
+      {
+        "start": 12.8,
+        "end": 15.1,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "The succession papers are being finalized as we speak."
+      },
+      {
+        "start": 15.2,
+        "end": 20.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive."
+      },
+      {
+        "start": 15.4,
+        "end": 18.7,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Practically' is a word for beggars. I do not marry a practical Duke."
+      },
+      {
+        "start": 18.8,
+        "end": 20.1,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "I marry the Lord of Ashbury."
+      },
+      {
+        "start": 20.0,
+        "end": 25.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction."
+      },
+      {
+        "start": 20.1,
+        "end": 21.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "And so you shall."
+      },
+      {
+        "start": 21.3,
+        "end": 24.2,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Once my cousin Alexander's death is formally sealed by the Crown..."
+      },
+      {
+        "start": 24.3,
+        "end": 25.4,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "...the title is mine."
+      },
+      {
+        "start": 25.5,
+        "end": 30.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern."
+      },
+      {
+        "start": 25.5,
+        "end": 28.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "And what of the Dowager? The old woman still breathes."
+      },
+      {
+        "start": 28.3,
+        "end": 30.2,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Her shadow still hangs over this house."
+      },
+      {
+        "start": 30.2,
+        "end": 34.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Rupert's face as a sinister grin spreads across his features."
+      },
+      {
+        "start": 30.2,
+        "end": 32.8,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "Her health fails more each day. The physicians are baffled."
+      }
+    ],
+    "final_score": 6.34,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 854
+  },
+  {
+    "episode": 20,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 20,
+        "start": 42.5,
+        "end": 64.5,
+        "duration": 22.0,
+        "start_time_fmt": "00:42.50",
+        "end_time_fmt": "01:04.50"
+      }
+    ],
+    "total_duration": 22.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.25,
+    "hook": "CATHERINE shocks the viewer with an immediate confrontation: \"Good. The village is already whispering about her.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 42.5,
+        "end": 50.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust."
+      },
+      {
+        "start": 42.6,
+        "end": 44.9,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "Good. The village is already whispering about her."
+      },
+      {
+        "start": 45.0,
+        "end": 48.4,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "The local peasants are like dogs, barking at every carriage that passes."
+      },
+      {
+        "start": 48.5,
+        "end": 49.8,
+        "type": "DIALOGUE",
+        "speaker": "CATHERINE",
+        "content": "They disgust me."
+      },
+      {
+        "start": 50.0,
+        "end": 56.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder."
+      },
+      {
+        "start": 50.2,
+        "end": 52.5,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They are nothing. Dirt beneath our boots."
+      },
+      {
+        "start": 52.8,
+        "end": 56.0,
+        "type": "DIALOGUE",
+        "speaker": "RUPERT",
+        "content": "They will learn their place when you wear the ducal crown."
+      },
+      {
+        "start": 56.5,
+        "end": 60.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire."
+      },
+      {
+        "start": 60.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern."
+      }
+    ],
+    "final_score": 6.25,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 858
+  }
+]

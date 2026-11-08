@@ -1,0 +1,2184 @@
+[
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 32.5,
+        "end": 89.8,
+        "duration": 57.3,
+        "start_time_fmt": "00:32.50",
+        "end_time_fmt": "01:29.80"
+      }
+    ],
+    "total_duration": 57.3,
+    "hook_strength": 8.8,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.52,
+    "hook": "NOBLEWOMAN shocks the viewer with an immediate confrontation: \"You are a maid.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I will return. You cannot stop the healer.\"\n\n--- SCRIPT END ---\", leaving the outcome hanging.",
+    "why_it_works": "At 57s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso."
+      },
+      {
+        "start": 32.8,
+        "end": 33.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stinging whip crack as the riding crop makes harsh contact."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike."
+      },
+      {
+        "start": 33.8,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana hunched over in pain, clutching her abdomen."
+      },
+      {
+        "start": 35.0,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You are a maid."
+      },
+      {
+        "start": 36.8,
+        "end": 38.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply."
+      },
+      {
+        "start": 37.0,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not a physician. Not a lady."
+      },
+      {
+        "start": 38.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana."
+      },
+      {
+        "start": 39.0,
+        "end": 42.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "And certainly not a woman whose opinion matters."
+      },
+      {
+        "start": 43.0,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking down, enduring the humiliation while stifling her breath."
+      },
+      {
+        "start": 43.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, my lady."
+      },
+      {
+        "start": 45.5,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Good. Perhaps we can teach you your place."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side."
+      },
+      {
+        "start": 53.6,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Clean it."
+      },
+      {
+        "start": 54.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth."
+      },
+      {
+        "start": 56.2,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at the towering, soot-blackened chimney."
+      },
+      {
+        "start": 56.2,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "All of it, my lady?"
+      },
+      {
+        "start": 57.8,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish."
+      },
+      {
+        "start": 57.8,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Every stone. Perhaps when your hands are black enough, you will finally remember what you are."
+      },
+      {
+        "start": 63.8,
+        "end": 66.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace."
+      },
+      {
+        "start": 63.8,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sinking to her knees, her face grim and composed."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence steps toward the noblewoman in distress, her hands clasped tightly."
+      },
+      {
+        "start": 66.2,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's anxious, trembling face."
+      },
+      {
+        "start": 66.2,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "My lady—"
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face."
+      },
+      {
+        "start": 67.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly."
+      },
+      {
+        "start": 68.0,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Do you want the same punishment?"
+      },
+      {
+        "start": 70.5,
+        "end": 72.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence flinching in terror, lowering her eyes immediately."
+      },
+      {
+        "start": 70.6,
+        "end": 72.4,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "No, my lady."
+      },
+      {
+        "start": 72.5,
+        "end": 74.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones."
+      },
+      {
+        "start": 72.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor."
+      },
+      {
+        "start": 73.0,
+        "end": 81.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, harsh rasping sound of bristles scraping against stone."
+      },
+      {
+        "start": 74.8,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension."
+      },
+      {
+        "start": 75.0,
+        "end": 78.0,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "That is where clever little servants belong."
+      },
+      {
+        "start": 78.5,
+        "end": 81.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Juliana kneeling by the hearth in the dim window light, scrubbing steadily."
+      },
+      {
+        "start": 78.6,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let her think I am only a maid."
+      },
+      {
+        "start": 81.2,
+        "end": 85.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within."
+      },
+      {
+        "start": 81.2,
+        "end": 85.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's soot-stained hand touching the hidden remedy book and the antidote vial inside her apron pocket."
+      },
+      {
+        "start": 81.5,
+        "end": 84.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let her believe I am ignorant."
+      },
+      {
+        "start": 85.2,
+        "end": 91.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway."
+      },
+      {
+        "start": 85.2,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit, her jaw set firm as dramatic music builds to a powerful crescendo."
+      },
+      {
+        "start": 85.6,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will return. You cannot stop the healer.\"\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 8.52,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 31
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 63.8,
+        "end": 89.8,
+        "duration": 26.0,
+        "start_time_fmt": "01:03.80",
+        "end_time_fmt": "01:29.80"
+      }
+    ],
+    "total_duration": 26.0,
+    "hook_strength": 8.8,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.52,
+    "hook": "PRUDENCE shocks the viewer with an immediate confrontation: \"My lady—\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"I will return. You cannot stop the healer.\"\n\n--- SCRIPT END ---\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 63.8,
+        "end": 66.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace."
+      },
+      {
+        "start": 63.8,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sinking to her knees, her face grim and composed."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence steps toward the noblewoman in distress, her hands clasped tightly."
+      },
+      {
+        "start": 66.2,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's anxious, trembling face."
+      },
+      {
+        "start": 66.2,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "My lady—"
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face."
+      },
+      {
+        "start": 67.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly."
+      },
+      {
+        "start": 68.0,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Do you want the same punishment?"
+      },
+      {
+        "start": 70.5,
+        "end": 72.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence flinching in terror, lowering her eyes immediately."
+      },
+      {
+        "start": 70.6,
+        "end": 72.4,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "No, my lady."
+      },
+      {
+        "start": 72.5,
+        "end": 74.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones."
+      },
+      {
+        "start": 72.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor."
+      },
+      {
+        "start": 73.0,
+        "end": 81.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, harsh rasping sound of bristles scraping against stone."
+      },
+      {
+        "start": 74.8,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension."
+      },
+      {
+        "start": 75.0,
+        "end": 78.0,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "That is where clever little servants belong."
+      },
+      {
+        "start": 78.5,
+        "end": 81.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Juliana kneeling by the hearth in the dim window light, scrubbing steadily."
+      },
+      {
+        "start": 78.6,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let her think I am only a maid."
+      },
+      {
+        "start": 81.2,
+        "end": 85.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within."
+      },
+      {
+        "start": 81.2,
+        "end": 85.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's soot-stained hand touching the hidden remedy book and the antidote vial inside her apron pocket."
+      },
+      {
+        "start": 81.5,
+        "end": 84.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let her believe I am ignorant."
+      },
+      {
+        "start": 85.2,
+        "end": 91.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway."
+      },
+      {
+        "start": 85.2,
+        "end": 92.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit, her jaw set firm as dramatic music builds to a powerful crescendo."
+      },
+      {
+        "start": 85.6,
+        "end": 89.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I will return. You cannot stop the healer.\"\n\n--- SCRIPT END ---"
+      }
+    ],
+    "final_score": 8.52,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 32
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 29.0,
+        "end": 67.5,
+        "duration": 38.5,
+        "start_time_fmt": "00:29.00",
+        "end_time_fmt": "01:07.50"
+      }
+    ],
+    "total_duration": 38.5,
+    "hook_strength": 9.5,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 8.43,
+    "hook": "NOBLEWOMAN shocks the viewer with an immediate confrontation: \"Then let her suffer.\"",
+    "cliffhanger": "Cuts sharply on PRUDENCE's unresolved words: \"My lady—\", leaving the outcome hanging.",
+    "why_it_works": "At 38s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 29.0,
+        "end": 30.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Then let her suffer."
+      },
+      {
+        "start": 30.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling slightly in shock at the blatant cruelty."
+      },
+      {
+        "start": 31.0,
+        "end": 32.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I cannot do that."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso."
+      },
+      {
+        "start": 32.8,
+        "end": 33.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stinging whip crack as the riding crop makes harsh contact."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike."
+      },
+      {
+        "start": 33.8,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana hunched over in pain, clutching her abdomen."
+      },
+      {
+        "start": 35.0,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You are a maid."
+      },
+      {
+        "start": 36.8,
+        "end": 38.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply."
+      },
+      {
+        "start": 37.0,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not a physician. Not a lady."
+      },
+      {
+        "start": 38.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana."
+      },
+      {
+        "start": 39.0,
+        "end": 42.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "And certainly not a woman whose opinion matters."
+      },
+      {
+        "start": 43.0,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking down, enduring the humiliation while stifling her breath."
+      },
+      {
+        "start": 43.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, my lady."
+      },
+      {
+        "start": 45.5,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Good. Perhaps we can teach you your place."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side."
+      },
+      {
+        "start": 53.6,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Clean it."
+      },
+      {
+        "start": 54.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth."
+      },
+      {
+        "start": 56.2,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at the towering, soot-blackened chimney."
+      },
+      {
+        "start": 56.2,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "All of it, my lady?"
+      },
+      {
+        "start": 57.8,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish."
+      },
+      {
+        "start": 57.8,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Every stone. Perhaps when your hands are black enough, you will finally remember what you are."
+      },
+      {
+        "start": 63.8,
+        "end": 66.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace."
+      },
+      {
+        "start": 63.8,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sinking to her knees, her face grim and composed."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence steps toward the noblewoman in distress, her hands clasped tightly."
+      },
+      {
+        "start": 66.2,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's anxious, trembling face."
+      },
+      {
+        "start": 66.2,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "My lady—"
+      }
+    ],
+    "final_score": 8.43,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 40
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 29.0,
+        "end": 51.5,
+        "duration": 22.5,
+        "start_time_fmt": "00:29.00",
+        "end_time_fmt": "00:51.50"
+      }
+    ],
+    "total_duration": 22.5,
+    "hook_strength": 9.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.62,
+    "hook": "NOBLEWOMAN shocks the viewer with an immediate confrontation: \"Then let her suffer.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 29.0,
+        "end": 30.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Then let her suffer."
+      },
+      {
+        "start": 30.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling slightly in shock at the blatant cruelty."
+      },
+      {
+        "start": 31.0,
+        "end": 32.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I cannot do that."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso."
+      },
+      {
+        "start": 32.8,
+        "end": 33.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stinging whip crack as the riding crop makes harsh contact."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike."
+      },
+      {
+        "start": 33.8,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana hunched over in pain, clutching her abdomen."
+      },
+      {
+        "start": 35.0,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You are a maid."
+      },
+      {
+        "start": 36.8,
+        "end": 38.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply."
+      },
+      {
+        "start": 37.0,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not a physician. Not a lady."
+      },
+      {
+        "start": 38.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana."
+      },
+      {
+        "start": 39.0,
+        "end": 42.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "And certainly not a woman whose opinion matters."
+      },
+      {
+        "start": 43.0,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking down, enduring the humiliation while stifling her breath."
+      },
+      {
+        "start": 43.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, my lady."
+      },
+      {
+        "start": 45.5,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Good. Perhaps we can teach you your place."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps."
+      }
+    ],
+    "final_score": 7.62,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 312
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 45.5,
+        "end": 70.5,
+        "duration": 25.0,
+        "start_time_fmt": "00:45.50",
+        "end_time_fmt": "01:10.50"
+      }
+    ],
+    "total_duration": 25.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.6,
+    "hook": "NOBLEWOMAN shocks the viewer with an immediate confrontation: \"Good. Perhaps we can teach you your place.\"",
+    "cliffhanger": "Cuts sharply on NOBLEWOMAN's unresolved words: \"Do you want the same punishment?\", leaving the outcome hanging.",
+    "why_it_works": "At 25s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 45.5,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Good. Perhaps we can teach you your place."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side."
+      },
+      {
+        "start": 53.6,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Clean it."
+      },
+      {
+        "start": 54.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth."
+      },
+      {
+        "start": 56.2,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at the towering, soot-blackened chimney."
+      },
+      {
+        "start": 56.2,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "All of it, my lady?"
+      },
+      {
+        "start": 57.8,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish."
+      },
+      {
+        "start": 57.8,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Every stone. Perhaps when your hands are black enough, you will finally remember what you are."
+      },
+      {
+        "start": 63.8,
+        "end": 66.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace."
+      },
+      {
+        "start": 63.8,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sinking to her knees, her face grim and composed."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence steps toward the noblewoman in distress, her hands clasped tightly."
+      },
+      {
+        "start": 66.2,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's anxious, trembling face."
+      },
+      {
+        "start": 66.2,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "My lady—"
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face."
+      },
+      {
+        "start": 67.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly."
+      },
+      {
+        "start": 68.0,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Do you want the same punishment?"
+      }
+    ],
+    "final_score": 7.6,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 325
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 35.0,
+        "end": 57.6,
+        "duration": 22.6,
+        "start_time_fmt": "00:35.00",
+        "end_time_fmt": "00:57.60"
+      }
+    ],
+    "total_duration": 22.6,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.55,
+    "hook": "NOBLEWOMAN shocks the viewer with an immediate confrontation: \"You are a maid.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"All of it, my lady?\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 35.0,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You are a maid."
+      },
+      {
+        "start": 36.8,
+        "end": 38.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply."
+      },
+      {
+        "start": 37.0,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not a physician. Not a lady."
+      },
+      {
+        "start": 38.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana."
+      },
+      {
+        "start": 39.0,
+        "end": 42.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "And certainly not a woman whose opinion matters."
+      },
+      {
+        "start": 43.0,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking down, enduring the humiliation while stifling her breath."
+      },
+      {
+        "start": 43.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, my lady."
+      },
+      {
+        "start": 45.5,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Good. Perhaps we can teach you your place."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side."
+      },
+      {
+        "start": 53.6,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Clean it."
+      },
+      {
+        "start": 54.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth."
+      },
+      {
+        "start": 56.2,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at the towering, soot-blackened chimney."
+      },
+      {
+        "start": 56.2,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "All of it, my lady?"
+      }
+    ],
+    "final_score": 7.55,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 345
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 18.8,
+        "end": 57.6,
+        "duration": 38.8,
+        "start_time_fmt": "00:18.80",
+        "end_time_fmt": "00:57.60"
+      }
+    ],
+    "total_duration": 38.8,
+    "hook_strength": 7.3,
+    "cliffhanger_strength": 7.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.49,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I heard her. I thought Her Grace needed help.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"All of it, my lady?\", leaving the outcome hanging.",
+    "why_it_works": "At 39s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 18.8,
+        "end": 20.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers."
+      },
+      {
+        "start": 18.8,
+        "end": 20.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hand swiftly concealing the medicine bottle."
+      },
+      {
+        "start": 20.8,
+        "end": 22.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade."
+      },
+      {
+        "start": 20.8,
+        "end": 22.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I heard her. I thought Her Grace needed help."
+      },
+      {
+        "start": 22.5,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter."
+      },
+      {
+        "start": 22.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You thought? A new maid thinks she knows better than the physicians?"
+      },
+      {
+        "start": 26.8,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency."
+      },
+      {
+        "start": 27.0,
+        "end": 28.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She is suffering."
+      },
+      {
+        "start": 28.8,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the noblewoman's face twisting into a malicious sneer."
+      },
+      {
+        "start": 29.0,
+        "end": 30.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Then let her suffer."
+      },
+      {
+        "start": 30.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling slightly in shock at the blatant cruelty."
+      },
+      {
+        "start": 31.0,
+        "end": 32.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I cannot do that."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso."
+      },
+      {
+        "start": 32.8,
+        "end": 33.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stinging whip crack as the riding crop makes harsh contact."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike."
+      },
+      {
+        "start": 33.8,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana hunched over in pain, clutching her abdomen."
+      },
+      {
+        "start": 35.0,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You are a maid."
+      },
+      {
+        "start": 36.8,
+        "end": 38.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply."
+      },
+      {
+        "start": 37.0,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not a physician. Not a lady."
+      },
+      {
+        "start": 38.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana."
+      },
+      {
+        "start": 39.0,
+        "end": 42.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "And certainly not a woman whose opinion matters."
+      },
+      {
+        "start": 43.0,
+        "end": 45.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking down, enduring the humiliation while stifling her breath."
+      },
+      {
+        "start": 43.2,
+        "end": 44.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Yes, my lady."
+      },
+      {
+        "start": 45.5,
+        "end": 48.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction."
+      },
+      {
+        "start": 45.5,
+        "end": 48.0,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Good. Perhaps we can teach you your place."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps."
+      },
+      {
+        "start": 51.5,
+        "end": 53.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth."
+      },
+      {
+        "start": 51.5,
+        "end": 54.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side."
+      },
+      {
+        "start": 53.6,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Clean it."
+      },
+      {
+        "start": 54.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth."
+      },
+      {
+        "start": 56.2,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at the towering, soot-blackened chimney."
+      },
+      {
+        "start": 56.2,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "All of it, my lady?"
+      }
+    ],
+    "final_score": 7.49,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 375
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 6.0,
+        "end": 26.5,
+        "duration": 20.5,
+        "start_time_fmt": "00:06.00",
+        "end_time_fmt": "00:26.50"
+      }
+    ],
+    "total_duration": 20.5,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 7.5,
+    "emotional_impact": 8.0,
+    "composite_score": 7.45,
+    "hook": "NOBLEWOMAN shocks the viewer with an immediate confrontation: \"Who are you?\"",
+    "cliffhanger": "Cuts sharply on NOBLEWOMAN's unresolved words: \"You thought? A new maid thinks she knows better than the physicians?\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 6.0,
+        "end": 8.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman holding the riding crop upright, regarding Juliana with disdainful authority."
+      },
+      {
+        "start": 6.8,
+        "end": 8.4,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Who are you?"
+      },
+      {
+        "start": 8.5,
+        "end": 12.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, her gaze lowered deferentially beside the carved wooden bedpost."
+      },
+      {
+        "start": 8.5,
+        "end": 12.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Juliana, my lady. I was hired for the winter cleaning."
+      },
+      {
+        "start": 12.2,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman, her chin tilted up in icy condescension."
+      },
+      {
+        "start": 13.0,
+        "end": 16.4,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "And who gave you permission to enter this chamber?"
+      },
+      {
+        "start": 16.8,
+        "end": 18.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the frail Dowager Duchess lying pale and unconscious against the white pillows, gasping weakly for air."
+      },
+      {
+        "start": 18.8,
+        "end": 20.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers."
+      },
+      {
+        "start": 18.8,
+        "end": 20.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hand swiftly concealing the medicine bottle."
+      },
+      {
+        "start": 20.8,
+        "end": 22.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade."
+      },
+      {
+        "start": 20.8,
+        "end": 22.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I heard her. I thought Her Grace needed help."
+      },
+      {
+        "start": 22.5,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter."
+      },
+      {
+        "start": 22.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You thought? A new maid thinks she knows better than the physicians?"
+      }
+    ],
+    "final_score": 7.45,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 388
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 53.6,
+        "end": 85.0,
+        "duration": 31.4,
+        "start_time_fmt": "00:53.60",
+        "end_time_fmt": "01:25.00"
+      }
+    ],
+    "total_duration": 31.4,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 7.37,
+    "hook": "NOBLEWOMAN shocks the viewer with an immediate confrontation: \"Clean it.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within.",
+    "why_it_works": "At 31s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 53.6,
+        "end": 55.2,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Clean it."
+      },
+      {
+        "start": 54.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth."
+      },
+      {
+        "start": 56.2,
+        "end": 57.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana looking up at the towering, soot-blackened chimney."
+      },
+      {
+        "start": 56.2,
+        "end": 57.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "All of it, my lady?"
+      },
+      {
+        "start": 57.8,
+        "end": 63.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish."
+      },
+      {
+        "start": 57.8,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Every stone. Perhaps when your hands are black enough, you will finally remember what you are."
+      },
+      {
+        "start": 63.8,
+        "end": 66.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace."
+      },
+      {
+        "start": 63.8,
+        "end": 66.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana sinking to her knees, her face grim and composed."
+      },
+      {
+        "start": 66.0,
+        "end": 67.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Prudence steps toward the noblewoman in distress, her hands clasped tightly."
+      },
+      {
+        "start": 66.2,
+        "end": 67.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence's anxious, trembling face."
+      },
+      {
+        "start": 66.2,
+        "end": 67.5,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "My lady—"
+      },
+      {
+        "start": 67.5,
+        "end": 69.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face."
+      },
+      {
+        "start": 67.8,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly."
+      },
+      {
+        "start": 68.0,
+        "end": 70.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Do you want the same punishment?"
+      },
+      {
+        "start": 70.5,
+        "end": 72.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Prudence flinching in terror, lowering her eyes immediately."
+      },
+      {
+        "start": 70.6,
+        "end": 72.4,
+        "type": "DIALOGUE",
+        "speaker": "PRUDENCE",
+        "content": "No, my lady."
+      },
+      {
+        "start": 72.5,
+        "end": 74.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones."
+      },
+      {
+        "start": 72.8,
+        "end": 74.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor."
+      },
+      {
+        "start": 73.0,
+        "end": 81.0,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Rhythmic, harsh rasping sound of bristles scraping against stone."
+      },
+      {
+        "start": 74.8,
+        "end": 78.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension."
+      },
+      {
+        "start": 75.0,
+        "end": 78.0,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "That is where clever little servants belong."
+      },
+      {
+        "start": 78.5,
+        "end": 81.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium profile shot of Juliana kneeling by the hearth in the dim window light, scrubbing steadily."
+      },
+      {
+        "start": 78.6,
+        "end": 81.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let her think I am only a maid."
+      },
+      {
+        "start": 81.2,
+        "end": 85.0,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within."
+      }
+    ],
+    "final_score": 7.37,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 424
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 20.8,
+        "end": 43.0,
+        "duration": 22.2,
+        "start_time_fmt": "00:20.80",
+        "end_time_fmt": "00:43.00"
+      }
+    ],
+    "total_duration": 22.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.17,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I heard her. I thought Her Grace needed help.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 20.8,
+        "end": 22.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade."
+      },
+      {
+        "start": 20.8,
+        "end": 22.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I heard her. I thought Her Grace needed help."
+      },
+      {
+        "start": 22.5,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter."
+      },
+      {
+        "start": 22.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You thought? A new maid thinks she knows better than the physicians?"
+      },
+      {
+        "start": 26.8,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency."
+      },
+      {
+        "start": 27.0,
+        "end": 28.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She is suffering."
+      },
+      {
+        "start": 28.8,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the noblewoman's face twisting into a malicious sneer."
+      },
+      {
+        "start": 29.0,
+        "end": 30.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Then let her suffer."
+      },
+      {
+        "start": 30.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling slightly in shock at the blatant cruelty."
+      },
+      {
+        "start": 31.0,
+        "end": 32.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I cannot do that."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso."
+      },
+      {
+        "start": 32.8,
+        "end": 33.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stinging whip crack as the riding crop makes harsh contact."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike."
+      },
+      {
+        "start": 33.8,
+        "end": 36.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana hunched over in pain, clutching her abdomen."
+      },
+      {
+        "start": 35.0,
+        "end": 36.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You are a maid."
+      },
+      {
+        "start": 36.8,
+        "end": 38.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply."
+      },
+      {
+        "start": 37.0,
+        "end": 38.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Not a physician. Not a lady."
+      },
+      {
+        "start": 38.8,
+        "end": 43.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana."
+      }
+    ],
+    "final_score": 7.17,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 540
+  },
+  {
+    "episode": 24,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 24,
+        "start": 8.5,
+        "end": 36.5,
+        "duration": 28.0,
+        "start_time_fmt": "00:08.50",
+        "end_time_fmt": "00:36.50"
+      }
+    ],
+    "total_duration": 28.0,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 6.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 9.0,
+    "composite_score": 7.07,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Juliana, my lady. I was hired for the winter cleaning.\"",
+    "cliffhanger": "Freezes at the climax of physical escalation: Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.",
+    "why_it_works": "At 28s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency. Opens on a wide camera shot without immediate dialogue, risking mobile feed scroll-by.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 8.5,
+        "end": 12.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Juliana, her gaze lowered deferentially beside the carved wooden bedpost."
+      },
+      {
+        "start": 8.5,
+        "end": 12.0,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Juliana, my lady. I was hired for the winter cleaning."
+      },
+      {
+        "start": 12.2,
+        "end": 16.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the noblewoman, her chin tilted up in icy condescension."
+      },
+      {
+        "start": 13.0,
+        "end": 16.4,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "And who gave you permission to enter this chamber?"
+      },
+      {
+        "start": 16.8,
+        "end": 18.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the frail Dowager Duchess lying pale and unconscious against the white pillows, gasping weakly for air."
+      },
+      {
+        "start": 18.8,
+        "end": 20.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers."
+      },
+      {
+        "start": 18.8,
+        "end": 20.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's hand swiftly concealing the medicine bottle."
+      },
+      {
+        "start": 20.8,
+        "end": 22.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade."
+      },
+      {
+        "start": 20.8,
+        "end": 22.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I heard her. I thought Her Grace needed help."
+      },
+      {
+        "start": 22.5,
+        "end": 26.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter."
+      },
+      {
+        "start": 22.5,
+        "end": 26.5,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "You thought? A new maid thinks she knows better than the physicians?"
+      },
+      {
+        "start": 26.8,
+        "end": 28.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency."
+      },
+      {
+        "start": 27.0,
+        "end": 28.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "She is suffering."
+      },
+      {
+        "start": 28.8,
+        "end": 30.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the noblewoman's face twisting into a malicious sneer."
+      },
+      {
+        "start": 29.0,
+        "end": 30.8,
+        "type": "DIALOGUE",
+        "speaker": "NOBLEWOMAN",
+        "content": "Then let her suffer."
+      },
+      {
+        "start": 30.8,
+        "end": 32.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana recoiling slightly in shock at the blatant cruelty."
+      },
+      {
+        "start": 31.0,
+        "end": 32.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I cannot do that."
+      },
+      {
+        "start": 32.5,
+        "end": 34.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso."
+      },
+      {
+        "start": 32.8,
+        "end": 33.8,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A sharp, stinging whip crack as the riding crop makes harsh contact."
+      },
+      {
+        "start": 33.8,
+        "end": 36.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike."
+      }
+    ],
+    "final_score": 7.07,
+    "posting_category": "High-Tension Episodic Climax (Retention)",
+    "overall_rank": 577
+  }
+]

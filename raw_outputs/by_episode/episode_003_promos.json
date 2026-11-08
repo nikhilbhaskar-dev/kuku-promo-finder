@@ -1,0 +1,4894 @@
+[
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 58.3,
+        "end": 88.0,
+        "duration": 29.7,
+        "start_time_fmt": "00:58.30",
+        "end_time_fmt": "01:28.00"
+      }
+    ],
+    "total_duration": 29.7,
+    "hook_strength": 9.5,
+    "cliffhanger_strength": 8.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.72,
+    "hook": "MATRIARCH shocks the viewer with an immediate confrontation: \"Guards! Remove her!\"",
+    "cliffhanger": "Cuts sharply on GERALD's unresolved words: \"What are you waiting for?! He's only one man!\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 58.3,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Guards! Remove her!"
+      },
+      {
+        "start": 60.0,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+      },
+      {
+        "start": 60.6,
+        "end": 62.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me go!"
+      },
+      {
+        "start": 62.0,
+        "end": 63.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain."
+      },
+      {
+        "start": 62.4,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! Someone!"
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards tear her grip away from the pew."
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+      },
+      {
+        "start": 64.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing."
+      },
+      {
+        "start": 68.1,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Noble Matriarch freezing in utter shock and outrage."
+      },
+      {
+        "start": 69.9,
+        "end": 72.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Take your hands off her."
+      },
+      {
+        "start": 70.5,
+        "end": 72.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose."
+      },
+      {
+        "start": 72.8,
+        "end": 75.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him."
+      },
+      {
+        "start": 73.0,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "And who are you to give orders in my family's chapel?!"
+      },
+      {
+        "start": 75.1,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle."
+      },
+      {
+        "start": 77.0,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the lead royal guard squaring his shoulders, barring the stranger's advance while Juliana stands behind him."
+      },
+      {
+        "start": 77.2,
+        "end": 78.9,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "Stand aside, stranger!"
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile on The Bearded Stranger, eyes burning with quiet, lethal resolve."
+      },
+      {
+        "start": 79.3,
+        "end": 80.9,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I said..."
+      },
+      {
+        "start": 81.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's intense, scarred face."
+      },
+      {
+        "start": 81.8,
+        "end": 83.9,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...let her go."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium action shot as the guard charges toward The Bearded Stranger."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor."
+      },
+      {
+        "start": 84.5,
+        "end": 85.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor."
+      },
+      {
+        "start": 85.5,
+        "end": 88.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking."
+      },
+      {
+        "start": 85.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you waiting for?! He's only one man!"
+      }
+    ],
+    "final_score": 8.82,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 9
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 58.3,
+        "end": 112.5,
+        "duration": 54.2,
+        "start_time_fmt": "00:58.30",
+        "end_time_fmt": "01:52.50"
+      }
+    ],
+    "total_duration": 54.2,
+    "hook_strength": 9.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.65,
+    "hook": "MATRIARCH shocks the viewer with an immediate confrontation: \"Guards! Remove her!\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Why are you doing this?\", leaving the outcome hanging.",
+    "why_it_works": "At 54s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 58.3,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Guards! Remove her!"
+      },
+      {
+        "start": 60.0,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+      },
+      {
+        "start": 60.6,
+        "end": 62.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me go!"
+      },
+      {
+        "start": 62.0,
+        "end": 63.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain."
+      },
+      {
+        "start": 62.4,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! Someone!"
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards tear her grip away from the pew."
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+      },
+      {
+        "start": 64.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing."
+      },
+      {
+        "start": 68.1,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Noble Matriarch freezing in utter shock and outrage."
+      },
+      {
+        "start": 69.9,
+        "end": 72.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Take your hands off her."
+      },
+      {
+        "start": 70.5,
+        "end": 72.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose."
+      },
+      {
+        "start": 72.8,
+        "end": 75.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him."
+      },
+      {
+        "start": 73.0,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "And who are you to give orders in my family's chapel?!"
+      },
+      {
+        "start": 75.1,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle."
+      },
+      {
+        "start": 77.0,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the lead royal guard squaring his shoulders, barring the stranger's advance while Juliana stands behind him."
+      },
+      {
+        "start": 77.2,
+        "end": 78.9,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "Stand aside, stranger!"
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile on The Bearded Stranger, eyes burning with quiet, lethal resolve."
+      },
+      {
+        "start": 79.3,
+        "end": 80.9,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I said..."
+      },
+      {
+        "start": 81.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's intense, scarred face."
+      },
+      {
+        "start": 81.8,
+        "end": 83.9,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...let her go."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium action shot as the guard charges toward The Bearded Stranger."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor."
+      },
+      {
+        "start": 84.5,
+        "end": 85.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor."
+      },
+      {
+        "start": 85.5,
+        "end": 88.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking."
+      },
+      {
+        "start": 85.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you waiting for?! He's only one man!"
+      },
+      {
+        "start": 88.1,
+        "end": 89.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana."
+      },
+      {
+        "start": 89.3,
+        "end": 91.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness."
+      },
+      {
+        "start": 90.4,
+        "end": 91.6,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Are you hurt?"
+      },
+      {
+        "start": 91.7,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+      },
+      {
+        "start": 91.8,
+        "end": 93.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana softly shakes her head 'no', her wide blue eyes locked onto him."
+      },
+      {
+        "start": 94.0,
+        "end": 96.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard."
+      },
+      {
+        "start": 94.1,
+        "end": 96.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Good. Then don't touch her again."
+      },
+      {
+        "start": 96.5,
+        "end": 98.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+      },
+      {
+        "start": 96.5,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You cannot interfere in a family matter!"
+      },
+      {
+        "start": 98.4,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt."
+      },
+      {
+        "start": 98.8,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I can..."
+      },
+      {
+        "start": 100.8,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of guests in the pews whispering and reacting in hushed shock."
+      },
+      {
+        "start": 100.8,
+        "end": 103.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...when your family is dragging a defenseless woman from a church."
+      },
+      {
+        "start": 103.0,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window."
+      },
+      {
+        "start": 104.2,
+        "end": 107.4,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You shouldn't have to beg anybody..."
+      },
+      {
+        "start": 105.9,
+        "end": 108.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into his eyes, moved to the core."
+      },
+      {
+        "start": 107.4,
+        "end": 109.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...to remember your worth."
+      },
+      {
+        "start": 108.8,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence."
+      },
+      {
+        "start": 110.8,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her lips parting in quiet astonishment."
+      },
+      {
+        "start": 110.9,
+        "end": 112.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why are you doing this?"
+      }
+    ],
+    "final_score": 8.75,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 13
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 84.0,
+        "end": 107.4,
+        "duration": 23.4,
+        "start_time_fmt": "01:24.00",
+        "end_time_fmt": "01:47.40"
+      }
+    ],
+    "total_duration": 23.4,
+    "hook_strength": 8.8,
+    "cliffhanger_strength": 7.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.37,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"What are you waiting for?! He's only one man!\"",
+    "cliffhanger": "Cuts sharply on THE BEARDED STRANGER's unresolved words: \"You shouldn't have to beg anybody...\", leaving the outcome hanging.",
+    "why_it_works": "At 23s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium action shot as the guard charges toward The Bearded Stranger."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor."
+      },
+      {
+        "start": 84.5,
+        "end": 85.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor."
+      },
+      {
+        "start": 85.5,
+        "end": 88.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking."
+      },
+      {
+        "start": 85.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you waiting for?! He's only one man!"
+      },
+      {
+        "start": 88.1,
+        "end": 89.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana."
+      },
+      {
+        "start": 89.3,
+        "end": 91.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness."
+      },
+      {
+        "start": 90.4,
+        "end": 91.6,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Are you hurt?"
+      },
+      {
+        "start": 91.7,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+      },
+      {
+        "start": 91.8,
+        "end": 93.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana softly shakes her head 'no', her wide blue eyes locked onto him."
+      },
+      {
+        "start": 94.0,
+        "end": 96.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard."
+      },
+      {
+        "start": 94.1,
+        "end": 96.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Good. Then don't touch her again."
+      },
+      {
+        "start": 96.5,
+        "end": 98.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+      },
+      {
+        "start": 96.5,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You cannot interfere in a family matter!"
+      },
+      {
+        "start": 98.4,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt."
+      },
+      {
+        "start": 98.8,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I can..."
+      },
+      {
+        "start": 100.8,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of guests in the pews whispering and reacting in hushed shock."
+      },
+      {
+        "start": 100.8,
+        "end": 103.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...when your family is dragging a defenseless woman from a church."
+      },
+      {
+        "start": 103.0,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window."
+      },
+      {
+        "start": 104.2,
+        "end": 107.4,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You shouldn't have to beg anybody..."
+      }
+    ],
+    "final_score": 8.47,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 36
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 2.1,
+        "end": 40.4,
+        "duration": 38.3,
+        "start_time_fmt": "00:02.10",
+        "end_time_fmt": "00:40.40"
+      }
+    ],
+    "total_duration": 38.3,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.2,
+    "hook": "CLARISSA shocks the viewer with an immediate confrontation: \"Look at you...\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"And what happens to me?\", leaving the outcome hanging.",
+    "why_it_works": "At 38s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 2.1,
+        "end": 4.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Look at you..."
+      },
+      {
+        "start": 3.5,
+        "end": 6.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Lady in Gold Gown, smiling smugly in her gold gown beside Gerald."
+      },
+      {
+        "start": 3.6,
+        "end": 8.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "...still clinging to that little locket as if it can make you worthy of a place here."
+      },
+      {
+        "start": 6.1,
+        "end": 8.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana's hand tightly clutching the jeweled silver locket against her breast, tears welling in her eyes."
+      },
+      {
+        "start": 8.5,
+        "end": 11.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Juliana looking across at her sister with wounded pride."
+      },
+      {
+        "start": 8.8,
+        "end": 10.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You stole my wedding."
+      },
+      {
+        "start": 11.1,
+        "end": 13.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Gerald and the Lady in Gold Gown standing together at the front of the nave."
+      },
+      {
+        "start": 11.2,
+        "end": 13.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Don't pretend you've earned anything."
+      },
+      {
+        "start": 13.6,
+        "end": 16.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lady in Gold Gown smirking derisively."
+      },
+      {
+        "start": 13.8,
+        "end": 16.3,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "I didn't steal what was never truly yours."
+      },
+      {
+        "start": 16.4,
+        "end": 18.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's trembling lips, refusing to break down."
+      },
+      {
+        "start": 16.6,
+        "end": 18.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This was my wedding."
+      },
+      {
+        "start": 18.6,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him."
+      },
+      {
+        "start": 18.7,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "It was supposed to be."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lady in Gold Gown beaming triumphantly."
+      },
+      {
+        "start": 20.6,
+        "end": 22.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Now it is mine."
+      },
+      {
+        "start": 22.8,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward."
+      },
+      {
+        "start": 23.1,
+        "end": 25.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Enough, Juliana."
+      },
+      {
+        "start": 25.8,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Noble Matriarch glaring down with icy contempt."
+      },
+      {
+        "start": 25.9,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You have humiliated this family enough for one day."
+      },
+      {
+        "start": 28.0,
+        "end": 30.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep."
+      },
+      {
+        "start": 30.3,
+        "end": 35.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Juliana as she speaks out against her family's injustice."
+      },
+      {
+        "start": 30.4,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was humiliated by your family."
+      },
+      {
+        "start": 33.3,
+        "end": 35.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And my father said nothing."
+      },
+      {
+        "start": 35.5,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch, completely unsympathetic."
+      },
+      {
+        "start": 36.5,
+        "end": 38.4,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has made his choice."
+      },
+      {
+        "start": 38.2,
+        "end": 40.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's stricken, vulnerable face."
+      },
+      {
+        "start": 38.5,
+        "end": 40.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what happens to me?"
+      }
+    ],
+    "final_score": 8.3,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 70
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 18.6,
+        "end": 40.4,
+        "duration": 21.8,
+        "start_time_fmt": "00:18.60",
+        "end_time_fmt": "00:40.40"
+      }
+    ],
+    "total_duration": 21.8,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 8.2,
+    "hook": "CLARISSA shocks the viewer with an immediate confrontation: \"It was supposed to be.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"And what happens to me?\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 18.6,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him."
+      },
+      {
+        "start": 18.7,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "It was supposed to be."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lady in Gold Gown beaming triumphantly."
+      },
+      {
+        "start": 20.6,
+        "end": 22.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Now it is mine."
+      },
+      {
+        "start": 22.8,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward."
+      },
+      {
+        "start": 23.1,
+        "end": 25.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Enough, Juliana."
+      },
+      {
+        "start": 25.8,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Noble Matriarch glaring down with icy contempt."
+      },
+      {
+        "start": 25.9,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You have humiliated this family enough for one day."
+      },
+      {
+        "start": 28.0,
+        "end": 30.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep."
+      },
+      {
+        "start": 30.3,
+        "end": 35.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Juliana as she speaks out against her family's injustice."
+      },
+      {
+        "start": 30.4,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was humiliated by your family."
+      },
+      {
+        "start": 33.3,
+        "end": 35.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And my father said nothing."
+      },
+      {
+        "start": 35.5,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch, completely unsympathetic."
+      },
+      {
+        "start": 36.5,
+        "end": 38.4,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has made his choice."
+      },
+      {
+        "start": 38.2,
+        "end": 40.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's stricken, vulnerable face."
+      },
+      {
+        "start": 38.5,
+        "end": 40.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what happens to me?"
+      }
+    ],
+    "final_score": 8.3,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 71
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 11.1,
+        "end": 63.5,
+        "duration": 52.4,
+        "start_time_fmt": "00:11.10",
+        "end_time_fmt": "01:03.50"
+      }
+    ],
+    "total_duration": 52.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Don't pretend you've earned anything.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Please! Someone!\", leaving the outcome hanging.",
+    "why_it_works": "At 52s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 11.1,
+        "end": 13.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Gerald and the Lady in Gold Gown standing together at the front of the nave."
+      },
+      {
+        "start": 11.2,
+        "end": 13.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Don't pretend you've earned anything."
+      },
+      {
+        "start": 13.6,
+        "end": 16.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lady in Gold Gown smirking derisively."
+      },
+      {
+        "start": 13.8,
+        "end": 16.3,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "I didn't steal what was never truly yours."
+      },
+      {
+        "start": 16.4,
+        "end": 18.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's trembling lips, refusing to break down."
+      },
+      {
+        "start": 16.6,
+        "end": 18.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This was my wedding."
+      },
+      {
+        "start": 18.6,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him."
+      },
+      {
+        "start": 18.7,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "It was supposed to be."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lady in Gold Gown beaming triumphantly."
+      },
+      {
+        "start": 20.6,
+        "end": 22.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Now it is mine."
+      },
+      {
+        "start": 22.8,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward."
+      },
+      {
+        "start": 23.1,
+        "end": 25.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Enough, Juliana."
+      },
+      {
+        "start": 25.8,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Noble Matriarch glaring down with icy contempt."
+      },
+      {
+        "start": 25.9,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You have humiliated this family enough for one day."
+      },
+      {
+        "start": 28.0,
+        "end": 30.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep."
+      },
+      {
+        "start": 30.3,
+        "end": 35.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Juliana as she speaks out against her family's injustice."
+      },
+      {
+        "start": 30.4,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was humiliated by your family."
+      },
+      {
+        "start": 33.3,
+        "end": 35.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And my father said nothing."
+      },
+      {
+        "start": 35.5,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch, completely unsympathetic."
+      },
+      {
+        "start": 36.5,
+        "end": 38.4,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has made his choice."
+      },
+      {
+        "start": 38.2,
+        "end": 40.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's stricken, vulnerable face."
+      },
+      {
+        "start": 38.5,
+        "end": 40.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what happens to me?"
+      },
+      {
+        "start": 40.4,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Noble Matriarch delivering her verdict."
+      },
+      {
+        "start": 40.5,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You leave."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana blinking in disbelief."
+      },
+      {
+        "start": 42.1,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Leave where?"
+      },
+      {
+        "start": 43.3,
+        "end": 45.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Noble Matriarch looking down her nose in disdain."
+      },
+      {
+        "start": 43.4,
+        "end": 46.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Wherever a discarded daughter belongs."
+      },
+      {
+        "start": 45.9,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket."
+      },
+      {
+        "start": 46.4,
+        "end": 48.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is my mother's church."
+      },
+      {
+        "start": 48.8,
+        "end": 51.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's face, teeth clenched in desperate defiance."
+      },
+      {
+        "start": 48.9,
+        "end": 51.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have every right to stand here."
+      },
+      {
+        "start": 51.2,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Noble Matriarch leaning in with vicious delight."
+      },
+      {
+        "start": 51.3,
+        "end": 53.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Not anymore."
+      },
+      {
+        "start": 53.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her."
+      },
+      {
+        "start": 53.3,
+        "end": 56.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has chosen his family..."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana."
+      },
+      {
+        "start": 56.3,
+        "end": 58.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "...and it isn't you."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Noble Matriarch turns sharply toward the back of the chapel and barks an order."
+      },
+      {
+        "start": 58.3,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Guards! Remove her!"
+      },
+      {
+        "start": 60.0,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+      },
+      {
+        "start": 60.6,
+        "end": 62.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me go!"
+      },
+      {
+        "start": 62.0,
+        "end": 63.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain."
+      },
+      {
+        "start": 62.4,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! Someone!"
+      }
+    ],
+    "final_score": 8.17,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 92
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 25.8,
+        "end": 76.8,
+        "duration": 51.0,
+        "start_time_fmt": "00:25.80",
+        "end_time_fmt": "01:16.80"
+      }
+    ],
+    "total_duration": 51.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "MATRIARCH shocks the viewer with an immediate confrontation: \"You have humiliated this family enough for one day.\"",
+    "cliffhanger": "Cuts sharply on MATRIARCH's unresolved words: \"And who are you to give orders in my family's chapel?!\", leaving the outcome hanging.",
+    "why_it_works": "At 51s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 25.8,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Noble Matriarch glaring down with icy contempt."
+      },
+      {
+        "start": 25.9,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You have humiliated this family enough for one day."
+      },
+      {
+        "start": 28.0,
+        "end": 30.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep."
+      },
+      {
+        "start": 30.3,
+        "end": 35.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Juliana as she speaks out against her family's injustice."
+      },
+      {
+        "start": 30.4,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was humiliated by your family."
+      },
+      {
+        "start": 33.3,
+        "end": 35.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And my father said nothing."
+      },
+      {
+        "start": 35.5,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch, completely unsympathetic."
+      },
+      {
+        "start": 36.5,
+        "end": 38.4,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has made his choice."
+      },
+      {
+        "start": 38.2,
+        "end": 40.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's stricken, vulnerable face."
+      },
+      {
+        "start": 38.5,
+        "end": 40.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what happens to me?"
+      },
+      {
+        "start": 40.4,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Noble Matriarch delivering her verdict."
+      },
+      {
+        "start": 40.5,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You leave."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana blinking in disbelief."
+      },
+      {
+        "start": 42.1,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Leave where?"
+      },
+      {
+        "start": 43.3,
+        "end": 45.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Noble Matriarch looking down her nose in disdain."
+      },
+      {
+        "start": 43.4,
+        "end": 46.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Wherever a discarded daughter belongs."
+      },
+      {
+        "start": 45.9,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket."
+      },
+      {
+        "start": 46.4,
+        "end": 48.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is my mother's church."
+      },
+      {
+        "start": 48.8,
+        "end": 51.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's face, teeth clenched in desperate defiance."
+      },
+      {
+        "start": 48.9,
+        "end": 51.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have every right to stand here."
+      },
+      {
+        "start": 51.2,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Noble Matriarch leaning in with vicious delight."
+      },
+      {
+        "start": 51.3,
+        "end": 53.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Not anymore."
+      },
+      {
+        "start": 53.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her."
+      },
+      {
+        "start": 53.3,
+        "end": 56.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has chosen his family..."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana."
+      },
+      {
+        "start": 56.3,
+        "end": 58.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "...and it isn't you."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Noble Matriarch turns sharply toward the back of the chapel and barks an order."
+      },
+      {
+        "start": 58.3,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Guards! Remove her!"
+      },
+      {
+        "start": 60.0,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+      },
+      {
+        "start": 60.6,
+        "end": 62.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me go!"
+      },
+      {
+        "start": 62.0,
+        "end": 63.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain."
+      },
+      {
+        "start": 62.4,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! Someone!"
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards tear her grip away from the pew."
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+      },
+      {
+        "start": 64.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing."
+      },
+      {
+        "start": 68.1,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Noble Matriarch freezing in utter shock and outrage."
+      },
+      {
+        "start": 69.9,
+        "end": 72.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Take your hands off her."
+      },
+      {
+        "start": 70.5,
+        "end": 72.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose."
+      },
+      {
+        "start": 72.8,
+        "end": 75.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him."
+      },
+      {
+        "start": 73.0,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "And who are you to give orders in my family's chapel?!"
+      }
+    ],
+    "final_score": 8.17,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 93
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 40.4,
+        "end": 62.3,
+        "duration": 21.9,
+        "start_time_fmt": "00:40.40",
+        "end_time_fmt": "01:02.30"
+      }
+    ],
+    "total_duration": 21.9,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "MATRIARCH shocks the viewer with an immediate confrontation: \"You leave.\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Let me go!\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 40.4,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Noble Matriarch delivering her verdict."
+      },
+      {
+        "start": 40.5,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You leave."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana blinking in disbelief."
+      },
+      {
+        "start": 42.1,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Leave where?"
+      },
+      {
+        "start": 43.3,
+        "end": 45.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Noble Matriarch looking down her nose in disdain."
+      },
+      {
+        "start": 43.4,
+        "end": 46.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Wherever a discarded daughter belongs."
+      },
+      {
+        "start": 45.9,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket."
+      },
+      {
+        "start": 46.4,
+        "end": 48.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is my mother's church."
+      },
+      {
+        "start": 48.8,
+        "end": 51.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's face, teeth clenched in desperate defiance."
+      },
+      {
+        "start": 48.9,
+        "end": 51.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have every right to stand here."
+      },
+      {
+        "start": 51.2,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Noble Matriarch leaning in with vicious delight."
+      },
+      {
+        "start": 51.3,
+        "end": 53.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Not anymore."
+      },
+      {
+        "start": 53.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her."
+      },
+      {
+        "start": 53.3,
+        "end": 56.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has chosen his family..."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana."
+      },
+      {
+        "start": 56.3,
+        "end": 58.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "...and it isn't you."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Noble Matriarch turns sharply toward the back of the chapel and barks an order."
+      },
+      {
+        "start": 58.3,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Guards! Remove her!"
+      },
+      {
+        "start": 60.0,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+      },
+      {
+        "start": 60.6,
+        "end": 62.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me go!"
+      }
+    ],
+    "final_score": 8.17,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 94
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 40.4,
+        "end": 98.5,
+        "duration": 58.1,
+        "start_time_fmt": "00:40.40",
+        "end_time_fmt": "01:38.50"
+      }
+    ],
+    "total_duration": 58.1,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "MATRIARCH shocks the viewer with an immediate confrontation: \"You leave.\"",
+    "cliffhanger": "Cuts sharply on MATRIARCH's unresolved words: \"You cannot interfere in a family matter!\", leaving the outcome hanging.",
+    "why_it_works": "At 58s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 40.4,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Noble Matriarch delivering her verdict."
+      },
+      {
+        "start": 40.5,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You leave."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana blinking in disbelief."
+      },
+      {
+        "start": 42.1,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Leave where?"
+      },
+      {
+        "start": 43.3,
+        "end": 45.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Noble Matriarch looking down her nose in disdain."
+      },
+      {
+        "start": 43.4,
+        "end": 46.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Wherever a discarded daughter belongs."
+      },
+      {
+        "start": 45.9,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket."
+      },
+      {
+        "start": 46.4,
+        "end": 48.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is my mother's church."
+      },
+      {
+        "start": 48.8,
+        "end": 51.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's face, teeth clenched in desperate defiance."
+      },
+      {
+        "start": 48.9,
+        "end": 51.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have every right to stand here."
+      },
+      {
+        "start": 51.2,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Noble Matriarch leaning in with vicious delight."
+      },
+      {
+        "start": 51.3,
+        "end": 53.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Not anymore."
+      },
+      {
+        "start": 53.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her."
+      },
+      {
+        "start": 53.3,
+        "end": 56.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has chosen his family..."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana."
+      },
+      {
+        "start": 56.3,
+        "end": 58.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "...and it isn't you."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Noble Matriarch turns sharply toward the back of the chapel and barks an order."
+      },
+      {
+        "start": 58.3,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Guards! Remove her!"
+      },
+      {
+        "start": 60.0,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+      },
+      {
+        "start": 60.6,
+        "end": 62.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me go!"
+      },
+      {
+        "start": 62.0,
+        "end": 63.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain."
+      },
+      {
+        "start": 62.4,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! Someone!"
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards tear her grip away from the pew."
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+      },
+      {
+        "start": 64.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing."
+      },
+      {
+        "start": 68.1,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Noble Matriarch freezing in utter shock and outrage."
+      },
+      {
+        "start": 69.9,
+        "end": 72.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Take your hands off her."
+      },
+      {
+        "start": 70.5,
+        "end": 72.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose."
+      },
+      {
+        "start": 72.8,
+        "end": 75.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him."
+      },
+      {
+        "start": 73.0,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "And who are you to give orders in my family's chapel?!"
+      },
+      {
+        "start": 75.1,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle."
+      },
+      {
+        "start": 77.0,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the lead royal guard squaring his shoulders, barring the stranger's advance while Juliana stands behind him."
+      },
+      {
+        "start": 77.2,
+        "end": 78.9,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "Stand aside, stranger!"
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile on The Bearded Stranger, eyes burning with quiet, lethal resolve."
+      },
+      {
+        "start": 79.3,
+        "end": 80.9,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I said..."
+      },
+      {
+        "start": 81.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's intense, scarred face."
+      },
+      {
+        "start": 81.8,
+        "end": 83.9,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...let her go."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium action shot as the guard charges toward The Bearded Stranger."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor."
+      },
+      {
+        "start": 84.5,
+        "end": 85.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor."
+      },
+      {
+        "start": 85.5,
+        "end": 88.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking."
+      },
+      {
+        "start": 85.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you waiting for?! He's only one man!"
+      },
+      {
+        "start": 88.1,
+        "end": 89.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana."
+      },
+      {
+        "start": 89.3,
+        "end": 91.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness."
+      },
+      {
+        "start": 90.4,
+        "end": 91.6,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Are you hurt?"
+      },
+      {
+        "start": 91.7,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+      },
+      {
+        "start": 91.8,
+        "end": 93.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana softly shakes her head 'no', her wide blue eyes locked onto him."
+      },
+      {
+        "start": 94.0,
+        "end": 96.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard."
+      },
+      {
+        "start": 94.1,
+        "end": 96.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Good. Then don't touch her again."
+      },
+      {
+        "start": 96.5,
+        "end": 98.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+      },
+      {
+        "start": 96.5,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You cannot interfere in a family matter!"
+      }
+    ],
+    "final_score": 8.17,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 95
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 48.8,
+        "end": 76.8,
+        "duration": 28.0,
+        "start_time_fmt": "00:48.80",
+        "end_time_fmt": "01:16.80"
+      }
+    ],
+    "total_duration": 28.0,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 9.0,
+    "composite_score": 8.07,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"I have every right to stand here.\"",
+    "cliffhanger": "Cuts sharply on MATRIARCH's unresolved words: \"And who are you to give orders in my family's chapel?!\", leaving the outcome hanging.",
+    "why_it_works": "At 28s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Strong overall; requires crisp sound design and punchy mobile audio mix to maximize retention.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 48.8,
+        "end": 51.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's face, teeth clenched in desperate defiance."
+      },
+      {
+        "start": 48.9,
+        "end": 51.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have every right to stand here."
+      },
+      {
+        "start": 51.2,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Noble Matriarch leaning in with vicious delight."
+      },
+      {
+        "start": 51.3,
+        "end": 53.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Not anymore."
+      },
+      {
+        "start": 53.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her."
+      },
+      {
+        "start": 53.3,
+        "end": 56.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has chosen his family..."
+      },
+      {
+        "start": 56.2,
+        "end": 58.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana."
+      },
+      {
+        "start": 56.3,
+        "end": 58.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "...and it isn't you."
+      },
+      {
+        "start": 58.2,
+        "end": 59.8,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Noble Matriarch turns sharply toward the back of the chapel and barks an order."
+      },
+      {
+        "start": 58.3,
+        "end": 60.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Guards! Remove her!"
+      },
+      {
+        "start": 60.0,
+        "end": 62.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+      },
+      {
+        "start": 60.6,
+        "end": 62.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Let me go!"
+      },
+      {
+        "start": 62.0,
+        "end": 63.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain."
+      },
+      {
+        "start": 62.4,
+        "end": 63.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Please! Someone!"
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The guards tear her grip away from the pew."
+      },
+      {
+        "start": 63.0,
+        "end": 64.5,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+      },
+      {
+        "start": 64.5,
+        "end": 66.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave."
+      },
+      {
+        "start": 66.0,
+        "end": 68.1,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing."
+      },
+      {
+        "start": 68.1,
+        "end": 70.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on the Noble Matriarch freezing in utter shock and outrage."
+      },
+      {
+        "start": 69.9,
+        "end": 72.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Take your hands off her."
+      },
+      {
+        "start": 70.5,
+        "end": 72.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose."
+      },
+      {
+        "start": 72.8,
+        "end": 75.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him."
+      },
+      {
+        "start": 73.0,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "And who are you to give orders in my family's chapel?!"
+      }
+    ],
+    "final_score": 8.17,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 96
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 25.8,
+        "end": 56.2,
+        "duration": 30.4,
+        "start_time_fmt": "00:25.80",
+        "end_time_fmt": "00:56.20"
+      }
+    ],
+    "total_duration": 30.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.8,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.78,
+    "hook": "MATRIARCH shocks the viewer with an immediate confrontation: \"You have humiliated this family enough for one day.\"",
+    "cliffhanger": "Cuts sharply on MATRIARCH's unresolved words: \"Your father has chosen his family...\", leaving the outcome hanging.",
+    "why_it_works": "At 30s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 25.8,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Noble Matriarch glaring down with icy contempt."
+      },
+      {
+        "start": 25.9,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You have humiliated this family enough for one day."
+      },
+      {
+        "start": 28.0,
+        "end": 30.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep."
+      },
+      {
+        "start": 30.3,
+        "end": 35.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on Juliana as she speaks out against her family's injustice."
+      },
+      {
+        "start": 30.4,
+        "end": 33.2,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I was humiliated by your family."
+      },
+      {
+        "start": 33.3,
+        "end": 35.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And my father said nothing."
+      },
+      {
+        "start": 35.5,
+        "end": 38.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch, completely unsympathetic."
+      },
+      {
+        "start": 36.5,
+        "end": 38.4,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has made his choice."
+      },
+      {
+        "start": 38.2,
+        "end": 40.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's stricken, vulnerable face."
+      },
+      {
+        "start": 38.5,
+        "end": 40.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "And what happens to me?"
+      },
+      {
+        "start": 40.4,
+        "end": 42.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Noble Matriarch delivering her verdict."
+      },
+      {
+        "start": 40.5,
+        "end": 41.9,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You leave."
+      },
+      {
+        "start": 42.0,
+        "end": 43.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana blinking in disbelief."
+      },
+      {
+        "start": 42.1,
+        "end": 43.3,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Leave where?"
+      },
+      {
+        "start": 43.3,
+        "end": 45.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Noble Matriarch looking down her nose in disdain."
+      },
+      {
+        "start": 43.4,
+        "end": 46.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Wherever a discarded daughter belongs."
+      },
+      {
+        "start": 45.9,
+        "end": 48.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket."
+      },
+      {
+        "start": 46.4,
+        "end": 48.6,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This is my mother's church."
+      },
+      {
+        "start": 48.8,
+        "end": 51.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's face, teeth clenched in desperate defiance."
+      },
+      {
+        "start": 48.9,
+        "end": 51.1,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "I have every right to stand here."
+      },
+      {
+        "start": 51.2,
+        "end": 53.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Tight close-up of the Noble Matriarch leaning in with vicious delight."
+      },
+      {
+        "start": 51.3,
+        "end": 53.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Not anymore."
+      },
+      {
+        "start": 53.0,
+        "end": 56.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her."
+      },
+      {
+        "start": 53.3,
+        "end": 56.2,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Your father has chosen his family..."
+      }
+    ],
+    "final_score": 7.88,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 202
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 90.4,
+        "end": 112.5,
+        "duration": 22.1,
+        "start_time_fmt": "01:30.40",
+        "end_time_fmt": "01:52.50"
+      }
+    ],
+    "total_duration": 22.1,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 8.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.6,
+    "hook": "THE BEARDED STRANGER shocks the viewer with an immediate confrontation: \"Are you hurt?\"",
+    "cliffhanger": "Cuts sharply on JULIANA's unresolved words: \"Why are you doing this?\", leaving the outcome hanging.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 90.4,
+        "end": 91.6,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Are you hurt?"
+      },
+      {
+        "start": 91.7,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+      },
+      {
+        "start": 91.8,
+        "end": 93.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana softly shakes her head 'no', her wide blue eyes locked onto him."
+      },
+      {
+        "start": 94.0,
+        "end": 96.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard."
+      },
+      {
+        "start": 94.1,
+        "end": 96.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Good. Then don't touch her again."
+      },
+      {
+        "start": 96.5,
+        "end": 98.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+      },
+      {
+        "start": 96.5,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You cannot interfere in a family matter!"
+      },
+      {
+        "start": 98.4,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt."
+      },
+      {
+        "start": 98.8,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I can..."
+      },
+      {
+        "start": 100.8,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of guests in the pews whispering and reacting in hushed shock."
+      },
+      {
+        "start": 100.8,
+        "end": 103.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...when your family is dragging a defenseless woman from a church."
+      },
+      {
+        "start": 103.0,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window."
+      },
+      {
+        "start": 104.2,
+        "end": 107.4,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You shouldn't have to beg anybody..."
+      },
+      {
+        "start": 105.9,
+        "end": 108.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into his eyes, moved to the core."
+      },
+      {
+        "start": 107.4,
+        "end": 109.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...to remember your worth."
+      },
+      {
+        "start": 108.8,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence."
+      },
+      {
+        "start": 110.8,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her lips parting in quiet astonishment."
+      },
+      {
+        "start": 110.9,
+        "end": 112.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why are you doing this?"
+      }
+    ],
+    "final_score": 7.7,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 266
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 2.1,
+        "end": 22.5,
+        "duration": 20.4,
+        "start_time_fmt": "00:02.10",
+        "end_time_fmt": "00:22.50"
+      }
+    ],
+    "total_duration": 20.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 6.0,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.5,
+    "hook": "CLARISSA shocks the viewer with an immediate confrontation: \"Look at you...\"",
+    "cliffhanger": "Cuts sharply on CLARISSA's unresolved words: \"Now it is mine.\", leaving the outcome hanging.",
+    "why_it_works": "At 20s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "SELECT",
+    "events_summary": [
+      {
+        "start": 2.1,
+        "end": 4.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Look at you..."
+      },
+      {
+        "start": 3.5,
+        "end": 6.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Lady in Gold Gown, smiling smugly in her gold gown beside Gerald."
+      },
+      {
+        "start": 3.6,
+        "end": 8.2,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "...still clinging to that little locket as if it can make you worthy of a place here."
+      },
+      {
+        "start": 6.1,
+        "end": 8.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of Juliana's hand tightly clutching the jeweled silver locket against her breast, tears welling in her eyes."
+      },
+      {
+        "start": 8.5,
+        "end": 11.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Juliana looking across at her sister with wounded pride."
+      },
+      {
+        "start": 8.8,
+        "end": 10.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You stole my wedding."
+      },
+      {
+        "start": 11.1,
+        "end": 13.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Gerald and the Lady in Gold Gown standing together at the front of the nave."
+      },
+      {
+        "start": 11.2,
+        "end": 13.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Don't pretend you've earned anything."
+      },
+      {
+        "start": 13.6,
+        "end": 16.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lady in Gold Gown smirking derisively."
+      },
+      {
+        "start": 13.8,
+        "end": 16.3,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "I didn't steal what was never truly yours."
+      },
+      {
+        "start": 16.4,
+        "end": 18.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's trembling lips, refusing to break down."
+      },
+      {
+        "start": 16.6,
+        "end": 18.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This was my wedding."
+      },
+      {
+        "start": 18.6,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him."
+      },
+      {
+        "start": 18.7,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "It was supposed to be."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lady in Gold Gown beaming triumphantly."
+      },
+      {
+        "start": 20.6,
+        "end": 22.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Now it is mine."
+      }
+    ],
+    "final_score": 7.6,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 319
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 72.8,
+        "end": 98.5,
+        "duration": 25.7,
+        "start_time_fmt": "01:12.80",
+        "end_time_fmt": "01:38.50"
+      }
+    ],
+    "total_duration": 25.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 7.2,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.47,
+    "hook": "MATRIARCH shocks the viewer with an immediate confrontation: \"And who are you to give orders in my family's chapel?!\"",
+    "cliffhanger": "Cuts sharply on MATRIARCH's unresolved words: \"You cannot interfere in a family matter!\", leaving the outcome hanging.",
+    "why_it_works": "At 26s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 72.8,
+        "end": 75.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him."
+      },
+      {
+        "start": 73.0,
+        "end": 76.8,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "And who are you to give orders in my family's chapel?!"
+      },
+      {
+        "start": 75.1,
+        "end": 77.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle."
+      },
+      {
+        "start": 77.0,
+        "end": 79.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on the lead royal guard squaring his shoulders, barring the stranger's advance while Juliana stands behind him."
+      },
+      {
+        "start": 77.2,
+        "end": 78.9,
+        "type": "DIALOGUE",
+        "speaker": "ROYAL GUARD",
+        "content": "Stand aside, stranger!"
+      },
+      {
+        "start": 79.0,
+        "end": 81.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up profile on The Bearded Stranger, eyes burning with quiet, lethal resolve."
+      },
+      {
+        "start": 79.3,
+        "end": 80.9,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I said..."
+      },
+      {
+        "start": 81.0,
+        "end": 84.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's intense, scarred face."
+      },
+      {
+        "start": 81.8,
+        "end": 83.9,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...let her go."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium action shot as the guard charges toward The Bearded Stranger."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor."
+      },
+      {
+        "start": 84.5,
+        "end": 85.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor."
+      },
+      {
+        "start": 85.5,
+        "end": 88.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking."
+      },
+      {
+        "start": 85.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you waiting for?! He's only one man!"
+      },
+      {
+        "start": 88.1,
+        "end": 89.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana."
+      },
+      {
+        "start": 89.3,
+        "end": 91.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness."
+      },
+      {
+        "start": 90.4,
+        "end": 91.6,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Are you hurt?"
+      },
+      {
+        "start": 91.7,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+      },
+      {
+        "start": 91.8,
+        "end": 93.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana softly shakes her head 'no', her wide blue eyes locked onto him."
+      },
+      {
+        "start": 94.0,
+        "end": 96.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard."
+      },
+      {
+        "start": 94.1,
+        "end": 96.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Good. Then don't touch her again."
+      },
+      {
+        "start": 96.5,
+        "end": 98.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+      },
+      {
+        "start": 96.5,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You cannot interfere in a family matter!"
+      }
+    ],
+    "final_score": 7.57,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 336
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 84.0,
+        "end": 123.2,
+        "duration": 39.2,
+        "start_time_fmt": "01:24.00",
+        "end_time_fmt": "02:03.20"
+      }
+    ],
+    "total_duration": 39.2,
+    "hook_strength": 8.8,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.41,
+    "hook": "GERALD shocks the viewer with an immediate confrontation: \"What are you waiting for?! He's only one man!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot on The Bearded Stranger extending the ring toward Juliana.",
+    "why_it_works": "At 39s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium action shot as the guard charges toward The Bearded Stranger."
+      },
+      {
+        "start": 84.0,
+        "end": 85.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor."
+      },
+      {
+        "start": 84.5,
+        "end": 85.4,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor."
+      },
+      {
+        "start": 85.5,
+        "end": 88.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking."
+      },
+      {
+        "start": 85.6,
+        "end": 88.0,
+        "type": "DIALOGUE",
+        "speaker": "GERALD",
+        "content": "What are you waiting for?! He's only one man!"
+      },
+      {
+        "start": 88.1,
+        "end": 89.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana."
+      },
+      {
+        "start": 89.3,
+        "end": 91.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness."
+      },
+      {
+        "start": 90.4,
+        "end": 91.6,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Are you hurt?"
+      },
+      {
+        "start": 91.7,
+        "end": 94.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+      },
+      {
+        "start": 91.8,
+        "end": 93.6,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "Juliana softly shakes her head 'no', her wide blue eyes locked onto him."
+      },
+      {
+        "start": 94.0,
+        "end": 96.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard."
+      },
+      {
+        "start": 94.1,
+        "end": 96.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Good. Then don't touch her again."
+      },
+      {
+        "start": 96.5,
+        "end": 98.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+      },
+      {
+        "start": 96.5,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You cannot interfere in a family matter!"
+      },
+      {
+        "start": 98.4,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt."
+      },
+      {
+        "start": 98.8,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I can..."
+      },
+      {
+        "start": 100.8,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of guests in the pews whispering and reacting in hushed shock."
+      },
+      {
+        "start": 100.8,
+        "end": 103.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...when your family is dragging a defenseless woman from a church."
+      },
+      {
+        "start": 103.0,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window."
+      },
+      {
+        "start": 104.2,
+        "end": 107.4,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You shouldn't have to beg anybody..."
+      },
+      {
+        "start": 105.9,
+        "end": 108.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into his eyes, moved to the core."
+      },
+      {
+        "start": 107.4,
+        "end": 109.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...to remember your worth."
+      },
+      {
+        "start": 108.8,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence."
+      },
+      {
+        "start": 110.8,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her lips parting in quiet astonishment."
+      },
+      {
+        "start": 110.9,
+        "end": 112.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why are you doing this?"
+      },
+      {
+        "start": 112.5,
+        "end": 114.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger, completely unfazed."
+      },
+      {
+        "start": 112.8,
+        "end": 114.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Because I want to."
+      },
+      {
+        "start": 114.2,
+        "end": 116.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's father wringing his gold ring, eyes heavy with regret."
+      },
+      {
+        "start": 116.0,
+        "end": 117.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger slipping his hand into his coat pocket."
+      },
+      {
+        "start": 117.9,
+        "end": 119.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana watching him with rapt, trembling anticipation."
+      },
+      {
+        "start": 119.2,
+        "end": 121.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band."
+      },
+      {
+        "start": 119.8,
+        "end": 122.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You came here to become a wife."
+      },
+      {
+        "start": 121.0,
+        "end": 123.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger extending the ring toward Juliana."
+      }
+    ],
+    "final_score": 7.51,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 364
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 8.5,
+        "end": 30.3,
+        "duration": 21.8,
+        "start_time_fmt": "00:08.50",
+        "end_time_fmt": "00:30.30"
+      }
+    ],
+    "total_duration": 21.8,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 8.0,
+    "composite_score": 7.23,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"You stole my wedding.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep.",
+    "why_it_works": "At 22s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 8.5,
+        "end": 11.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on Juliana looking across at her sister with wounded pride."
+      },
+      {
+        "start": 8.8,
+        "end": 10.8,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You stole my wedding."
+      },
+      {
+        "start": 11.1,
+        "end": 13.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium two-shot of Gerald and the Lady in Gold Gown standing together at the front of the nave."
+      },
+      {
+        "start": 11.2,
+        "end": 13.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Don't pretend you've earned anything."
+      },
+      {
+        "start": 13.6,
+        "end": 16.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lady in Gold Gown smirking derisively."
+      },
+      {
+        "start": 13.8,
+        "end": 16.3,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "I didn't steal what was never truly yours."
+      },
+      {
+        "start": 16.4,
+        "end": 18.6,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's trembling lips, refusing to break down."
+      },
+      {
+        "start": 16.6,
+        "end": 18.4,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "This was my wedding."
+      },
+      {
+        "start": 18.6,
+        "end": 20.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him."
+      },
+      {
+        "start": 18.7,
+        "end": 20.4,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "It was supposed to be."
+      },
+      {
+        "start": 20.5,
+        "end": 22.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of the Lady in Gold Gown beaming triumphantly."
+      },
+      {
+        "start": 20.6,
+        "end": 22.5,
+        "type": "DIALOGUE",
+        "speaker": "CLARISSA",
+        "content": "Now it is mine."
+      },
+      {
+        "start": 22.8,
+        "end": 25.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward."
+      },
+      {
+        "start": 23.1,
+        "end": 25.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "Enough, Juliana."
+      },
+      {
+        "start": 25.8,
+        "end": 28.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up of the Noble Matriarch glaring down with icy contempt."
+      },
+      {
+        "start": 25.9,
+        "end": 28.0,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You have humiliated this family enough for one day."
+      },
+      {
+        "start": 28.0,
+        "end": 30.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep."
+      }
+    ],
+    "final_score": 7.33,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 446
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 96.5,
+        "end": 117.9,
+        "duration": 21.4,
+        "start_time_fmt": "01:36.50",
+        "end_time_fmt": "01:57.90"
+      }
+    ],
+    "total_duration": 21.4,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.17,
+    "hook": "MATRIARCH shocks the viewer with an immediate confrontation: \"You cannot interfere in a family matter!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Medium shot on The Bearded Stranger slipping his hand into his coat pocket.",
+    "why_it_works": "At 21s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 96.5,
+        "end": 98.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+      },
+      {
+        "start": 96.5,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You cannot interfere in a family matter!"
+      },
+      {
+        "start": 98.4,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt."
+      },
+      {
+        "start": 98.8,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I can..."
+      },
+      {
+        "start": 100.8,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of guests in the pews whispering and reacting in hushed shock."
+      },
+      {
+        "start": 100.8,
+        "end": 103.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...when your family is dragging a defenseless woman from a church."
+      },
+      {
+        "start": 103.0,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window."
+      },
+      {
+        "start": 104.2,
+        "end": 107.4,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You shouldn't have to beg anybody..."
+      },
+      {
+        "start": 105.9,
+        "end": 108.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into his eyes, moved to the core."
+      },
+      {
+        "start": 107.4,
+        "end": 109.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...to remember your worth."
+      },
+      {
+        "start": 108.8,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence."
+      },
+      {
+        "start": 110.8,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her lips parting in quiet astonishment."
+      },
+      {
+        "start": 110.9,
+        "end": 112.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why are you doing this?"
+      },
+      {
+        "start": 112.5,
+        "end": 114.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger, completely unfazed."
+      },
+      {
+        "start": 112.8,
+        "end": 114.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Because I want to."
+      },
+      {
+        "start": 114.2,
+        "end": 116.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's father wringing his gold ring, eyes heavy with regret."
+      },
+      {
+        "start": 116.0,
+        "end": 117.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger slipping his hand into his coat pocket."
+      }
+    ],
+    "final_score": 7.27,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 478
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 96.5,
+        "end": 132.7,
+        "duration": 36.2,
+        "start_time_fmt": "01:36.50",
+        "end_time_fmt": "02:12.70"
+      }
+    ],
+    "total_duration": 36.2,
+    "hook_strength": 8.0,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.17,
+    "hook": "MATRIARCH shocks the viewer with an immediate confrontation: \"You cannot interfere in a family matter!\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on The Bearded Stranger's warm, piercing gaze.",
+    "why_it_works": "At 36s, this promo stops feed scroll with immediate high-status conflict and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 96.5,
+        "end": 98.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+      },
+      {
+        "start": 96.5,
+        "end": 98.5,
+        "type": "DIALOGUE",
+        "speaker": "MATRIARCH",
+        "content": "You cannot interfere in a family matter!"
+      },
+      {
+        "start": 98.4,
+        "end": 100.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt."
+      },
+      {
+        "start": 98.8,
+        "end": 100.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I can..."
+      },
+      {
+        "start": 100.8,
+        "end": 103.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of guests in the pews whispering and reacting in hushed shock."
+      },
+      {
+        "start": 100.8,
+        "end": 103.8,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...when your family is dragging a defenseless woman from a church."
+      },
+      {
+        "start": 103.0,
+        "end": 105.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window."
+      },
+      {
+        "start": 104.2,
+        "end": 107.4,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You shouldn't have to beg anybody..."
+      },
+      {
+        "start": 105.9,
+        "end": 108.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into his eyes, moved to the core."
+      },
+      {
+        "start": 107.4,
+        "end": 109.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...to remember your worth."
+      },
+      {
+        "start": 108.8,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence."
+      },
+      {
+        "start": 110.8,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her lips parting in quiet astonishment."
+      },
+      {
+        "start": 110.9,
+        "end": 112.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why are you doing this?"
+      },
+      {
+        "start": 112.5,
+        "end": 114.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger, completely unfazed."
+      },
+      {
+        "start": 112.8,
+        "end": 114.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Because I want to."
+      },
+      {
+        "start": 114.2,
+        "end": 116.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's father wringing his gold ring, eyes heavy with regret."
+      },
+      {
+        "start": 116.0,
+        "end": 117.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger slipping his hand into his coat pocket."
+      },
+      {
+        "start": 117.9,
+        "end": 119.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana watching him with rapt, trembling anticipation."
+      },
+      {
+        "start": 119.2,
+        "end": 121.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band."
+      },
+      {
+        "start": 119.8,
+        "end": 122.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You came here to become a wife."
+      },
+      {
+        "start": 121.0,
+        "end": 123.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger extending the ring toward Juliana."
+      },
+      {
+        "start": 122.5,
+        "end": 124.2,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "They took that from you."
+      },
+      {
+        "start": 123.2,
+        "end": 125.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle."
+      },
+      {
+        "start": 125.1,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on The Bearded Stranger presenting the ring directly to Juliana."
+      },
+      {
+        "start": 125.3,
+        "end": 127.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I am offering it back."
+      },
+      {
+        "start": 127.4,
+        "end": 130.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana glancing down at the ring, breathless and overwhelmed."
+      },
+      {
+        "start": 127.7,
+        "end": 129.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 130.2,
+        "end": 132.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's warm, piercing gaze."
+      }
+    ],
+    "final_score": 7.27,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 479
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 104.2,
+        "end": 125.1,
+        "duration": 20.9,
+        "start_time_fmt": "01:44.20",
+        "end_time_fmt": "02:05.10"
+      }
+    ],
+    "total_duration": 20.9,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.08,
+    "hook": "THE BEARDED STRANGER shocks the viewer with an immediate confrontation: \"You shouldn't have to beg anybody...\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 104.2,
+        "end": 107.4,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You shouldn't have to beg anybody..."
+      },
+      {
+        "start": 105.9,
+        "end": 108.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into his eyes, moved to the core."
+      },
+      {
+        "start": 107.4,
+        "end": 109.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...to remember your worth."
+      },
+      {
+        "start": 108.8,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence."
+      },
+      {
+        "start": 110.8,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her lips parting in quiet astonishment."
+      },
+      {
+        "start": 110.9,
+        "end": 112.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why are you doing this?"
+      },
+      {
+        "start": 112.5,
+        "end": 114.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger, completely unfazed."
+      },
+      {
+        "start": 112.8,
+        "end": 114.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Because I want to."
+      },
+      {
+        "start": 114.2,
+        "end": 116.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's father wringing his gold ring, eyes heavy with regret."
+      },
+      {
+        "start": 116.0,
+        "end": 117.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger slipping his hand into his coat pocket."
+      },
+      {
+        "start": 117.9,
+        "end": 119.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana watching him with rapt, trembling anticipation."
+      },
+      {
+        "start": 119.2,
+        "end": 121.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band."
+      },
+      {
+        "start": 119.8,
+        "end": 122.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You came here to become a wife."
+      },
+      {
+        "start": 121.0,
+        "end": 123.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger extending the ring toward Juliana."
+      },
+      {
+        "start": 122.5,
+        "end": 124.2,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "They took that from you."
+      },
+      {
+        "start": 123.2,
+        "end": 125.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle."
+      }
+    ],
+    "final_score": 7.18,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 524
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 104.2,
+        "end": 145.75,
+        "duration": 41.55,
+        "start_time_fmt": "01:44.20",
+        "end_time_fmt": "02:25.75"
+      }
+    ],
+    "total_duration": 41.55,
+    "hook_strength": 7.7,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 7.08,
+    "hook": "THE BEARDED STRANGER shocks the viewer with an immediate confrontation: \"You shouldn't have to beg anybody...\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on Juliana looking down at him, fresh tears trailing down her flushed cheeks as a soft, trembling smile of hope touches her lips into a slow fade.",
+    "why_it_works": "At 42s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 104.2,
+        "end": 107.4,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You shouldn't have to beg anybody..."
+      },
+      {
+        "start": 105.9,
+        "end": 108.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking up into his eyes, moved to the core."
+      },
+      {
+        "start": 107.4,
+        "end": 109.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "...to remember your worth."
+      },
+      {
+        "start": 108.8,
+        "end": 110.8,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence."
+      },
+      {
+        "start": 110.8,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her lips parting in quiet astonishment."
+      },
+      {
+        "start": 110.9,
+        "end": 112.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why are you doing this?"
+      },
+      {
+        "start": 112.5,
+        "end": 114.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger, completely unfazed."
+      },
+      {
+        "start": 112.8,
+        "end": 114.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Because I want to."
+      },
+      {
+        "start": 114.2,
+        "end": 116.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's father wringing his gold ring, eyes heavy with regret."
+      },
+      {
+        "start": 116.0,
+        "end": 117.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger slipping his hand into his coat pocket."
+      },
+      {
+        "start": 117.9,
+        "end": 119.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana watching him with rapt, trembling anticipation."
+      },
+      {
+        "start": 119.2,
+        "end": 121.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band."
+      },
+      {
+        "start": 119.8,
+        "end": 122.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You came here to become a wife."
+      },
+      {
+        "start": 121.0,
+        "end": 123.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger extending the ring toward Juliana."
+      },
+      {
+        "start": 122.5,
+        "end": 124.2,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "They took that from you."
+      },
+      {
+        "start": 123.2,
+        "end": 125.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle."
+      },
+      {
+        "start": 125.1,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on The Bearded Stranger presenting the ring directly to Juliana."
+      },
+      {
+        "start": 125.3,
+        "end": 127.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I am offering it back."
+      },
+      {
+        "start": 127.4,
+        "end": 130.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana glancing down at the ring, breathless and overwhelmed."
+      },
+      {
+        "start": 127.7,
+        "end": 129.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 130.2,
+        "end": 132.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's warm, piercing gaze."
+      },
+      {
+        "start": 130.4,
+        "end": 132.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I know enough."
+      },
+      {
+        "start": 132.7,
+        "end": 135.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana."
+      },
+      {
+        "start": 133.2,
+        "end": 135.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana."
+      },
+      {
+        "start": 134.8,
+        "end": 136.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A collective, stunned gasp rippling across the entire congregation."
+      },
+      {
+        "start": 135.5,
+        "end": 137.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Noble Matriarch, Gerald, and the Lady in Gold Gown frozen in sheer, jaw-dropped bewilderment."
+      },
+      {
+        "start": 137.3,
+        "end": 140.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity."
+      },
+      {
+        "start": 137.5,
+        "end": 140.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Lady Juliana... accept my hand."
+      },
+      {
+        "start": 140.5,
+        "end": 145.75,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking down at him, fresh tears trailing down her flushed cheeks as a soft, trembling smile of hope touches her lips into a slow fade."
+      }
+    ],
+    "final_score": 7.18,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 525
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 110.8,
+        "end": 135.5,
+        "duration": 24.7,
+        "start_time_fmt": "01:50.80",
+        "end_time_fmt": "02:15.50"
+      }
+    ],
+    "total_duration": 24.7,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 9.0,
+    "emotional_impact": 7.0,
+    "composite_score": 6.72,
+    "hook": "JULIANA shocks the viewer with an immediate confrontation: \"Why are you doing this?\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana.",
+    "why_it_works": "At 25s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 110.8,
+        "end": 112.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana, her lips parting in quiet astonishment."
+      },
+      {
+        "start": 110.9,
+        "end": 112.5,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "Why are you doing this?"
+      },
+      {
+        "start": 112.5,
+        "end": 114.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger, completely unfazed."
+      },
+      {
+        "start": 112.8,
+        "end": 114.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Because I want to."
+      },
+      {
+        "start": 114.2,
+        "end": 116.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana's father wringing his gold ring, eyes heavy with regret."
+      },
+      {
+        "start": 116.0,
+        "end": 117.9,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger slipping his hand into his coat pocket."
+      },
+      {
+        "start": 117.9,
+        "end": 119.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up of Juliana watching him with rapt, trembling anticipation."
+      },
+      {
+        "start": 119.2,
+        "end": 121.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band."
+      },
+      {
+        "start": 119.8,
+        "end": 122.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You came here to become a wife."
+      },
+      {
+        "start": 121.0,
+        "end": 123.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger extending the ring toward Juliana."
+      },
+      {
+        "start": 122.5,
+        "end": 124.2,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "They took that from you."
+      },
+      {
+        "start": 123.2,
+        "end": 125.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle."
+      },
+      {
+        "start": 125.1,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on The Bearded Stranger presenting the ring directly to Juliana."
+      },
+      {
+        "start": 125.3,
+        "end": 127.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I am offering it back."
+      },
+      {
+        "start": 127.4,
+        "end": 130.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana glancing down at the ring, breathless and overwhelmed."
+      },
+      {
+        "start": 127.7,
+        "end": 129.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 130.2,
+        "end": 132.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's warm, piercing gaze."
+      },
+      {
+        "start": 130.4,
+        "end": 132.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I know enough."
+      },
+      {
+        "start": 132.7,
+        "end": 135.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana."
+      }
+    ],
+    "final_score": 6.82,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 697
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 119.2,
+        "end": 140.5,
+        "duration": 21.3,
+        "start_time_fmt": "01:59.20",
+        "end_time_fmt": "02:20.50"
+      }
+    ],
+    "total_duration": 21.3,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 7.0,
+    "composite_score": 6.42,
+    "hook": "THE BEARDED STRANGER shocks the viewer with an immediate confrontation: \"You came here to become a wife.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 119.2,
+        "end": 121.0,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band."
+      },
+      {
+        "start": 119.8,
+        "end": 122.1,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "You came here to become a wife."
+      },
+      {
+        "start": 121.0,
+        "end": 123.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot on The Bearded Stranger extending the ring toward Juliana."
+      },
+      {
+        "start": 122.5,
+        "end": 124.2,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "They took that from you."
+      },
+      {
+        "start": 123.2,
+        "end": 125.1,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle."
+      },
+      {
+        "start": 125.1,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on The Bearded Stranger presenting the ring directly to Juliana."
+      },
+      {
+        "start": 125.3,
+        "end": 127.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I am offering it back."
+      },
+      {
+        "start": 127.4,
+        "end": 130.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana glancing down at the ring, breathless and overwhelmed."
+      },
+      {
+        "start": 127.7,
+        "end": 129.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 130.2,
+        "end": 132.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's warm, piercing gaze."
+      },
+      {
+        "start": 130.4,
+        "end": 132.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I know enough."
+      },
+      {
+        "start": 132.7,
+        "end": 135.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana."
+      },
+      {
+        "start": 133.2,
+        "end": 135.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana."
+      },
+      {
+        "start": 134.8,
+        "end": 136.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A collective, stunned gasp rippling across the entire congregation."
+      },
+      {
+        "start": 135.5,
+        "end": 137.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Noble Matriarch, Gerald, and the Lady in Gold Gown frozen in sheer, jaw-dropped bewilderment."
+      },
+      {
+        "start": 137.3,
+        "end": 140.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity."
+      }
+    ],
+    "final_score": 6.52,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 795
+  },
+  {
+    "episode": 3,
+    "promo_type": "continuous",
+    "segments": [
+      {
+        "segment_index": 1,
+        "episode": 3,
+        "start": 125.1,
+        "end": 145.75,
+        "duration": 20.65,
+        "start_time_fmt": "02:05.10",
+        "end_time_fmt": "02:25.75"
+      }
+    ],
+    "total_duration": 20.65,
+    "hook_strength": 6.5,
+    "cliffhanger_strength": 5.5,
+    "story_clarity": 7.5,
+    "emotional_impact": 6.5,
+    "composite_score": 6.35,
+    "hook": "THE BEARDED STRANGER shocks the viewer with an immediate confrontation: \"I am offering it back.\"",
+    "cliffhanger": "Cuts abruptly on a dramatic visual reaction: Close-up on Juliana looking down at him, fresh tears trailing down her flushed cheeks as a soft, trembling smile of hope touches her lips into a slow fade.",
+    "why_it_works": "At 21s, this promo draws viewer into a clear character dilemma and leaves the audience needing immediate resolution, delivering an emotionally complete micro-drama hook.",
+    "weaknesses": "Slower opening pacing; first 2 seconds lack an aggressive visual or audio shock. Cut-point does not end on an explicit question or shock line, reducing click urgency.",
+    "verdict": "REJECT",
+    "events_summary": [
+      {
+        "start": 125.1,
+        "end": 127.4,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium close-up on The Bearded Stranger presenting the ring directly to Juliana."
+      },
+      {
+        "start": 125.3,
+        "end": 127.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I am offering it back."
+      },
+      {
+        "start": 127.4,
+        "end": 130.2,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana glancing down at the ring, breathless and overwhelmed."
+      },
+      {
+        "start": 127.7,
+        "end": 129.9,
+        "type": "DIALOGUE",
+        "speaker": "JULIANA",
+        "content": "You don't even know me."
+      },
+      {
+        "start": 130.2,
+        "end": 132.7,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on The Bearded Stranger's warm, piercing gaze."
+      },
+      {
+        "start": 130.4,
+        "end": 132.0,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "I know enough."
+      },
+      {
+        "start": 132.7,
+        "end": 135.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana."
+      },
+      {
+        "start": 133.2,
+        "end": 135.5,
+        "type": "ACTION",
+        "speaker": null,
+        "content": "The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana."
+      },
+      {
+        "start": 134.8,
+        "end": 136.2,
+        "type": "SOUND_FX",
+        "speaker": null,
+        "content": "A collective, stunned gasp rippling across the entire congregation."
+      },
+      {
+        "start": 135.5,
+        "end": 137.3,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Medium shot of the Noble Matriarch, Gerald, and the Lady in Gold Gown frozen in sheer, jaw-dropped bewilderment."
+      },
+      {
+        "start": 137.3,
+        "end": 140.5,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity."
+      },
+      {
+        "start": 137.5,
+        "end": 140.3,
+        "type": "DIALOGUE",
+        "speaker": "THE BEARDED STRANGER",
+        "content": "Lady Juliana... accept my hand."
+      },
+      {
+        "start": 140.5,
+        "end": 145.75,
+        "type": "CAMERA",
+        "speaker": null,
+        "content": "Close-up on Juliana looking down at him, fresh tears trailing down her flushed cheeks as a soft, trembling smile of hope touches her lips into a slow fade."
+      }
+    ],
+    "final_score": 6.45,
+    "posting_category": "Mid-Funnel Re-engagement (Vindication Arc)",
+    "overall_rank": 807
+  }
+]
